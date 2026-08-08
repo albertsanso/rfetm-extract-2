@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 21,
+  "fecha": "2023-04-22",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB DEL MAR DE SAN AMARO",
+    "ciudad": "Coruña (A) (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEL MAR",
+      "id": "937",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAMBADOS TENIS DE MESA",
+      "id": "221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MANUEL RAMA GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "B": {
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "C": {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "X": {
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "Z": {
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEL MAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

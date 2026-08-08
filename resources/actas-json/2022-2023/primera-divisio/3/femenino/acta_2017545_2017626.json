@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2023-01-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "FRONTóN MUNICIPAL DE MATIENA",
+    "ciudad": "SOLAGUREN S/N 48220 Abadiño Vizcaya"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACION HELIOS",
+      "id": "2017545",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ETM AMADIS PAPELERIA",
+      "id": "2017626",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE RAMON RICO BALLESTEROS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      },
+      "X": {
+        "nombre": "ANIE CAMILA RUBIO RIVADENEIRA",
+        "licencia": "39504",
+        "id": "39504"
+      },
+      "Z": {
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "B": {
+        "nombre": "CARMEN TORRE MARTINEZ",
+        "licencia": "30330",
+        "id": "30330"
+      },
+      "C": {
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANIE CAMILA RUBIO RIVADENEIRA",
+        "licencia": "39504",
+        "id": "39504"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARMEN TORRE MARTINEZ",
+        "licencia": "30330",
+        "id": "30330"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANIE CAMILA RUBIO RIVADENEIRA",
+        "licencia": "39504",
+        "id": "39504"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARMEN TORRE MARTINEZ",
+        "licencia": "30330",
+        "id": "30330"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACION HELIOS",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

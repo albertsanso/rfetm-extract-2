@@ -1,0 +1,279 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 5,
+  "fecha": "2024-10-25",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ENOLI LES BORGES VALL",
+      "id": "1348",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ARTEAL SANTIAGO",
+      "id": "21",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2268.5,
+        "id": "2856"
+      },
+      "B": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787",
+        "ranking": 2141.0,
+        "id": "9787"
+      },
+      "C": {
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 2108.1,
+        "id": "18284"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ABIODUN , BODE",
+        "licencia": "43312",
+        "ranking": 2800.0,
+        "id": "43312"
+      },
+      "X": {
+        "nombre": "MANHANI JUNIOR , HUMBERTO",
+        "licencia": "31328",
+        "ranking": 2307.9,
+        "id": "31328"
+      },
+      "Z": {
+        "nombre": "MOLINA SOTO, MIGUEL",
+        "licencia": "16161",
+        "ranking": 2034.6,
+        "id": "16161"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2268.5,
+        "id": "2856"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ABIODUN , BODE",
+        "licencia": "43312",
+        "ranking": 2800.0,
+        "id": "43312"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787",
+        "ranking": 2141.0,
+        "id": "9787"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANHANI JUNIOR , HUMBERTO",
+        "licencia": "31328",
+        "ranking": 2307.9,
+        "id": "31328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 2108.1,
+        "id": "18284"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MOLINA SOTO, MIGUEL",
+        "licencia": "16161",
+        "ranking": 2034.6,
+        "id": "16161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2268.5,
+        "id": "2856"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANHANI JUNIOR , HUMBERTO",
+        "licencia": "31328",
+        "ranking": 2307.9,
+        "id": "31328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ENOLI LES BORGES VALL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 2
+    }
+  },
+  "acta_protestada": false
+}

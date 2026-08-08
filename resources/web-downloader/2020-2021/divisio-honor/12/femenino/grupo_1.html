@@ -1,0 +1,465 @@
+
+<!DOCTYPE html>
+
+<head>
+        <meta charset="utf-8">
+        <link rel="icon" href="favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="../../fontawesome/css/all.min.css" rel="stylesheet">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+        <!-- Scripts -->
+        <script src="../../js/jquery-3.3.1.js"></script>
+        <script src="../../js/app.js"></script>   
+
+        <link href="../../css/app.css" rel="stylesheet">
+        <link href="../../css/estilo.css" rel="stylesheet">
+
+        <!-- <link href="DataTables/Bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" /> 
+        <script type="text/javascript" src="DataTables/datatables.min.js"></script> -->
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+                @media (max-width:1024px) {
+
+                        table {
+                                font-size: 12px;
+                        }
+
+                }
+
+
+                @media (max-width:760px) {
+
+                        table {
+                                font-size: 10px;
+                        }
+
+                }
+
+
+                @media (max-width:504px) {
+
+                        table {
+                                font-size: 8px;
+                        }
+
+                }
+
+
+
+                .tdacta {
+
+                        max-width: 5px;
+
+                        overflow: hidden;
+
+                        white-space: nowrap;
+
+                        text-overflow: ellipsis;
+
+                }
+
+                A.link_white {
+                        text-decoration: bold;
+                        color: #ffffff;
+                }
+
+                A.link_white:hover {
+                        text-decoration: bold;
+                        color: #ffccff;
+                }
+				
+				</style>
+
+</head>
+
+
+
+<body>
+        <nav class="navbar navbar-light bg-white fixed-top navbar-expand-xl">    
+    <div class="container">
+        <a class="navbar-brand" href="/">
+		<img src="/images/logo.png" class="d-none d-xl-block h-100" alt="logo RFETM">
+		<img src="/images/logomovil.png" class="d-block d-xl-none h-100" alt="logo RFETM">
+		</a>
+        <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon text-secondary"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-1 mr-auto">
+                <li class="nav-item ml-3">
+                    <a class="nav-link" href="/resultados">INICIO</a>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    SUPERDIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=1&jornada=0&sexo=M">Superdivisión Masculina G1</a>
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=2&jornada=0&sexo=M">Superdivisión Masculina G2</a>
+						<div class="dropdown-divider"></div>	
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=1&jornada=0&sexo=F">Superdivisión Femenina G1</a>           
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=2&jornada=0&sexo=F">Superdivisión Femenina G2</a>           
+                    </div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    DIVISIÓN DE HONOR
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&jornada=0&sexo=M">División de Honor Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&jornada=0&sexo=M">División de Honor Masculina - Grupo 2</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&jornada=0&sexo=M">División de Honor Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=4&jornada=0&sexo=M">División de Honor Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=5&jornada=0&sexo=M">División de Honor Masculina - Grupo 5</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=6&jornada=0&sexo=M">División de Honor Masculina - Grupo 6</a>
+						<div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&jornada=0&sexo=F">División de Honor Femenina - Grupo 1</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&jornada=0&sexo=F">División de Honor Femenina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&jornada=0&sexo=F">División de Honor Femenina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=4&jornada=0&sexo=F">División de Honor Femenina - Grupo 4</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=5&jornada=0&sexo=F">División de Honor Femenina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=6&jornada=0&sexo=F">División de Honor Femenina - Grupo 6</a>		
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    1ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&jornada=0&sexo=M">Primera División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&jornada=0&sexo=M">Primera División Masculina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&jornada=0&sexo=M">Primera División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&jornada=0&sexo=M">Primera División Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&jornada=0&sexo=M">Primera División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&jornada=0&sexo=M">Primera División Masculina - Grupo 6</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=7&jornada=0&sexo=M">Primera División Masculina - Grupo 7</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=8&jornada=0&sexo=M">Primera División Masculina - Grupo 8</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=9&jornada=0&sexo=M">Primera División Masculina - Grupo 9</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=10&jornada=0&sexo=M">Primera División Masculina - Grupo 10</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=11&jornada=0&sexo=M">Primera División Masculina - Grupo 11</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=12&jornada=0&sexo=M">Primera División Masculina - Grupo 12</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=13&jornada=0&sexo=M">Primera División Masculina - Grupo 13</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=14&jornada=0&sexo=M">Primera División Masculina - Grupo 14</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=15&jornada=0&sexo=M">Primera División Masculina - Grupo 15</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=16&jornada=0&sexo=M">Primera División Masculina - Grupo 16</a>
+                        <div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&jornada=0&sexo=F">Primera División Femenina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&jornada=0&sexo=F">Primera División Femenina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&jornada=0&sexo=F">Primera División Femenina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&jornada=0&sexo=F">Primera División Femenina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&jornada=0&sexo=F">Primera División Femenina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&jornada=0&sexo=F">Primera División Femenina - Grupo 6</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=7&jornada=0&sexo=F">Primera División Femenina - Grupo 7</a>
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    2ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=1&jornada=0&sexo=M">Segunda División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=2&jornada=0&sexo=M">Segunda División Masculina - Grupo 2</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=3&jornada=0&sexo=M">Segunda División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=4&jornada=0&sexo=M">Segunda División Masculina - Grupo 4</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=5&jornada=0&sexo=M">Segunda División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=6&jornada=0&sexo=M">Segunda División Masculina - Grupo 6</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=7&jornada=0&sexo=M">Segunda División Masculina - Grupo 7</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=8&jornada=0&sexo=M">Segunda División Masculina - Grupo 8</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=9&jornada=0&sexo=M">Segunda División Masculina - Grupo 9</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=10&jornada=0&sexo=M">Segunda División Masculina - Grupo 10</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=11&jornada=0&sexo=M">Segunda División Masculina - Grupo 11</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=12&jornada=0&sexo=M">Segunda División Masculina - Grupo 12</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=13&jornada=0&sexo=M">Segunda División Masculina - Grupo 13</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=14&jornada=0&sexo=M">Segunda División Masculina - Grupo 14</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=15&jornada=0&sexo=M">Segunda División Masculina - Grupo 15</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=16&jornada=0&sexo=M">Segunda División Masculina - Grupo 16</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=17&jornada=0&sexo=M">Segunda División Masculina - Grupo 17</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=18&jornada=0&sexo=M">Segunda División Masculina - Grupo 18</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=19&jornada=0&sexo=M">Segunda División Masculina - Grupo 19</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=20&jornada=0&sexo=M">Segunda División Masculina - Grupo 20</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=21&jornada=0&sexo=M">Segunda División Masculina - Grupo 21</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=22&jornada=0&sexo=M">Segunda División Masculina - Grupo 22</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=23&jornada=0&sexo=M">Segunda División Masculina - Grupo 23</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=24&jornada=0&sexo=M">Segunda División Masculina - Grupo 24</a>
+						<div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=25&jornada=0&sexo=M">Segunda División Masculina - Grupo 25</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=26&jornada=0&sexo=M">Segunda División Masculina - Grupo 26</a>
+						<div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=27&jornada=0&sexo=M">Segunda División Masculina - Grupo 27</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=28&jornada=0&sexo=M">Segunda División Masculina - Grupo 28</a>
+                    </div>    
+                </li> 
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    OTRAS TEMPORADAS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="\resultados">Temporada Actual</a>
+						<a class='dropdown-item' href='\resultados\2024-2025'>Temporada 2024-2025</a><a class='dropdown-item' href='\resultados\2023-2024'>Temporada 2023-2024</a><a class='dropdown-item' href='\resultados\2022-2023'>Temporada 2022-2023</a><a class='dropdown-item' href='\resultados\2021-2022'>Temporada 2021-2022</a><a class='dropdown-item' href='\resultados\2020-2021'>Temporada 2020-2021</a><a class='dropdown-item' href='\resultados\2019-2020'>Temporada 2019-2020</a><a class='dropdown-item' href='\resultados\2018-2019'>Temporada 2018-2019</a><a class='dropdown-item' href='\resultados\2017-2018'>Temporada 2017-2018</a>	
+
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2016-2017/" target="_blank">Temporada 2016-2017</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2015-2016/" target="_blank">Temporada 2015-2016</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2014-2015/" target="_blank">Temporada 2014-2015</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2013-2014/" target="_blank">Temporada 2013-2014</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2012-2013/" target="_blank">Temporada 2012-2013</a>						
+						
+                    </div>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav ml-3">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/"><b>Volver a RFETM.ES</b></a>
+                </li>
+            </ul>    
+        </div>
+    </div>
+</nav>
+        <div class="container bg-white">
+                <div class="row">
+	
+                        <div class="col-12 col-md-9 mt-4">
+
+
+								<div class="w-100 mb-3">  
+                    <div class="w-100 d-flex align-items-end" style="background-image: url(/images/cabeceras/resultados.jpg); 
+                                background-size: cover; background-repeat:no-repeat; height: 15vw; max-height:200px; min-height:100px;">
+                        <div class="text-white pb-0 w-100">
+                            <h4 class="d-none d-lg-block titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2020-2021</p></h4>  
+                            <h5 class="d-block d-lg-none titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2020-2021</p></h5>                                             
+                        </div>                    
+                    </div>                                                      
+                </div>
+								
+								
+                                <a href="/resultados" class="text-decoration-none text-dark"><h4>Resultados Ligas Nacionales</h4></a>
+                                <div class="section-title-separator secondary mb-4"></div>
+
+                                <div align="center">
+
+                                        										
+								
+
+                                        
+
+                                        <table class='table table-sm' width='95%'>
+                                        <tr>
+                                        <td class='border-0' align='left' valign='top'><a href='index.php'><b>Temporada 2020/2021</b></td><td class='border-0' align='right' valign='top'>
+
+                                                <a href='view.php?op=rk&liga=Mg==&grupo=1&jornada=0&sexo=F'><b>Ranking Liga</b></a>
+
+                                                        <br>
+
+                                                        <a href='view.php?op=rk&liga=Mg==&grupo=0&jornada=0&sexo=F'><b>Ranking Categor&iacute;a</b></a></h2></td></tr></table>
+                                        <hr>
+
+                                        </h4><h3 style='color: #525252;'>DIVISIÓN DE HONOR FEMENINA&nbsp;Grupo 1 / Temporada 2020/2021</h3>
+
+<table class='table table-sm table-striped table-hover'>
+<thead>
+	<tr bgcolor='#434649' style='color:#ffffff; border-bottom: 5px solid #AA1416;'>
+		<th style='text-align:center' width='1px'></th>
+		<th style='text-align:center'>EQUIPO</th>
+		<th class='d-none d-md-table-cell' style='text-align:center'>EJ</th>
+		<th style='text-align:center'>EG</th>
+		<th style='text-align:center'>EE</th>		<th style='text-align:center'>EP</th>
+		<th style='text-align:center'>PF</th>
+		<th style='text-align:center'>PC</th>
+		<th style='text-align:center'>PTOS.</th>
+	</tr>
+</thead>
+<tbody>
+
+<tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:;'><b>1</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=788&tempo=Ng=='>CIDADE DE NARON</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>8</td>
+		<td style='text-align:center'>8</td>
+		<td style='text-align:center'>0</td>
+		<td style='text-align:center'>0</td>
+		<td style='text-align:center'>39</td>
+		<td style='text-align:center'>9</td>
+		<td style='text-align:center'><b title='+30'>16</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:;'><b>2</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=1308&tempo=Ng=='>VISIT PONTEVEDRA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>8</td>
+		<td style='text-align:center'>5</td>
+		<td style='text-align:center'>1</td>
+		<td style='text-align:center'>2</td>
+		<td style='text-align:center'>31</td>
+		<td style='text-align:center'>17</td>
+		<td style='text-align:center'><b title='+14'>11</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:;'><b>3</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=866&tempo=Ng=='>ILLAS CÍES TM</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>8</td>
+		<td style='text-align:center'>3</td>
+		<td style='text-align:center'>2</td>
+		<td style='text-align:center'>3</td>
+		<td style='text-align:center'>25</td>
+		<td style='text-align:center'>23</td>
+		<td style='text-align:center'><b title='+2'>8</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:;'><b>4</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=1260&tempo=Ng=='>AUTOESCUELA CINANIA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>8</td>
+		<td style='text-align:center'>2</td>
+		<td style='text-align:center'>1</td>
+		<td style='text-align:center'>5</td>
+		<td style='text-align:center'>19</td>
+		<td style='text-align:center'>29</td>
+		<td style='text-align:center'><b title='-10'>5</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:;'><b>5</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=648&tempo=Ng=='>OROSO ABANCA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>8</td>
+		<td style='text-align:center'>0</td>
+		<td style='text-align:center'>0</td>
+		<td style='text-align:center'>8</td>
+		<td style='text-align:center'>6</td>
+		<td style='text-align:center'>42</td>
+		<td style='text-align:center'><b title='-36'>0</b></td>
+	</tr>
+
+    
+</tbody>
+
+</table>
+
+
+
+<hr>
+
+<table class='table table-sm' style='color:#cccccc;'>
+
+	<tr bgcolor='#F3F1F1' style='color:#000000;'>
+
+	<td class='hidden-xs hidden-sm' align='center' rowspan='2' bgcolor='#F3F1F1'>
+	<b><a href='?liga=Mg==&grupo=1&jornada=0&sexo=F'>JORNADAS</a></b>
+	<br>
+	<b><a href='?liga=Mg==&grupo=1&sexo=F&c=1'>CONCENTRACIONES</a></b>
+	
+	</td>
+
+<td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=1&sexo=F'>1</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=2&sexo=F'>2</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=3&sexo=F'>3</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=4&sexo=F'>4</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=5&sexo=F'>5</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=6&sexo=F'>6</a></b></td></tr><tr bgcolor='#F3F1F1' style='color:#000000;'><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=7&sexo=F'>7</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=8&sexo=F'>8</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=9&sexo=F'>9</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=10&sexo=F'>10</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=1&jornada=11&sexo=F'>11</a></b></td><td align='center' bgcolor='#434649'><b><a href='#' class='link_white'>12</a></b></td></tr></table><table border='0' class='table table-sm'><thead><tr bgcolor='#434649' style='color:#ffffff; border-bottom: 5px solid #AA1416;'>
+
+		<th align='center' width='20%'><b>DHF1</b></th>
+
+		<th width='80%' style='text-align:center'><b><a href='?liga=Mg==&grupo=1&jornada=12&sexo=F' class='link_white'>Jornada 12</a></b></th></tr></thead></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>08/05/2021<br>18:30</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=1&jornada=0&equipo=1260&sexo=F'>AUTOESCUELA CINANIA</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=1&jornada=0&equipo=648&sexo=F'>OROSO ABANCA</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=OS41MDg2MzM4NDY5MTExRSs1NQ==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>OROSO ABANCA</td>
+		<td></td><td class='tdacta'>AUTOESCUELA CINANIA</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 26812<br><a href='view.php?jugador=26812&tempo=Ng=='><b>RAQUEL PEREZ BONILLA</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 19714<br><a href='view.php?jugador=19714&tempo=Ng=='><b>LAURA RODRIGUEZ BARREIRO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1630<br><a href='view.php?jugador=1630&tempo=Ng=='><b>SUSANA ABLANEDO LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 35640<br><a href='view.php?jugador=35640&tempo=Ng=='><b>AXAPOBA ZAKHAROVA </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2046<br><a href='view.php?jugador=2046&tempo=Ng=='><b>CRISTINA FERNANDEZ SANCHEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 18410<br><a href='view.php?jugador=18410&tempo=Ng=='><b>ANTIA RAMA VECINO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 26812<br><a href='view.php?jugador=26812&tempo=Ng=='><b>RAQUEL PEREZ BONILLA</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 35640<br><a href='view.php?jugador=35640&tempo=Ng=='><b>AXAPOBA ZAKHAROVA </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'>12-14</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2046<br><a href='view.php?jugador=2046&tempo=Ng=='><b>CRISTINA FERNANDEZ SANCHEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 19714<br><a href='view.php?jugador=19714&tempo=Ng=='><b>LAURA RODRIGUEZ BARREIRO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>10-12</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1630<br><a href='view.php?jugador=1630&tempo=Ng=='><b>SUSANA ABLANEDO LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 18410<br><a href='view.php?jugador=18410&tempo=Ng=='><b>ANTIA RAMA VECINO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>1</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 4 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>7 / 14</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>169 / 204</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>COMPLEXO DEPORTIVO JUANITO AMIGO FERREIRO RUA DO DEPORTE S/N - Oroso (A Coruña)<br><b>&Aacute;rbitro: </b>MARCOS ESPANTOSO SANDE</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>09/05/2021<br>11:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=1&jornada=0&equipo=866&sexo=F'>ILLAS CÍES TM</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=1&jornada=0&equipo=648&sexo=F'>OROSO ABANCA</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=OS40OTg3NjU0NjU3MTMyRSs1NQ==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>ILLAS CÍES TM</td>
+		<td></td><td class='tdacta'>OROSO ABANCA</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 27248<br><a href='view.php?jugador=27248&tempo=Ng=='><b>VIKTORIIA LEBEDEVA </b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1630<br><a href='view.php?jugador=1630&tempo=Ng=='><b>SUSANA ABLANEDO LOPEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>11-2</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 0 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 23021<br><a href='view.php?jugador=23021&tempo=Ng=='><b>SABELA LOPEZ SAAVEDRA</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2046<br><a href='view.php?jugador=2046&tempo=Ng=='><b>CRISTINA FERNANDEZ SANCHEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>1</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 18412<br><a href='view.php?jugador=18412&tempo=Ng=='><b>LUISA PINTOS  BARREIRO</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 5085<br><a href='view.php?jugador=5085&tempo=Ng=='><b>OLAYA CEA FONTENLA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-2</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 27248<br><a href='view.php?jugador=27248&tempo=Ng=='><b>VIKTORIIA LEBEDEVA </b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2046<br><a href='view.php?jugador=2046&tempo=Ng=='><b>CRISTINA FERNANDEZ SANCHEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-2</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 3 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 18412<br><a href='view.php?jugador=18412&tempo=Ng=='><b>LUISA PINTOS  BARREIRO</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1630<br><a href='view.php?jugador=1630&tempo=Ng=='><b>SUSANA ABLANEDO LOPEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>15-13</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>11-3</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 4 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 23021<br><a href='view.php?jugador=23021&tempo=Ng=='><b>SABELA LOPEZ SAAVEDRA</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 5085<br><a href='view.php?jugador=5085&tempo=Ng=='><b>OLAYA CEA FONTENLA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 4 - 2 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>13 / 8</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>203 / 160</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>COMPLEXO DEPORTIVO JUANITO AMIGO FERREIRO RUA DO DEPORTE S/N - Oroso (A Coruña)<br><b>&Aacute;rbitro: </b>MARCOS ESPANTOSO SANDE</font></td></tr></table>
+                                        <hr>
+
+                                        
+                                </div>
+
+                        </div>
+                        
+                        <div class="col-12 col-md-3 mt-4">
+                                <div class="row">    
+                                        <div class="col-12">           
+                                                <h4 class="text-decoration-none text-dark">Enlaces</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+                                        
+                                        <div class='col-6 col-md-12 py-2'><a href='https://tienda.rfetm.es/'><img src='/images/ganchos/promo_pelota2.jpg' class='w-100' title='TIENDA RFETM' /></a></div><div class='col-6 col-md-12 py-2'><a href='https://rfetm.es/resultados/2025-2026/view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F'><img src='/images/ganchos/iberdrola_LIGA.png' class='w-100' title='Iberdrola' /></a></div>                                </div> 
+
+                                <div class="pt-4"></div>
+
+                                <div class="row"> 
+                                        <div class="col-12">
+                                                <h4 class="text-decoration-none text-dark">Otros contenidos</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+
+                                        <div class='col-12 col-xs-6 col-md-12 py-2'><a href='/contenido/17-pasos-caso-accidente' target='_self'><img src='/images/patrocinadores/parteaccidente.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://clubs.rfetm.es/' target=''><img src='/images/patrocinadores/inscripciones.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://licencias.rfetm.es' target='_blank'><img src='/images/patrocinadores/inscripciones2.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://resultados.rfetm.es/ctna/' target='_blank'><img src='/images/patrocinadores/intro-resultados.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circulares/0' target='_self'><img src='/images/patrocinadores/circulares.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circularesynotasInteres' target='_self'><img src='/images/patrocinadores/circulares-int.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/notas-informativas' target='_self'><img src='/images/patrocinadores/notas.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/descargas-3' target='_self'><img src='/images/patrocinadores/d10.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/lista-fftt' target='_self'><img src='/images/patrocinadores/fftt.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/noticia/4138-protocolo-para-la-prevencion-deteccion-y-actuacion-frente-el-acoso-y-el-abuso-sexual' target='_self'><img src='/images/patrocinadores/d9.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://www.csd.gob.es/sites/default/files/media/files/2018-09/manifiesto-mujer-y-deporte-def.pdf' target='_blank'><img src='/images/patrocinadores/d11.jpg' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ittf.com' target='_blank'><img src='/images/patrocinadores/ittf.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ettu.org' target='_blank'><img src='/images/patrocinadores/ettu.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.fibetm.net' target='_blank'><img src='/images/patrocinadores/fibe.png' class='w-100' /></a></div>  
+                                </div>                      
+                        
+                        </div>
+                </div>
+        </div>
+
+        <footer>  
+    <div class="container">  
+        <div class="bg-light py-2 px-4 mx-n3">
+    <div class="row bg-white d-flex justify-content-center">
+     
+
+<div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.csd.gob.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/csd.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.csd.gob.es/es/promocion-del-deporte/universo-mujer-ii' target='_blank'><img src='http://rfetm.es/images/patrocinadores/universo-mujer-V-web.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.coe.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/coe.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.paralimpicos.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/cpe_colnew.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.joma-sport.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/joma.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://joola.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/JOOLA_v.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.iberdrola.es/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/iberdrola.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.selae.es/es/web-corporativa/responsabilidad-social/con-el-deporte/con-el-deporte.info' target='_blank'><img src='http://rfetm.es/images/patrocinadores/loterias.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='' target='_blank'><img src='http://rfetm.es/images/patrocinadores/verallia.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.halconviajes.com' target='_blank'><img src='http://rfetm.es/images/patrocinadores/halcon.png' class='w-100' /></a></div></div>

@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 2,
+  "jornada": 16,
+  "fecha": "2020-02-16",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO CLUB ATLETICO SAN SEBASTIAN",
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": "16018",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T.SALLENT.RESET",
+      "id": "60",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JON MENDAZONA GARONA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VINCENT BORDONADO",
+        "licencia": "29539",
+        "id": "29539"
+      },
+      "X": {
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      "Z": {
+        "nombre": "ALEXANDER PARDO BELTRAN",
+        "licencia": "21760",
+        "id": "21760"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "B": {
+        "nombre": "XAVIER FUSALBA DIAZ",
+        "licencia": "851",
+        "id": "851"
+      },
+      "C": {
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VINCENT BORDONADO",
+        "licencia": "29539",
+        "id": "29539"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "XAVIER FUSALBA DIAZ",
+        "licencia": "851",
+        "id": "851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALEXANDER PARDO BELTRAN",
+        "licencia": "21760",
+        "id": "21760"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALEXANDER PARDO BELTRAN",
+        "licencia": "21760",
+        "id": "21760"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "XAVIER FUSALBA DIAZ",
+        "licencia": "851",
+        "id": "851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ATLETICO SAN SEBASTIAN",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,408 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 9,
+  "fecha": "2025-11-29",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Alicante/Alacant (Alicante)",
+    "recinto": "SALA TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "delegado": {
+        "nombre": "LLOBREGAT OÑATE, GUILLERMO",
+        "licencia": "9270"
+      },
+      "entrenador": {
+        "nombre": "VALERO TUINENBURG, DANIEL",
+        "licencia": "2113"
+      }
+    },
+    "visitante": {
+      "nombre": "ONE VISION PARLA",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: LLOBREGAT OÑATE, GUILLERMO",
+        "licencia": "9270"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: VALERO TUINENBURG, DANIEL",
+        "licencia": "2113"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "REDONDO GARCIA, DAVID",
+      "licencia": "17930"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "X": {
+        "nombre": "BONET MARTINEZ, DAVID",
+        "licencia": "27635"
+      },
+      "Z": {
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BERNABEU MUNUERA, PABLO",
+        "licencia": "9310"
+      },
+      "B": {
+        "nombre": "CALLE GARCÍA, MARIO",
+        "licencia": "20599"
+      },
+      "C": {
+        "nombre": "MOVELLAN LORENTE, FELIX",
+        "licencia": "27530"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "BONET MARTINEZ, DAVID",
+      "REUS AMAT, RAFAEL"
+    ],
+    "visitante": [
+      "BERNABEU MUNUERA, PABLO",
+      "CALLE GARCÍA, MARIO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PUERTO LILLO, HECTOR"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERNABEU MUNUERA, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BONET MARTINEZ, DAVID"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CALLE GARCÍA, MARIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REUS AMAT, RAFAEL"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOVELLAN LORENTE, FELIX"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BONET MARTINEZ, DAVID"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERNABEU MUNUERA, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PUERTO LILLO, HECTOR"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOVELLAN LORENTE, FELIX"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REUS AMAT, RAFAEL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CALLE GARCÍA, MARIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "BONET MARTINEZ, DAVID",
+          "REUS AMAT, RAFAEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "BERNABEU MUNUERA, PABLO",
+          "CALLE GARCÍA, MARIO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ONE VISION PARLA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

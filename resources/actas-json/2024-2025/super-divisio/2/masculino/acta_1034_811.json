@@ -1,0 +1,399 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2024-10-06",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. OLOT - CAPDEVILA PERMAR",
+      "id": "811",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "X": {
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020",
+        "ranking": 2327.3,
+        "id": "22020"
+      },
+      "Z": {
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833",
+        "ranking": 2371.4,
+        "id": "4833"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 2640.1,
+        "id": "27181"
+      },
+      "B": {
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982",
+        "ranking": 2256.2,
+        "id": "33982"
+      },
+      "C": {
+        "nombre": "MARTINS DA SILVA, DIOGO MIGUEL",
+        "licencia": "40963",
+        "ranking": 1888.8,
+        "id": "40963"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 2640.1,
+        "id": "27181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020",
+        "ranking": 2327.3,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982",
+        "ranking": 2256.2,
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833",
+        "ranking": 2371.4,
+        "id": "4833"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINS DA SILVA, DIOGO MIGUEL",
+        "licencia": "40963",
+        "ranking": 1888.8,
+        "id": "40963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020",
+        "ranking": 2327.3,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 2640.1,
+        "id": "27181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINS DA SILVA, DIOGO MIGUEL",
+        "licencia": "40963",
+        "ranking": 1888.8,
+        "id": "40963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833",
+        "ranking": 2371.4,
+        "id": "4833"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982",
+        "ranking": 2256.2,
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VISIT PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

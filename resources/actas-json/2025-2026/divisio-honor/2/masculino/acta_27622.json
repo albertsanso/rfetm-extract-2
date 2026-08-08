@@ -1,0 +1,366 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 2,
+  "jornada": 15,
+  "fecha": "2026-01-24",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Badalona (Barcelona)",
+    "recinto": "LA BADALONENSE"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SOSMATIC BADALONA",
+      "delegado": {
+        "nombre": "GARRIGA TORRES, SERGI",
+        "licencia": "31232"
+      },
+      "entrenador": {
+        "nombre": "SERRA BOIX, MARC",
+        "licencia": "3191"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+      "delegado": {
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: SERRA BOIX, MARC",
+        "licencia": "3191"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CHACON SIMEON, ALEJANDRO",
+      "licencia": "559"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MACHADO SOBRADOS, JOSE LUIS",
+        "licencia": "1711"
+      },
+      "X": {
+        "nombre": "BALOGUN , RASHEED OLAMILEKAN",
+        "licencia": "41944"
+      },
+      "Z": {
+        "nombre": "QUESADA GENDRA, ROGER",
+        "licencia": "28184"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628"
+      },
+      "B": {
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367"
+      },
+      "C": {
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MACHADO SOBRADOS, JOSE LUIS"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUNTADA MASO, BERNAT"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BALOGUN , RASHEED OLAMILEKAN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GRAU HARO, SERGI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "QUESADA GENDRA, ROGER"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "REDONDO GALLARDO, MANEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BALOGUN , RASHEED OLAMILEKAN"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUNTADA MASO, BERNAT"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MACHADO SOBRADOS, JOSE LUIS"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "REDONDO GALLARDO, MANEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "QUESADA GENDRA, ROGER"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GRAU HARO, SERGI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SOSMATIC BADALONA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

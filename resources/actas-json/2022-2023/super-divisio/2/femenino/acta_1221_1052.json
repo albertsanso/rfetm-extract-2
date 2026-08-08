@@ -1,0 +1,386 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS LUIS MOLINA SERRANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      },
+      "B": {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "C": {
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3246.0,
+        "id": "31713"
+      },
+      "X": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2991.0,
+        "id": "22026"
+      },
+      "Z": {
+        "nombre": "MERCEDES CAYUELA BAREA",
+        "licencia": "29134",
+        "ranking": 203.0,
+        "id": "29134"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARIJA GALONJA",
+      "TATIANA GARNOVA"
+    ],
+    "visitante": [
+      "ORAWAN PARANANG",
+      "ROXANA ANA MARIA ISTRATE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3246.0,
+        "id": "31713"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2991.0,
+        "id": "22026"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MERCEDES CAYUELA BAREA",
+        "licencia": "29134",
+        "ranking": 203.0,
+        "id": "29134"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARIJA GALONJA",
+          "TATIANA GARNOVA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "ORAWAN PARANANG",
+          "ROXANA ANA MARIA ISTRATE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2991.0,
+        "id": "22026"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3246.0,
+        "id": "31713"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TECNIGEN LINARES",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

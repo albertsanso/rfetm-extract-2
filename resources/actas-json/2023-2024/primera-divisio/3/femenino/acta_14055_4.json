@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2023-12-17",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "FABRICA LLOBET",
+    "ciudad": "C/ SANT JAUME Nº 321, PRIMER PISO DE CALELLA (N-II) 8370 CALELLA BARCELONA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS TAULA CASSA",
+      "id": "14055",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AUTOESCOLA TATCHEPOL RIPOLLET",
+      "id": "4",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAUME JOFRE BOTEY",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MASDEU MIR, ABRIL",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "B": {
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      },
+      "C": {
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720",
+        "id": "39720"
+      },
+      "X": {
+        "nombre": "DOMINGO HERRERA, CARMEN",
+        "licencia": "33353",
+        "id": "33353"
+      },
+      "Z": {
+        "nombre": "MORALES CALERO, MARIA",
+        "licencia": "25657",
+        "id": "25657"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MASDEU MIR, ABRIL",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720",
+        "id": "39720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DOMINGO HERRERA, CARMEN",
+        "licencia": "33353",
+        "id": "33353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MORALES CALERO, MARIA",
+        "licencia": "25657",
+        "id": "25657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MASDEU MIR, ABRIL",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DOMINGO HERRERA, CARMEN",
+        "licencia": "33353",
+        "id": "33353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720",
+        "id": "39720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MORALES CALERO, MARIA",
+        "licencia": "25657",
+        "id": "25657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS TAULA CASSA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

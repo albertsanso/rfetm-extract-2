@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 3,
+  "jornada": 12,
+  "fecha": "2020-01-11",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO CRISTOBAL GAMON",
+    "ciudad": "Errenteria (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MARPEX BERAUN ERRENTERIA TM",
+      "id": "2018807",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OBERENA",
+      "id": "292",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO ARROZPIDE NEGREDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "OIHAN GRANADO NUÑEZ",
+        "licencia": "22693",
+        "id": "22693"
+      },
+      "X": {
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "Z": {
+        "nombre": "ENEKO LOZANO SANCHEZ",
+        "licencia": "22701",
+        "id": "22701"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "B": {
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      },
+      "C": {
+        "nombre": "IVAN LOPEZ GARCIA",
+        "licencia": "24181",
+        "id": "24181"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OIHAN GRANADO NUÑEZ",
+        "licencia": "22693",
+        "id": "22693"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ENEKO LOZANO SANCHEZ",
+        "licencia": "22701",
+        "id": "22701"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN LOPEZ GARCIA",
+        "licencia": "24181",
+        "id": "24181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OIHAN GRANADO NUÑEZ",
+        "licencia": "22693",
+        "id": "22693"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN LOPEZ GARCIA",
+        "licencia": "24181",
+        "id": "24181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ENEKO LOZANO SANCHEZ",
+        "licencia": "22701",
+        "id": "22701"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MARPEX BERAUN ERRENTERIA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

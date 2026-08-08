@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2023-11-18",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "INSTALACIONES DEPORTIVAS CIRCULO MERCANTIL INDUSTRIAL",
+    "ciudad": "AVDA. PRESIDENTE ADOLFO SUAREZ NO. 1 41011 SEVILLA SEVILLA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIUDAD TENIS DE MESA TOMARES",
+      "id": "20233451",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES \"B\"",
+      "id": "20191404",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GONZALEZ MUÑOZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "X": {
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "Z": {
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MORENO ROMERO, MARINA",
+        "licencia": "37151",
+        "id": "37151"
+      },
+      "B": {
+        "nombre": "MURO GARGALLO, PILAR ALYONA",
+        "licencia": "32570",
+        "id": "32570"
+      },
+      "C": {
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MORENO ROMERO, MARINA",
+        "licencia": "37151",
+        "id": "37151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MURO GARGALLO, PILAR ALYONA",
+        "licencia": "32570",
+        "id": "32570"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MORENO ROMERO, MARINA",
+        "licencia": "37151",
+        "id": "37151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MURO GARGALLO, PILAR ALYONA",
+        "licencia": "32570",
+        "id": "32570"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CIRCULO DE LABRADORES \"B\"",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

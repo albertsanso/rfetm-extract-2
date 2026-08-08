@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 8,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "PABELLÓN JUAN ANTONIO SAMARANCH",
+    "ciudad": "Valdemoro (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+      "id": "1139",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TENIS DE MESA A",
+      "id": "10531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ISRAEL SIERRA IZQUIERDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MANUEL IGNACIO LORENZO URIEL",
+        "licencia": "18251",
+        "id": "18251"
+      },
+      "X": {
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "Z": {
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "B": {
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "C": {
+        "nombre": "CYRIL MOREL .",
+        "licencia": "1904",
+        "id": "1904"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MANUEL IGNACIO LORENZO URIEL",
+        "licencia": "18251",
+        "id": "18251"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CYRIL MOREL .",
+        "licencia": "1904",
+        "id": "1904"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MANUEL IGNACIO LORENZO URIEL",
+        "licencia": "18251",
+        "id": "18251"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CYRIL MOREL .",
+        "licencia": "1904",
+        "id": "1904"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

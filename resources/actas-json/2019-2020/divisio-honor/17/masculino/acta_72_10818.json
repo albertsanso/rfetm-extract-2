@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 17,
+  "fecha": "2020-03-01",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE DEPORTES PRINCIPE DE ASTURIAS",
+    "ciudad": "Murcia (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TRANVÍA DE MURCIA",
+      "id": "72",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "id": "10818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS AVILA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RAJ MONDAL",
+        "licencia": "28859",
+        "id": "28859"
+      },
+      "B": {
+        "nombre": "MIGUEL MOLINA SOTO",
+        "licencia": "16161",
+        "id": "16161"
+      },
+      "C": {
+        "nombre": "MARC GUTIÉRREZ MAZÓN",
+        "licencia": "16181",
+        "id": "16181"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "X": {
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "Z": {
+        "nombre": "FERNANDO MELKYANUS",
+        "licencia": "34924",
+        "id": "34924"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RAJ MONDAL",
+        "licencia": "28859",
+        "id": "28859"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MIGUEL MOLINA SOTO",
+        "licencia": "16161",
+        "id": "16161"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARC GUTIÉRREZ MAZÓN",
+        "licencia": "16181",
+        "id": "16181"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDO MELKYANUS",
+        "licencia": "34924",
+        "id": "34924"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RAJ MONDAL",
+        "licencia": "28859",
+        "id": "28859"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARC GUTIÉRREZ MAZÓN",
+        "licencia": "16181",
+        "id": "16181"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE LUIS REVERTE VIDAL",
+        "licencia": "20433",
+        "id": "20433"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDO MELKYANUS",
+        "licencia": "34924",
+        "id": "34924"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM TRANVÍA DE MURCIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,397 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 4,
+  "fecha": "2023-10-20",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL",
+    "ciudad": "San Sebastián de los Reyes (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "1348",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "id": "193",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO VILLACIEROS Y MANSO DE ZUÑIGA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "B": {
+        "nombre": "STRUGAREVIC L, NIKOLA",
+        "licencia": "39459",
+        "ranking": 1260.0,
+        "id": "39459"
+      },
+      "C": {
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JAN MICHAL, ZANDECKI",
+        "licencia": "41896",
+        "ranking": 1800.0,
+        "id": "41896"
+      },
+      "X": {
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "Z": {
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JAN MICHAL, ZANDECKI",
+        "licencia": "41896",
+        "ranking": 1800.0,
+        "id": "41896"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "STRUGAREVIC L, NIKOLA",
+        "licencia": "39459",
+        "ranking": 1260.0,
+        "id": "39459"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JAN MICHAL, ZANDECKI",
+        "licencia": "41896",
+        "ranking": 1800.0,
+        "id": "41896"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "STRUGAREVIC L, NIKOLA",
+        "licencia": "39459",
+        "ranking": 1260.0,
+        "id": "39459"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HORTITEC ALZIRA TT",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2023-02-04",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PAZO DOS DEPORTES PACO PAZ",
+    "ciudad": "Ourense (Ourense)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GALMÉDICA OURENSE T.M",
+      "id": "833",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CINANIA TENIS DE MESA",
+      "id": "20212126",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CRISTINA ILLAN DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "B": {
+        "nombre": "JORGE GAMAZO VAZQUEZ",
+        "licencia": "1714",
+        "id": "1714"
+      },
+      "C": {
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "X": {
+        "nombre": "MIGUEL PIEDRAS SANTOME",
+        "licencia": "29489",
+        "id": "29489"
+      },
+      "Z": {
+        "nombre": "CARLOS VAZQUEZ CABRAL",
+        "licencia": "22665",
+        "id": "22665"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE GAMAZO VAZQUEZ",
+        "licencia": "1714",
+        "id": "1714"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUEL PIEDRAS SANTOME",
+        "licencia": "29489",
+        "id": "29489"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARLOS VAZQUEZ CABRAL",
+        "licencia": "22665",
+        "id": "22665"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUEL PIEDRAS SANTOME",
+        "licencia": "29489",
+        "id": "29489"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "YERAI LOPEZ GOMEZ",
+        "licencia": "33330",
+        "id": "33330"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CELSO NUÑEZ MARTINEZ",
+        "licencia": "33675",
+        "id": "33675"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GALMÉDICA OURENSE T.M",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

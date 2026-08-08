@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 17,
+  "fecha": "2024-03-10",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CEIP PAU VILA",
+    "ciudad": "Parets"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS TAULA PARETS",
+      "id": "60",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIO SABADELL",
+      "id": "2018791",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI ARAGALL MUSACH",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNANDEZ QUESADA, FRANCISCO",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "X": {
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "Z": {
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      },
+      "B": {
+        "nombre": "FONT MONTLLO, ANIOL",
+        "licencia": "25808",
+        "id": "25808"
+      },
+      "C": {
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ QUESADA, FRANCISCO",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FONT MONTLLO, ANIOL",
+        "licencia": "25808",
+        "id": "25808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ QUESADA, FRANCISCO",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FONT MONTLLO, ANIOL",
+        "licencia": "25808",
+        "id": "25808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIO SABADELL",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

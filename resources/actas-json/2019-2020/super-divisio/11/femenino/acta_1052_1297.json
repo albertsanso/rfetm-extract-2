@@ -1,0 +1,291 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2020-01-11",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "1297",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CRISTINA PRIETO MORENO",
+        "licencia": "19227",
+        "ranking": 747.0,
+        "id": "19227"
+      },
+      "X": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "Z": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "YULIA PROKHOROVA",
+        "licencia": "33964",
+        "ranking": 3200.0,
+        "id": "33964"
+      },
+      "B": {
+        "nombre": "ROXANA MIHAELA IAMANDI",
+        "licencia": "21097",
+        "ranking": 2737.0,
+        "id": "21097"
+      },
+      "C": {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3320.0,
+        "id": "9486"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "JUDITH COBAS PENA",
+      "ROXANA ANA MARIA ISTRATE"
+    ],
+    "visitante": [
+      "MARIA XIAO YAO",
+      "YULIA PROKHOROVA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CRISTINA PRIETO MORENO",
+        "licencia": "19227",
+        "ranking": 747.0,
+        "id": "19227"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "YULIA PROKHOROVA",
+        "licencia": "33964",
+        "ranking": 3200.0,
+        "id": "33964"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROXANA MIHAELA IAMANDI",
+        "licencia": "21097",
+        "ranking": 2737.0,
+        "id": "21097"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3320.0,
+        "id": "9486"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "JUDITH COBAS PENA",
+          "ROXANA ANA MARIA ISTRATE"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MARIA XIAO YAO",
+          "YULIA PROKHOROVA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

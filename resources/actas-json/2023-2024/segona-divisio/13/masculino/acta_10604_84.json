@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 13,
+  "fecha": "2024-01-28",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "INSTALACIONES DEPORTIVAS MUNICIPALES DE LA FUENSANTA",
+    "ciudad": "Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. CORDOBA-81 T.M.",
+      "id": "10604",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA PORTUENSE",
+      "id": "84",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL LUQUE SOTELO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "X": {
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "Z": {
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CASTILLO MUÑOZ, FRANCISCO JOSE",
+        "licencia": "1480",
+        "id": "1480"
+      },
+      "B": {
+        "nombre": "GOMEZ LOMAS, CEFERINO",
+        "licencia": "21891",
+        "id": "21891"
+      },
+      "C": {
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CASTILLO MUÑOZ, FRANCISCO JOSE",
+        "licencia": "1480",
+        "id": "1480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ LOMAS, CEFERINO",
+        "licencia": "21891",
+        "id": "21891"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CASTILLO MUÑOZ, FRANCISCO JOSE",
+        "licencia": "1480",
+        "id": "1480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ LOMAS, CEFERINO",
+        "licencia": "21891",
+        "id": "21891"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. CORDOBA-81 T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

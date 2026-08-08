@@ -1,0 +1,389 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 21,
+  "fecha": "2023-04-22",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE SALLENT",
+    "ciudad": "Sallent (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T SALLENT.RESET",
+      "id": "16017",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "64",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIC BOSCH PASTOR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARLOS RODRIGUEZ JORDAN",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "X": {
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "Z": {
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "OBED ASENSIO TEIXEIRA",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "B": {
+        "nombre": "JORDI MORALES GARCIA",
+        "licencia": "2719",
+        "id": "2719"
+      },
+      "C": {
+        "nombre": "ALVARO VALERA MUÑOZ-VARGAS",
+        "licencia": "2314",
+        "id": "2314"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS RODRIGUEZ JORDAN",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OBED ASENSIO TEIXEIRA",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORDI MORALES GARCIA",
+        "licencia": "2719",
+        "id": "2719"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVARO VALERA MUÑOZ-VARGAS",
+        "licencia": "2314",
+        "id": "2314"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSEP ARMENGOL CODINA",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OBED ASENSIO TEIXEIRA",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS RODRIGUEZ JORDAN",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVARO VALERA MUÑOZ-VARGAS",
+        "licencia": "2314",
+        "id": "2314"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS SANCHEZ SANCHEZ",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORDI MORALES GARCIA",
+        "licencia": "2719",
+        "id": "2719"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T SALLENT.RESET",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

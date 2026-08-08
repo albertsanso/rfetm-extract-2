@@ -1,0 +1,400 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2024-11-16",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "14053",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+      "id": "20212400",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PéREZ GONZáLEZ, ALBA",
+        "licencia": "38061",
+        "id": "38061"
+      },
+      "X": {
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "Z": {
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MENDEZ ALONSO, MARIA",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "B": {
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299",
+        "id": "38299"
+      },
+      "C": {
+        "nombre": "HASEK MENDEZ, ESTHER",
+        "licencia": "33469",
+        "id": "33469"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "FERNANDEZ PEREZ, NAYARA",
+      "FERNANDEZ POLIN, JULIA"
+    ],
+    "visitante": [
+      "MENDEZ ALONSO, MARIA",
+      "HASEK MENDEZ, ESTHER"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PéREZ GONZáLEZ, ALBA",
+        "licencia": "38061",
+        "id": "38061"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENDEZ ALONSO, MARIA",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299",
+        "id": "38299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HASEK MENDEZ, ESTHER",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENDEZ ALONSO, MARIA",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PéREZ GONZáLEZ, ALBA",
+        "licencia": "38061",
+        "id": "38061"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HASEK MENDEZ, ESTHER",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299",
+        "id": "38299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "FERNANDEZ PEREZ, NAYARA",
+          "FERNANDEZ POLIN, JULIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MENDEZ ALONSO, MARIA",
+          "HASEK MENDEZ, ESTHER"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

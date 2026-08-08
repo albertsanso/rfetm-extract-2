@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "GIMNÀS DE L'ESCOLA POMPEU FABRA",
+    "ciudad": "Mollerussa (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT MOLLERUSSA PREFABRICATS PUJOL",
+      "id": "845",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "40",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "XAVIER CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CALUM MORRISON",
+        "licencia": "37775",
+        "id": "37775"
+      },
+      "X": {
+        "nombre": "ORIOL MONZO MONTERO",
+        "licencia": "2477",
+        "id": "2477"
+      },
+      "Z": {
+        "nombre": "ERIC CALDERO CERCOS",
+        "licencia": "9795",
+        "id": "9795"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "B": {
+        "nombre": "ALEXANDRE VIDAL CASANOVAS",
+        "licencia": "3008",
+        "id": "3008"
+      },
+      "C": {
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CALUM MORRISON",
+        "licencia": "37775",
+        "id": "37775"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ORIOL MONZO MONTERO",
+        "licencia": "2477",
+        "id": "2477"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEXANDRE VIDAL CASANOVAS",
+        "licencia": "3008",
+        "id": "3008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERIC CALDERO CERCOS",
+        "licencia": "9795",
+        "id": "9795"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ORIOL MONZO MONTERO",
+        "licencia": "2477",
+        "id": "2477"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CALUM MORRISON",
+        "licencia": "37775",
+        "id": "37775"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERIC CALDERO CERCOS",
+        "licencia": "9795",
+        "id": "9795"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEXANDRE VIDAL CASANOVAS",
+        "licencia": "3008",
+        "id": "3008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT MOLLERUSSA PREFABRICATS PUJOL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

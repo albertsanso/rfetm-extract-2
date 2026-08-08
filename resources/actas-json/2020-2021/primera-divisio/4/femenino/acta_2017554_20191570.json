@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2021-03-20",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS AVDA. JOSE ATARES, 1",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LEKA ENEA CHEMA T.M. GEWO",
+      "id": "2017554",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA SIERRA DE GUADARRAMA",
+      "id": "20191570",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS LAHOZ PES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "X": {
+        "nombre": "SARA MARTINEZ SANCHEZ",
+        "licencia": "20085",
+        "id": "20085"
+      },
+      "Z": {
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARIA CHILLIDA REDONDO",
+        "licencia": "35629",
+        "id": "35629"
+      },
+      "B": {
+        "nombre": "LYDIA DE LAS HERAS MARTIN",
+        "licencia": "23637",
+        "id": "23637"
+      },
+      "C": {
+        "nombre": "LAURA RODRIGUEZ DE LAS HERAS",
+        "licencia": "23218",
+        "id": "23218"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA CHILLIDA REDONDO",
+        "licencia": "35629",
+        "id": "35629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SARA MARTINEZ SANCHEZ",
+        "licencia": "20085",
+        "id": "20085"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LYDIA DE LAS HERAS MARTIN",
+        "licencia": "23637",
+        "id": "23637"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LAURA RODRIGUEZ DE LAS HERAS",
+        "licencia": "23218",
+        "id": "23218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SARA MARTINEZ SANCHEZ",
+        "licencia": "20085",
+        "id": "20085"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA CHILLIDA REDONDO",
+        "licencia": "35629",
+        "id": "35629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LAURA RODRIGUEZ DE LAS HERAS",
+        "licencia": "23218",
+        "id": "23218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LYDIA DE LAS HERAS MARTIN",
+        "licencia": "23637",
+        "id": "23637"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LEKA ENEA CHEMA T.M. GEWO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

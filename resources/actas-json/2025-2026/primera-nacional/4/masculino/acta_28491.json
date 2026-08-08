@@ -1,0 +1,413 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 13,
+  "fecha": "2026-01-25",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Calella (Barcelona)",
+    "recinto": "FABRICA LLOBET"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TERMOTUR CALELLA",
+      "delegado": {
+        "nombre": "PUIG TOMAS, JAUME",
+        "licencia": "175"
+      },
+      "entrenador": {
+        "nombre": "PUIG POZUELO, AITOR",
+        "licencia": "2244"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA BARCELONA",
+      "delegado": {
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: PUIG POZUELO, AITOR",
+        "licencia": "2244"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FONT EXPOSITO, JORDI",
+      "licencia": "281"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ ALEJANDRES, ABEL",
+        "licencia": "9799"
+      },
+      "B": {
+        "nombre": "RUSCALLEDA MA, ANTONI",
+        "licencia": "31514"
+      },
+      "C": {
+        "nombre": "ABIO BUIL, XAVIER",
+        "licencia": "28312"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SOLANO BRUSCA, ANTONIO",
+        "licencia": "24572"
+      },
+      "X": {
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      "Z": {
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARTINEZ ALEJANDRES, ABEL",
+      "RUSCALLEDA MA, ANTONI"
+    ],
+    "visitante": [
+      "MANYA VILLALTA, NIL",
+      "GUARDIOLA CASALS, FERRAN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ ALEJANDRES, ABEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOLANO BRUSCA, ANTONIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RUSCALLEDA MA, ANTONI"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANYA VILLALTA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ABIO BUIL, XAVIER"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUARDIOLA CASALS, FERRAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ ALEJANDRES, ABEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANYA VILLALTA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ABIO BUIL, XAVIER"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOLANO BRUSCA, ANTONIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RUSCALLEDA MA, ANTONI"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUARDIOLA CASALS, FERRAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARTINEZ ALEJANDRES, ABEL",
+          "RUSCALLEDA MA, ANTONI"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MANYA VILLALTA, NIL",
+          "GUARDIOLA CASALS, FERRAN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 18,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TERMOTUR CALELLA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

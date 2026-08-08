@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 4,
+  "fecha": "2019-10-19",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON PEREZ PUIG",
+    "ciudad": "Alzira (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T. ALZIRA CAMARENA",
+      "id": "193",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ALCOY UNIÓN ALCOYANA DE SEGUROS",
+      "id": "1108",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FELIX BENJAMIN LLUCH LEONARDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RAFAEL JOSE DEL VALLE SANCHIS",
+        "licencia": "1773",
+        "id": "1773"
+      },
+      "B": {
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "C": {
+        "nombre": "JAVIER RODILLA ARAQUE",
+        "licencia": "14649",
+        "id": "14649"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "X": {
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "Z": {
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RAFAEL JOSE DEL VALLE SANCHIS",
+        "licencia": "1773",
+        "id": "1773"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JAVIER RODILLA ARAQUE",
+        "licencia": "14649",
+        "id": "14649"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RAFAEL JOSE DEL VALLE SANCHIS",
+        "licencia": "1773",
+        "id": "1773"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JAVIER RODILLA ARAQUE",
+        "licencia": "14649",
+        "id": "14649"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. ALZIRA CAMARENA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

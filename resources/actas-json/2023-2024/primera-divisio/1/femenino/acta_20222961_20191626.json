@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 1,
+  "fecha": "2023-10-29",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA ANTONIO MAZA",
+    "ciudad": "AVDA. DE GRANADA, S/N, ESQUINA CALLE PLAZA DE TOROS 23003 JAÉN JAÉN"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "RESTAURANTE VENTUCCIO - CTM JAEN",
+      "id": "20222961",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLAN TECH2 TM CARTAGENA",
+      "id": "20191626",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL AGUILAR DURILLO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "X": {
+        "nombre": "GIMENEZ RUIZ, MARIA",
+        "licencia": "31702",
+        "id": "31702"
+      },
+      "Z": {
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "B": {
+        "nombre": "ETXEBESTE GORRITI, MAIALEN",
+        "licencia": "27678",
+        "id": "27678"
+      },
+      "C": {
+        "nombre": "GONZALEZ GOMEZ, PILAR",
+        "licencia": "20135",
+        "id": "20135"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GUERRERO GARCIA, ADRIANA",
+      "LORENTE ESCOBAR, MARINA"
+    ],
+    "visitante": [
+      "VALPUESTA RUIZ, CELIA",
+      "LOPEZ GARCIA, LUCIA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GIMENEZ RUIZ, MARIA",
+        "licencia": "31702",
+        "id": "31702"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ETXEBESTE GORRITI, MAIALEN",
+        "licencia": "27678",
+        "id": "27678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GONZALEZ GOMEZ, PILAR",
+        "licencia": "20135",
+        "id": "20135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GIMENEZ RUIZ, MARIA",
+        "licencia": "31702",
+        "id": "31702"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GONZALEZ GOMEZ, PILAR",
+        "licencia": "20135",
+        "id": "20135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ETXEBESTE GORRITI, MAIALEN",
+        "licencia": "27678",
+        "id": "27678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GUERRERO GARCIA, ADRIANA",
+          "LORENTE ESCOBAR, MARINA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "VALPUESTA RUIZ, CELIA",
+          "LOPEZ GARCIA, LUCIA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RESTAURANTE VENTUCCIO - CTM JAEN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

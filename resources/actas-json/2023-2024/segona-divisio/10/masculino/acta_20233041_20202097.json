@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 10,
+  "fecha": "2023-12-16",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES IBN Albaytar",
+    "ciudad": "Benalmádena (Málaga)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "INPRE – RSA ALSINA",
+      "id": "20233041",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "20202097",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL ESPINOSA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288",
+        "id": "40288"
+      },
+      "X": {
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "Z": {
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DOMINGUEZ RANGEL, RODRIGO",
+        "licencia": "38958",
+        "id": "38958"
+      },
+      "B": {
+        "nombre": "GOMEZ SANCHEZ, CARLOS",
+        "licencia": "32641",
+        "id": "32641"
+      },
+      "C": {
+        "nombre": "CANO MORENO, EDUARDO",
+        "licencia": "36687",
+        "id": "36687"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288",
+        "id": "40288"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DOMINGUEZ RANGEL, RODRIGO",
+        "licencia": "38958",
+        "id": "38958"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ SANCHEZ, CARLOS",
+        "licencia": "32641",
+        "id": "32641"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CANO MORENO, EDUARDO",
+        "licencia": "36687",
+        "id": "36687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DOMINGUEZ RANGEL, RODRIGO",
+        "licencia": "38958",
+        "id": "38958"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288",
+        "id": "40288"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CANO MORENO, EDUARDO",
+        "licencia": "36687",
+        "id": "36687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ SANCHEZ, CARLOS",
+        "licencia": "32641",
+        "id": "32641"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "INPRE – RSA ALSINA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

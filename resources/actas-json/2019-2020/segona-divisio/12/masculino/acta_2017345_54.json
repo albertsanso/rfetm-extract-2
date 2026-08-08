@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 7,
+  "jornada": 12,
+  "fecha": "2020-01-12",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL FRANCISCO BALLESTER",
+    "ciudad": "Xàtiva (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS DE TAULA XATIVA CLUB",
+      "id": "2017345",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. COSLADA",
+      "id": "54",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IGNACIO JOSÉ JORQUES RICART",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "VICENT PENADES PLA",
+        "licencia": "20934",
+        "id": "20934"
+      },
+      "B": {
+        "nombre": "GERMAN GOMEZ ARJONA",
+        "licencia": "1575",
+        "id": "1575"
+      },
+      "C": {
+        "nombre": "JAIME FERNANDEZ FERNANDEZ",
+        "licencia": "1485",
+        "id": "1485"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RAFAEL OTERO COSTAS",
+        "licencia": "3901",
+        "id": "3901"
+      },
+      "X": {
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "Z": {
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "VICENT PENADES PLA",
+        "licencia": "20934",
+        "id": "20934"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAFAEL OTERO COSTAS",
+        "licencia": "3901",
+        "id": "3901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GERMAN GOMEZ ARJONA",
+        "licencia": "1575",
+        "id": "1575"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JAIME FERNANDEZ FERNANDEZ",
+        "licencia": "1485",
+        "id": "1485"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "VICENT PENADES PLA",
+        "licencia": "20934",
+        "id": "20934"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JAIME FERNANDEZ FERNANDEZ",
+        "licencia": "1485",
+        "id": "1485"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAFAEL OTERO COSTAS",
+        "licencia": "3901",
+        "id": "3901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GERMAN GOMEZ ARJONA",
+        "licencia": "1575",
+        "id": "1575"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. COSLADA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

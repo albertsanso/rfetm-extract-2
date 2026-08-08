@@ -1,0 +1,337 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 16,
+  "fecha": "2020-03-08",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON PRINCIPE FELIPE",
+    "ciudad": "Pontevedra (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORGE JUAN VIDAL DAPORTA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "B": {
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2902.0,
+        "id": "29423"
+      },
+      "C": {
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2609.0,
+        "id": "3509"
+      },
+      "X": {
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "ranking": 1001.0,
+        "id": "29353"
+      },
+      "Z": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 1880.0,
+        "id": "7535"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2609.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2902.0,
+        "id": "29423"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "ranking": 1001.0,
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 1880.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "ranking": 1001.0,
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2609.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VISIT PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,425 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 7,
+  "jornada": 5,
+  "fecha": "2024-10-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "20243970",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. PISUERGA / KWS SEMILLAS",
+      "id": "10291",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "X": {
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "Z": {
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "B": {
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      },
+      "C": {
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ALONSO GOMZALEZ, MARTIN",
+      "SANCHEZ DELGADO, JAVIER"
+    ],
+    "visitante": [
+      "PEREZ REPISO, GREGORIO",
+      "HORTAL GUADILLA, ALEJANDRO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ALONSO GOMZALEZ, MARTIN",
+          "SANCHEZ DELGADO, JAVIER"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PEREZ REPISO, GREGORIO",
+          "HORTAL GUADILLA, ALEJANDRO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. PISUERGA / KWS SEMILLAS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

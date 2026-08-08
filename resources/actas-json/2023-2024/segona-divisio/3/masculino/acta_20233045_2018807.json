@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2023-10-14",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ARTUNDUAGA",
+    "ciudad": "Basauri (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BASAURI URBI",
+      "id": "20233045",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FONTANERIA IRURIETA BERAUN ERRENTERIA TM A",
+      "id": "2018807",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER FELIPE CADIZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ARETXAGA AURREKOETXEA, IKER",
+        "licencia": "32402",
+        "id": "32402"
+      },
+      "B": {
+        "nombre": "CALDERON CORTAZAR, UNAI",
+        "licencia": "22348",
+        "id": "22348"
+      },
+      "C": {
+        "nombre": "MACARIO GALINDO, CRISTIAN",
+        "licencia": "29639",
+        "id": "29639"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LEGARRA ACERO, JULEN",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "X": {
+        "nombre": "LOZANO SANCHEZ, ENEKO",
+        "licencia": "22701",
+        "id": "22701"
+      },
+      "Z": {
+        "nombre": "GANGAS PARRA, VICTOR ANDRES",
+        "licencia": "7662",
+        "id": "7662"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ARETXAGA AURREKOETXEA, IKER",
+        "licencia": "32402",
+        "id": "32402"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEGARRA ACERO, JULEN",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CALDERON CORTAZAR, UNAI",
+        "licencia": "22348",
+        "id": "22348"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOZANO SANCHEZ, ENEKO",
+        "licencia": "22701",
+        "id": "22701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MACARIO GALINDO, CRISTIAN",
+        "licencia": "29639",
+        "id": "29639"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GANGAS PARRA, VICTOR ANDRES",
+        "licencia": "7662",
+        "id": "7662"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ARETXAGA AURREKOETXEA, IKER",
+        "licencia": "32402",
+        "id": "32402"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOZANO SANCHEZ, ENEKO",
+        "licencia": "22701",
+        "id": "22701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MACARIO GALINDO, CRISTIAN",
+        "licencia": "29639",
+        "id": "29639"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEGARRA ACERO, JULEN",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CALDERON CORTAZAR, UNAI",
+        "licencia": "22348",
+        "id": "22348"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GANGAS PARRA, VICTOR ANDRES",
+        "licencia": "7662",
+        "id": "7662"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FONTANERIA IRURIETA BERAUN ERRENTERIA TM A",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

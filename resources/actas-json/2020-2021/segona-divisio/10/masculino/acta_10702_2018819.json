@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 4,
+  "jornada": 10,
+  "fecha": "2021-05-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON GERARDO DIEGO CALLE GERARDO POETA DIEGO S/N",
+    "ciudad": "Santander (Cantabria)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA EL CACHON",
+      "id": "10702",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "id": "2018819",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GERMAN GARCIA CASO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "X": {
+        "nombre": "ENRIQUE GUTIERREZ AGÜERO",
+        "licencia": "20912",
+        "id": "20912"
+      },
+      "Z": {
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "B": {
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "C": {
+        "nombre": "FRANCISCO GONZALEZ BORES",
+        "licencia": "3760",
+        "id": "3760"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE GUTIERREZ AGÜERO",
+        "licencia": "20912",
+        "id": "20912"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCISCO GONZALEZ BORES",
+        "licencia": "3760",
+        "id": "3760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE GUTIERREZ AGÜERO",
+        "licencia": "20912",
+        "id": "20912"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCISCO GONZALEZ BORES",
+        "licencia": "3760",
+        "id": "3760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA EL CACHON",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

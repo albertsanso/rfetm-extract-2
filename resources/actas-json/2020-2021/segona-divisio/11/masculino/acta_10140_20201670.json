@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2021-05-01",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA C/ JUAN DE PADILLA S/N",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM REBOFER TORRELAVEGA",
+      "id": "10140",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLETICO LEON - VIRGEN DEL CAMINO",
+      "id": "20201670",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIO ORCAJO VILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "B": {
+        "nombre": "JOEL QUEVEDO BENITO",
+        "licencia": "19059",
+        "id": "19059"
+      },
+      "C": {
+        "nombre": "ALEJANDRO REBOLLEDO CELORIO",
+        "licencia": "30734",
+        "id": "30734"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "X": {
+        "nombre": "DAVID VILLANUEVA ECHEVARRIA",
+        "licencia": "23525",
+        "id": "23525"
+      },
+      "Z": {
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOEL QUEVEDO BENITO",
+        "licencia": "19059",
+        "id": "19059"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DAVID VILLANUEVA ECHEVARRIA",
+        "licencia": "23525",
+        "id": "23525"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEJANDRO REBOLLEDO CELORIO",
+        "licencia": "30734",
+        "id": "30734"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DAVID VILLANUEVA ECHEVARRIA",
+        "licencia": "23525",
+        "id": "23525"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEJANDRO REBOLLEDO CELORIO",
+        "licencia": "30734",
+        "id": "30734"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOEL QUEVEDO BENITO",
+        "licencia": "19059",
+        "id": "19059"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB ATLETICO LEON - VIRGEN DEL CAMINO",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

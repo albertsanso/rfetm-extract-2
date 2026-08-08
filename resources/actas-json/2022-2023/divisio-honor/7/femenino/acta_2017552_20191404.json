@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 7,
+  "fecha": "2022-11-26",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "NAVE TM HUERCAL DE ALMERIA",
+    "ciudad": "Huércal de Almería (Almería)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM HUERCAL DE ALMERIA",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES",
+      "id": "20191404",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS SAEZ CAPEL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SILVIA IXCHEL REYES RAMíREZ",
+        "licencia": "39491",
+        "id": "39491"
+      },
+      "X": {
+        "nombre": "LUCIA VIDAL DIAZ",
+        "licencia": "27924",
+        "id": "27924"
+      },
+      "Z": {
+        "nombre": "JULIA VIDAL DIAZ",
+        "licencia": "29133",
+        "id": "29133"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "B": {
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "C": {
+        "nombre": "ANGELA PALOMO SANCHEZ",
+        "licencia": "21967",
+        "id": "21967"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SILVIA IXCHEL REYES RAMíREZ",
+        "licencia": "39491",
+        "id": "39491"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA VIDAL DIAZ",
+        "licencia": "27924",
+        "id": "27924"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JULIA VIDAL DIAZ",
+        "licencia": "29133",
+        "id": "29133"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGELA PALOMO SANCHEZ",
+        "licencia": "21967",
+        "id": "21967"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA VIDAL DIAZ",
+        "licencia": "27924",
+        "id": "27924"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SILVIA IXCHEL REYES RAMíREZ",
+        "licencia": "39491",
+        "id": "39491"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGELA PALOMO SANCHEZ",
+        "licencia": "21967",
+        "id": "21967"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JULIA VIDAL DIAZ",
+        "licencia": "29133",
+        "id": "29133"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM HUERCAL DE ALMERIA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

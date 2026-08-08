@@ -1,0 +1,423 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 12,
+  "fecha": "2020-01-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PALAU D´SPORTS COSTA BLANCA",
+    "ciudad": "Altea (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA ALTEA",
+      "id": "2018817",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ADRIAN GROSU",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSEP RAIMON ABELLAN HEREDIA",
+        "licencia": "3764",
+        "id": "3764"
+      },
+      "X": {
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "Z": {
+        "nombre": "FERNANDO SERRANO GONZALEZ",
+        "licencia": "31910",
+        "id": "31910"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "B": {
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "C": {
+        "nombre": "FRANCISCO ALMAGRO GOMEZ",
+        "licencia": "21010",
+        "id": "21010"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "FERNANDO SERRANO GONZALEZ",
+      "JOSEP RAIMON ABELLAN HEREDIA"
+    ],
+    "visitante": [
+      "JOSE ENMANUEL ROSAS ALGUETA",
+      "IVAN DAVID PEREZ DOMINGUEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSEP RAIMON ABELLAN HEREDIA",
+        "licencia": "3764",
+        "id": "3764"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDO SERRANO GONZALEZ",
+        "licencia": "31910",
+        "id": "31910"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCISCO ALMAGRO GOMEZ",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSEP RAIMON ABELLAN HEREDIA",
+        "licencia": "3764",
+        "id": "3764"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCISCO ALMAGRO GOMEZ",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDO SERRANO GONZALEZ",
+        "licencia": "31910",
+        "id": "31910"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "FERNANDO SERRANO GONZALEZ",
+          "JOSEP RAIMON ABELLAN HEREDIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "JOSE ENMANUEL ROSAS ALGUETA",
+          "IVAN DAVID PEREZ DOMINGUEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ILICITANO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

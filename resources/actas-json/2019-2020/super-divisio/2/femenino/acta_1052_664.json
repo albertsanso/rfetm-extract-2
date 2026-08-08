@@ -1,0 +1,331 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASSSA ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "X": {
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "Z": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "ranking": 3440.0,
+        "id": "31926"
+      },
+      "B": {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      },
+      "C": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2512.0,
+        "id": "28792"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ROXANA ANA MARIA ISTRATE",
+      "KLAUDIA KUSINSKA"
+    ],
+    "visitante": [
+      "KIM VERMAAS",
+      "JIAO LI"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "ranking": 3440.0,
+        "id": "31926"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2512.0,
+        "id": "28792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ROXANA ANA MARIA ISTRATE",
+          "KLAUDIA KUSINSKA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "KIM VERMAAS",
+          "JIAO LI"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "ranking": 3440.0,
+        "id": "31926"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASSSA ALICANTE TM",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

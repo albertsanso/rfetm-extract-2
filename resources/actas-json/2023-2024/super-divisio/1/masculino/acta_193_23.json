@@ -1,0 +1,362 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2023-09-29",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PABELLON PEREZ PUIG",
+    "ciudad": "Alzira (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "id": "193",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.E.R. ROBIN HAT PRISCO L´ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE VICENTE NICOLAS PELLICER",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNANDEZ PARDO, CARLOS ALONSO",
+        "licencia": "29194",
+        "ranking": 1536.0,
+        "id": "29194"
+      },
+      "X": {
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "Z": {
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "YEH , CHIH-WEI",
+        "licencia": "33851",
+        "ranking": 2604.0,
+        "id": "33851"
+      },
+      "B": {
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969",
+        "ranking": 1733.0,
+        "id": "3969"
+      },
+      "C": {
+        "nombre": "CHATZILYGEROUDIS , GERASIMOS",
+        "licencia": "41709",
+        "ranking": 1500.0,
+        "id": "41709"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ PARDO, CARLOS ALONSO",
+        "licencia": "29194",
+        "ranking": 1536.0,
+        "id": "29194"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "YEH , CHIH-WEI",
+        "licencia": "33851",
+        "ranking": 2604.0,
+        "id": "33851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969",
+        "ranking": 1733.0,
+        "id": "3969"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHATZILYGEROUDIS , GERASIMOS",
+        "licencia": "41709",
+        "ranking": 1500.0,
+        "id": "41709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "YEH , CHIH-WEI",
+        "licencia": "33851",
+        "ranking": 2604.0,
+        "id": "33851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ PARDO, CARLOS ALONSO",
+        "licencia": "29194",
+        "ranking": 1536.0,
+        "id": "29194"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHATZILYGEROUDIS , GERASIMOS",
+        "licencia": "41709",
+        "ranking": 1500.0,
+        "id": "41709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1697.0,
+        "id": "21851"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969",
+        "ranking": 1733.0,
+        "id": "3969"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 18
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

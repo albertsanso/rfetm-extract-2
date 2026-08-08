@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON POLIDEPORTIVO DE BASTIAGUEIRO IES MARIA CASARES",
+    "ciudad": "Oleiros (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA BREOGAN - OLEIROS",
+      "id": "2018795",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ARTEAL",
+      "id": "1274",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ISABEL RODRIGUEZ PIÑON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "X": {
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "Z": {
+        "nombre": "ALBERTO DOVAL LOUREDA",
+        "licencia": "10742",
+        "id": "10742"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "XURXO RODRIGUEZ SANCHEZ",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "B": {
+        "nombre": "GUILLERMO MANEIRO CURRÁS",
+        "licencia": "10016",
+        "id": "10016"
+      },
+      "C": {
+        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "JAVIER CANZOBRE PEREIRA",
+      "JUAN ANGEL FERREIRO LAGE"
+    ],
+    "visitante": [
+      "XURXO RODRIGUEZ SANCHEZ",
+      "IGNACIO ANDRES CABEZAS GUERRERO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XURXO RODRIGUEZ SANCHEZ",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUILLERMO MANEIRO CURRÁS",
+        "licencia": "10016",
+        "id": "10016"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALBERTO DOVAL LOUREDA",
+        "licencia": "10742",
+        "id": "10742"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XURXO RODRIGUEZ SANCHEZ",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALBERTO DOVAL LOUREDA",
+        "licencia": "10742",
+        "id": "10742"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUILLERMO MANEIRO CURRÁS",
+        "licencia": "10016",
+        "id": "10016"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "JAVIER CANZOBRE PEREIRA",
+          "JUAN ANGEL FERREIRO LAGE"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "XURXO RODRIGUEZ SANCHEZ",
+          "IGNACIO ANDRES CABEZAS GUERRERO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ARTEAL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

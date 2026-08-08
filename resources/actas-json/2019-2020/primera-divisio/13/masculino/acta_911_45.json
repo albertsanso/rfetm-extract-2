@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 13,
+  "fecha": "2020-01-19",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON DE CAN GUERXO (SALA ANEXA)",
+    "ciudad": "Sant Jordi (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SANTJOSEP.NET - SANT JORDI",
+      "id": "911",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "45",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "B": {
+        "nombre": "GEORGIOS FRAGKOULIS",
+        "licencia": "33888",
+        "id": "33888"
+      },
+      "C": {
+        "nombre": "MARCELO EDUARDO TOLEDO ARANEDA",
+        "licencia": "7935",
+        "id": "7935"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DIOGO DOS SANTOS PINHO",
+        "licencia": "33982",
+        "id": "33982"
+      },
+      "X": {
+        "nombre": "RAUL PORTA LOPEZ",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "Z": {
+        "nombre": "SERGI MOLIST PALOMERA",
+        "licencia": "15194",
+        "id": "15194"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "PEDRO LOPEZ LAGUNA",
+      "MARCELO EDUARDO TOLEDO ARANEDA"
+    ],
+    "visitante": [
+      "DIOGO DOS SANTOS PINHO",
+      "RAUL PORTA LOPEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DIOGO DOS SANTOS PINHO",
+        "licencia": "33982",
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GEORGIOS FRAGKOULIS",
+        "licencia": "33888",
+        "id": "33888"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAUL PORTA LOPEZ",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARCELO EDUARDO TOLEDO ARANEDA",
+        "licencia": "7935",
+        "id": "7935"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERGI MOLIST PALOMERA",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAUL PORTA LOPEZ",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARCELO EDUARDO TOLEDO ARANEDA",
+        "licencia": "7935",
+        "id": "7935"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DIOGO DOS SANTOS PINHO",
+        "licencia": "33982",
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GEORGIOS FRAGKOULIS",
+        "licencia": "33888",
+        "id": "33888"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERGI MOLIST PALOMERA",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "PEDRO LOPEZ LAGUNA",
+          "MARCELO EDUARDO TOLEDO ARANEDA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "DIOGO DOS SANTOS PINHO",
+          "RAUL PORTA LOPEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SANTJOSEP.NET - SANT JORDI",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

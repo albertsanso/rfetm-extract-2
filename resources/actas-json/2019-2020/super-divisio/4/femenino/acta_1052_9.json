@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 4,
+  "fecha": "2019-11-07",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "X": {
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3392.0,
+        "id": "31713"
+      },
+      "Z": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "XIN LIU",
+        "licencia": "31667",
+        "ranking": 3574.0,
+        "id": "31667"
+      },
+      "B": {
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2291.0,
+        "id": "9863"
+      },
+      "C": {
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "ranking": 3000.0,
+        "id": "34298"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ORAWAN PARANANG",
+      "ROXANA ANA MARIA ISTRATE"
+    ],
+    "visitante": [
+      "XIN LIU",
+      "FEN LI"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XIN LIU",
+        "licencia": "31667",
+        "ranking": 3574.0,
+        "id": "31667"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3392.0,
+        "id": "31713"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2291.0,
+        "id": "9863"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "ranking": 3000.0,
+        "id": "34298"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ORAWAN PARANANG",
+          "ROXANA ANA MARIA ISTRATE"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "XIN LIU",
+          "FEN LI"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ORAWAN PARANANG",
+        "licencia": "31713",
+        "ranking": 3392.0,
+        "id": "31713"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XIN LIU",
+        "licencia": "31667",
+        "ranking": 3574.0,
+        "id": "31667"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

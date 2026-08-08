@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 15,
+  "jornada": 8,
+  "fecha": "2021-04-10",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA C/ JUAN CAMPOMANES PUERTO, S/N",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA TECNIK '87",
+      "id": "20191454",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CONSERVAS LOLA",
+      "id": "1218",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO PRIOR MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAVIER IGNACIO ORELOGIO OROZCO",
+        "licencia": "29925",
+        "id": "29925"
+      },
+      "B": {
+        "nombre": "SAMUEL CONDE LUIS",
+        "licencia": "1718",
+        "id": "1718"
+      },
+      "C": {
+        "nombre": "ALVARO FERNANDEZ ROBLES",
+        "licencia": "3892",
+        "id": "3892"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
+      },
+      "X": {
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "Z": {
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER IGNACIO ORELOGIO OROZCO",
+        "licencia": "29925",
+        "id": "29925"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAMUEL CONDE LUIS",
+        "licencia": "1718",
+        "id": "1718"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO FERNANDEZ ROBLES",
+        "licencia": "3892",
+        "id": "3892"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER IGNACIO ORELOGIO OROZCO",
+        "licencia": "29925",
+        "id": "29925"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO FERNANDEZ ROBLES",
+        "licencia": "3892",
+        "id": "3892"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAMUEL CONDE LUIS",
+        "licencia": "1718",
+        "id": "1718"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA TECNIK '87",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

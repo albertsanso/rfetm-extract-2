@@ -1,0 +1,430 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 4,
+  "jornada": 21,
+  "fecha": "2025-04-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MADRID C.T.M.",
+      "id": "20201664",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "2018818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654",
+        "id": "15654"
+      },
+      "B": {
+        "nombre": "MONTESDEOCA SAAVEDRA, ADRIAN",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "C": {
+        "nombre": "BENITEZ DE LA FUENTE, ALVARO",
+        "licencia": "21943",
+        "id": "21943"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "X": {
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "Z": {
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MONTESDEOCA SAAVEDRA, ADRIAN",
+      "BENITEZ DE LA FUENTE, ALVARO"
+    ],
+    "visitante": [
+      "CABRERA CUSTODIO, FERNANDO",
+      "FERNANDEZ CRUCETA, JORGE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654",
+        "id": "15654"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MONTESDEOCA SAAVEDRA, ADRIAN",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BENITEZ DE LA FUENTE, ALVARO",
+        "licencia": "21943",
+        "id": "21943"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654",
+        "id": "15654"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BENITEZ DE LA FUENTE, ALVARO",
+        "licencia": "21943",
+        "id": "21943"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SANCHEZ DELGADO, JAVIER",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MONTESDEOCA SAAVEDRA, ADRIAN",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MONTESDEOCA SAAVEDRA, ADRIAN",
+          "BENITEZ DE LA FUENTE, ALVARO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CABRERA CUSTODIO, FERNANDO",
+          "FERNANDEZ CRUCETA, JORGE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MADRID C.T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

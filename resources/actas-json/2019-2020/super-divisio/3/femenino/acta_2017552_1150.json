@@ -1,0 +1,441 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2019-10-13",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE AMATE",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HISPALIS TM",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGELA CHAVES BENJUMEA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "B": {
+        "nombre": "BIN LI",
+        "licencia": "34129",
+        "ranking": 3000.0,
+        "id": "34129"
+      },
+      "C": {
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3000.0,
+        "id": "33819"
+      },
+      "X": {
+        "nombre": "EMMANUELLE LENNON",
+        "licencia": "33820",
+        "ranking": 2500.0,
+        "id": "33820"
+      },
+      "Z": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "BIN LI",
+      "PO-HSUAN LIN"
+    ],
+    "visitante": [
+      "YEE LOK LAM",
+      "EMMANUELLE LENNON"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3000.0,
+        "id": "33819"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BIN LI",
+        "licencia": "34129",
+        "ranking": 3000.0,
+        "id": "34129"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EMMANUELLE LENNON",
+        "licencia": "33820",
+        "ranking": 2500.0,
+        "id": "33820"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "BIN LI",
+          "PO-HSUAN LIN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "YEE LOK LAM",
+          "EMMANUELLE LENNON"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EMMANUELLE LENNON",
+        "licencia": "33820",
+        "ranking": 2500.0,
+        "id": "33820"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3000.0,
+        "id": "33819"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BIN LI",
+        "licencia": "34129",
+        "ranking": 3000.0,
+        "id": "34129"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HISPALIS TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

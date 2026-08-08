@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 11,
+  "fecha": "2023-01-21",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON DE CAN GUERXO",
+    "ciudad": "Sant Jordi (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SANTJOSEP.NET - SANT JORDI",
+      "id": "911",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "PUBLIMAX CAI SANTIAGO T.M.",
+      "id": "204",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "B": {
+        "nombre": "FRANCISCO GUERRERO PAVON",
+        "licencia": "22279",
+        "id": "22279"
+      },
+      "C": {
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RAUL AGUILAR RUIZ",
+        "licencia": "928",
+        "id": "928"
+      },
+      "X": {
+        "nombre": "CARLOS GUIRAL CLAVERO",
+        "licencia": "7383",
+        "id": "7383"
+      },
+      "Z": {
+        "nombre": "FRANCISCO JAVIER REY SAHUN",
+        "licencia": "1087",
+        "id": "1087"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAUL AGUILAR RUIZ",
+        "licencia": "928",
+        "id": "928"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FRANCISCO GUERRERO PAVON",
+        "licencia": "22279",
+        "id": "22279"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS GUIRAL CLAVERO",
+        "licencia": "7383",
+        "id": "7383"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO JAVIER REY SAHUN",
+        "licencia": "1087",
+        "id": "1087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS GUIRAL CLAVERO",
+        "licencia": "7383",
+        "id": "7383"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAUL AGUILAR RUIZ",
+        "licencia": "928",
+        "id": "928"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FRANCISCO GUERRERO PAVON",
+        "licencia": "22279",
+        "id": "22279"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO JAVIER REY SAHUN",
+        "licencia": "1087",
+        "id": "1087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SANTJOSEP.NET - SANT JORDI",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 2
+    }
+  },
+  "acta_protestada": false
+}

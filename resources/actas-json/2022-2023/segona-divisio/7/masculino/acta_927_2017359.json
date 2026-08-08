@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 7,
+  "fecha": "2022-11-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLóN POLIDEPORTIVO DE LA MAGDALENA",
+    "ciudad": "Avilés (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AVILES TENIS DE MESA",
+      "id": "927",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL LOZANO GARCÍA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "B": {
+        "nombre": "JORGE CARLOS PARAMA CORDO",
+        "licencia": "2035",
+        "id": "2035"
+      },
+      "C": {
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "X": {
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "Z": {
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE CARLOS PARAMA CORDO",
+        "licencia": "2035",
+        "id": "2035"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 20,
+          "visitante": 18
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALEXANDRU GABRIEL ELEFTERESCU",
+        "licencia": "26841",
+        "id": "26841"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AVILES TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

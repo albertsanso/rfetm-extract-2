@@ -1,0 +1,366 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 21,
+  "fecha": "2026-04-25",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Cáceres (Cáceres)",
+    "recinto": "PABELLÓN SERRANO MACAYO"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CED CÁCERES PETROGOLD 2026",
+      "delegado": {
+        "nombre": "TORRES PINEDO, ELI SAUL",
+        "licencia": "43195"
+      },
+      "entrenador": {
+        "nombre": "ROMERO GALAN, ROBERTO",
+        "licencia": "8216"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO MERIDA TENIS DE MESA",
+      "delegado": {
+        "nombre": "BAZO REGAJO, MANUEL",
+        "licencia": "18813"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: ROMERO GALAN, ROBERTO",
+        "licencia": "8216"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DA SILVA TONON, LUIS CARLOS",
+      "licencia": "24197"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERNANDEZ QUEVEDO, PEDRO",
+        "licencia": "20918"
+      },
+      "B": {
+        "nombre": "LIU , YIXU",
+        "licencia": "42893"
+      },
+      "C": {
+        "nombre": "MORA BARROSO, SAMUEL",
+        "licencia": "38042"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BAZO REGAJO, MANUEL",
+        "licencia": "18813"
+      },
+      "X": {
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS",
+        "licencia": "19945"
+      },
+      "Z": {
+        "nombre": "MARTÍNEZ GÓMEZ, JOSÉ ALBERTO",
+        "licencia": "17449"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ QUEVEDO, PEDRO"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BAZO REGAJO, MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LIU , YIXU"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MORA BARROSO, SAMUEL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTÍNEZ GÓMEZ, JOSÉ ALBERTO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ QUEVEDO, PEDRO"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MORA BARROSO, SAMUEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BAZO REGAJO, MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 18
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LIU , YIXU"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTÍNEZ GÓMEZ, JOSÉ ALBERTO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CED CÁCERES PETROGOLD 2026",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

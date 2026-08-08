@@ -1,0 +1,287 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 9,
+  "fecha": "2023-12-01",
+  "hora": "20:00",
+  "lugar": {
+    "recinto": "GIMNASIO ESCUELA COLLSEROLA",
+    "ciudad": "Sant Cugat del Vallès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT",
+      "id": "20191319",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC - MALLORCA",
+      "id": "16215",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI CASAS CASAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MUNNE SANS, MARIONA",
+        "licencia": "27649",
+        "ranking": 1638.0,
+        "id": "27649"
+      },
+      "X": {
+        "nombre": "FRONT , ERIKA",
+        "licencia": "42070",
+        "ranking": 1800.0,
+        "id": "42070"
+      },
+      "Z": {
+        "nombre": "COLANTONI , CHIARA",
+        "licencia": "39560",
+        "ranking": 2208.0,
+        "id": "39560"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294",
+        "ranking": 2228.0,
+        "id": "27294"
+      },
+      "B": {
+        "nombre": "SASTRE PEREZ, EUGENIA",
+        "licencia": "18659",
+        "ranking": 2166.0,
+        "id": "18659"
+      },
+      "C": {
+        "nombre": "VIVARELLI , DEBORA",
+        "licencia": "39152",
+        "ranking": 2560.0,
+        "id": "39152"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MUNNE SANS, MARIONA",
+        "licencia": "27649",
+        "ranking": 1638.0,
+        "id": "27649"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294",
+        "ranking": 2228.0,
+        "id": "27294"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FRONT , ERIKA",
+        "licencia": "42070",
+        "ranking": 1800.0,
+        "id": "42070"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SASTRE PEREZ, EUGENIA",
+        "licencia": "18659",
+        "ranking": 2166.0,
+        "id": "18659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COLANTONI , CHIARA",
+        "licencia": "39560",
+        "ranking": 2208.0,
+        "id": "39560"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VIVARELLI , DEBORA",
+        "licencia": "39152",
+        "ranking": 2560.0,
+        "id": "39152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FRONT , ERIKA",
+        "licencia": "42070",
+        "ranking": 1800.0,
+        "id": "42070"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294",
+        "ranking": 2228.0,
+        "id": "27294"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SON CLADERA TTC - MALLORCA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

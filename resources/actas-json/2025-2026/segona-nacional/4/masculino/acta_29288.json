@@ -1,0 +1,396 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 15,
+  "fecha": "2026-02-07",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Zaragoza (Zaragoza)",
+    "recinto": "I.E.S. AVEMPACE"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PUBLIMAX C.D. SANTIAGO T.M.",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "DARUMA LLUISOS DE GRACIA",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TIRADO SARASA, PEDRO",
+      "licencia": "44880"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VILLARROYA GONZALEZ, HECTOR",
+        "licencia": "9653"
+      },
+      "X": {
+        "nombre": "MAICAS ANDRES, RAUL",
+        "licencia": "9654"
+      },
+      "Z": {
+        "nombre": "LOPEZ AJENJO, CRISTIAN",
+        "licencia": "8334"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MORIO , FLORIAN MARTIN",
+        "licencia": "38520"
+      },
+      "B": {
+        "nombre": "MARTORELL LOCASCIO, NEIL",
+        "licencia": "26171"
+      },
+      "C": {
+        "nombre": "MUÑOZ BUSTO, ISAAC",
+        "licencia": "21438"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "VILLARROYA GONZALEZ, HECTOR",
+      "MAICAS ANDRES, RAUL"
+    ],
+    "visitante": [
+      "MARTORELL LOCASCIO, NEIL",
+      "MORIO , FLORIAN MARTIN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VILLARROYA GONZALEZ, HECTOR"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MORIO , FLORIAN MARTIN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAICAS ANDRES, RAUL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTORELL LOCASCIO, NEIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LOPEZ AJENJO, CRISTIAN"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MUÑOZ BUSTO, ISAAC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAICAS ANDRES, RAUL"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MORIO , FLORIAN MARTIN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VILLARROYA GONZALEZ, HECTOR"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MUÑOZ BUSTO, ISAAC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LOPEZ AJENJO, CRISTIAN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTORELL LOCASCIO, NEIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "VILLARROYA GONZALEZ, HECTOR",
+          "MAICAS ANDRES, RAUL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MARTORELL LOCASCIO, NEIL",
+          "MORIO , FLORIAN MARTIN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DARUMA LLUISOS DE GRACIA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

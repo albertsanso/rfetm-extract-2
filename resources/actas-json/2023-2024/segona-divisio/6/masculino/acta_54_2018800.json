@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 6,
+  "fecha": "2023-11-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO LA RAMBLA",
+    "ciudad": "Coslada (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. COSLADA",
+      "id": "54",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TM",
+      "id": "2018800",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TOMAS RUIZ QUESADA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "X": {
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "Z": {
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709",
+        "id": "709"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "B": {
+        "nombre": "IORDANECHE SANCHEZ, DANIEL",
+        "licencia": "23748",
+        "id": "23748"
+      },
+      "C": {
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "OLTRA ALONSO, ANGEL",
+      "PETER TINI, DANIEL"
+    ],
+    "visitante": [
+      "ROMERO VERDASCO, ADRIAN",
+      "IORDANECHE SANCHEZ, DANIEL"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IORDANECHE SANCHEZ, DANIEL",
+        "licencia": "23748",
+        "id": "23748"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709",
+        "id": "709"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709",
+        "id": "709"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IORDANECHE SANCHEZ, DANIEL",
+        "licencia": "23748",
+        "id": "23748"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "OLTRA ALONSO, ANGEL",
+          "PETER TINI, DANIEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "ROMERO VERDASCO, ADRIAN",
+          "IORDANECHE SANCHEZ, DANIEL"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALUCHE TM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

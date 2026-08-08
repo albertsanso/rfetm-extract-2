@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2024-11-09",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALSA CARTAGENA",
+      "id": "70",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "2018818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "B": {
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541",
+        "id": "39541"
+      },
+      "C": {
+        "nombre": "CABEZAS BACALLAO, REINIER",
+        "licencia": "2091",
+        "id": "2091"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "X": {
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "Z": {
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+      "CABEZAS BACALLAO, REINIER"
+    ],
+    "visitante": [
+      "CABRERA CUSTODIO, FERNANDO",
+      "FERNANDEZ CRUCETA, JORGE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541",
+        "id": "39541"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CABEZAS BACALLAO, REINIER",
+        "licencia": "2091",
+        "id": "2091"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CABEZAS BACALLAO, REINIER",
+        "licencia": "2091",
+        "id": "2091"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541",
+        "id": "39541"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+          "CABEZAS BACALLAO, REINIER"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CABRERA CUSTODIO, FERNANDO",
+          "FERNANDEZ CRUCETA, JORGE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALSA CARTAGENA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

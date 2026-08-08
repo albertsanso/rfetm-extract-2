@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 5,
+  "fecha": "2023-10-28",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "VELODROMO LUIS PUIG",
+    "ciudad": "Valencia (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS DE TAULA BURJASSOT VALENCIA",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RUJAMAR TENIS DE MESA CUENCA",
+      "id": "20233052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN JOSE ENGUIX GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "X": {
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      },
+      "Z": {
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "B": {
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      },
+      "C": {
+        "nombre": "CARDO MENA, SERGIO",
+        "licencia": "21009",
+        "id": "21009"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARDO MENA, SERGIO",
+        "licencia": "21009",
+        "id": "21009"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARDO MENA, SERGIO",
+        "licencia": "21009",
+        "id": "21009"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS DE TAULA BURJASSOT VALENCIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

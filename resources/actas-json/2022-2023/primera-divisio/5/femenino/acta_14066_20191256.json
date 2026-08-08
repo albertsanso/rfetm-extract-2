@@ -1,0 +1,413 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 5,
+  "fecha": "2023-03-11",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "PABELLóN DE TENIS DE MESA POLIDEPORTIVO DEHESA BOYAL",
+    "ciudad": "AVDA. DE NAVARRONDáN S/N 28702 San Sebastián de los Reyes Madrid"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SSREYES-DOS DE MAYO",
+      "id": "14066",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO YACAL",
+      "id": "20191256",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALBERTO HERRERA MORUECO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SARAH DE VICENTE GOMEZ",
+        "licencia": "34287",
+        "id": "34287"
+      },
+      "B": {
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "C": {
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CLAUDIA ALONSO HERNANDEZ",
+        "licencia": "26504",
+        "id": "26504"
+      },
+      "X": {
+        "nombre": "ALEXA MANFERDINI",
+        "licencia": "34725",
+        "id": "34725"
+      },
+      "Z": {
+        "nombre": "EVELYN ALONSO HERNANDEZ",
+        "licencia": "26503",
+        "id": "26503"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "AMANDA CHENOLL GONZALEZ",
+      "MARIA ANUNCIACION DE LOS RIOS CARRIZO"
+    ],
+    "visitante": [
+      "CLAUDIA ALONSO HERNANDEZ",
+      "EVELYN ALONSO HERNANDEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SARAH DE VICENTE GOMEZ",
+        "licencia": "34287",
+        "id": "34287"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CLAUDIA ALONSO HERNANDEZ",
+        "licencia": "26504",
+        "id": "26504"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEXA MANFERDINI",
+        "licencia": "34725",
+        "id": "34725"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "EVELYN ALONSO HERNANDEZ",
+        "licencia": "26503",
+        "id": "26503"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SARAH DE VICENTE GOMEZ",
+        "licencia": "34287",
+        "id": "34287"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEXA MANFERDINI",
+        "licencia": "34725",
+        "id": "34725"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CLAUDIA ALONSO HERNANDEZ",
+        "licencia": "26504",
+        "id": "26504"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "EVELYN ALONSO HERNANDEZ",
+        "licencia": "26503",
+        "id": "26503"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "AMANDA CHENOLL GONZALEZ",
+          "MARIA ANUNCIACION DE LOS RIOS CARRIZO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CLAUDIA ALONSO HERNANDEZ",
+          "EVELYN ALONSO HERNANDEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SSREYES-DOS DE MAYO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

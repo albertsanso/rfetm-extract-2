@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 11,
+  "fecha": "2019-12-21",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON LA PAZ",
+    "ciudad": "Cádiz (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA BAHIA DE CADIZ",
+      "id": "20191643",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD SAFA ANDÚJAR TRANSP. ÁLVAREZ MARÍN",
+      "id": "20191273",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO SANCHEZ LARA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "X": {
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "Z": {
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "B": {
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      },
+      "C": {
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GUILLERMO PACHECO CORTES",
+      "CARLOS GARRIDO GOMEZ"
+    ],
+    "visitante": [
+      "PEDRO JESUS HERRERA DELGADO",
+      "FRANCISCO JAVIER CARRILLO MAGAÑA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GUILLERMO PACHECO CORTES",
+          "CARLOS GARRIDO GOMEZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PEDRO JESUS HERRERA DELGADO",
+          "FRANCISCO JAVIER CARRILLO MAGAÑA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD SAFA ANDÚJAR TRANSP. ÁLVAREZ MARÍN",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

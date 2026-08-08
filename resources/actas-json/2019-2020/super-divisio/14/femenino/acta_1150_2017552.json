@@ -1,0 +1,376 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 14,
+  "fecha": "2020-02-15",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO DEL IES QUARTO DEL REI",
+    "ciudad": "Santa Eulalia del Río (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HISPALIS TM",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3156.0,
+        "id": "33819"
+      },
+      "X": {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "Z": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "B": {
+        "nombre": "MARTA ROMERO SANCHEZ",
+        "licencia": "9589",
+        "ranking": 788.0,
+        "id": "9589"
+      },
+      "C": {
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "YEE LOK LAM",
+      "TIJANA JOKIC"
+    ],
+    "visitante": [
+      "PO-HSUAN LIN",
+      "MIREIA CIFUENTES FERNANDEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3156.0,
+        "id": "33819"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTA ROMERO SANCHEZ",
+        "licencia": "9589",
+        "ranking": 788.0,
+        "id": "9589"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "YEE LOK LAM",
+          "TIJANA JOKIC"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PO-HSUAN LIN",
+          "MIREIA CIFUENTES FERNANDEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "YEE LOK LAM",
+        "licencia": "33819",
+        "ranking": 3156.0,
+        "id": "33819"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "COVICSA-CTT SANTA EULARIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

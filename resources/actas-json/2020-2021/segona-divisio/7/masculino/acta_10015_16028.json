@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 5,
+  "jornada": 7,
+  "fecha": "2021-04-10",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO CRISTOBAL GAMON C/SORGUINTXULO Nº6",
+    "ciudad": "Errenteria (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D FORTUNA K.E - SUPER AMARA",
+      "id": "10015",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SCDR ANAITASUNA",
+      "id": "16028",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIKEL HERNANDEZ RECIO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALEXEI EMELIANOV MIJAILOVICH",
+        "licencia": "1554",
+        "id": "1554"
+      },
+      "B": {
+        "nombre": "MIKEL HERNANDEZ RECIO",
+        "licencia": "16561",
+        "id": "16561"
+      },
+      "C": {
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MANUEL CASADO MENDEZ",
+        "licencia": "1528",
+        "id": "1528"
+      },
+      "X": {
+        "nombre": "CESAR CASADO MARTIN",
+        "licencia": "22856",
+        "id": "22856"
+      },
+      "Z": {
+        "nombre": "HECTOR TORRE JIMENEZ",
+        "licencia": "29787",
+        "id": "29787"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEXEI EMELIANOV MIJAILOVICH",
+        "licencia": "1554",
+        "id": "1554"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MANUEL CASADO MENDEZ",
+        "licencia": "1528",
+        "id": "1528"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MIKEL HERNANDEZ RECIO",
+        "licencia": "16561",
+        "id": "16561"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CESAR CASADO MARTIN",
+        "licencia": "22856",
+        "id": "22856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR TORRE JIMENEZ",
+        "licencia": "29787",
+        "id": "29787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEXEI EMELIANOV MIJAILOVICH",
+        "licencia": "1554",
+        "id": "1554"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CESAR CASADO MARTIN",
+        "licencia": "22856",
+        "id": "22856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MANUEL CASADO MENDEZ",
+        "licencia": "1528",
+        "id": "1528"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IÑIGO ARROZPIDE NEGREDO",
+        "licencia": "21734",
+        "id": "21734"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JESUS ECHEVERRIA MOLINERO",
+        "licencia": "22855",
+        "id": "22855"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D FORTUNA K.E - SUPER AMARA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 1,
+  "fecha": "2023-09-30",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "ESCUELA MARE DE DÉU DE MONTSERRAT",
+    "ciudad": "Olesa de Montserrat (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT TONA PADRÓS CHEESE",
+      "id": "815",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN ANTONIO FLORES MARTINEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "B": {
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "C": {
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ADEOSUN , DAVID",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "X": {
+        "nombre": "CARCELLER VALLS, JORDI",
+        "licencia": "9449",
+        "id": "9449"
+      },
+      "Z": {
+        "nombre": "GRANADOS GARCIA, CLAUDIO",
+        "licencia": "15155",
+        "id": "15155"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ADEOSUN , DAVID",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARCELLER VALLS, JORDI",
+        "licencia": "9449",
+        "id": "9449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GRANADOS GARCIA, CLAUDIO",
+        "licencia": "15155",
+        "id": "15155"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARCELLER VALLS, JORDI",
+        "licencia": "9449",
+        "id": "9449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ADEOSUN , DAVID",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 20,
+          "visitante": 18
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GRANADOS GARCIA, CLAUDIO",
+        "licencia": "15155",
+        "id": "15155"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BLANXART XALOC OLESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

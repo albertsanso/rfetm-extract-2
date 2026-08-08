@@ -1,0 +1,381 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2025-03-15",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GONDOMAR TM / ROSQUILLAS CRISTALEIRO",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BOADILLA T.M. CEIP TERESA BERGANZA",
+      "id": "20191284",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERREIRA QUEIROZ, ALEXANDRE",
+        "licencia": "44315",
+        "id": "44315"
+      },
+      "B": {
+        "nombre": "GONZALEZ MIGUEZ, MARTIN",
+        "licencia": "9188",
+        "id": "9188"
+      },
+      "C": {
+        "nombre": "PINTOS BARREIRO, MARTIN",
+        "licencia": "9975",
+        "id": "9975"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CASTILLO AROCHA, CESAR AUGUSTO",
+        "licencia": "44436",
+        "id": "44436"
+      },
+      "X": {
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "Z": {
+        "nombre": "GOMEZ SANDONIS, DANIEL",
+        "licencia": "10198",
+        "id": "10198"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERREIRA QUEIROZ, ALEXANDRE",
+        "licencia": "44315",
+        "id": "44315"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTILLO AROCHA, CESAR AUGUSTO",
+        "licencia": "44436",
+        "id": "44436"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GONZALEZ MIGUEZ, MARTIN",
+        "licencia": "9188",
+        "id": "9188"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PINTOS BARREIRO, MARTIN",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GOMEZ SANDONIS, DANIEL",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERREIRA QUEIROZ, ALEXANDRE",
+        "licencia": "44315",
+        "id": "44315"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PINTOS BARREIRO, MARTIN",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTILLO AROCHA, CESAR AUGUSTO",
+        "licencia": "44436",
+        "id": "44436"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GONZALEZ MIGUEZ, MARTIN",
+        "licencia": "9188",
+        "id": "9188"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GOMEZ SANDONIS, DANIEL",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA T.M. CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

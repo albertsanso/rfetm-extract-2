@@ -1,0 +1,292 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 5,
+  "fecha": "2023-10-28",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL EDUARDO GUILLEN",
+    "ciudad": "Collado Mediano (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COLLADO MEDIANO TM /AGRUPACION DEPORTIVA",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.E.R. ROBIN HAT PRISCO L´ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO PÉREZ BARRANCO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SHI TIAN, WEIDONG",
+        "licencia": "1704",
+        "ranking": 2502.0,
+        "id": "1704"
+      },
+      "X": {
+        "nombre": "ERIKSSON , ANDERS BERTIL",
+        "licencia": "31411",
+        "ranking": 2500.0,
+        "id": "31411"
+      },
+      "Z": {
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SUN , SHIYU",
+        "licencia": "40987",
+        "ranking": 1936.0,
+        "id": "40987"
+      },
+      "B": {
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969",
+        "ranking": 1733.0,
+        "id": "3969"
+      },
+      "C": {
+        "nombre": "GONZALEZ H. HERNANDEZ, IKER",
+        "licencia": "16808",
+        "ranking": 1542.0,
+        "id": "16808"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SHI TIAN, WEIDONG",
+        "licencia": "1704",
+        "ranking": 2502.0,
+        "id": "1704"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SUN , SHIYU",
+        "licencia": "40987",
+        "ranking": 1936.0,
+        "id": "40987"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ERIKSSON , ANDERS BERTIL",
+        "licencia": "31411",
+        "ranking": 2500.0,
+        "id": "31411"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969",
+        "ranking": 1733.0,
+        "id": "3969"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GONZALEZ H. HERNANDEZ, IKER",
+        "licencia": "16808",
+        "ranking": 1542.0,
+        "id": "16808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ERIKSSON , ANDERS BERTIL",
+        "licencia": "31411",
+        "ranking": 2500.0,
+        "id": "31411"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SUN , SHIYU",
+        "licencia": "40987",
+        "ranking": 1936.0,
+        "id": "40987"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "COLLADO MEDIANO TM /AGRUPACION DEPORTIVA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 20,
+  "fecha": "2024-04-17",
+  "hora": "19:30",
+  "lugar": {
+    "recinto": "PABELLON POLIDEPORTIVO DE BASTIAGUEIRO IES MARIA CASARES",
+    "ciudad": "Oleiros (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM BREOGAN OLEIROS",
+      "id": "2018795",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222985",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO SAAVEDRA RUBINOS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "TERUEL SANJURJO, JOAQUIN RAMON",
+        "licencia": "1719",
+        "id": "1719"
+      },
+      "X": {
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "Z": {
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PALLARéS RON, SAúL",
+        "licencia": "39061",
+        "id": "39061"
+      },
+      "B": {
+        "nombre": "IGLESIAS VIGIL, HUGO",
+        "licencia": "2754",
+        "id": "2754"
+      },
+      "C": {
+        "nombre": "PEREZ FANDIÑO, SERGIO",
+        "licencia": "16636",
+        "id": "16636"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TERUEL SANJURJO, JOAQUIN RAMON",
+        "licencia": "1719",
+        "id": "1719"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PALLARéS RON, SAúL",
+        "licencia": "39061",
+        "id": "39061"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IGLESIAS VIGIL, HUGO",
+        "licencia": "2754",
+        "id": "2754"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ FANDIÑO, SERGIO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PALLARéS RON, SAúL",
+        "licencia": "39061",
+        "id": "39061"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TERUEL SANJURJO, JOAQUIN RAMON",
+        "licencia": "1719",
+        "id": "1719"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ FANDIÑO, SERGIO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IGLESIAS VIGIL, HUGO",
+        "licencia": "2754",
+        "id": "2754"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM BREOGAN OLEIROS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

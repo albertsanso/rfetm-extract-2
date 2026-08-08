@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 20,
+  "fecha": "2024-04-20",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "S.C.D.R. ANAITASUNA",
+    "ciudad": "Pamplona/Iruña (Navarra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SCDR ANAITASUNA",
+      "id": "20212128",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ABADIÑO - L4UKO",
+      "id": "1335",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS ECHEVERRIA MOLINERO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "B": {
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "C": {
+        "nombre": "ESPARZA LANGARICA, DAVID",
+        "licencia": "8797",
+        "id": "8797"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LEGARRA ACERO, XABIER",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "X": {
+        "nombre": "IRINEU ANCA, ENRIQUE",
+        "licencia": "1976",
+        "id": "1976"
+      },
+      "Z": {
+        "nombre": "GARCIA ARCE, JAVIER",
+        "licencia": "1930",
+        "id": "1930"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEGARRA ACERO, XABIER",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IRINEU ANCA, ENRIQUE",
+        "licencia": "1976",
+        "id": "1976"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ESPARZA LANGARICA, DAVID",
+        "licencia": "8797",
+        "id": "8797"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA ARCE, JAVIER",
+        "licencia": "1930",
+        "id": "1930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IRINEU ANCA, ENRIQUE",
+        "licencia": "1976",
+        "id": "1976"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ESPARZA LANGARICA, DAVID",
+        "licencia": "8797",
+        "id": "8797"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEGARRA ACERO, XABIER",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MILLERA CHARRO, MATÍAS",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA ARCE, JAVIER",
+        "licencia": "1930",
+        "id": "1930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SCDR ANAITASUNA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

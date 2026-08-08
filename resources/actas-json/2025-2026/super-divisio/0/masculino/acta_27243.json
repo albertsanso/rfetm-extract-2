@@ -1,0 +1,336 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 21,
+  "fecha": "2026-05-01",
+  "hora": "18:30",
+  "lugar": {
+    "ciudad": "Burgos (Burgos)",
+    "recinto": "SALA DE TENIS DE MESA DE BURGOS"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UBU TPF BURGOS 2031",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "AUSIN BRIONGOS, JORGE",
+        "licencia": "3775"
+      }
+    },
+    "visitante": {
+      "nombre": "ATLÉTICO SAN SEBASTIÁN",
+      "delegado": {
+        "nombre": "MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      },
+      "entrenador": {
+        "nombre": "REBORDINOS MIRAMON, DANIEL",
+        "licencia": "582"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PéREZ HERNáNDEZ, GABRIEL",
+      "licencia": "39813"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "COLINA VARONA, AITOR",
+        "licencia": "19271"
+      },
+      "X": {
+        "nombre": "PETEK , BORNA",
+        "licencia": "47111"
+      },
+      "Z": {
+        "nombre": "BARRIUSO AUSIN, DAVID",
+        "licencia": "2890"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CEPAS ZAPICO, ANDER",
+        "licencia": "22596"
+      },
+      "B": {
+        "nombre": "INCHAUSTI ALVAREZ, DANEL",
+        "licencia": "35449"
+      },
+      "C": {
+        "nombre": "MARTINEZ CATALAN, IKER",
+        "licencia": "20734"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COLINA VARONA, AITOR"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CEPAS ZAPICO, ANDER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PETEK , BORNA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "INCHAUSTI ALVAREZ, DANEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARRIUSO AUSIN, DAVID"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ CATALAN, IKER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PETEK , BORNA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CEPAS ZAPICO, ANDER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COLINA VARONA, AITOR"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ CATALAN, IKER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARRIUSO AUSIN, DAVID"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "INCHAUSTI ALVAREZ, DANEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ATLÉTICO SAN SEBASTIÁN",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

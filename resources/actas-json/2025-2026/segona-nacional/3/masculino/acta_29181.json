@@ -1,0 +1,360 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 3,
+  "jornada": 20,
+  "fecha": "2026-04-26",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)",
+    "recinto": "POLIDEPORTIVO BERA BERA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLETICO SAN SEBASTIAN 'B'",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      }
+    },
+    "visitante": {
+      "nombre": "RODAMIENTOS ARIZTI GASTEIZ",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ARMENTIA ACEDO, JOSE MANUEL",
+      "licencia": "627"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ECHETO GOIZUETA, LUIS",
+        "licencia": "1150"
+      },
+      "X": {
+        "nombre": "EIZMENDI ARTEAGA, JOSE ANTONIO",
+        "licencia": "18227"
+      },
+      "Z": {
+        "nombre": "RODRIGUEZ ALDACO, ALVARO",
+        "licencia": "18228"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ESCOBAR ANDRES, IÑIGO",
+        "licencia": "1646"
+      },
+      "B": {
+        "nombre": "OTAZU MORENO, XABIER",
+        "licencia": "16548"
+      },
+      "C": {
+        "nombre": "MOURIZ HERNANDEZ, ADRIAN",
+        "licencia": "2802"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ECHETO GOIZUETA, LUIS"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESCOBAR ANDRES, IÑIGO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "EIZMENDI ARTEAGA, JOSE ANTONIO"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OTAZU MORENO, XABIER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ ALDACO, ALVARO"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOURIZ HERNANDEZ, ADRIAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "EIZMENDI ARTEAGA, JOSE ANTONIO"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESCOBAR ANDRES, IÑIGO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ECHETO GOIZUETA, LUIS"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOURIZ HERNANDEZ, ADRIAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ ALDACO, ALVARO"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OTAZU MORENO, XABIER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RODAMIENTOS ARIZTI GASTEIZ",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

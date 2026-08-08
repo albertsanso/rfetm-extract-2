@@ -1,0 +1,281 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2020-02-28",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA MUNICIPAL TENIS DE MESA",
+    "ciudad": "ANEXO PABELLON CUATRO SANTOS - Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "ranking": 3068.0,
+        "id": "34298"
+      },
+      "X": {
+        "nombre": "XIN LIU",
+        "licencia": "31667",
+        "ranking": 3574.0,
+        "id": "31667"
+      },
+      "Z": {
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2295.0,
+        "id": "9863"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CHIA-YUN KUO",
+        "licencia": "32706",
+        "ranking": 2866.0,
+        "id": "32706"
+      },
+      "B": {
+        "nombre": "LUCIA AGUAYO RUIZ",
+        "licencia": "19228",
+        "ranking": 799.0,
+        "id": "19228"
+      },
+      "C": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1609.0,
+        "id": "9186"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "XIN LIU",
+      "ANA GARCIA MONTERO"
+    ],
+    "visitante": [
+      "CHIA-YUN KUO",
+      "JUDITH COBAS PENA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "ranking": 3068.0,
+        "id": "34298"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHIA-YUN KUO",
+        "licencia": "32706",
+        "ranking": 2866.0,
+        "id": "32706"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "XIN LIU",
+        "licencia": "31667",
+        "ranking": 3574.0,
+        "id": "31667"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LUCIA AGUAYO RUIZ",
+        "licencia": "19228",
+        "ranking": 799.0,
+        "id": "19228"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2295.0,
+        "id": "9863"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1609.0,
+        "id": "9186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "XIN LIU",
+          "ANA GARCIA MONTERO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CHIA-YUN KUO",
+          "JUDITH COBAS PENA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 0
+    }
+  },
+  "acta_protestada": false
+}

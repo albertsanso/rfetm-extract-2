@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2023-10-21",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ZUBI ALDE",
+    "ciudad": "Portugalete (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PORTUGALETE ANGULO DELIKATESSEN",
+      "id": "20191288",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ETM AMADIS",
+      "id": "10140",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CLAUDIO IZQUIERDO GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "X": {
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "Z": {
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALVAREZ ARGÜELLO, JOSE LUIS",
+        "licencia": "6361",
+        "id": "6361"
+      },
+      "B": {
+        "nombre": "FERNANDEZ GONZALEZ, GUILLERMO",
+        "licencia": "14945",
+        "id": "14945"
+      },
+      "C": {
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVAREZ ARGÜELLO, JOSE LUIS",
+        "licencia": "6361",
+        "id": "6361"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ GONZALEZ, GUILLERMO",
+        "licencia": "14945",
+        "id": "14945"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVAREZ ARGÜELLO, JOSE LUIS",
+        "licencia": "6361",
+        "id": "6361"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ GONZALEZ, GUILLERMO",
+        "licencia": "14945",
+        "id": "14945"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM AMADIS",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

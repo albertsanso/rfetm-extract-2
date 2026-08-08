@@ -1,0 +1,423 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES TORRETA ELDA (ENTRADA POR PUERTA DE ATRAS)",
+    "ciudad": "Elda (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS DE TAULA BURJASSOT VALENCIA",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA DOLORES SANCHEZ ABELLAN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DE ANDRES LOPEZ, JORGE",
+        "licencia": "16400",
+        "id": "16400"
+      },
+      "B": {
+        "nombre": "RIZO VALERO, RUBEN",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "C": {
+        "nombre": "LOPEZ TORRES, ANGEL",
+        "licencia": "14811",
+        "id": "14811"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      },
+      "X": {
+        "nombre": "BATALLER CARREÑO, BERNAT",
+        "licencia": "6536",
+        "id": "6536"
+      },
+      "Z": {
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "DE ANDRES LOPEZ, JORGE",
+      "RIZO VALERO, RUBEN"
+    ],
+    "visitante": [
+      "CACIOPPO DE PAZ, SAMUEL VICENTE",
+      "BATALLER CARREÑO, BERNAT"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DE ANDRES LOPEZ, JORGE",
+        "licencia": "16400",
+        "id": "16400"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RIZO VALERO, RUBEN",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BATALLER CARREÑO, BERNAT",
+        "licencia": "6536",
+        "id": "6536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPEZ TORRES, ANGEL",
+        "licencia": "14811",
+        "id": "14811"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DE ANDRES LOPEZ, JORGE",
+        "licencia": "16400",
+        "id": "16400"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BATALLER CARREÑO, BERNAT",
+        "licencia": "6536",
+        "id": "6536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPEZ TORRES, ANGEL",
+        "licencia": "14811",
+        "id": "14811"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RIZO VALERO, RUBEN",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOSCA SANCHO, JORGE",
+        "licencia": "19190",
+        "id": "19190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "DE ANDRES LOPEZ, JORGE",
+          "RIZO VALERO, RUBEN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CACIOPPO DE PAZ, SAMUEL VICENTE",
+          "BATALLER CARREÑO, BERNAT"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS DE TAULA BURJASSOT VALENCIA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

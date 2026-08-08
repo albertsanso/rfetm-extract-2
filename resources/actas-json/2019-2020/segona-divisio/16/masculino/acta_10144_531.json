@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 7,
+  "jornada": 16,
+  "fecha": "2020-02-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON CIUDAD DEPORTIVA",
+    "ciudad": "Castellón de la Plana/Castelló de la Plana (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CASTELLÓ APE CERÁMICA",
+      "id": "10144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT LA NAU MANISES",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN IGNACIO IRANZO REIG",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "B": {
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "C": {
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "X": {
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "Z": {
+        "nombre": "BERNAT BATALLER CARREÑO",
+        "licencia": "6536",
+        "id": "6536"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BERNAT BATALLER CARREÑO",
+        "licencia": "6536",
+        "id": "6536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BERNAT BATALLER CARREÑO",
+        "licencia": "6536",
+        "id": "6536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CASTELLÓ APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

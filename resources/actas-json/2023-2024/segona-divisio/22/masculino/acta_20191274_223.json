@@ -1,0 +1,413 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 22,
+  "fecha": "2024-05-05",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA VEGAS DEL GENIL",
+    "ciudad": "Vegas del Genil (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "id": "20191274",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM CIUDAD DE GRANADA",
+      "id": "223",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO ALONSO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ABELA NIETO, OLIVER",
+        "licencia": "38978",
+        "id": "38978"
+      },
+      "B": {
+        "nombre": "GABALDON TOVAR, JOSE ANTONIO",
+        "licencia": "34387",
+        "id": "34387"
+      },
+      "C": {
+        "nombre": "SEVILLA JIMENEZ, ALEJANDRO",
+        "licencia": "40671",
+        "id": "40671"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARCÍA RAMÍREZ, MANUEL",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "X": {
+        "nombre": "KIREEV , ROMAN",
+        "licencia": "40853",
+        "id": "40853"
+      },
+      "Z": {
+        "nombre": "SÁNCHEZ GONZÁLEZ, FRANCISCO",
+        "licencia": "38962",
+        "id": "38962"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ABELA NIETO, OLIVER",
+      "GABALDON TOVAR, JOSE ANTONIO"
+    ],
+    "visitante": [
+      "KIREEV , ROMAN",
+      "GARCÍA RAMÍREZ, MANUEL"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ABELA NIETO, OLIVER",
+        "licencia": "38978",
+        "id": "38978"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCÍA RAMÍREZ, MANUEL",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GABALDON TOVAR, JOSE ANTONIO",
+        "licencia": "34387",
+        "id": "34387"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "KIREEV , ROMAN",
+        "licencia": "40853",
+        "id": "40853"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SEVILLA JIMENEZ, ALEJANDRO",
+        "licencia": "40671",
+        "id": "40671"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ GONZÁLEZ, FRANCISCO",
+        "licencia": "38962",
+        "id": "38962"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ABELA NIETO, OLIVER",
+        "licencia": "38978",
+        "id": "38978"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "KIREEV , ROMAN",
+        "licencia": "40853",
+        "id": "40853"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SEVILLA JIMENEZ, ALEJANDRO",
+        "licencia": "40671",
+        "id": "40671"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCÍA RAMÍREZ, MANUEL",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GABALDON TOVAR, JOSE ANTONIO",
+        "licencia": "34387",
+        "id": "34387"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ GONZÁLEZ, FRANCISCO",
+        "licencia": "38962",
+        "id": "38962"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ABELA NIETO, OLIVER",
+          "GABALDON TOVAR, JOSE ANTONIO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "KIREEV , ROMAN",
+          "GARCÍA RAMÍREZ, MANUEL"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM CIUDAD DE GRANADA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

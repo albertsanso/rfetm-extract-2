@@ -1,0 +1,352 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": null,
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": null,
+  "hora": null,
+  "lugar": {
+    "ciudad": "FABRICA LLOBET",
+    "recinto": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS DE TAULA RIPOLLET",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "delegado": {
+        "nombre": "CRESPO GUTIERREZ, OSCAR",
+        "licencia": "31918"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PUIG POZUELO, TANIA",
+      "licencia": "1602"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BENET BACARDIT, ELSA",
+        "licencia": "32208"
+      },
+      "X": {
+        "nombre": "MOGAS PLADEVALL, AINA",
+        "licencia": "15192"
+      },
+      "Z": {
+        "nombre": "RICO RODRIGUEZ, LIDIA",
+        "licencia": "10434"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CRESPO ACEREDA, ROCIO",
+        "licencia": "30374"
+      },
+      "B": {
+        "nombre": "FERNANDEZ ALONSO, JANA",
+        "licencia": "39730"
+      },
+      "C": {
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN",
+        "licencia": "1345"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENET BACARDIT, ELSA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRESPO ACEREDA, ROCIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOGAS PLADEVALL, AINA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ ALONSO, JANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RICO RODRIGUEZ, LIDIA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOGAS PLADEVALL, AINA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRESPO ACEREDA, ROCIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENET BACARDIT, ELSA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RICO RODRIGUEZ, LIDIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ ALONSO, JANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS DE TAULA RIPOLLET",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

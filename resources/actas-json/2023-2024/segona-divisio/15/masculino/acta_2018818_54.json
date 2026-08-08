@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 15,
+  "fecha": "2024-02-10",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "C.E.I.P. JESúS VARELA",
+    "ciudad": "Alcorcón (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "2018818",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. COSLADA",
+      "id": "54",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GONZALEZ RUBIO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "B": {
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "C": {
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CELDRAN ROMERO, FERNANDO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "X": {
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "Z": {
+        "nombre": "TRIGUEROS OLMEDO, LUIS",
+        "licencia": "7374",
+        "id": "7374"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CELDRAN ROMERO, FERNANDO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TRIGUEROS OLMEDO, LUIS",
+        "licencia": "7374",
+        "id": "7374"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116",
+        "id": "7116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CELDRAN ROMERO, FERNANDO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TRIGUEROS OLMEDO, LUIS",
+        "licencia": "7374",
+        "id": "7374"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDE ALCORCÓN TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

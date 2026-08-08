@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Femenina",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1440",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE - CLÍNICA CÁMARA",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL TORRES ALCALA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "X": {
+        "nombre": "ISABEL RODRIGUEZ BELTRAN",
+        "licencia": "9875",
+        "id": "9875"
+      },
+      "Z": {
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SIMONA ELENA SAVU VINTINA",
+        "licencia": "1573",
+        "id": "1573"
+      },
+      "B": {
+        "nombre": "OISHWARYYA DEB",
+        "licencia": "33704",
+        "id": "33704"
+      },
+      "C": {
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SIMONA ELENA SAVU VINTINA",
+        "licencia": "1573",
+        "id": "1573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ISABEL RODRIGUEZ BELTRAN",
+        "licencia": "9875",
+        "id": "9875"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OISHWARYYA DEB",
+        "licencia": "33704",
+        "id": "33704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ISABEL RODRIGUEZ BELTRAN",
+        "licencia": "9875",
+        "id": "9875"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SIMONA ELENA SAVU VINTINA",
+        "licencia": "1573",
+        "id": "1573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OISHWARYYA DEB",
+        "licencia": "33704",
+        "id": "33704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE - CLÍNICA CÁMARA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

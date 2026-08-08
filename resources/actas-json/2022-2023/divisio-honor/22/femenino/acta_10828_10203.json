@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CEIP LAS CIGÜEÑAS EN LA AVDA. DE LAS NACIONES S/N ESQUINA A LA AVDA. FRANCIA",
+    "ciudad": "Rivas-Vaciamadrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D.T.M. RIVAS",
+      "id": "10828",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AD COLLADO MEDIANO",
+      "id": "10203",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO ALVAREZ SOLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIA TERESA NINE REY",
+        "licencia": "2426",
+        "id": "2426"
+      },
+      "X": {
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "id": "4804"
+      },
+      "Z": {
+        "nombre": "ALEJANDRA CERVANTES GUZMAN",
+        "licencia": "29446",
+        "id": "29446"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARIA LOPÉZ BERNAL",
+        "licencia": "17866",
+        "id": "17866"
+      },
+      "B": {
+        "nombre": "ANA DE LA MATA HERREROS",
+        "licencia": "20091",
+        "id": "20091"
+      },
+      "C": {
+        "nombre": "NURIA HERNAN-GOMEZ PONCE",
+        "licencia": "33902",
+        "id": "33902"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA TERESA NINE REY",
+        "licencia": "2426",
+        "id": "2426"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA LOPÉZ BERNAL",
+        "licencia": "17866",
+        "id": "17866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "id": "4804"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA DE LA MATA HERREROS",
+        "licencia": "20091",
+        "id": "20091"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALEJANDRA CERVANTES GUZMAN",
+        "licencia": "29446",
+        "id": "29446"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NURIA HERNAN-GOMEZ PONCE",
+        "licencia": "33902",
+        "id": "33902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "id": "4804"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA LOPÉZ BERNAL",
+        "licencia": "17866",
+        "id": "17866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA TERESA NINE REY",
+        "licencia": "2426",
+        "id": "2426"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NURIA HERNAN-GOMEZ PONCE",
+        "licencia": "33902",
+        "id": "33902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALEJANDRA CERVANTES GUZMAN",
+        "licencia": "29446",
+        "id": "29446"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA DE LA MATA HERREROS",
+        "licencia": "20091",
+        "id": "20091"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D.T.M. RIVAS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

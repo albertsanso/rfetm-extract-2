@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 4,
+  "jornada": 5,
+  "fecha": "2022-03-19",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL",
+    "ciudad": "AVENIDA DE NAVARRONDAN S N 28702-San Sebastián de los Reyes (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA DEFENSE F LA PALMA",
+      "id": "20212249",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TENIS DE MESA FEMENINO",
+      "id": "2018886",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO ALVAREZ SOLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BRENDA HERNANDEZ BRITO",
+        "licencia": "18025",
+        "id": "18025"
+      },
+      "B": {
+        "nombre": "SARA RAMOS MARTIN",
+        "licencia": "29257",
+        "id": "29257"
+      },
+      "C": {
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOHANNA CHRISTIANE PETRA HASEMKAMP",
+        "licencia": "22803",
+        "id": "22803"
+      },
+      "X": {
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "Z": {
+        "nombre": "ALICE COMMISSO",
+        "licencia": "36908",
+        "id": "36908"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BRENDA HERNANDEZ BRITO",
+        "licencia": "18025",
+        "id": "18025"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOHANNA CHRISTIANE PETRA HASEMKAMP",
+        "licencia": "22803",
+        "id": "22803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SARA RAMOS MARTIN",
+        "licencia": "29257",
+        "id": "29257"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALICE COMMISSO",
+        "licencia": "36908",
+        "id": "36908"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BRENDA HERNANDEZ BRITO",
+        "licencia": "18025",
+        "id": "18025"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOHANNA CHRISTIANE PETRA HASEMKAMP",
+        "licencia": "22803",
+        "id": "22803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SARA RAMOS MARTIN",
+        "licencia": "29257",
+        "id": "29257"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALICE COMMISSO",
+        "licencia": "36908",
+        "id": "36908"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA DEFENSE F LA PALMA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,377 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 1,
+  "jornada": 9,
+  "fecha": "2025-11-30",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Gijón (Asturias)",
+    "recinto": "COMPLEJO DEPORTIVO DE LA CALZADA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA ATALAYA GIJON TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GARCIA MENENDEZ, JONATHAN JOSE",
+        "licencia": "9367"
+      }
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "ALVAREZ CAO, FERNANDO",
+        "licencia": "1725"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONELLA MENDEZ, IARA",
+      "licencia": "47884"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PAROLA , VALENTINA MAITE",
+        "licencia": "42179"
+      },
+      "X": {
+        "nombre": "RIESTRA POCIÑO, MARIA",
+        "licencia": "28785"
+      },
+      "Z": {
+        "nombre": "ZHANG , JIN",
+        "licencia": "6506"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GUO CHEN, JIAQI",
+        "licencia": "26947"
+      },
+      "B": {
+        "nombre": "ESTEVES COSTA, SUSANA",
+        "licencia": "44155"
+      },
+      "C": {
+        "nombre": "ALVAREZ LOPEZ, EMMA",
+        "licencia": "24230"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ZHANG , JIN",
+      "RIESTRA POCIÑO, MARIA"
+    ],
+    "visitante": [
+      "GUO CHEN, JIAQI",
+      "ESTEVES COSTA, SUSANA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAROLA , VALENTINA MAITE"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GUO CHEN, JIAQI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RIESTRA POCIÑO, MARIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ESTEVES COSTA, SUSANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZHANG , JIN"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVAREZ LOPEZ, EMMA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RIESTRA POCIÑO, MARIA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GUO CHEN, JIAQI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAROLA , VALENTINA MAITE"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVAREZ LOPEZ, EMMA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZHANG , JIN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ESTEVES COSTA, SUSANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ZHANG , JIN",
+          "RIESTRA POCIÑO, MARIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "GUO CHEN, JIAQI",
+          "ESTEVES COSTA, SUSANA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VISIT PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

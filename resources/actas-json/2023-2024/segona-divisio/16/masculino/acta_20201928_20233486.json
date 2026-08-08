@@ -1,0 +1,443 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 16,
+  "fecha": "2024-02-17",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CEIP PÍO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "id": "20201928",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "NATURAL SYSTEMS TM",
+      "id": "20233486",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL JESUS SAÑUDO JIMENEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "B": {
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "C": {
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JIMENEZ CASTRO, ALFONSO LUIS",
+        "licencia": "18701",
+        "id": "18701"
+      },
+      "X": {
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      },
+      "Z": {
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "FABRA FORJÁN, JESÚS JULIÁN",
+      "CARO RAMIREZ, JOSE MANUEL"
+    ],
+    "visitante": [
+      "PEREZ MARTINEZ, JUAN",
+      "ALCAIDE PRIEGO, MANUEL"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JIMENEZ CASTRO, ALFONSO LUIS",
+        "licencia": "18701",
+        "id": "18701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JIMENEZ CASTRO, ALFONSO LUIS",
+        "licencia": "18701",
+        "id": "18701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "FABRA FORJÁN, JESÚS JULIÁN",
+          "CARO RAMIREZ, JOSE MANUEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PEREZ MARTINEZ, JUAN",
+          "ALCAIDE PRIEGO, MANUEL"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MAZDA JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

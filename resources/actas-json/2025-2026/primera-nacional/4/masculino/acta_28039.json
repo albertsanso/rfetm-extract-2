@@ -1,0 +1,355 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2025-09-27",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Sant Joan Despí (Barcelona)",
+    "recinto": "GIMNASIO DEL COLEGIO ATENEU INSTRUCTIU (FRENTE AL CAMPO DE FUTBOL)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DESPÍ TT- ALUMINIOS ARAQUE",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA BARCELONA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FLORES MARTINEZ, JUAN ANTONIO",
+      "licencia": "25344"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      },
+      "X": {
+        "nombre": "TUDURI MORENTE, ANTONI",
+        "licencia": "19443"
+      },
+      "Z": {
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU",
+        "licencia": "37193"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LIN CHEN, HONGXIANG",
+        "licencia": "26072"
+      },
+      "B": {
+        "nombre": "PIERA PI, POL",
+        "licencia": "24306"
+      },
+      "C": {
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LIN CHEN, HONGXIANG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TUDURI MORENTE, ANTONI"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PIERA PI, POL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANYA VILLALTA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TUDURI MORENTE, ANTONI"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LIN CHEN, HONGXIANG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANYA VILLALTA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PIERA PI, POL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (6-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DESPÍ TT- ALUMINIOS ARAQUE",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

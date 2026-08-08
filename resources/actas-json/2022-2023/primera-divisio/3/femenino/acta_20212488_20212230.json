@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 3,
+  "fecha": "2023-01-15",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "PABELLÓN CIUDAD DEPORTIVA",
+    "ciudad": "CAMINO CUADRA COLOMER S/N, 12004 Castellón de la Plana/Castelló de la Plana Castellón"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA LLEDONERA APE CERÁMICA",
+      "id": "20212488",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MADRID CTM",
+      "id": "20212230",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ADRIANA BREVA ZARAGOZA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "IARA ANTONELLA MENDEZ",
+        "licencia": "40413",
+        "id": "40413"
+      },
+      "B": {
+        "nombre": "IARA VALENTINA BATISTA",
+        "licencia": "36179",
+        "id": "36179"
+      },
+      "C": {
+        "nombre": "REBECA GARCIA MIRALLES",
+        "licencia": "34381",
+        "id": "34381"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "KAROLINE GIMPL",
+        "licencia": "903",
+        "id": "903"
+      },
+      "X": {
+        "nombre": "IRENE ARROYO HERRERO",
+        "licencia": "37898",
+        "id": "37898"
+      },
+      "Z": {
+        "nombre": "GRACIELA GOMEZ BENITEZ",
+        "licencia": "36372",
+        "id": "36372"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "IARA ANTONELLA MENDEZ",
+        "licencia": "40413",
+        "id": "40413"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KAROLINE GIMPL",
+        "licencia": "903",
+        "id": "903"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IARA VALENTINA BATISTA",
+        "licencia": "36179",
+        "id": "36179"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IRENE ARROYO HERRERO",
+        "licencia": "37898",
+        "id": "37898"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "REBECA GARCIA MIRALLES",
+        "licencia": "34381",
+        "id": "34381"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GRACIELA GOMEZ BENITEZ",
+        "licencia": "36372",
+        "id": "36372"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "IARA ANTONELLA MENDEZ",
+        "licencia": "40413",
+        "id": "40413"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IRENE ARROYO HERRERO",
+        "licencia": "37898",
+        "id": "37898"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "REBECA GARCIA MIRALLES",
+        "licencia": "34381",
+        "id": "34381"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KAROLINE GIMPL",
+        "licencia": "903",
+        "id": "903"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "INéS ANDRéS MARCO",
+        "licencia": "36285",
+        "id": "36285"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GRACIELA GOMEZ BENITEZ",
+        "licencia": "36372",
+        "id": "36372"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA LLEDONERA APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

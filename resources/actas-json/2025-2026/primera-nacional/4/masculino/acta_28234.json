@@ -1,0 +1,408 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2025-11-09",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Oliva (Valencia)",
+    "recinto": "SALA PIERRE GUITART(IES GABRIEL CISCAR)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT CORRIOL OLIVA",
+      "delegado": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "entrenador": {
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      }
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": {
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERRER FORNALI, MIGUEL",
+      "licencia": "44216"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      },
+      "B": {
+        "nombre": "JORDA GARCIA, MIGUEL",
+        "licencia": "32282"
+      },
+      "C": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069"
+      },
+      "X": {
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      },
+      "Z": {
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MALONDA CLIMENT, ENRIC",
+      "PELLICER CLIMENT, VICTOR"
+    ],
+    "visitante": [
+      "DELGADO PLOU, JORGE",
+      "VIVO SANCHEZ, ALEJANDRO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MALONDA CLIMENT, ENRIC"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DELGADO PLOU, JORGE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORDA GARCIA, MIGUEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PELLICER CLIMENT, VICTOR"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ABAD PEREZ, FRANCISCO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MALONDA CLIMENT, ENRIC"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PELLICER CLIMENT, VICTOR"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DELGADO PLOU, JORGE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JORDA GARCIA, MIGUEL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ABAD PEREZ, FRANCISCO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MALONDA CLIMENT, ENRIC",
+          "PELLICER CLIMENT, VICTOR"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "DELGADO PLOU, JORGE",
+          "VIVO SANCHEZ, ALEJANDRO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SCHOOL ZARAGOZA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

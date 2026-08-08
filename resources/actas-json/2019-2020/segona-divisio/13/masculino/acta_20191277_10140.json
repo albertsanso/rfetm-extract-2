@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 13,
+  "fecha": "2020-01-18",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL VICENTE LOPEZ",
+    "ciudad": "Valencia de Don Juan (León)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO COYANZA",
+      "id": "20191277",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ESCUELA TENIS MESA TORRELAVEGA",
+      "id": "10140",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CECILIA REDONDO PEREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DARIO ACEBES PONGA",
+        "licencia": "21264",
+        "id": "21264"
+      },
+      "X": {
+        "nombre": "JOSE MANUEL BARROS OCHOA",
+        "licencia": "883",
+        "id": "883"
+      },
+      "Z": {
+        "nombre": "ALVARO ACEBES SANZ",
+        "licencia": "21262",
+        "id": "21262"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "B": {
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "C": {
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DARIO ACEBES PONGA",
+        "licencia": "21264",
+        "id": "21264"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL BARROS OCHOA",
+        "licencia": "883",
+        "id": "883"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALVARO ACEBES SANZ",
+        "licencia": "21262",
+        "id": "21262"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL BARROS OCHOA",
+        "licencia": "883",
+        "id": "883"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DARIO ACEBES PONGA",
+        "licencia": "21264",
+        "id": "21264"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALVARO ACEBES SANZ",
+        "licencia": "21262",
+        "id": "21262"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO COYANZA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

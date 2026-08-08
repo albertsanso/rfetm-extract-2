@@ -1,0 +1,406 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2019-10-09",
+  "hora": "20:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "Vic (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HISPALIS TM",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RICHARD GARCIA MOMBLONA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "X": {
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2500.0,
+        "id": "33839"
+      },
+      "Z": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "B": {
+        "nombre": "CLAUDIA ALANIS INFANTE CASTRO",
+        "licencia": "34351",
+        "ranking": 800.0,
+        "id": "34351"
+      },
+      "C": {
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "CHARLOTTE CAREY",
+      "ORSOLYA AGOTA FEHER"
+    ],
+    "visitante": [
+      "PO-HSUAN LIN",
+      "MIREIA CIFUENTES FERNANDEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2500.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CLAUDIA ALANIS INFANTE CASTRO",
+        "licencia": "34351",
+        "ranking": 800.0,
+        "id": "34351"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "CHARLOTTE CAREY",
+          "ORSOLYA AGOTA FEHER"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PO-HSUAN LIN",
+          "MIREIA CIFUENTES FERNANDEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2500.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

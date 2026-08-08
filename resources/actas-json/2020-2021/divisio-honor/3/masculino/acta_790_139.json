@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2021-03-14",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA C/OLAKETA S N",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "790",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA ASCENSORES BIDASOA",
+      "id": "139",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO ARROZPIDE NEGREDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "B": {
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "C": {
+        "nombre": "JESUS DEHESA SUANCES",
+        "licencia": "4644",
+        "id": "4644"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "X": {
+        "nombre": "IKER MARTINEZ CATALAN",
+        "licencia": "20734",
+        "id": "20734"
+      },
+      "Z": {
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER MARTINEZ CATALAN",
+        "licencia": "20734",
+        "id": "20734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JESUS DEHESA SUANCES",
+        "licencia": "4644",
+        "id": "4644"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER MARTINEZ CATALAN",
+        "licencia": "20734",
+        "id": "20734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JESUS DEHESA SUANCES",
+        "licencia": "4644",
+        "id": "4644"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA ASCENSORES BIDASOA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

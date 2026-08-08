@@ -1,0 +1,365 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 1,
+  "jornada": 8,
+  "fecha": "2025-11-23",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Vigo (Pontevedra)",
+    "recinto": "XIMNASIO DO CARME"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ILLAS CÍES TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "PINTOS BARREIRO, MARTIN",
+        "licencia": "9975"
+      }
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PADIN OUBIÑA, RAMON",
+      "licencia": "452"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARRASCO VIEITO, TERESA",
+        "licencia": "34289"
+      },
+      "X": {
+        "nombre": "PINTOS BARREIRO, LUISA",
+        "licencia": "18412"
+      },
+      "Z": {
+        "nombre": "LEBEDEVA , VIKTORIIA",
+        "licencia": "27248"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ZUAZUA ARISTIZABAL, MAITANE",
+        "licencia": "30165"
+      },
+      "B": {
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
+      },
+      "C": {
+        "nombre": "LOPEZ ESCUDERO, PAULA",
+        "licencia": "36162"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRASCO VIEITO, TERESA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZUAZUA ARISTIZABAL, MAITANE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PINTOS BARREIRO, LUISA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TECLA GHEMES, IOANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LEBEDEVA , VIKTORIIA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOPEZ ESCUDERO, PAULA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PINTOS BARREIRO, LUISA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZUAZUA ARISTIZABAL, MAITANE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRASCO VIEITO, TERESA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOPEZ ESCUDERO, PAULA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LEBEDEVA , VIKTORIIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TECLA GHEMES, IOANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ILLAS CÍES TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

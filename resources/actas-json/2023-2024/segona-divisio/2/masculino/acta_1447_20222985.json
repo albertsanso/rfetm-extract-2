@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 2,
+  "fecha": "2023-10-07",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON DE FRIGSA",
+    "ciudad": "Lugo (Lugo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "id": "1447",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222985",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGELINO DA SILVA DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "X": {
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "Z": {
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CHEN , LEI",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "B": {
+        "nombre": "CARRASCO VIEITO, MANUEL",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "C": {
+        "nombre": "SEOANE ALCARAZ, ALBERTO",
+        "licencia": "5689",
+        "id": "5689"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHEN , LEI",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRASCO VIEITO, MANUEL",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEOANE ALCARAZ, ALBERTO",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHEN , LEI",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEOANE ALCARAZ, ALBERTO",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRASCO VIEITO, MANUEL",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

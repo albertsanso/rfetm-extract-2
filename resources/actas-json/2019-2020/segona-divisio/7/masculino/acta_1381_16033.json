@@ -1,0 +1,389 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 7,
+  "fecha": "2019-11-16",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PABELLON JARDIN DE INFANCIA",
+    "ciudad": "Palmas de Gran Canaria (Las) (Las Palmas)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO YACAL",
+      "id": "1381",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TM DEFENSE B LA PALMA",
+      "id": "16033",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARÍA AUXILIADORA DOMÍNGUEZ ALMELLONES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "B": {
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "C": {
+        "nombre": "JORDAN DEL CRISTO RODRIGUEZ MARTINEZ",
+        "licencia": "21144",
+        "id": "21144"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "X": {
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "Z": {
+        "nombre": "ELADIO MOISES GONZALEZ MACHIN",
+        "licencia": "20949",
+        "id": "20949"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JORDAN DEL CRISTO RODRIGUEZ MARTINEZ",
+        "licencia": "21144",
+        "id": "21144"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ELADIO MOISES GONZALEZ MACHIN",
+        "licencia": "20949",
+        "id": "20949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JORDAN DEL CRISTO RODRIGUEZ MARTINEZ",
+        "licencia": "21144",
+        "id": "21144"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ELADIO MOISES GONZALEZ MACHIN",
+        "licencia": "20949",
+        "id": "20949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO YACAL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

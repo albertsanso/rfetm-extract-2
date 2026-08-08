@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2023-01-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL DE ARRIAGA 9 A",
+    "ciudad": "Vitoria-Gasteiz (Álava)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ELMA GASTEIZ",
+      "id": "10717",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAJA RURAL - GALAXIA PHONE",
+      "id": "2018812",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARAI DELGADO SANCHEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALVARO LOMBRAÑA ALCAIDE",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "B": {
+        "nombre": "GAIZKA ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21731",
+        "id": "21731"
+      },
+      "C": {
+        "nombre": "ARKAITZ ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21730",
+        "id": "21730"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "X": {
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "Z": {
+        "nombre": "SERGIO SANCHEZ PEREZ",
+        "licencia": "23651",
+        "id": "23651"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALVARO LOMBRAÑA ALCAIDE",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GAIZKA ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21731",
+        "id": "21731"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ARKAITZ ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21730",
+        "id": "21730"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERGIO SANCHEZ PEREZ",
+        "licencia": "23651",
+        "id": "23651"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALVARO LOMBRAÑA ALCAIDE",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ARKAITZ ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21730",
+        "id": "21730"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GAIZKA ALCUTEN FERNANDEZ DE OLANO",
+        "licencia": "21731",
+        "id": "21731"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERGIO SANCHEZ PEREZ",
+        "licencia": "23651",
+        "id": "23651"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ELMA GASTEIZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

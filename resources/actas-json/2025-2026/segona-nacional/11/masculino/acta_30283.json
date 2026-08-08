@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 19,
+  "fecha": "2026-04-19",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Albacete (Albacete)",
+    "recinto": "GIMNASIO C.P. SAN FULGENCIO (ZONA INFANTIL)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ALBACETE CONREALBA",
+      "delegado": {
+        "nombre": "AYLLON GUTIERREZ, CARMELO",
+        "licencia": "37362"
+      },
+      "entrenador": {
+        "nombre": "MORENO HAMBRONA, FRANCISCO",
+        "licencia": "411"
+      }
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "delegado": {
+        "nombre": "SAMPEDRO MARTINEZ, DAVID",
+        "licencia": "3650"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: MORENO HAMBRONA, FRANCISCO",
+        "licencia": "411"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RODRIGUEZ ROMERO, MANUEL",
+      "licencia": "1001"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL",
+        "licencia": "30860"
+      },
+      "X": {
+        "nombre": "SERRANO MELENDEZ, CARLOS",
+        "licencia": "1830"
+      },
+      "Z": {
+        "nombre": "PIRAGUA CASTRO, NICOLAS",
+        "licencia": "46508"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL",
+        "licencia": "19868"
+      },
+      "B": {
+        "nombre": "SAMPEDRO MARTINEZ, DAVID",
+        "licencia": "3650"
+      },
+      "C": {
+        "nombre": "CARLO ZANONER, MATTIA",
+        "licencia": "45838"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "SERRANO MELENDEZ, CARLOS",
+      "BORDALLO AZORIN, JUAN MANUEL"
+    ],
+    "visitante": [
+      "RODRIGUEZ SAN EMETERIO, ANGEL",
+      "SAMPEDRO MARTINEZ, DAVID"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERRANO MELENDEZ, CARLOS"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SAMPEDRO MARTINEZ, DAVID"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PIRAGUA CASTRO, NICOLAS"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLO ZANONER, MATTIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERRANO MELENDEZ, CARLOS"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLO ZANONER, MATTIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PIRAGUA CASTRO, NICOLAS"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SAMPEDRO MARTINEZ, DAVID"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "SERRANO MELENDEZ, CARLOS",
+          "BORDALLO AZORIN, JUAN MANUEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "RODRIGUEZ SAN EMETERIO, ANGEL",
+          "SAMPEDRO MARTINEZ, DAVID"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ALBACETE CONREALBA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

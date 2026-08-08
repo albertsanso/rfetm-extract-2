@@ -1,0 +1,300 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2025-10-26",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)",
+    "recinto": "POLIDEPORTIVO DE BERA BERA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLÉTICO SAN SEBASTIÁN",
+      "delegado": {
+        "nombre": "MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      },
+      "entrenador": {
+        "nombre": "VIDAL GARCIA, JAIME",
+        "licencia": "3600"
+      }
+    },
+    "visitante": {
+      "nombre": "REAL CLUB CAJASUR PRIEGO TM",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: VIDAL GARCIA, JAIME",
+        "licencia": "3600"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ZABALETA SARDON, MARIA ARANZAZU",
+      "licencia": "39469"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TAUBER , MICHAEL",
+        "licencia": "29629"
+      },
+      "B": {
+        "nombre": "INCHAUSTI ALVAREZ, DANEL",
+        "licencia": "35449"
+      },
+      "C": {
+        "nombre": "MARTINEZ CATALAN, IKER",
+        "licencia": "20734"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327"
+      },
+      "X": {
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121"
+      },
+      "Z": {
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TAUBER , MICHAEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CHEN , DIOGO JIAHONG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "INCHAUSTI ALVAREZ, DANEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARTINEZ CATALAN, IKER"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TAUBER , MICHAEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-4)"
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CLUB CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,2 @@
+Genera una definicion generica del modelo JSON usado en **/resources/actas-json/*.json**
+Debes generar una descripcion completa en el fichero **/resources/actas-json/model-definition.json** que contenga la estructura de los datos, los tipos de cada campo y una breve descripción de su propósito. Asegúrate de incluir ejemplos de valores para cada campo y cualquier restricción o validación que se aplique.

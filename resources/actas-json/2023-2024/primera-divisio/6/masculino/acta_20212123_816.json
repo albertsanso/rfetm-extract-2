@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 6,
+  "fecha": "2023-11-11",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "PAVELLÓ MUNICIPAL PLA DE LLACS",
+    "ciudad": "Olot"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT OLOT - TRANSPORTS ESCAPA",
+      "id": "20212123",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI ARAGALL MUSACH",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PUIGMAL POLIT, ORIOL",
+        "licencia": "15227",
+        "id": "15227"
+      },
+      "X": {
+        "nombre": "VENEGAS GALLARDO, EDGAR",
+        "licencia": "25572",
+        "id": "25572"
+      },
+      "Z": {
+        "nombre": "NATYNA , ROMAN",
+        "licencia": "26142",
+        "id": "26142"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "B": {
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "C": {
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PUIGMAL POLIT, ORIOL",
+        "licencia": "15227",
+        "id": "15227"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VENEGAS GALLARDO, EDGAR",
+        "licencia": "25572",
+        "id": "25572"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NATYNA , ROMAN",
+        "licencia": "26142",
+        "id": "26142"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VENEGAS GALLARDO, EDGAR",
+        "licencia": "25572",
+        "id": "25572"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BARRENECHE TOMAS, ALVARO",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PUIGMAL POLIT, ORIOL",
+        "licencia": "15227",
+        "id": "15227"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOSCOSO SERRANO, RENATO VICTOR",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NATYNA , ROMAN",
+        "licencia": "26142",
+        "id": "26142"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTRO JIMENEZ, DANIEL",
+        "licencia": "20295",
+        "id": "20295"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BLANXART XALOC OLESA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

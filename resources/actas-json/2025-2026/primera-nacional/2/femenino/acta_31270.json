@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": null,
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": null,
+  "hora": null,
+  "lugar": {
+    "ciudad": "FABRICA LLOBET",
+    "recinto": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SURIS CALELLA",
+      "delegado": {
+        "nombre": "PUIG TOMAS, JAUME",
+        "licencia": "175"
+      },
+      "entrenador": {
+        "nombre": "PUIG POZUELO, AITOR",
+        "licencia": "2244"
+      }
+    },
+    "visitante": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: PUIG TOMAS, JAUME",
+        "licencia": "175"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: PUIG POZUELO, AITOR",
+        "licencia": "2244"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOFRE BOTEY, JAUME",
+      "licencia": "730"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NAVARRO LATORRE, LAIA",
+        "licencia": "35305"
+      },
+      "B": {
+        "nombre": "FONT PUIG, LAIA",
+        "licencia": "24366"
+      },
+      "C": {
+        "nombre": "COLOMINAS VILLARET, IVET",
+        "licencia": "35282"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARCIA PRIETO, MAIALEN",
+        "licencia": "22472"
+      },
+      "X": {
+        "nombre": "MARTINEZ GONZALEZ, OLAIA",
+        "licencia": "33958"
+      },
+      "Z": {
+        "nombre": "ARIZMENDI ALCUBILLA, NORA",
+        "licencia": "40811"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NAVARRO LATORRE, LAIA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA PRIETO, MAIALEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FONT PUIG, LAIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ GONZALEZ, OLAIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "COLOMINAS VILLARET, IVET"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARIZMENDI ALCUBILLA, NORA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NAVARRO LATORRE, LAIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ GONZALEZ, OLAIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "COLOMINAS VILLARET, IVET"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA PRIETO, MAIALEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FONT PUIG, LAIA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARIZMENDI ALCUBILLA, NORA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SURIS CALELLA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

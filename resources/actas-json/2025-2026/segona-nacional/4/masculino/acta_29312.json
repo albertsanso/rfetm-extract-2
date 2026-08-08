@@ -1,0 +1,350 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 19,
+  "fecha": "2026-04-19",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Zaragoza (Zaragoza)",
+    "recinto": "IES Azucerera"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. SCHOOL ZARAGOZA TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GAMBRA SAID, JORGE ANDRES",
+        "licencia": "855"
+      }
+    },
+    "visitante": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: GAMBRA SAID, JORGE ANDRES",
+        "licencia": "855"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LA ROSA SUAREZ, MAURICIO ANTONIO",
+      "licencia": "23940"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIAZ CABALLERO, ISAAC",
+        "licencia": "16664"
+      },
+      "B": {
+        "nombre": "BRAVO PASCUAL, DANIEL",
+        "licencia": "23978"
+      },
+      "C": {
+        "nombre": "GARRIDO BADIA, EDUARDO",
+        "licencia": "41068"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289"
+      },
+      "X": {
+        "nombre": "CARRASCO GALLEGO, DANIEL",
+        "licencia": "21630"
+      },
+      "Z": {
+        "nombre": "CAMPOS ESCALA, OSCAR",
+        "licencia": "1392"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ CABALLERO, ISAAC"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DINARES LLADO, JORDI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BRAVO PASCUAL, DANIEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARRASCO GALLEGO, DANIEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GARRIDO BADIA, EDUARDO"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CAMPOS ESCALA, OSCAR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ CABALLERO, ISAAC"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARRASCO GALLEGO, DANIEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GARRIDO BADIA, EDUARDO"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DINARES LLADO, JORDI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BRAVO PASCUAL, DANIEL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA DE SORIA MIRAPEIX, ALBERT"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT ELS AMICS TERRASSA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

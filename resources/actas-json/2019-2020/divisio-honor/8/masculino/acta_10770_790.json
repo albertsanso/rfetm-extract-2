@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 1,
+  "jornada": 8,
+  "fecha": "2019-11-23",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO VICENTE DEL BOSQUE",
+    "ciudad": "Parla (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA PARLA - DRAGO TT",
+      "id": "10770",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "790",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RICARDO GALAN LLERENA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      },
+      "X": {
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "Z": {
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "KAROL HASEK .",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "B": {
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "C": {
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "id": "17323"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KAROL HASEK .",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "id": "17323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KAROL HASEK .",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "id": "17323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA PARLA - DRAGO TT",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

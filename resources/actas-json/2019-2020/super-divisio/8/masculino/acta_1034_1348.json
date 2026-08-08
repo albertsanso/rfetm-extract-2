@@ -1,0 +1,382 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 8,
+  "fecha": "2019-12-01",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON PRINCIPE FELIPE",
+    "ciudad": "Pontevedra (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "1348",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EVA MARIA MOLINA CHAVEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2900.0,
+        "id": "29423"
+      },
+      "X": {
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2254.0,
+        "id": "22257"
+      },
+      "Z": {
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "ranking": 1630.0,
+        "id": "9582"
+      },
+      "B": {
+        "nombre": "ALEKSEI ZHUKOV",
+        "licencia": "34039",
+        "ranking": 3000.0,
+        "id": "34039"
+      },
+      "C": {
+        "nombre": "VLADISLAV URSU",
+        "licencia": "34041",
+        "ranking": 2200.0,
+        "id": "34041"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2900.0,
+        "id": "29423"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "ranking": 1630.0,
+        "id": "9582"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2254.0,
+        "id": "22257"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEKSEI ZHUKOV",
+        "licencia": "34039",
+        "ranking": 3000.0,
+        "id": "34039"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VLADISLAV URSU",
+        "licencia": "34041",
+        "ranking": 2200.0,
+        "id": "34041"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2254.0,
+        "id": "22257"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "ranking": 1630.0,
+        "id": "9582"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2900.0,
+        "id": "29423"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VLADISLAV URSU",
+        "licencia": "34041",
+        "ranking": 2200.0,
+        "id": "34041"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEKSEI ZHUKOV",
+        "licencia": "34039",
+        "ranking": 3000.0,
+        "id": "34039"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VISIT PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

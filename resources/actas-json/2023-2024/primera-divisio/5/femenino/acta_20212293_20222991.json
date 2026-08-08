@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2024-03-16",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "INSTALACIÓN DEL POLIDEPORTIVO PEDRO LLERA LOSADA",
+    "ciudad": "AV. ARGENTINA, S/N, 33700 Luarca, Asturias"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CORVERASTUR TM",
+      "id": "20212293",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222991",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO RODRIGUEZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PEREZ REDUELLO, CLAUDIA",
+        "licencia": "32131",
+        "id": "32131"
+      },
+      "X": {
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "Z": {
+        "nombre": "MARTíN COTARELO, LIDIA",
+        "licencia": "38058",
+        "id": "38058"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GONZALEZ LOPEZ, NEREA",
+        "licencia": "31475",
+        "id": "31475"
+      },
+      "B": {
+        "nombre": "CARRASCO VIEITO, TERESA",
+        "licencia": "34289",
+        "id": "34289"
+      },
+      "C": {
+        "nombre": "CHEN , MINGQIN",
+        "licencia": "41816",
+        "id": "41816"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "PASTRANA GARCIA, ANGELA",
+      "PEREZ REDUELLO, CLAUDIA"
+    ],
+    "visitante": [
+      "CARRASCO VIEITO, TERESA",
+      "GONZALEZ LOPEZ, NEREA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEREZ REDUELLO, CLAUDIA",
+        "licencia": "32131",
+        "id": "32131"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ LOPEZ, NEREA",
+        "licencia": "31475",
+        "id": "31475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRASCO VIEITO, TERESA",
+        "licencia": "34289",
+        "id": "34289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTíN COTARELO, LIDIA",
+        "licencia": "38058",
+        "id": "38058"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHEN , MINGQIN",
+        "licencia": "41816",
+        "id": "41816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ LOPEZ, NEREA",
+        "licencia": "31475",
+        "id": "31475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEREZ REDUELLO, CLAUDIA",
+        "licencia": "32131",
+        "id": "32131"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHEN , MINGQIN",
+        "licencia": "41816",
+        "id": "41816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTíN COTARELO, LIDIA",
+        "licencia": "38058",
+        "id": "38058"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRASCO VIEITO, TERESA",
+        "licencia": "34289",
+        "id": "34289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "PASTRANA GARCIA, ANGELA",
+          "PEREZ REDUELLO, CLAUDIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CARRASCO VIEITO, TERESA",
+          "GONZALEZ LOPEZ, NEREA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEL MAR DE SAN AMARO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

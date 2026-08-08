@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 5,
+  "jornada": 11,
+  "fecha": "2022-02-27",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLON SES PAISES",
+    "ciudad": "C/ CIRERERS S/N SES PAISES, SANT ANTONI DE PORTMANY 7817-Sant Antoni de Portmany(Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PORTMANY - CARMEN PELUQUEROS",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TTENIS MESA ALCOY",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "B": {
+        "nombre": "JAIME LOPEZ-BRAVO CIFUENTES",
+        "licencia": "10182",
+        "id": "10182"
+      },
+      "C": {
+        "nombre": "ALEJANDRO DIAZ TIRADO",
+        "licencia": "22482",
+        "id": "22482"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "X": {
+        "nombre": "ALFREDO GISBERT IBORRA",
+        "licencia": "736",
+        "id": "736"
+      },
+      "Z": {
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JAIME LOPEZ-BRAVO CIFUENTES",
+        "licencia": "10182",
+        "id": "10182"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFREDO GISBERT IBORRA",
+        "licencia": "736",
+        "id": "736"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEJANDRO DIAZ TIRADO",
+        "licencia": "22482",
+        "id": "22482"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFREDO GISBERT IBORRA",
+        "licencia": "736",
+        "id": "736"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEJANDRO DIAZ TIRADO",
+        "licencia": "22482",
+        "id": "22482"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JAIME LOPEZ-BRAVO CIFUENTES",
+        "licencia": "10182",
+        "id": "10182"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "PORTMANY - CARMEN PELUQUEROS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

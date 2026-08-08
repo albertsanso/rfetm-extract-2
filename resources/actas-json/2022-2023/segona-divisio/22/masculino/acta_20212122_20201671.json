@@ -1,0 +1,403 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 7,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL PEREZ PUIG",
+    "ciudad": "Alzira (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT ALZIRA CAMARENA",
+      "id": "20212122",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA ALGEMESI",
+      "id": "20201671",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IGNACIO JOSÉ JORQUES RICART",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN JOSE IBAÑEZ CASAÑ",
+        "licencia": "28862",
+        "id": "28862"
+      },
+      "B": {
+        "nombre": "JOSE FUSTER ARANDA",
+        "licencia": "8530",
+        "id": "8530"
+      },
+      "C": {
+        "nombre": "MINCHO YANCOV PANCHUGOV",
+        "licencia": "29895",
+        "id": "29895"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      },
+      "X": {
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "Z": {
+        "nombre": "BENJAMIN ESTEVE DIAZ CANO",
+        "licencia": "27425",
+        "id": "27425"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "JOSE FUSTER ARANDA",
+      "JUAN JOSE IBAÑEZ CASAÑ"
+    ],
+    "visitante": [
+      "JAVIER SANCHEZ MIR",
+      "SERGIO BELENGUER NAVARRO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN JOSE IBAÑEZ CASAÑ",
+        "licencia": "28862",
+        "id": "28862"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE FUSTER ARANDA",
+        "licencia": "8530",
+        "id": "8530"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MINCHO YANCOV PANCHUGOV",
+        "licencia": "29895",
+        "id": "29895"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BENJAMIN ESTEVE DIAZ CANO",
+        "licencia": "27425",
+        "id": "27425"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN JOSE IBAÑEZ CASAÑ",
+        "licencia": "28862",
+        "id": "28862"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MINCHO YANCOV PANCHUGOV",
+        "licencia": "29895",
+        "id": "29895"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE FUSTER ARANDA",
+        "licencia": "8530",
+        "id": "8530"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BENJAMIN ESTEVE DIAZ CANO",
+        "licencia": "27425",
+        "id": "27425"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "JOSE FUSTER ARANDA",
+          "JUAN JOSE IBAÑEZ CASAÑ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "JAVIER SANCHEZ MIR",
+          "SERGIO BELENGUER NAVARRO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA ALGEMESI",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 10,
+  "fecha": "2023-12-17",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA T.M. CEIP TERESA BERGANZA",
+      "id": "20191284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FUENLABRADA TEAM TM AMMERLÄNDER",
+      "id": "2017697",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TOMAS RUIZ QUESADA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "X": {
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "Z": {
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ROMAN BUITRAGO, JAVIER",
+        "licencia": "4207",
+        "id": "4207"
+      },
+      "B": {
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266",
+        "id": "1266"
+      },
+      "C": {
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707",
+        "id": "19707"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ZABALLOS GALAN, MIGUEL",
+      "MURIEL URIBE, JULIAN DAVID"
+    ],
+    "visitante": [
+      "ROMAN BUITRAGO, JAVIER",
+      "URIBARRI CRIADO, JON"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROMAN BUITRAGO, JAVIER",
+        "licencia": "4207",
+        "id": "4207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266",
+        "id": "1266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROMAN BUITRAGO, JAVIER",
+        "licencia": "4207",
+        "id": "4207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266",
+        "id": "1266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ZABALLOS GALAN, MIGUEL",
+          "MURIEL URIBE, JULIAN DAVID"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "ROMAN BUITRAGO, JAVIER",
+          "URIBARRI CRIADO, JON"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA T.M. CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

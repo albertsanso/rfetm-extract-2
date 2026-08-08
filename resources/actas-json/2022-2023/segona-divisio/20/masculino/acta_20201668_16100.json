@@ -1,0 +1,443 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 20,
+  "fecha": "2023-04-15",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO URBI",
+    "ciudad": "URBI KALEA, 2 - Basauri (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA BASAURI",
+      "id": "20201668",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": "16100",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO OTEO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "B": {
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "C": {
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "X": {
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      },
+      "Z": {
+        "nombre": "DANEL INCHAUSTI ALVAREZ",
+        "licencia": "35449",
+        "id": "35449"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "KEVIN FERNANDEZ ARCE",
+      "JON LUCAS AMADOZ"
+    ],
+    "visitante": [
+      "DANEL INCHAUSTI ALVAREZ",
+      "XABIER IGLESIAS BUCETA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 18,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANEL INCHAUSTI ALVAREZ",
+        "licencia": "35449",
+        "id": "35449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANEL INCHAUSTI ALVAREZ",
+        "licencia": "35449",
+        "id": "35449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "KEVIN FERNANDEZ ARCE",
+          "JON LUCAS AMADOZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "DANEL INCHAUSTI ALVAREZ",
+          "XABIER IGLESIAS BUCETA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA BASAURI",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

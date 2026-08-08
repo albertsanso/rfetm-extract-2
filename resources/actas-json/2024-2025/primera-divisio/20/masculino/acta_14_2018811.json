@@ -1,0 +1,371 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 20,
+  "fecha": "2025-04-05",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "EXTREMADURA TM ALMENDRALEJO",
+      "id": "14",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. PORTUENSE",
+      "id": "2018811",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEREZ PEREZ, SERGIO",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "B": {
+        "nombre": "PEREZ PEREZ, JAIME",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "C": {
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      },
+      "X": {
+        "nombre": "MULERO GOMEZ, MOISES",
+        "licencia": "2341",
+        "id": "2341"
+      },
+      "Z": {
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEREZ PEREZ, SERGIO",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PEREZ PEREZ, JAIME",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MULERO GOMEZ, MOISES",
+        "licencia": "2341",
+        "id": "2341"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEREZ PEREZ, SERGIO",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MULERO GOMEZ, MOISES",
+        "licencia": "2341",
+        "id": "2341"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PEREZ PEREZ, JAIME",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254",
+        "id": "30254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "EXTREMADURA TM ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

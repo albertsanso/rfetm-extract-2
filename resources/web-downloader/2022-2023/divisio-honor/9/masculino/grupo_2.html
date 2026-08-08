@@ -1,0 +1,608 @@
+
+<!DOCTYPE html>
+
+<head>
+        <meta charset="utf-8">
+        <link rel="icon" href="favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="../../fontawesome/css/all.min.css" rel="stylesheet">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+        <!-- Scripts -->
+        <script src="../../js/jquery-3.3.1.js"></script>
+        <script src="../../js/app.js"></script>   
+
+        <link href="../../css/app.css" rel="stylesheet">
+        <link href="../../css/estilo.css" rel="stylesheet">
+
+        <!-- <link href="DataTables/Bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" /> 
+        <script type="text/javascript" src="DataTables/datatables.min.js"></script> -->
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+                @media (max-width:1024px) {
+
+                        table {
+                                font-size: 12px;
+                        }
+
+                }
+
+
+                @media (max-width:760px) {
+
+                        table {
+                                font-size: 10px;
+                        }
+
+                }
+
+
+                @media (max-width:504px) {
+
+                        table {
+                                font-size: 8px;
+                        }
+
+                }
+
+
+
+                .tdacta {
+
+                        max-width: 5px;
+
+                        overflow: hidden;
+
+                        white-space: nowrap;
+
+                        text-overflow: ellipsis;
+
+                }
+
+                A.link_white {
+                        text-decoration: bold;
+                        color: #ffffff;
+                }
+
+                A.link_white:hover {
+                        text-decoration: bold;
+                        color: #ffccff;
+                }
+				
+				</style>
+
+</head>
+
+
+
+<body>
+        <nav class="navbar navbar-light bg-white fixed-top navbar-expand-xl">    
+    <div class="container">
+        <a class="navbar-brand" href="/">
+		<img src="/images/logo.png" class="d-none d-xl-block h-100" alt="logo RFETM">
+		<img src="/images/logomovil.png" class="d-block d-xl-none h-100" alt="logo RFETM">
+		</a>
+        <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon text-secondary"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-1 mr-auto">
+                <li class="nav-item ml-3">
+                    <a class="nav-link" href="/resultados">INICIO</a>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    SUPERDIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">Superdivisión Masculina</a>
+                        <div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">Liga IBERDROLA Superdivisión Femenina</a>           
+                    </div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    DIVISIÓN DE HONOR
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 2</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 3</a>
+						<div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 2</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 3</a>
+							
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    1ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 6</a>
+                        <div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 6</a>
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    2ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 6</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 7</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 8</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 9</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 10</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 11</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 12</a>
+						
+                    </div>    
+                </li> 
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    OTRAS TEMPORADAS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="\resultados">Temporada Actual</a>
+						<a class='dropdown-item' href='\resultados\2024-2025'>Temporada 2024-2025</a><a class='dropdown-item' href='\resultados\2023-2024'>Temporada 2023-2024</a><a class='dropdown-item' href='\resultados\2022-2023'>Temporada 2022-2023</a><a class='dropdown-item' href='\resultados\2021-2022'>Temporada 2021-2022</a><a class='dropdown-item' href='\resultados\2020-2021'>Temporada 2020-2021</a><a class='dropdown-item' href='\resultados\2019-2020'>Temporada 2019-2020</a><a class='dropdown-item' href='\resultados\2018-2019'>Temporada 2018-2019</a><a class='dropdown-item' href='\resultados\2017-2018'>Temporada 2017-2018</a>	
+
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2016-2017/" target="_blank">Temporada 2016-2017</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2015-2016/" target="_blank">Temporada 2015-2016</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2014-2015/" target="_blank">Temporada 2014-2015</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2013-2014/" target="_blank">Temporada 2013-2014</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2012-2013/" target="_blank">Temporada 2012-2013</a>						
+						
+                    </div>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav ml-3">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/"><b>Volver a RFETM.ES</b></a>
+                </li>
+            </ul>    
+        </div>
+    </div>
+</nav>
+        <div class="container bg-white">
+                <div class="row">
+	
+                        <div class="col-12 col-md-9 mt-4">
+
+
+								<div class="w-100 mb-3">  
+                    <div class="w-100 d-flex align-items-end" style="background-image: url(/images/cabeceras/resultados.jpg); 
+                                background-size: cover; background-repeat:no-repeat; height: 15vw; max-height:200px; min-height:100px;">
+                        <div class="text-white pb-0 w-100">
+                            <h4 class="d-none d-lg-block titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2022-2023</p></h4>  
+                            <h5 class="d-block d-lg-none titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2022-2023</p></h5>                                             
+                        </div>                    
+                    </div>                                                      
+                </div>
+								
+								
+                                <a href="/resultados" class="text-decoration-none text-dark"><h4>Resultados Ligas Nacionales</h4></a>
+                                <div class="section-title-separator secondary mb-4"></div>
+
+                                <div align="center">
+
+                                        										
+								
+
+                                        
+
+                                        <table class='table table-sm' width='95%'>
+                                        <tr>
+                                        <td class='border-0' align='left' valign='top'><a href='index.php'><b>Temporada 2022/2023</b></td><td class='border-0' align='right' valign='top'>
+
+                                                <a href='view.php?op=rk&liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M'><b>Ranking Liga</b></a>
+
+                                                        <br>
+
+                                                        <a href='view.php?op=rk&liga=Mg==&grupo=0&jornada=0&sexo=M'><b>Ranking Categor&iacute;a</b></a></h2></td></tr></table>
+                                        <hr>
+
+                                        <h3 style='color: #525252;'>DIVISI&Oacute;N DE HONOR MASCULINA&nbsp;GRUPO 2  - Temporada 2022-2023</h3>
+
+<table class='table table-sm table-striped table-hover'>
+<thead>
+	<tr bgcolor='#434649' style='color:#ffffff; border-bottom: 5px solid #AA1416;'>
+		<th style='text-align:center' width='1px'></th>
+		<th style='text-align:center'>EQUIPO</th>
+		<th class='d-none d-md-table-cell' style='text-align:center'>EJ</th>
+		<th style='text-align:center'>EG</th>
+				<th style='text-align:center'>EP</th>
+		<th style='text-align:center'>PF</th>
+		<th style='text-align:center'>PC</th>
+		<th style='text-align:center'>PTOS.</th>
+	</tr>
+</thead>
+<tbody>
+
+<tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#09A752' style='text-align:center; color:#ffffff;'><b>1</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=811&tempo=OA=='>C.T.T. OLOT - GABINET PERMAR</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>9</td>
+		
+		<td style='text-align:center'>0</td>
+		<td style='text-align:center'>51</td>
+		<td style='text-align:center'>4</td>
+		<td style='text-align:center'><b title='+47'>18</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#09A752' style='text-align:center; color:#ffffff;'><b>2</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=204&tempo=OA=='>PUBLIMAX CAI SANTIAGO T.M.</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>10</td>
+		<td style='text-align:center'>9</td>
+		
+		<td style='text-align:center'>1</td>
+		<td style='text-align:center'>42</td>
+		<td style='text-align:center'>19</td>
+		<td style='text-align:center'><b title='+23'>18</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#09A752' style='text-align:center; color:#ffffff;'><b>3</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=845&tempo=OA=='>CTT MOLLERUSSA PREFABRICATS PUJOL</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>6</td>
+		
+		<td style='text-align:center'>3</td>
+		<td style='text-align:center'>29</td>
+		<td style='text-align:center'>27</td>
+		<td style='text-align:center'><b title='+2'>12</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>4</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=1072&tempo=OA=='>SOSMATIC BADALONA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>6</td>
+		
+		<td style='text-align:center'>3</td>
+		<td style='text-align:center'>36</td>
+		<td style='text-align:center'>19</td>
+		<td style='text-align:center'><b title='+17'>12</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>5</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=40&tempo=OA=='>CETT ESPARREGUERA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>5</td>
+		
+		<td style='text-align:center'>4</td>
+		<td style='text-align:center'>29</td>
+		<td style='text-align:center'>27</td>
+		<td style='text-align:center'><b title='+2'>10</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>6</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=911&tempo=OA=='>SANTJOSEP.NET -  SANT JORDI</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>10</td>
+		<td style='text-align:center'>5</td>
+		
+		<td style='text-align:center'>5</td>
+		<td style='text-align:center'>26</td>
+		<td style='text-align:center'>37</td>
+		<td style='text-align:center'><b title='-11'>10</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>7</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=45&tempo=OA=='>GIRBAU VIC T.T.</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>3</td>
+		
+		<td style='text-align:center'>6</td>
+		<td style='text-align:center'>28</td>
+		<td style='text-align:center'>30</td>
+		<td style='text-align:center'><b title='-2'>6</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>8</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=816&tempo=OA=='>BLANXART XALOC OLESA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>3</td>
+		
+		<td style='text-align:center'>6</td>
+		<td style='text-align:center'>23</td>
+		<td style='text-align:center'>34</td>
+		<td style='text-align:center'><b title='-11'>6</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#f7f7f7' style='text-align:center; color:#ffffff;'><b>9</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=153&tempo=OA=='>CENTRE NATACIO MATARO</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>3</td>
+		
+		<td style='text-align:center'>6</td>
+		<td style='text-align:center'>21</td>
+		<td style='text-align:center'>36</td>
+		<td style='text-align:center'><b title='-15'>6</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#ee4036' style='text-align:center; color:#ffffff;'><b>10</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=150&tempo=OA=='>TERMOTUR CALELLA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>2</td>
+		
+		<td style='text-align:center'>7</td>
+		<td style='text-align:center'>19</td>
+		<td style='text-align:center'>36</td>
+		<td style='text-align:center'><b title='-17'>4</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#ee4036' style='text-align:center; color:#ffffff;'><b>11</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=188&tempo=OA=='>CLUB PALMA TENNIS TAULA</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>2</td>
+		
+		<td style='text-align:center'>7</td>
+		<td style='text-align:center'>21</td>
+		<td style='text-align:center'>34</td>
+		<td style='text-align:center'><b title='-13'>4</b></td>
+	</tr>
+
+    <tr bgcolor='#ffffff' style='color:#000000;'>
+		<td bgcolor='#ee4036' style='text-align:center; color:#ffffff;'><b>12</b></td>
+		<td align='left' style='text-decoration: bold;'><b><a href='view.php?eqdat=305&tempo=OA=='>BORGES GENERAL D'OLIS</a></td>
+		<td class='d-none d-md-table-cell' style='text-align:center'>9</td>
+		<td style='text-align:center'>2</td>
+		
+		<td style='text-align:center'>7</td>
+		<td style='text-align:center'>17</td>
+		<td style='text-align:center'>39</td>
+		<td style='text-align:center'><b title='-22'>4</b></td>
+	</tr>
+
+    
+</tbody>
+
+</table>
+
+
+
+<hr>
+
+<table class='table table-sm' style='color:#cccccc;'>
+
+	<tr bgcolor='#F3F1F1' style='color:#000000;'>
+
+	<td class='hidden-xs hidden-sm' align='center' valign='center' rowspan='2' bgcolor='#F3F1F1'>
+	<b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M'>JORNADAS</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=1&sexo=M'>1</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=2&sexo=M'>2</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=3&sexo=M'>3</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=4&sexo=M'>4</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=5&sexo=M'>5</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=6&sexo=M'>6</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=7&sexo=M'>7</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=8&sexo=M'>8</a></b></td><td align='center' bgcolor='#434649'><b><a href='#' class='link_white'>9</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=10&sexo=M'>10</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=11&sexo=M'>11</a></b></td></tr><tr bgcolor='#F3F1F1' style='color:#000000;'><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=12&sexo=M'>12</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=13&sexo=M'>13</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=14&sexo=M'>14</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=15&sexo=M'>15</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=16&sexo=M'>16</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=17&sexo=M'>17</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=18&sexo=M'>18</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=19&sexo=M'>19</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=20&sexo=M'>20</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=21&sexo=M'>21</a></b></td><td align='center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=22&sexo=M'>22</a></b></td></tr></table><table border='0' class='table table-sm'><thead><tr bgcolor='#434649' style='color:#ffffff; border-bottom: 5px solid #AA1416;'>
+
+		<th align='center' width='20%'><b></b></th>
+
+		<th width='80%' style='text-align:center'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=9&sexo=M' class='link_white'>Jornada 9</a></b></th></tr></thead></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>17/12/2022<br>10:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=153&sexo=M'>CENTRE NATACIO MATARO</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=911&sexo=M'>SANTJOSEP.NET -  SANT JORDI</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTU1NzQ0MjY1NTM1RSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>CENTRE NATACIO MATARO</td>
+		<td></td><td class='tdacta'>SANTJOSEP.NET -  SANT JORDI</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3984<br><a href='view.php?jugador=3984&tempo=OA=='><b>RAUL PORTA LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3578<br><a href='view.php?jugador=3578&tempo=OA=='><b>LIBRE SANCHO MARTINEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>1</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16298<br><a href='view.php?jugador=16298&tempo=OA=='><b>JORDI FRADERA TORRENTS</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>1-11</td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3964<br><a href='view.php?jugador=3964&tempo=OA=='><b>ANTONI PRADOS LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>1</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3984<br><a href='view.php?jugador=3984&tempo=OA=='><b>RAUL PORTA LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3964<br><a href='view.php?jugador=3964&tempo=OA=='><b>ANTONI PRADOS LOPEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3578<br><a href='view.php?jugador=3578&tempo=OA=='><b>LIBRE SANCHO MARTINEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16298<br><a href='view.php?jugador=16298&tempo=OA=='><b>JORDI FRADERA TORRENTS</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 4 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>7 / 13</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>124 / 184</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>CENTRE NATACIO MATARO - Mataró (Barcelona)<br><b>&Aacute;rbitro: </b>JORDI FONT EXPOSITO</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>17/12/2022<br>16:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=305&sexo=M'>BORGES GENERAL D'OLIS</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=816&sexo=M'>BLANXART XALOC OLESA</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTU0ODQ3MTM5OTcyRSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>BORGES GENERAL D'OLIS</td>
+		<td></td><td class='tdacta'>BLANXART XALOC OLESA</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 29839<br><a href='view.php?jugador=29839&tempo=OA=='><b>MARC AMILL BORRULL</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 39743<br><a href='view.php?jugador=39743&tempo=OA=='><b>YUKINORI MATSUMOTO </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1995<br><a href='view.php?jugador=1995&tempo=OA=='><b>JOSEP LLUIS ANDRADE PAGEO</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3937<br><a href='view.php?jugador=3937&tempo=OA=='><b>ALVARO BARRENECHE TOMAS</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-3</td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>11-3</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 24329<br><a href='view.php?jugador=24329&tempo=OA=='><b>FRANCESC CARRERA RUIZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 730<br><a href='view.php?jugador=730&tempo=OA=='><b>JAUME JOFRE BOTEY</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 29839<br><a href='view.php?jugador=29839&tempo=OA=='><b>MARC AMILL BORRULL</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3937<br><a href='view.php?jugador=3937&tempo=OA=='><b>ALVARO BARRENECHE TOMAS</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-13</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 24329<br><a href='view.php?jugador=24329&tempo=OA=='><b>FRANCESC CARRERA RUIZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 39743<br><a href='view.php?jugador=39743&tempo=OA=='><b>YUKINORI MATSUMOTO </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>2-11</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'>1-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 4 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 1995<br><a href='view.php?jugador=1995&tempo=OA=='><b>JOSEP LLUIS ANDRADE PAGEO</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 730<br><a href='view.php?jugador=730&tempo=OA=='><b>JAUME JOFRE BOTEY</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>11-3</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 4 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>6 / 12</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>138 / 161</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>CENTRE DE TECNIFICACIO - Borges Blanques (Les) (Lleida)<br><b>&Aacute;rbitro: </b>GUILLEM SANTIAGO FERNANDEZ</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>17/12/2022<br>16:30</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=845&sexo=M'>CTT MOLLERUSSA PREFABRICATS PUJOL</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=40&sexo=M'>CETT ESPARREGUERA</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTUzOTUwMDE0NDA4RSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>CETT ESPARREGUERA</td>
+		<td></td><td class='tdacta'>CTT MOLLERUSSA PREFABRICATS PUJOL</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25785<br><a href='view.php?jugador=25785&tempo=OA=='><b>DANIEL GONZALEZ CANO</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 37775<br><a href='view.php?jugador=37775&tempo=OA=='><b>CALUM MORRISON </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3008<br><a href='view.php?jugador=3008&tempo=OA=='><b>ALEXANDRE VIDAL CASANOVAS</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2477<br><a href='view.php?jugador=2477&tempo=OA=='><b>ORIOL MONZO MONTERO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>11-13</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>1</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25660<br><a href='view.php?jugador=25660&tempo=OA=='><b>ERIC CINTAS ORTEGA</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 9795<br><a href='view.php?jugador=9795&tempo=OA=='><b>ERIC CALDERO CERCOS</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>1</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25785<br><a href='view.php?jugador=25785&tempo=OA=='><b>DANIEL GONZALEZ CANO</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2477<br><a href='view.php?jugador=2477&tempo=OA=='><b>ORIOL MONZO MONTERO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25660<br><a href='view.php?jugador=25660&tempo=OA=='><b>ERIC CINTAS ORTEGA</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 37775<br><a href='view.php?jugador=37775&tempo=OA=='><b>CALUM MORRISON </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3008<br><a href='view.php?jugador=3008&tempo=OA=='><b>ALEXANDRE VIDAL CASANOVAS</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 9795<br><a href='view.php?jugador=9795&tempo=OA=='><b>ERIC CALDERO CERCOS</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>1-11</td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>2</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 4 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>9 / 13</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>182 / 217</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>GIMNÀS DE L'ESCOLA POMPEU FABRA - Mollerussa (Lleida)<br><b>&Aacute;rbitro: </b>XAVIER CASADO PAGES</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>17/12/2022<br>17:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=45&sexo=M'>GIRBAU VIC T.T.</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 3 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=811&sexo=M'>C.T.T. OLOT - GABINET PERMAR</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTU3NTM4NTE2NjYyRSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>GIRBAU VIC T.T.</td>
+		<td></td><td class='tdacta'>C.T.T. OLOT - GABINET PERMAR</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 15194<br><a href='view.php?jugador=15194&tempo=OA=='><b>SERGI MOLIST PALOMERA</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3792<br><a href='view.php?jugador=3792&tempo=OA=='><b>MARC CAYMEL ROMERO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>7-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25572<br><a href='view.php?jugador=25572&tempo=OA=='><b>EDGAR VENEGAS GALLARDO</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 33982<br><a href='view.php?jugador=33982&tempo=OA=='><b>DIOGO DOS SANTOS PINHO </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>10-12</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'>0-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 39549<br><a href='view.php?jugador=39549&tempo=OA=='><b>EHSAN SHAFREH </b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2366<br><a href='view.php?jugador=2366&tempo=OA=='><b>JORDI DOT GARCIA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>11-2</td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 15194<br><a href='view.php?jugador=15194&tempo=OA=='><b>SERGI MOLIST PALOMERA</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 33982<br><a href='view.php?jugador=33982&tempo=OA=='><b>DIOGO DOS SANTOS PINHO </b></a></td><td style='vertical-align: middle;' align='center' width='6%'>1-11</td><td style='vertical-align: middle;' align='center' width='6%'>2-11</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 39549<br><a href='view.php?jugador=39549&tempo=OA=='><b>EHSAN SHAFREH </b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3792<br><a href='view.php?jugador=3792&tempo=OA=='><b>MARC CAYMEL ROMERO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>1</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 25572<br><a href='view.php?jugador=25572&tempo=OA=='><b>EDGAR VENEGAS GALLARDO</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2366<br><a href='view.php?jugador=2366&tempo=OA=='><b>JORDI DOT GARCIA</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 3 - 3 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>D</b></td><td width='27%' class='tdacta'><a href='view.php?jugador=15194&tempo=OA=='><b>SERGI MOLIST PALOMERA</b></a><br><a href='#39549#'><b>EHSAN SHAFREH </a></td><td style='vertical-align: middle;' align='center'><b>D</b></td><td width='27%' class='tdacta'><a href='view.php?jugador=33982&tempo=OA=='><b>DIOGO DOS SANTOS PINHO </b></a><br><a href='#3792#'><b>MARC CAYMEL ROMERO</a></td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 3 - 4 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>9 / 15</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>183 / 224</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>PAVELLO MUNICIPAL D ESPORTS  CASTELL D EN PLANES - Vic (Barcelona)<br><b>&Aacute;rbitro: </b>JORDI FONT EXPOSITO</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>17/12/2022<br>18:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=1072&sexo=M'>SOSMATIC BADALONA</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=911&sexo=M'>SANTJOSEP.NET -  SANT JORDI</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTU2NjQxMzkxMDk5RSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>SANTJOSEP.NET -  SANT JORDI</td>
+		<td></td><td class='tdacta'>SOSMATIC BADALONA</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16795<br><a href='view.php?jugador=16795&tempo=OA=='><b>PAU LLORET RIGAT</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>2</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 0 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3578<br><a href='view.php?jugador=3578&tempo=OA=='><b>LIBRE SANCHO MARTINEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2562<br><a href='view.php?jugador=2562&tempo=OA=='><b>PERE NAVARRO GALVEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-8</td><td style='vertical-align: middle;' align='center' width='6%'>11-2</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2262<br><a href='view.php?jugador=2262&tempo=OA=='><b>DAVID GONZALEZ TERUEL</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2562<br><a href='view.php?jugador=2562&tempo=OA=='><b>PERE NAVARRO GALVEZ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>1</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16795<br><a href='view.php?jugador=16795&tempo=OA=='><b>PAU LLORET RIGAT</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>13-11</td><td style='vertical-align: middle;' align='center' width='6%'>12-10</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 3 - 2 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3578<br><a href='view.php?jugador=3578&tempo=OA=='><b>LIBRE SANCHO MARTINEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 2262<br><a href='view.php?jugador=2262&tempo=OA=='><b>DAVID GONZALEZ TERUEL</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'>11-7</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 4 - 2 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>15 / 8</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>231 / 190</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>CLUB TENNIS TAULA BADALONA - Badalona (Barcelona)<br><b>&Aacute;rbitro: </b>JAUME COLLDEFORN CABRE</font></td></tr></table><table class='table table-sm' style='color:#FFFFFF; border: #F1F1F0 1px solid;'><tr style='vertical-align: middle;' bgcolor='#FFFFFF' style='color:#000000;'><td style='vertical-align: middle; color:#515151;' align='center' width='20%' colspan='2'>18/12/2022<br>11:00</td><td style='vertical-align: middle;' align='right' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=150&sexo=M'>TERMOTUR CALELLA</a></b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 2 </b></td><td style='vertical-align: middle; font-size: 111%; color:#FFFFFF; border: 7px solid #ffffff;' bgcolor='#434649' align='center' width='5%'><b><div style=''> 4 </b></td><td style='vertical-align: middle;' align='left' width='35%'><b><a href='?liga=Mg==&grupo=2&subgrupo=S&jornada=0&equipo=911&sexo=M'>SANTJOSEP.NET -  SANT JORDI</a></b></td><td width='4%'><a href='http://resultados.rfetm.es/actacomp.php?ref=MS40MTU4NDM1NjQyMjI2RSs1Ng==' target='_blank'><img src='imag/impresora.png' height='22'></a></tr><tr><td colspan='7'>
+<table class='table table-borderer' style='border: 1px solid #CECECE;'>
+	<tr bgcolor='#F1F1F1' style='font-weight: bold; text-align:center;'>
+		<td></td><td class='tdacta'>SANTJOSEP.NET -  SANT JORDI</td>
+		<td></td><td class='tdacta'>TERMOTUR CALELLA</td>
+		<td>J1</td><td>J2</td><td>J3</td><td>J4</td><td>J5</td><td class='hidden-xs hidden-sm'></td><td class='hidden-xs hidden-sm'></td>
+	</tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16039<br><a href='view.php?jugador=16039&tempo=OA=='><b>ADRIÁ MALLORQUÍ CAMPÀ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>13-11</td><td style='vertical-align: middle;' align='center' width='6%'>14-12</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>1</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 1 - 0 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3578<br><a href='view.php?jugador=3578&tempo=OA=='><b>LIBRE SANCHO MARTINEZ</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 9799<br><a href='view.php?jugador=9799&tempo=OA=='><b>ABEL MARTINEZ ALEJANDRES</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>11-5</td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>0</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 0 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16367<br><a href='view.php?jugador=16367&tempo=OA=='><b>SERGI GRAU HARO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'>3-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>2</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 2 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>A</b></td><td width='27%' class='tdacta'><b>Lic:</b> 21737<br><a href='view.php?jugador=21737&tempo=OA=='><b>DORDE BORCIC BORCIC</b></a></td><td style='vertical-align: middle;' align='center'><b>X</b></td><td width='27%' class='tdacta'><b>Lic:</b> 9799<br><a href='view.php?jugador=9799&tempo=OA=='><b>ABEL MARTINEZ ALEJANDRES</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-6</td><td style='vertical-align: middle;' align='center' width='6%'>13-15</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>9-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-3</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 3 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>C</b></td><td width='27%' class='tdacta'><b>Lic:</b> 3870<br><a href='view.php?jugador=3870&tempo=OA=='><b>PEDRO LOPEZ LAGUNA</b></a></td><td style='vertical-align: middle;' align='center'><b>Y</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16039<br><a href='view.php?jugador=16039&tempo=OA=='><b>ADRIÁ MALLORQUÍ CAMPÀ</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>6-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>11-9</td><td style='vertical-align: middle;' align='center' width='6%'>11-4</td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#21610B'>3</font><font color='#000000'> - </font><font color='#FF8000'>2</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 4 - 1 </b></td></tr>
+	<tr style='border: 0px solid #CECECE;'>
+
+		<td style='vertical-align: middle;' align='center'><b>B</b></td><td width='27%' class='tdacta'><b>Lic:</b> 10874<br><a href='view.php?jugador=10874&tempo=OA=='><b>VICENT GARCIA FERRER</b></a></td><td style='vertical-align: middle;' align='center'><b>Z</b></td><td width='27%' class='tdacta'><b>Lic:</b> 16367<br><a href='view.php?jugador=16367&tempo=OA=='><b>SERGI GRAU HARO</b></a></td><td style='vertical-align: middle;' align='center' width='6%'>5-11</td><td style='vertical-align: middle;' align='center' width='6%'>8-11</td><td style='vertical-align: middle;' align='center' width='6%'>4-11</td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' align='center' width='6%'></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b><font color='#FF8000'>0</font><font color='#000000'> - </font><font color='#21610B'>3</font> </b></td><td style='vertical-align: middle;' class='hidden-xs hidden-sm' align='center' width='8%'><b> 4 - 2 </b></td></tr><tr><td colspan='4'></td><td colspan='2' align='center' style='font-size:90%;'><b>Juegos:<br></b>14 / 11</td><td align='center' colspan='2' style='font-size:90%;'><b>Puntos<br></b>231 / 232</td><td></td><td colspan='2' class='hidden-xs hidden-sm'></td></tr>
+
+</table>
+<font color='#000000'>FABRICA LLOBET - Calella (Barcelona)<br><b>&Aacute;rbitro: </b>MANUEL CARMONA RODRIGUEZ</font></td></tr></table>
+                                        <hr>
+
+                                        
+                                </div>
+
+                        </div>
+                        
+                        <div class="col-12 col-md-3 mt-4">
+                                <div class="row">    
+                                        <div class="col-12">           
+                                                <h4 class="text-decoration-none text-dark">Enlaces</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+                                        
+                                        <div class='col-6 col-md-12 py-2'><a href='https://tienda.rfetm.es/'><img src='/images/ganchos/promo_pelota2.jpg' class='w-100' title='TIENDA RFETM' /></a></div><div class='col-6 col-md-12 py-2'><a href='https://rfetm.es/resultados/2025-2026/view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F'><img src='/images/ganchos/iberdrola_LIGA.png' class='w-100' title='Iberdrola' /></a></div>                                </div> 
+
+                                <div class="pt-4"></div>
+
+                                <div class="row"> 
+                                        <div class="col-12">
+                                                <h4 class="text-decoration-none text-dark">Otros contenidos</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+
+                                        <div class='col-12 col-xs-6 col-md-12 py-2'><a href='/contenido/17-pasos-caso-accidente' target='_self'><img src='/images/patrocinadores/parteaccidente.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://clubs.rfetm.es/' target=''><img src='/images/patrocinadores/inscripciones.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://licencias.rfetm.es' target='_blank'><img src='/images/patrocinadores/inscripciones2.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://resultados.rfetm.es/ctna/' target='_blank'><img src='/images/patrocinadores/intro-resultados.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circulares/0' target='_self'><img src='/images/patrocinadores/circulares.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circularesynotasInteres' target='_self'><img src='/images/patrocinadores/circulares-int.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/notas-informativas' target='_self'><img src='/images/patrocinadores/notas.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/descargas-3' target='_self'><img src='/images/patrocinadores/d10.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/lista-fftt' target='_self'><img src='/images/patrocinadores/fftt.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/noticia/4138-protocolo-para-la-prevencion-deteccion-y-actuacion-frente-el-acoso-y-el-abuso-sexual' target='_self'><img src='/images/patrocinadores/d9.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://www.csd.gob.es/sites/default/files/media/files/2018-09/manifiesto-mujer-y-deporte-def.pdf' target='_blank'><img src='/images/patrocinadores/d11.jpg' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ittf.com' target='_blank'><img src='/images/patrocinadores/ittf.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ettu.org' target='_blank'><img src='/images/patrocinadores/ettu.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.fibetm.net' target='_blank'><img src='/images/patrocinadores/fibe.png' class='w-100' /></a></div>  
+                                </div>                      
+                        
+                        </div>
+                </div>
+        </div>
+
+        <footer>  
+    <div class="container">  
+        <div class="bg-light py-2 px-4 mx-n3">
+    <div class="row bg-white d-flex justify-content-center">
+     
+
+<div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.csd.gob.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/csd.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.csd.gob.es/es/promocion-del-deporte/universo-mujer-ii' target='_blank'><img src='http://rfetm.es/images/patrocinadores/universo-mujer-V-web.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.coe.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/coe.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.paralimpicos.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/cpe_colnew.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.joma-sport.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/joma.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://joola.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/JOOLA_v.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.iberdrola.es/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/iberdrola.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.selae.es/es/web-corporativa/responsabilidad-social/con-el-deporte/con-el-deporte.info' target='_blank'><img src='http://rfetm.es/images/patrocinadores/loterias.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='' target='_blank'><img src='http://rfetm.es/images/patrocinadores/verallia.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.halconviajes.com' target='_blank'><img src='http://rfetm.es/images/patrocinadores/halcon.png' class='w-100' /></a></div></div>

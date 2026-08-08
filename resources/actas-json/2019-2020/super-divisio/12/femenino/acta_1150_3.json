@@ -1,0 +1,281 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 12,
+  "fecha": "2020-01-18",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO DEL IES QUARTO DEL REI",
+    "ciudad": "Santa Eulalia del Río (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MIREIA JURADO CERDERA",
+        "licencia": "2537",
+        "ranking": 846.0,
+        "id": "2537"
+      },
+      "B": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "C": {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2868.0,
+        "id": "3006"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "X": {
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2760.0,
+        "id": "33839"
+      },
+      "Z": {
+        "nombre": "GABRIELA FEHER",
+        "licencia": "8480",
+        "ranking": 3354.0,
+        "id": "8480"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "NATALIA MIRAMONTES MORCILO",
+      "MIREIA JURADO CERDERA"
+    ],
+    "visitante": [
+      "SOFIA-XUAN ZHANG XU",
+      "CHARLOTTE CAREY"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MIREIA JURADO CERDERA",
+        "licencia": "2537",
+        "ranking": 846.0,
+        "id": "2537"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2760.0,
+        "id": "33839"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2868.0,
+        "id": "3006"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GABRIELA FEHER",
+        "licencia": "8480",
+        "ranking": 3354.0,
+        "id": "8480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "NATALIA MIRAMONTES MORCILO",
+          "MIREIA JURADO CERDERA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SOFIA-XUAN ZHANG XU",
+          "CHARLOTTE CAREY"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 0,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

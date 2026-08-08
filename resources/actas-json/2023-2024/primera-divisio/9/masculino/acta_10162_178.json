@@ -1,0 +1,448 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 9,
+  "fecha": "2023-12-02",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO",
+    "ciudad": "Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LES BORGES TT MUSEUM",
+      "id": "10162",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "178",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIC CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383",
+        "id": "31383"
+      },
+      "X": {
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014",
+        "id": "25014"
+      },
+      "Z": {
+        "nombre": "AMILL BORRULL, MARC",
+        "licencia": "29839",
+        "id": "29839"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "B": {
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "C": {
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "TANG QIU, RUIXIANG",
+      "AMILL BORRULL, MARC"
+    ],
+    "visitante": [
+      "BORRA BADÍA, JORGE",
+      "BEAMONTE BENEDICTO, ALFONSO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383",
+        "id": "31383"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014",
+        "id": "25014"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 19,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMILL BORRULL, MARC",
+        "licencia": "29839",
+        "id": "29839"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014",
+        "id": "25014"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383",
+        "id": "31383"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMILL BORRULL, MARC",
+        "licencia": "29839",
+        "id": "29839"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "TANG QIU, RUIXIANG",
+          "AMILL BORRULL, MARC"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "BORRA BADÍA, JORGE",
+          "BEAMONTE BENEDICTO, ALFONSO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LES BORGES TT MUSEUM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

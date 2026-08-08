@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2023-11-18",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "CEIP PIO XII",
+    "ciudad": "C / DIEGO GóMEZ SALIDO S/N 11401 JEREZ DE LA FRONTERA CÁDIZ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "20212207",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FUNDACIÓN SANDO NOVACARTAMA TM",
+      "id": "20222977",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL DURAN GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "X": {
+        "nombre": "GARCIA KHELIFI, DUNIA",
+        "licencia": "36672",
+        "id": "36672"
+      },
+      "Z": {
+        "nombre": "FRIAS MOSTAZO, PILAR",
+        "licencia": "2308",
+        "id": "2308"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "B": {
+        "nombre": "POSTIGO CODES, PAULA",
+        "licencia": "32562",
+        "id": "32562"
+      },
+      "C": {
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718",
+        "id": "36718"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA KHELIFI, DUNIA",
+        "licencia": "36672",
+        "id": "36672"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "POSTIGO CODES, PAULA",
+        "licencia": "32562",
+        "id": "32562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRIAS MOSTAZO, PILAR",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718",
+        "id": "36718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA KHELIFI, DUNIA",
+        "licencia": "36672",
+        "id": "36672"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718",
+        "id": "36718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRIAS MOSTAZO, PILAR",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "POSTIGO CODES, PAULA",
+        "licencia": "32562",
+        "id": "32562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

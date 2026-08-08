@@ -1,0 +1,348 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2026-02-01",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Gijón (Asturias)",
+    "recinto": "COMPLEJO DEPORTIVO DE LA CALZADA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA ATALAYA GIJON TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GARCIA MENENDEZ, JONATHAN JOSE",
+        "licencia": "9367"
+      }
+    },
+    "visitante": {
+      "nombre": "T.M.DEFENSE LA PALMA",
+      "delegado": {
+        "nombre": "GONZALEZ MACHIN, ELADIO MOISES",
+        "licencia": "20949"
+      },
+      "entrenador": {
+        "nombre": "GONZALEZ MACHIN, ELADIO MOISES",
+        "licencia": "20949"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LOPEZ BAJO, MANUEL",
+      "licencia": "991"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PAROLA , VALENTINA MAITE",
+        "licencia": "42179"
+      },
+      "X": {
+        "nombre": "RIESTRA POCIÑO, MARIA",
+        "licencia": "28785"
+      },
+      "Z": {
+        "nombre": "URIA SANZ, MARIA",
+        "licencia": "35259"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE",
+        "licencia": "22246"
+      },
+      "B": {
+        "nombre": "RODRIGUEZ GARCIA, ESTHER",
+        "licencia": "31427"
+      },
+      "C": {
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA",
+        "licencia": "42182"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAROLA , VALENTINA MAITE"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RIESTRA POCIÑO, MARIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ GARCIA, ESTHER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "URIA SANZ, MARIA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RIESTRA POCIÑO, MARIA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAROLA , VALENTINA MAITE"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "URIA SANZ, MARIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ GARCIA, ESTHER"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA ATALAYA GIJON TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

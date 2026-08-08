@@ -1,0 +1,423 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 21,
+  "fecha": "2023-04-22",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "INSTITUT DE TONA",
+    "ciudad": "Tona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS DE TAULA TONA",
+      "id": "815",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL \"A\"",
+      "id": "10818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PERE ILLA MINISTRAL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOFRE FERRER BETRAN",
+        "licencia": "32974",
+        "id": "32974"
+      },
+      "X": {
+        "nombre": "DAVID ADEOSUN",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "Z": {
+        "nombre": "CLAUDIO GRANADOS GARCIA",
+        "licencia": "15155",
+        "id": "15155"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "B": {
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "C": {
+        "nombre": "ALEX SAYAGO MUÑOZ",
+        "licencia": "17497",
+        "id": "17497"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "DAVID ADEOSUN",
+      "JOFRE FERRER BETRAN"
+    ],
+    "visitante": [
+      "PERE WEISZ ROMERO",
+      "ALEXANDER BOCANEGRA GALVAN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOFRE FERRER BETRAN",
+        "licencia": "32974",
+        "id": "32974"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID ADEOSUN",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CLAUDIO GRANADOS GARCIA",
+        "licencia": "15155",
+        "id": "15155"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEX SAYAGO MUÑOZ",
+        "licencia": "17497",
+        "id": "17497"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID ADEOSUN",
+        "licencia": "39762",
+        "id": "39762"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOFRE FERRER BETRAN",
+        "licencia": "32974",
+        "id": "32974"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEX SAYAGO MUÑOZ",
+        "licencia": "17497",
+        "id": "17497"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CLAUDIO GRANADOS GARCIA",
+        "licencia": "15155",
+        "id": "15155"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "DAVID ADEOSUN",
+          "JOFRE FERRER BETRAN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PERE WEISZ ROMERO",
+          "ALEXANDER BOCANEGRA GALVAN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS DE TAULA TONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

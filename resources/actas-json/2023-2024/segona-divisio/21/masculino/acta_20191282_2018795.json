@@ -1,0 +1,344 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 21,
+  "fecha": "2024-04-27",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "Pabellón colegio publico n2 de Tui (acceso por Pabellón municipal Gustavo Rodríguez de Tui)",
+    "ciudad": "Tui (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA TUY",
+      "id": "20191282",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM BREOGAN OLEIROS",
+      "id": "2018795",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO QUINTANA MÍGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "B": {
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      },
+      "C": {
+        "nombre": "FERNANDEZ ESTEVEZ, JAVIER",
+        "licencia": "6974",
+        "id": "6974"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "X": {
+        "nombre": "LOPEZ ALVAREZ, MATEO",
+        "licencia": "42994",
+        "id": "42994"
+      },
+      "Z": {
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOPEZ ALVAREZ, MATEO",
+        "licencia": "42994",
+        "id": "42994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNANDEZ ESTEVEZ, JAVIER",
+        "licencia": "6974",
+        "id": "6974"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOPEZ ALVAREZ, MATEO",
+        "licencia": "42994",
+        "id": "42994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNANDEZ ESTEVEZ, JAVIER",
+        "licencia": "6974",
+        "id": "6974"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM BREOGAN OLEIROS",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

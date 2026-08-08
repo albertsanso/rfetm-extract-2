@@ -1,0 +1,415 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 14,
+  "fecha": "2026-01-31",
+  "hora": "16:30",
+  "lugar": {
+    "ciudad": "Sabadell (Barcelona)",
+    "recinto": "CN SABADELL (CENTRE DE CAN LLONG)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "BOCANEGRA GALVAN, ALEXANDER",
+        "licencia": "18423"
+      }
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": {
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: BOCANEGRA GALVAN, ALEXANDER",
+        "licencia": "18423"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO FERNANDEZ, GUILLEM",
+      "licencia": "1050"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BOCANEGRA GALVAN, SERGI",
+        "licencia": "19000"
+      },
+      "B": {
+        "nombre": "BOCANEGRA GALVAN, ALEXANDER",
+        "licencia": "18423"
+      },
+      "C": {
+        "nombre": "FONT MONTLLO, ANIOL",
+        "licencia": "25808"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALVO SIMON, HECTOR",
+        "licencia": "26754"
+      },
+      "X": {
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      },
+      "Z": {
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO",
+        "licencia": "27032"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "BOCANEGRA GALVAN, SERGI",
+      "BOCANEGRA GALVAN, ALEXANDER"
+    ],
+    "visitante": [
+      "VIVO SANCHEZ, ALEJANDRO",
+      "GONZALVO SIMON, HECTOR"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BOCANEGRA GALVAN, SERGI"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BOCANEGRA GALVAN, ALEXANDER"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FONT MONTLLO, ANIOL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BOCANEGRA GALVAN, SERGI"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FONT MONTLLO, ANIOL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BOCANEGRA GALVAN, ALEXANDER"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "BOCANEGRA GALVAN, SERGI",
+          "BOCANEGRA GALVAN, ALEXANDER"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "VIVO SANCHEZ, ALEJANDRO",
+          "GONZALVO SIMON, HECTOR"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

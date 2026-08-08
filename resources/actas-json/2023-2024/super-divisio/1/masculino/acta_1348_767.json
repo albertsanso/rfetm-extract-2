@@ -1,0 +1,392 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2023-09-29",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL",
+    "ciudad": "San Sebastián de los Reyes (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "1348",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ENoLI LES BORGES VALL",
+      "id": "767",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIA SANCHA GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MORA SANCHEZ, YOHAN RINOL",
+        "licencia": "29448",
+        "ranking": 1481.0,
+        "id": "29448"
+      },
+      "X": {
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "Z": {
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2028.0,
+        "id": "2856"
+      },
+      "B": {
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329",
+        "ranking": 1153.0,
+        "id": "24329"
+      },
+      "C": {
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 1859.0,
+        "id": "18284"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MORA SANCHEZ, YOHAN RINOL",
+        "licencia": "29448",
+        "ranking": 1481.0,
+        "id": "29448"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2028.0,
+        "id": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329",
+        "ranking": 1153.0,
+        "id": "24329"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 1859.0,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2084.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2028.0,
+        "id": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MORA SANCHEZ, YOHAN RINOL",
+        "licencia": "29448",
+        "ranking": 1481.0,
+        "id": "29448"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 1859.0,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TSANG , TSZ TSUN",
+        "licencia": "41584",
+        "ranking": 2000.0,
+        "id": "41584"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329",
+        "ranking": 1153.0,
+        "id": "24329"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 20,
+          "visitante": 22
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

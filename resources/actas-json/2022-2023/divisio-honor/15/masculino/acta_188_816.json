@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 15,
+  "fecha": "2023-02-18",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON SON OLIVA",
+    "ciudad": "Palma de Mallorca (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB PALMA TENNIS TAULA",
+      "id": "188",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALBERT LOPEZ MERCADER",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "B": {
+        "nombre": "ABEL CALVO CONTRERAS",
+        "licencia": "28131",
+        "id": "28131"
+      },
+      "C": {
+        "nombre": "HÉCTOR PUERTA BOTELLA",
+        "licencia": "21077",
+        "id": "21077"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "X": {
+        "nombre": "YUKINORI MATSUMOTO",
+        "licencia": "39743",
+        "id": "39743"
+      },
+      "Z": {
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ABEL CALVO CONTRERAS",
+        "licencia": "28131",
+        "id": "28131"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YUKINORI MATSUMOTO",
+        "licencia": "39743",
+        "id": "39743"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "HÉCTOR PUERTA BOTELLA",
+        "licencia": "21077",
+        "id": "21077"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YUKINORI MATSUMOTO",
+        "licencia": "39743",
+        "id": "39743"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "HÉCTOR PUERTA BOTELLA",
+        "licencia": "21077",
+        "id": "21077"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ABEL CALVO CONTRERAS",
+        "licencia": "28131",
+        "id": "28131"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BLANXART XALOC OLESA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

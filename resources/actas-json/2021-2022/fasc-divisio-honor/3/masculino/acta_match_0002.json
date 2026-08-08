@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2022-05-15",
+  "hora": "09:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO (C/ MESTRA MARIA CODINA, 1)",
+    "ciudad": "LES BORGES (LLEIDA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MADRID C.T.M.",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA SUF",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "X": {
+        "nombre": "DAVID JERMAN VALENZUELA HERNANDEZ",
+        "licencia": "30804",
+        "id": "30804"
+      },
+      "Z": {
+        "nombre": "RUBEN RAMIREZ RODRIGUEZ",
+        "licencia": "8640",
+        "id": "8640"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "B": {
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "C": {
+        "nombre": "ANTONIO GOMEZ SANCHEZ",
+        "licencia": "9250",
+        "id": "9250"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID JERMAN VALENZUELA HERNANDEZ",
+        "licencia": "30804",
+        "id": "30804"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUBEN RAMIREZ RODRIGUEZ",
+        "licencia": "8640",
+        "id": "8640"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO GOMEZ SANCHEZ",
+        "licencia": "9250",
+        "id": "9250"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID JERMAN VALENZUELA HERNANDEZ",
+        "licencia": "30804",
+        "id": "30804"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO GOMEZ SANCHEZ",
+        "licencia": "9250",
+        "id": "9250"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUBEN RAMIREZ RODRIGUEZ",
+        "licencia": "8640",
+        "id": "8640"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MADRID C.T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

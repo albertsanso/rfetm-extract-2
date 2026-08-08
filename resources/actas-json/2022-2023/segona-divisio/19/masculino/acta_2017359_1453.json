@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 19,
+  "fecha": "2023-04-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CHEF",
+    "ciudad": "León (León)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "1453",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARA MARTINEZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RODRIGO MAGALLANES PEREZ",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "X": {
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "Z": {
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ERNESTO FERNANDEZ MENENDEZ",
+        "licencia": "27371",
+        "id": "27371"
+      },
+      "B": {
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "C": {
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MIGUEL SÁNCHEZ LÓPEZ",
+      "DENNIS RIVERA HERNANDEZ"
+    ],
+    "visitante": [
+      "EMILIO BURGOS RODRIGUEZ",
+      "SALVADOR ALFONSO RODRIGUEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGO MAGALLANES PEREZ",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ERNESTO FERNANDEZ MENENDEZ",
+        "licencia": "27371",
+        "id": "27371"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ERNESTO FERNANDEZ MENENDEZ",
+        "licencia": "27371",
+        "id": "27371"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGO MAGALLANES PEREZ",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MIGUEL SÁNCHEZ LÓPEZ",
+          "DENNIS RIVERA HERNANDEZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "EMILIO BURGOS RODRIGUEZ",
+          "SALVADOR ALFONSO RODRIGUEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LUARCA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

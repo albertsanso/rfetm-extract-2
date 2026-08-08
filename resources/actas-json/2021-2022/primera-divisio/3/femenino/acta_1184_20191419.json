@@ -1,0 +1,403 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2022-01-15",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS MUNICIPAL",
+    "ciudad": "CTRA DEL PANTANO 10182-Torreorgaz (Cáceres)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "1184",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ESCUELA TIERRA DE BARROS TENIS DE MESA",
+      "id": "20191419",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN RODRIGUEZ ROMAN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LETICIA ROMAN ROSA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "X": {
+        "nombre": "PAULA ROSA HOLGUIN",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "Z": {
+        "nombre": "CANDELA GALLEGO NEVADO",
+        "licencia": "30248",
+        "id": "30248"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "B": {
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "C": {
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "LETICIA ROMAN ROSA",
+      "PAULA ROSA HOLGUIN"
+    ],
+    "visitante": [
+      "ANA PEREZ PEREZ",
+      "CRISTINA LANCHARRO DELGADO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LETICIA ROMAN ROSA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PAULA ROSA HOLGUIN",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CANDELA GALLEGO NEVADO",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PAULA ROSA HOLGUIN",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LETICIA ROMAN ROSA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CANDELA GALLEGO NEVADO",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "LETICIA ROMAN ROSA",
+          "PAULA ROSA HOLGUIN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "ANA PEREZ PEREZ",
+          "CRISTINA LANCHARRO DELGADO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ESCUELA TIERRA DE BARROS TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

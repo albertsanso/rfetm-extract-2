@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2025-02-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "10422",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "YOSHIMOTO , HANA",
+        "licencia": "44408",
+        "ranking": 2111.6,
+        "id": "44408"
+      },
+      "B": {
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      },
+      "C": {
+        "nombre": "CAREY , CHARLOTTE",
+        "licencia": "33839",
+        "ranking": 2300.0,
+        "id": "33839"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "WENLING , TAN",
+        "licencia": "43230",
+        "ranking": 2580.2,
+        "id": "43230"
+      },
+      "X": {
+        "nombre": "MONFARDINI , GAIA",
+        "licencia": "39599",
+        "ranking": 2398.4,
+        "id": "39599"
+      },
+      "Z": {
+        "nombre": "RIERA MOLONS, JANA",
+        "licencia": "16388",
+        "ranking": 2044.0,
+        "id": "16388"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "YOSHIMOTO , HANA",
+        "licencia": "44408",
+        "ranking": 2111.6,
+        "id": "44408"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WENLING , TAN",
+        "licencia": "43230",
+        "ranking": 2580.2,
+        "id": "43230"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONFARDINI , GAIA",
+        "licencia": "39599",
+        "ranking": 2398.4,
+        "id": "39599"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CAREY , CHARLOTTE",
+        "licencia": "33839",
+        "ranking": 2300.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RIERA MOLONS, JANA",
+        "licencia": "16388",
+        "ranking": 2044.0,
+        "id": "16388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "YOSHIMOTO , HANA",
+        "licencia": "44408",
+        "ranking": 2111.6,
+        "id": "44408"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONFARDINI , GAIA",
+        "licencia": "39599",
+        "ranking": 2398.4,
+        "id": "39599"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CAREY , CHARLOTTE",
+        "licencia": "33839",
+        "ranking": 2300.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WENLING , TAN",
+        "licencia": "43230",
+        "ranking": 2580.2,
+        "id": "43230"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RIERA MOLONS, JANA",
+        "licencia": "16388",
+        "ranking": 2044.0,
+        "id": "16388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

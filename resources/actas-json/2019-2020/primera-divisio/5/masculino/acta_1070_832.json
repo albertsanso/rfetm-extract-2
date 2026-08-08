@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2019-10-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "Gondomar (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS/ROSQUILLAS CRISTALEIRO",
+      "id": "1070",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HELIOS ASESORIA SERINTE",
+      "id": "832",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SERGIO DANIEL PUERTAS LEDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "X": {
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "Z": {
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LUCAS RODRIGUEZ CHAO",
+        "licencia": "6625",
+        "id": "6625"
+      },
+      "B": {
+        "nombre": "JUAN LOIS FUENTES",
+        "licencia": "8006",
+        "id": "8006"
+      },
+      "C": {
+        "nombre": "ALBERTO PEREZ PENEDO",
+        "licencia": "15909",
+        "id": "15909"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LUCAS RODRIGUEZ CHAO",
+        "licencia": "6625",
+        "id": "6625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JUAN LOIS FUENTES",
+        "licencia": "8006",
+        "id": "8006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBERTO PEREZ PENEDO",
+        "licencia": "15909",
+        "id": "15909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LUCAS RODRIGUEZ CHAO",
+        "licencia": "6625",
+        "id": "6625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBERTO PEREZ PENEDO",
+        "licencia": "15909",
+        "id": "15909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MIGUEL ANGEL CABALEIRO FERNANDEZ",
+        "licencia": "2469",
+        "id": "2469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D.VINCIOS/ROSQUILLAS CRISTALEIRO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

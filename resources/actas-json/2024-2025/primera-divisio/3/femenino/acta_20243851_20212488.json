@@ -1,0 +1,405 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2024-12-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LLORENS GMR BADALONA",
+      "id": "20243851",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LA LLEDONERA APE CERÁMICA",
+      "id": "20212488",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360",
+        "id": "32360"
+      },
+      "B": {
+        "nombre": "MACIÀ DOMINGO, NÚRIA",
+        "licencia": "22767",
+        "id": "22767"
+      },
+      "C": {
+        "nombre": "NAVARRO LATORRE, LAIA",
+        "licencia": "35305",
+        "id": "35305"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CUENCA CABAÑAS, REBECA EMILIA",
+        "licencia": "44126",
+        "id": "44126"
+      },
+      "X": {
+        "nombre": "EL MOUHMOUH OUAALI, OUMNIA",
+        "licencia": "37711",
+        "id": "37711"
+      },
+      "Z": {
+        "nombre": "CARCEL JIMENEZ, BLANCA",
+        "licencia": "37991",
+        "id": "37991"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "CASANOVAS ORIOL, AINA",
+      "MACIÀ DOMINGO, NÚRIA"
+    ],
+    "visitante": [
+      "EL MOUHMOUH OUAALI, OUMNIA",
+      "CUENCA CABAÑAS, REBECA EMILIA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360",
+        "id": "32360"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CUENCA CABAÑAS, REBECA EMILIA",
+        "licencia": "44126",
+        "id": "44126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MACIÀ DOMINGO, NÚRIA",
+        "licencia": "22767",
+        "id": "22767"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EL MOUHMOUH OUAALI, OUMNIA",
+        "licencia": "37711",
+        "id": "37711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NAVARRO LATORRE, LAIA",
+        "licencia": "35305",
+        "id": "35305"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARCEL JIMENEZ, BLANCA",
+        "licencia": "37991",
+        "id": "37991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360",
+        "id": "32360"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EL MOUHMOUH OUAALI, OUMNIA",
+        "licencia": "37711",
+        "id": "37711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NAVARRO LATORRE, LAIA",
+        "licencia": "35305",
+        "id": "35305"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CUENCA CABAÑAS, REBECA EMILIA",
+        "licencia": "44126",
+        "id": "44126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MACIÀ DOMINGO, NÚRIA",
+        "licencia": "22767",
+        "id": "22767"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARCEL JIMENEZ, BLANCA",
+        "licencia": "37991",
+        "id": "37991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "CASANOVAS ORIOL, AINA",
+          "MACIÀ DOMINGO, NÚRIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "EL MOUHMOUH OUAALI, OUMNIA",
+          "CUENCA CABAÑAS, REBECA EMILIA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA LLEDONERA APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

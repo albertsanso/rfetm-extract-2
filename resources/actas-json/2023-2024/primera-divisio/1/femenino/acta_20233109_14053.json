@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 1,
+  "fecha": "2023-10-21",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE ROMARIGO",
+    "ciudad": "AVENIDA DE LUGO, 1ª TRAVESIA S/N 36940 CANGAS PONTEVEDRA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA PONTEVEDRA",
+      "id": "20233109",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "14053",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGEL FERNANDEZ NORES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALVAREZ LOPEZ, EMMA",
+        "licencia": "24230",
+        "id": "24230"
+      },
+      "X": {
+        "nombre": "OUBIÑA GARRIDO, NATALIA",
+        "licencia": "29342",
+        "id": "29342"
+      },
+      "Z": {
+        "nombre": "VIDAL BEN, LUCIA",
+        "licencia": "29343",
+        "id": "29343"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDEZ PEREZ, ELENA",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "B": {
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "C": {
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALVAREZ LOPEZ, EMMA",
+        "licencia": "24230",
+        "id": "24230"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ PEREZ, ELENA",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "OUBIÑA GARRIDO, NATALIA",
+        "licencia": "29342",
+        "id": "29342"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VIDAL BEN, LUCIA",
+        "licencia": "29343",
+        "id": "29343"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "OUBIÑA GARRIDO, NATALIA",
+        "licencia": "29342",
+        "id": "29342"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ PEREZ, ELENA",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALVAREZ LOPEZ, EMMA",
+        "licencia": "24230",
+        "id": "24230"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ POLIN, JULIA",
+        "licencia": "36596",
+        "id": "36596"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VIDAL BEN, LUCIA",
+        "licencia": "29343",
+        "id": "29343"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ PEREZ, NAYARA",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

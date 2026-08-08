@@ -1,0 +1,332 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2022-02-26",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA VEGAS DEL GENIL",
+    "ciudad": "CALLE ENCINA, BELICENA 18101-Vegas del Genil(Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS FAJARDO CORPAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "id": "38470"
+      },
+      "B": {
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "id": "31697"
+      },
+      "C": {
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "id": "36563"
+      },
+      "X": {
+        "nombre": "FILIPPA ISABELLE BERGAND",
+        "licencia": "27400",
+        "id": "27400"
+      },
+      "Z": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "id": "16527"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "WANWISA AUEAWIRIYAYOTHIN",
+      "PAULA ANDREA MEDINA BERMUDEZ"
+    ],
+    "visitante": [
+      "FILIPPA ISABELLE BERGAND",
+      "MEN SHUOHAN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "id": "38470"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "id": "36563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "id": "31697"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FILIPPA ISABELLE BERGAND",
+        "licencia": "27400",
+        "id": "27400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "WANWISA AUEAWIRIYAYOTHIN",
+          "PAULA ANDREA MEDINA BERMUDEZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "FILIPPA ISABELLE BERGAND",
+          "MEN SHUOHAN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "id": "38470"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FILIPPA ISABELLE BERGAND",
+        "licencia": "27400",
+        "id": "27400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

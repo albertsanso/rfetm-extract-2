@@ -1,0 +1,365 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2026-01-18",
+  "hora": "12:30",
+  "lugar": {
+    "ciudad": "CLUB TENNIS TAULA GANXETS",
+    "recinto": "CARRER. D'EVARIST FABREGAS, Nº 9 43205-REUS (TARRAGONA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MIRÓ GANXETS REUS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "SKOBKINA SKOBKINA, SVETLANA",
+        "licencia": "26120"
+      }
+    },
+    "visitante": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "SAMPEDRO ZUBIZARRETA, JUAN JOSE",
+        "licencia": "1144"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO FERNANDEZ, GUILLEM",
+      "licencia": "1050"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ARAQUE SOLER, AINA",
+        "licencia": "38624"
+      },
+      "B": {
+        "nombre": "MANRESA , JANA",
+        "licencia": "36870"
+      },
+      "C": {
+        "nombre": "SKOBKINA SKOBKINA, SVETLANA",
+        "licencia": "26120"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERNANDEZ ALONSO, JANA",
+        "licencia": "39730"
+      },
+      "X": {
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN",
+        "licencia": "1345"
+      },
+      "Z": {
+        "nombre": "FERNANDEZ ALONSO, ALICIA",
+        "licencia": "39731"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ARAQUE SOLER, AINA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ ALONSO, JANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MANRESA , JANA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SKOBKINA SKOBKINA, SVETLANA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ ALONSO, ALICIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ARAQUE SOLER, AINA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBA GONZALEZ, MARIA DEL CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SKOBKINA SKOBKINA, SVETLANA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ ALONSO, JANA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MANRESA , JANA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ ALONSO, ALICIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MIRÓ GANXETS REUS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

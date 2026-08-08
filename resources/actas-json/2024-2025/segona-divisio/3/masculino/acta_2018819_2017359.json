@@ -1,0 +1,430 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2024-10-13",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "id": "2018819",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      },
+      "X": {
+        "nombre": "ARACAMA ALONSO, BRUNO",
+        "licencia": "38649",
+        "id": "38649"
+      },
+      "Z": {
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299",
+        "id": "32299"
+      },
+      "B": {
+        "nombre": "ROBLEDO BARBERO, HUGO",
+        "licencia": "33887",
+        "id": "33887"
+      },
+      "C": {
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ARACAMA ALONSO, BRUNO",
+      "ODUNLAMI OMOTARA, TITUS"
+    ],
+    "visitante": [
+      "MAGALLANES PEREZ, MARTIN",
+      "MAGALLANES PEREZ, RODRIGO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299",
+        "id": "32299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARACAMA ALONSO, BRUNO",
+        "licencia": "38649",
+        "id": "38649"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROBLEDO BARBERO, HUGO",
+        "licencia": "33887",
+        "id": "33887"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARACAMA ALONSO, BRUNO",
+        "licencia": "38649",
+        "id": "38649"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299",
+        "id": "32299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROBLEDO BARBERO, HUGO",
+        "licencia": "33887",
+        "id": "33887"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ARACAMA ALONSO, BRUNO",
+          "ODUNLAMI OMOTARA, TITUS"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MAGALLANES PEREZ, MARTIN",
+          "MAGALLANES PEREZ, RODRIGO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 19,
+          "visitante": 17
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

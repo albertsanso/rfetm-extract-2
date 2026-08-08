@@ -1,0 +1,282 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 16,
+  "fecha": "2024-02-17",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA POLIVALENT",
+    "ciudad": "Escala (L') (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.E.R. ROBIN HAT PRISCO L´ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COLLADO MEDIANO TM /AGRUPACION DEPORTIVA",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS ZAPATA PAEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GERELL , PAR HAKAN",
+        "licencia": "43227",
+        "ranking": 2800.0,
+        "id": "43227"
+      },
+      "X": {
+        "nombre": "GRELA , ARTUR TOMASZ",
+        "licencia": "38435",
+        "ranking": 2320.0,
+        "id": "38435"
+      },
+      "Z": {
+        "nombre": "GONZALEZ H. HERNANDEZ, IKER",
+        "licencia": "16808",
+        "ranking": 1798.0,
+        "id": "16808"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "B": {
+        "nombre": "MORATA FERNÁNDEZ, JAIME",
+        "licencia": "15569",
+        "ranking": 455.0,
+        "id": "15569"
+      },
+      "C": {
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "ranking": 993.0,
+        "id": "18487"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GERELL , PAR HAKAN",
+        "licencia": "43227",
+        "ranking": 2800.0,
+        "id": "43227"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GRELA , ARTUR TOMASZ",
+        "licencia": "38435",
+        "ranking": 2320.0,
+        "id": "38435"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MORATA FERNÁNDEZ, JAIME",
+        "licencia": "15569",
+        "ranking": 455.0,
+        "id": "15569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ H. HERNANDEZ, IKER",
+        "licencia": "16808",
+        "ranking": 1798.0,
+        "id": "16808"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "ranking": 993.0,
+        "id": "18487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GRELA , ARTUR TOMASZ",
+        "licencia": "38435",
+        "ranking": 2320.0,
+        "id": "38435"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.E.R. ROBIN HAT PRISCO L´ESCALA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 2
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 15,
+  "fecha": "2020-02-09",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO DE LA MAGDALENA",
+    "ciudad": "Avilés (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AVILES T.M.",
+      "id": "927",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ESCUELA TENIS MESA TORRELAVEGA",
+      "id": "10140",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANA BELEN PEREZ FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DAVID RIERA TOMAS",
+        "licencia": "9040",
+        "id": "9040"
+      },
+      "X": {
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      },
+      "Z": {
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      },
+      "B": {
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "C": {
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID RIERA TOMAS",
+        "licencia": "9040",
+        "id": "9040"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL DEL PRADO GOMEZ",
+        "licencia": "22406",
+        "id": "22406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID RIERA TOMAS",
+        "licencia": "9040",
+        "id": "9040"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO ANTONIO QUEVEDO GARRAN",
+        "licencia": "16697",
+        "id": "16697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SÁNCHEZ VILLAR",
+        "licencia": "26283",
+        "id": "26283"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AVILES T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

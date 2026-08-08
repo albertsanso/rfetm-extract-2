@@ -1,0 +1,394 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Segunda División Masculina",
+  "grupo": 1,
+  "jornada": 2,
+  "fecha": "2025-10-04",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Oleiros (A Coruña)",
+    "recinto": "PABELLON POLIDEPORTIVO DE BASTIAGUEIRO IES MARIA CASARES"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM BREOGAN OLEIROS",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AD ZAS PONCIANO NIETO",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "REY AMARELLE, MIGUEL ANGEL",
+        "licencia": "7798"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GONZALEZ RODRIGUEZ, FRANCISCO JAVIER",
+      "licencia": "225"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284"
+      },
+      "B": {
+        "nombre": "SAAVEDRA RUBINOS, LORENZO",
+        "licencia": "33881"
+      },
+      "C": {
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LOPEZ PEREIRO, RAUL",
+        "licencia": "19458"
+      },
+      "X": {
+        "nombre": "REY AMARELLE, MIGUEL ANGEL",
+        "licencia": "7798"
+      },
+      "Z": {
+        "nombre": "SIXTO SANJOSÉ, ROI",
+        "licencia": "16749"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "FERREIRA AZEVEDO, LUIS CARLOS",
+      "FERREIRO LAGE, JUAN ANGEL"
+    ],
+    "visitante": [
+      "REY AMARELLE, MIGUEL ANGEL",
+      "SIXTO SANJOSÉ, ROI"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ PEREIRO, RAUL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAAVEDRA RUBINOS, LORENZO"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "REY AMARELLE, MIGUEL ANGEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIXTO SANJOSÉ, ROI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "REY AMARELLE, MIGUEL ANGEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ PEREIRO, RAUL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAAVEDRA RUBINOS, LORENZO"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIXTO SANJOSÉ, ROI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "FERREIRA AZEVEDO, LUIS CARLOS",
+          "FERREIRO LAGE, JUAN ANGEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "REY AMARELLE, MIGUEL ANGEL",
+          "SIXTO SANJOSÉ, ROI"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM BREOGAN OLEIROS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

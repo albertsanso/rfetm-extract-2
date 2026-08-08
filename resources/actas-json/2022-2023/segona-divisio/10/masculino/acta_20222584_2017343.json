@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 8,
+  "jornada": 10,
+  "fecha": "2023-01-14",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CEIP FELIPE II",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUENCARRAL - EL PARDO TM",
+      "id": "20222584",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AGRUPACION DEPORTIVA TENIS MESA LEGANES",
+      "id": "2017343",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO CALDERON MARTINEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HECTOR IGNACIO MINDER RODRÍGUEZ",
+        "licencia": "20581",
+        "id": "20581"
+      },
+      "B": {
+        "nombre": "JUAN JOSE RAMIL PORRAS",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "C": {
+        "nombre": "JESUS BARROSO SEANO",
+        "licencia": "2697",
+        "id": "2697"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JORGE SANCHEZ JIMENEZ",
+        "licencia": "5762",
+        "id": "5762"
+      },
+      "X": {
+        "nombre": "CARLOS REDONDO CASTILLO",
+        "licencia": "9604",
+        "id": "9604"
+      },
+      "Z": {
+        "nombre": "MARIUS FLORIN NEG",
+        "licencia": "28348",
+        "id": "28348"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HECTOR IGNACIO MINDER RODRÍGUEZ",
+        "licencia": "20581",
+        "id": "20581"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORGE SANCHEZ JIMENEZ",
+        "licencia": "5762",
+        "id": "5762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN JOSE RAMIL PORRAS",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS REDONDO CASTILLO",
+        "licencia": "9604",
+        "id": "9604"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JESUS BARROSO SEANO",
+        "licencia": "2697",
+        "id": "2697"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIUS FLORIN NEG",
+        "licencia": "28348",
+        "id": "28348"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HECTOR IGNACIO MINDER RODRÍGUEZ",
+        "licencia": "20581",
+        "id": "20581"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS REDONDO CASTILLO",
+        "licencia": "9604",
+        "id": "9604"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JESUS BARROSO SEANO",
+        "licencia": "2697",
+        "id": "2697"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORGE SANCHEZ JIMENEZ",
+        "licencia": "5762",
+        "id": "5762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN JOSE RAMIL PORRAS",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIUS FLORIN NEG",
+        "licencia": "28348",
+        "id": "28348"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AGRUPACION DEPORTIVA TENIS MESA LEGANES",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

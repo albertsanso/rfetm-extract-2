@@ -1,0 +1,423 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 22,
+  "fecha": "2024-05-04",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEIP PÍO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "id": "20201928",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM CHICLANA FUNDACION VIPREN",
+      "id": "557",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN MANUEL SAÑUDO JIMENEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "X": {
+        "nombre": "LORA ORTEGA, VIRGILIO",
+        "licencia": "32589",
+        "id": "32589"
+      },
+      "Z": {
+        "nombre": "CALIZ SERRANO, EDUARDO",
+        "licencia": "28809",
+        "id": "28809"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "B": {
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "C": {
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GALAN SANCHEZ, JAVIER",
+      "LORA ORTEGA, VIRGILIO"
+    ],
+    "visitante": [
+      "NAVARRETE GUERRERO, JOSE LUIS",
+      "MARTIN GARCIA, JUAN ANTONIO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LORA ORTEGA, VIRGILIO",
+        "licencia": "32589",
+        "id": "32589"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALIZ SERRANO, EDUARDO",
+        "licencia": "28809",
+        "id": "28809"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LORA ORTEGA, VIRGILIO",
+        "licencia": "32589",
+        "id": "32589"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALIZ SERRANO, EDUARDO",
+        "licencia": "28809",
+        "id": "28809"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GALAN SANCHEZ, JAVIER",
+          "LORA ORTEGA, VIRGILIO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "NAVARRETE GUERRERO, JOSE LUIS",
+          "MARTIN GARCIA, JUAN ANTONIO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MAZDA JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

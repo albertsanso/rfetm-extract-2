@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2023-09-30",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB NATACION PAMPLONA",
+    "ciudad": "Pamplona/Iruña (Navarra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACION PAMPLONA",
+      "id": "2017344",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA MONZON",
+      "id": "20233056",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "KEVIN RODRIGUEZ CORONEL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZABALZA IZQUIERDO, SERGIO",
+        "licencia": "28525",
+        "id": "28525"
+      },
+      "X": {
+        "nombre": "BAUTISTA ARGUIÑARIZ, JAVIER",
+        "licencia": "22826",
+        "id": "22826"
+      },
+      "Z": {
+        "nombre": "CASADO MARTIN, CESAR",
+        "licencia": "22856",
+        "id": "22856"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PEREIRA CANDIDO, TELMO",
+        "licencia": "23951",
+        "id": "23951"
+      },
+      "B": {
+        "nombre": "DOMINGUEZ AGUADO, DAVID",
+        "licencia": "29122",
+        "id": "29122"
+      },
+      "C": {
+        "nombre": "ABAD VELILLA, ALEJANDRO",
+        "licencia": "6278",
+        "id": "6278"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "BAUTISTA ARGUIÑARIZ, JAVIER",
+      "BAUTISTA ARGUIÑARIZ, JAVIER"
+    ],
+    "visitante": [
+      "PEREIRA CANDIDO, TELMO",
+      "ABAD VELILLA, ALEJANDRO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZABALZA IZQUIERDO, SERGIO",
+        "licencia": "28525",
+        "id": "28525"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREIRA CANDIDO, TELMO",
+        "licencia": "23951",
+        "id": "23951"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BAUTISTA ARGUIÑARIZ, JAVIER",
+        "licencia": "22826",
+        "id": "22826"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOMINGUEZ AGUADO, DAVID",
+        "licencia": "29122",
+        "id": "29122"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASADO MARTIN, CESAR",
+        "licencia": "22856",
+        "id": "22856"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABAD VELILLA, ALEJANDRO",
+        "licencia": "6278",
+        "id": "6278"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BAUTISTA ARGUIÑARIZ, JAVIER",
+        "licencia": "22826",
+        "id": "22826"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREIRA CANDIDO, TELMO",
+        "licencia": "23951",
+        "id": "23951"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZABALZA IZQUIERDO, SERGIO",
+        "licencia": "28525",
+        "id": "28525"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABAD VELILLA, ALEJANDRO",
+        "licencia": "6278",
+        "id": "6278"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASADO MARTIN, CESAR",
+        "licencia": "22856",
+        "id": "22856"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOMINGUEZ AGUADO, DAVID",
+        "licencia": "29122",
+        "id": "29122"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "BAUTISTA ARGUIÑARIZ, JAVIER",
+          "BAUTISTA ARGUIÑARIZ, JAVIER"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PEREIRA CANDIDO, TELMO",
+          "ABAD VELILLA, ALEJANDRO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA MONZON",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

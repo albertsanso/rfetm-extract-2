@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 2,
+  "jornada": 6,
+  "fecha": "2019-11-10",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACION HELIOS",
+      "id": "41",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OBERENA",
+      "id": "141",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS MORELLON ALQUEZAR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "B": {
+        "nombre": "CRISTIAN LOPEZ AJENJO",
+        "licencia": "8334",
+        "id": "8334"
+      },
+      "C": {
+        "nombre": "ALFONSO BEAMONTE BENEDICTO",
+        "licencia": "1572",
+        "id": "1572"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "X": {
+        "nombre": "DAVID ESPARZA LANGARICA",
+        "licencia": "8797",
+        "id": "8797"
+      },
+      "Z": {
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CRISTIAN LOPEZ AJENJO",
+        "licencia": "8334",
+        "id": "8334"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DAVID ESPARZA LANGARICA",
+        "licencia": "8797",
+        "id": "8797"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALFONSO BEAMONTE BENEDICTO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DAVID ESPARZA LANGARICA",
+        "licencia": "8797",
+        "id": "8797"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALFONSO BEAMONTE BENEDICTO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CRISTIAN LOPEZ AJENJO",
+        "licencia": "8334",
+        "id": "8334"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACION HELIOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,410 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 11,
+  "jornada": 1,
+  "fecha": "2024-09-28",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS MESA ELDA",
+      "id": "20212121",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM AUDIDAT ALBACETE",
+      "id": "16013",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "X": {
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      },
+      "Z": {
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "B": {
+        "nombre": "CARRETERO MORATALLA, ANTONIO",
+        "licencia": "1185",
+        "id": "1185"
+      },
+      "C": {
+        "nombre": "GREGORIO FELIX, ADRIAN",
+        "licencia": "36086",
+        "id": "36086"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "TORRES RAMIREZ, MARIO",
+      "DELTELL GARCIA, PABLO"
+    ],
+    "visitante": [
+      "FERNANDEZ , LEONCIO",
+      "GREGORIO FELIX, ADRIAN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRETERO MORATALLA, ANTONIO",
+        "licencia": "1185",
+        "id": "1185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GREGORIO FELIX, ADRIAN",
+        "licencia": "36086",
+        "id": "36086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GREGORIO FELIX, ADRIAN",
+        "licencia": "36086",
+        "id": "36086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRETERO MORATALLA, ANTONIO",
+        "licencia": "1185",
+        "id": "1185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "TORRES RAMIREZ, MARIO",
+          "DELTELL GARCIA, PABLO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "FERNANDEZ , LEONCIO",
+          "GREGORIO FELIX, ADRIAN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM AUDIDAT ALBACETE",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

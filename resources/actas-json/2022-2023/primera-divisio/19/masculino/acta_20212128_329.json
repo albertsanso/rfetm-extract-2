@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 19,
+  "fecha": "2023-04-01",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLÓN MUNICIPAL DE TENIS DE MESA",
+    "ciudad": "Cártama (Málaga)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "NOVACÁRTAMA TM",
+      "id": "20212128",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. DEFENSE-LA PALMA",
+      "id": "329",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL RINCON YUSTE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DANIEL GONZALEZ CANTALEJO",
+        "licencia": "20105",
+        "id": "20105"
+      },
+      "X": {
+        "nombre": "CRISTIAN CARMONA CANTALEJO",
+        "licencia": "20106",
+        "id": "20106"
+      },
+      "Z": {
+        "nombre": "MIGUEL ANGEL VARGAS POSTIGO",
+        "licencia": "3838",
+        "id": "3838"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RUBEN ARADO GONZALEZ",
+        "licencia": "22578",
+        "id": "22578"
+      },
+      "B": {
+        "nombre": "ERIK LINDMAE",
+        "licencia": "38518",
+        "id": "38518"
+      },
+      "C": {
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL GONZALEZ CANTALEJO",
+        "licencia": "20105",
+        "id": "20105"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUBEN ARADO GONZALEZ",
+        "licencia": "22578",
+        "id": "22578"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRISTIAN CARMONA CANTALEJO",
+        "licencia": "20106",
+        "id": "20106"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ERIK LINDMAE",
+        "licencia": "38518",
+        "id": "38518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL VARGAS POSTIGO",
+        "licencia": "3838",
+        "id": "3838"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRISTIAN CARMONA CANTALEJO",
+        "licencia": "20106",
+        "id": "20106"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUBEN ARADO GONZALEZ",
+        "licencia": "22578",
+        "id": "22578"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL GONZALEZ CANTALEJO",
+        "licencia": "20105",
+        "id": "20105"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL VARGAS POSTIGO",
+        "licencia": "3838",
+        "id": "3838"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULEN CABRERA GARCIA",
+        "licencia": "27103",
+        "id": "27103"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "NOVACÁRTAMA TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

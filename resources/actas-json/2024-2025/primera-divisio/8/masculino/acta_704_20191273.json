@@ -1,0 +1,430 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 8,
+  "fecha": "2024-11-23",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. TENIS DE MESA RIVAS",
+      "id": "704",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "DANIMEATS ALCOBENDAS TM",
+      "id": "20191273",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "B": {
+        "nombre": "SAN VICENTE VICENTE, IÑIGO",
+        "licencia": "2385",
+        "id": "2385"
+      },
+      "C": {
+        "nombre": "ALONSO TAJUELO, MANUEL",
+        "licencia": "7439",
+        "id": "7439"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "X": {
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "Z": {
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARTINEZ BOTELLA, GUILLERMO",
+      "ALONSO TAJUELO, MANUEL"
+    ],
+    "visitante": [
+      "SOLA SARDUY, HECTOR FRANK",
+      "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAN VICENTE VICENTE, IÑIGO",
+        "licencia": "2385",
+        "id": "2385"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO TAJUELO, MANUEL",
+        "licencia": "7439",
+        "id": "7439"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO TAJUELO, MANUEL",
+        "licencia": "7439",
+        "id": "7439"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAN VICENTE VICENTE, IÑIGO",
+        "licencia": "2385",
+        "id": "2385"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARTINEZ BOTELLA, GUILLERMO",
+          "ALONSO TAJUELO, MANUEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SOLA SARDUY, HECTOR FRANK",
+          "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DANIMEATS ALCOBENDAS TM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

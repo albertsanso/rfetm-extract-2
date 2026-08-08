@@ -1,0 +1,355 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 7,
+  "fecha": "2025-11-15",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "04230 Huércal de Almería",
+    "recinto": "Sala tenis de mesa Huércal de Almería, Avenida de las Flores"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TM ROQUETAS",
+      "delegado": {
+        "nombre": "EGEA JARAMILLO, VICTOR MANUEL",
+        "licencia": "32036"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. PORTUENSE",
+      "delegado": {
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS",
+        "licencia": "18530"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SAEZ CAPEL, LUIS",
+      "licencia": "1189"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MASSANET GARCIA, DANIEL",
+        "licencia": "23328"
+      },
+      "B": {
+        "nombre": "ARANDA CAÑO, JUAN BAUTISTA",
+        "licencia": "17891"
+      },
+      "C": {
+        "nombre": "DURILLO QUESADA, ADRIAN",
+        "licencia": "5220"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RIVERA ORELLANA, CARLOS",
+        "licencia": "4282"
+      },
+      "X": {
+        "nombre": "SANCHEZ SANTANO, JOSE MARIA",
+        "licencia": "18531"
+      },
+      "Z": {
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS",
+        "licencia": "18530"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MASSANET GARCIA, DANIEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RIVERA ORELLANA, CARLOS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ARANDA CAÑO, JUAN BAUTISTA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANTANO, JOSE MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DURILLO QUESADA, ADRIAN"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MASSANET GARCIA, DANIEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANTANO, JOSE MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DURILLO QUESADA, ADRIAN"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RIVERA ORELLANA, CARLOS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ARANDA CAÑO, JUAN BAUTISTA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (6-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TM ROQUETAS",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,428 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 4,
+  "fecha": "2024-05-26",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "C/CUADRA COLOMER S/N, 12004 CASTELLÓN",
+    "ciudad": "PABELLÓN CIUDAD DEPORTIVA DE CASTELLÓN"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LEZAMA DEMOLICIONES TEMESA C.REAL",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ALTIPLANO YECLA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA DHM",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "B": {
+        "nombre": "BARBA RINCON, DAVID",
+        "licencia": "33433",
+        "id": "33433"
+      },
+      "C": {
+        "nombre": "LOPEZ CASAS, MARIO",
+        "licencia": "28791",
+        "id": "28791"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SERRANO RUBIO, HUGO",
+        "licencia": "32161",
+        "id": "32161"
+      },
+      "X": {
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "Z": {
+        "nombre": "SERRANO RUBIO, ADRIÁN",
+        "licencia": "20737",
+        "id": "20737"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "FERNANDEZ , LEONCIO",
+      "LOPEZ CASAS, MARIO"
+    ],
+    "visitante": [
+      "SANCHEZ SANCHEZ, JAVIER",
+      "SERRANO RUBIO, ADRIÁN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SERRANO RUBIO, HUGO",
+        "licencia": "32161",
+        "id": "32161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BARBA RINCON, DAVID",
+        "licencia": "33433",
+        "id": "33433"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPEZ CASAS, MARIO",
+        "licencia": "28791",
+        "id": "28791"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERRANO RUBIO, ADRIÁN",
+        "licencia": "20737",
+        "id": "20737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160",
+        "id": "42160"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPEZ CASAS, MARIO",
+        "licencia": "28791",
+        "id": "28791"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SERRANO RUBIO, HUGO",
+        "licencia": "32161",
+        "id": "32161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARBA RINCON, DAVID",
+        "licencia": "33433",
+        "id": "33433"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SERRANO RUBIO, ADRIÁN",
+        "licencia": "20737",
+        "id": "20737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "FERNANDEZ , LEONCIO",
+          "LOPEZ CASAS, MARIO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SANCHEZ SANCHEZ, JAVIER",
+          "SERRANO RUBIO, ADRIÁN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ALTIPLANO YECLA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

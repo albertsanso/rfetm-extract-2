@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 1,
+  "fecha": "2022-09-24",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO HEGOALDE",
+    "ciudad": "Vitoria-Gasteiz (Álava)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CAFÉS LA BRASILEÑA-GAILAK",
+      "id": "2017751",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO TENIS DE MESA LAUTARO",
+      "id": "1509",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARAI DELGADO SANCHEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALEXANDER CASTILLO HOYOS",
+        "licencia": "8684",
+        "id": "8684"
+      },
+      "X": {
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "Z": {
+        "nombre": "JORGE TEJEDOR NUÑEZ",
+        "licencia": "22446",
+        "id": "22446"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      },
+      "B": {
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "C": {
+        "nombre": "OSCAR TORRECILLA PORTILLA",
+        "licencia": "5266",
+        "id": "5266"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALEXANDER CASTILLO HOYOS",
+        "licencia": "8684",
+        "id": "8684"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORGE TEJEDOR NUÑEZ",
+        "licencia": "22446",
+        "id": "22446"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "OSCAR TORRECILLA PORTILLA",
+        "licencia": "5266",
+        "id": "5266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALEXANDER CASTILLO HOYOS",
+        "licencia": "8684",
+        "id": "8684"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "OSCAR TORRECILLA PORTILLA",
+        "licencia": "5266",
+        "id": "5266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORGE TEJEDOR NUÑEZ",
+        "licencia": "22446",
+        "id": "22446"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO TENIS DE MESA LAUTARO",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

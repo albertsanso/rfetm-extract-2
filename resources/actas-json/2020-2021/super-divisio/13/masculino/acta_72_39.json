@@ -1,0 +1,337 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2021-05-23",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "PABELLÓN DE DEPORTES CAGIGAL C/. AURITORIUM, 3",
+    "ciudad": "Murcia (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MURCIA",
+      "id": "72",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA MARPEX",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS AVILA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LEI KOU",
+        "licencia": "10595",
+        "ranking": 3000.0,
+        "id": "10595"
+      },
+      "X": {
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "Z": {
+        "nombre": "JAVIER SORIA MARTINEZ",
+        "licencia": "10444",
+        "ranking": 1660.0,
+        "id": "10444"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      },
+      "B": {
+        "nombre": "ORIOL MONZO MONTERO",
+        "licencia": "2477",
+        "ranking": 2121.0,
+        "id": "2477"
+      },
+      "C": {
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LEI KOU",
+        "licencia": "10595",
+        "ranking": 3000.0,
+        "id": "10595"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ORIOL MONZO MONTERO",
+        "licencia": "2477",
+        "ranking": 2121.0,
+        "id": "2477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER SORIA MARTINEZ",
+        "licencia": "10444",
+        "ranking": 1660.0,
+        "id": "10444"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LEI KOU",
+        "licencia": "10595",
+        "ranking": 3000.0,
+        "id": "10595"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MURCIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

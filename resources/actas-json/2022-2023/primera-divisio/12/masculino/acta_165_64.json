@@ -1,0 +1,344 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 12,
+  "fecha": "2023-01-28",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "TENNIS TAULA TORELLO",
+    "ciudad": "Torelló (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA TORELLÓ",
+      "id": "165",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "64",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO VILLAHOZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TATSURO NAKAJIN",
+        "licencia": "34971",
+        "id": "34971"
+      },
+      "B": {
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "C": {
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "X": {
+        "nombre": "CARLES BERNAUS ROMERA",
+        "licencia": "41038",
+        "id": "41038"
+      },
+      "Z": {
+        "nombre": "DAVID GARCIA MARTINEZ",
+        "licencia": "23620",
+        "id": "23620"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TATSURO NAKAJIN",
+        "licencia": "34971",
+        "id": "34971"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLES BERNAUS ROMERA",
+        "licencia": "41038",
+        "id": "41038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID GARCIA MARTINEZ",
+        "licencia": "23620",
+        "id": "23620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TATSURO NAKAJIN",
+        "licencia": "34971",
+        "id": "34971"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLES BERNAUS ROMERA",
+        "licencia": "41038",
+        "id": "41038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID GARCIA MARTINEZ",
+        "licencia": "23620",
+        "id": "23620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA TORELLÓ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 14,
+  "fecha": "2023-02-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEIP SAN BLAS (PABELLON)",
+    "ciudad": "Carmona (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CARMONA TENIS DE MESA",
+      "id": "20191272",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA JAEN",
+      "id": "2018804",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CRISTINA RUBIO REDONDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      },
+      "X": {
+        "nombre": "DAVID OJEDA RODRIGUEZ",
+        "licencia": "22956",
+        "id": "22956"
+      },
+      "Z": {
+        "nombre": "RAFAEL TALAVERA LOPEZ",
+        "licencia": "23353",
+        "id": "23353"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FELIPE LORENTE URBANO",
+        "licencia": "7502",
+        "id": "7502"
+      },
+      "B": {
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "C": {
+        "nombre": "JUAN MANUEL ANERA MARIN",
+        "licencia": "2768",
+        "id": "2768"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FELIPE LORENTE URBANO",
+        "licencia": "7502",
+        "id": "7502"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID OJEDA RODRIGUEZ",
+        "licencia": "22956",
+        "id": "22956"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAFAEL TALAVERA LOPEZ",
+        "licencia": "23353",
+        "id": "23353"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JUAN MANUEL ANERA MARIN",
+        "licencia": "2768",
+        "id": "2768"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID OJEDA RODRIGUEZ",
+        "licencia": "22956",
+        "id": "22956"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FELIPE LORENTE URBANO",
+        "licencia": "7502",
+        "id": "7502"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JUAN MANUEL ANERA MARIN",
+        "licencia": "2768",
+        "id": "2768"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAFAEL TALAVERA LOPEZ",
+        "licencia": "23353",
+        "id": "23353"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA JAEN",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

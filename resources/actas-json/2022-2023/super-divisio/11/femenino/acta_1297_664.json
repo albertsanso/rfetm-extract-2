@@ -1,0 +1,396 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2023-01-21",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+      "id": "1297",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO GARCIA BENITO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "ranking": 2210.0,
+        "id": "6506"
+      },
+      "X": {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "Z": {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      },
+      "B": {
+        "nombre": "IRINA ERMAKOVA",
+        "licencia": "29869",
+        "ranking": 2094.0,
+        "id": "29869"
+      },
+      "C": {
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "IOANA TECLA GHEMES",
+      "ANGELA RODRÍGUEZ GARCIA"
+    ],
+    "visitante": [
+      "IRINA ERMAKOVA",
+      "SIMAY KULAKÇEKEN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "ranking": 2210.0,
+        "id": "6506"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IRINA ERMAKOVA",
+        "licencia": "29869",
+        "ranking": 2094.0,
+        "id": "29869"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "IOANA TECLA GHEMES",
+          "ANGELA RODRÍGUEZ GARCIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "IRINA ERMAKOVA",
+          "SIMAY KULAKÇEKEN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 18,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "ranking": 2210.0,
+        "id": "6506"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,327 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 18,
+  "fecha": "2021-05-30",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION TENIS DE MESA",
+    "ciudad": "AV. DE LA JUVENTUD, 3 - CIUDAD DEPORTIVA - Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL GARCIA COBO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ROBERT GARDOS",
+        "licencia": "36654",
+        "ranking": 3000.0,
+        "id": "36654"
+      },
+      "X": {
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3123.0,
+        "id": "2054"
+      },
+      "Z": {
+        "nombre": "ALEJANDRO CALVO MACHADO",
+        "licencia": "3907",
+        "ranking": 2104.0,
+        "id": "3907"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "ranking": 1386.0,
+        "id": "17323"
+      },
+      "B": {
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 2844.0,
+        "id": "29645"
+      },
+      "C": {
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBERT GARDOS",
+        "licencia": "36654",
+        "ranking": 3000.0,
+        "id": "36654"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "ranking": 1386.0,
+        "id": "17323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3123.0,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 2844.0,
+        "id": "29645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALEJANDRO CALVO MACHADO",
+        "licencia": "3907",
+        "ranking": 2104.0,
+        "id": "3907"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3123.0,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "ranking": 1386.0,
+        "id": "17323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBERT GARDOS",
+        "licencia": "36654",
+        "ranking": 3000.0,
+        "id": "36654"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

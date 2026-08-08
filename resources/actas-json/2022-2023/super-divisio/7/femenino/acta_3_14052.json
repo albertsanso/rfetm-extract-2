@@ -1,0 +1,301 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 7,
+  "fecha": "2022-11-27",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "Vic (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI ARAGALL MUSACH",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2820.0,
+        "id": "8195"
+      },
+      "B": {
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1797.0,
+        "id": "21634"
+      },
+      "C": {
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2416.0,
+        "id": "37049"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2519.0,
+        "id": "6401"
+      },
+      "X": {
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2878.0,
+        "id": "27846"
+      },
+      "Z": {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2180.0,
+        "id": "33821"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "SOFIA-XUAN ZHANG XU",
+      "MISS TAMOLWAN KHETKHUAN"
+    ],
+    "visitante": [
+      "TIJANA JOKIC",
+      "ANNAMARIA ERDELYI"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2820.0,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2519.0,
+        "id": "6401"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1797.0,
+        "id": "21634"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2878.0,
+        "id": "27846"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2416.0,
+        "id": "37049"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2180.0,
+        "id": "33821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "SOFIA-XUAN ZHANG XU",
+          "MISS TAMOLWAN KHETKHUAN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "TIJANA JOKIC",
+          "ANNAMARIA ERDELYI"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN PARAÍSO INTERIOR",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

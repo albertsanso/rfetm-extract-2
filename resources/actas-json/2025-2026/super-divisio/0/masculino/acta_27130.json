@@ -1,0 +1,353 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2025-10-24",
+  "hora": "18:00",
+  "lugar": {
+    "ciudad": "Escala (L') (Girona)",
+    "recinto": "SALA POLIVALENT"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T C.E.R. L´ESCALA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GONZALEZ BERNAL, DAVID",
+        "licencia": "1555"
+      }
+    },
+    "visitante": {
+      "nombre": "CTT L'HOSPITALET",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GALLEGO LEAL, OSCAR",
+        "licencia": "1655"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "COLINAS CASTELLA, DAVID",
+      "licencia": "5372"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "YEH , CHIH-WEI",
+        "licencia": "33851"
+      },
+      "B": {
+        "nombre": "GRELA , ARTUR TOMASZ",
+        "licencia": "38435"
+      },
+      "C": {
+        "nombre": "PERAL PARENT, XAVIER",
+        "licencia": "3969"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIRO LLORENTE, MARC",
+        "licencia": "18421"
+      },
+      "X": {
+        "nombre": "CHERNOV , KONSTANTIN",
+        "licencia": "46471"
+      },
+      "Z": {
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "YEH , CHIH-WEI"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIRO LLORENTE, MARC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GRELA , ARTUR TOMASZ"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHERNOV , KONSTANTIN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PERAL PARENT, XAVIER"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TAULER ALSINA, NORBERT"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "YEH , CHIH-WEI"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHERNOV , KONSTANTIN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PERAL PARENT, XAVIER"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIRO LLORENTE, MARC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GRELA , ARTUR TOMASZ"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TAULER ALSINA, NORBERT"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T C.E.R. L´ESCALA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

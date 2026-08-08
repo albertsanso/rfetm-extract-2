@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 19,
+  "fecha": "2024-04-07",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CEIP PAU VILA",
+    "ciudad": "Parets del Vallès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS TAULA PARETS",
+      "id": "60",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "10209",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL CARMONA RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MOLINA NAVARRO, MIGUEL",
+        "licencia": "1534",
+        "id": "1534"
+      },
+      "X": {
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "Z": {
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "TABOADA VALVERDE, RAFAEL",
+        "licencia": "3791",
+        "id": "3791"
+      },
+      "B": {
+        "nombre": "IVANOV ILIEV, ALEKSANDER",
+        "licencia": "7938",
+        "id": "7938"
+      },
+      "C": {
+        "nombre": "MARTIN GARCIA, DAVID",
+        "licencia": "24063",
+        "id": "24063"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOLINA NAVARRO, MIGUEL",
+        "licencia": "1534",
+        "id": "1534"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TABOADA VALVERDE, RAFAEL",
+        "licencia": "3791",
+        "id": "3791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVANOV ILIEV, ALEKSANDER",
+        "licencia": "7938",
+        "id": "7938"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN GARCIA, DAVID",
+        "licencia": "24063",
+        "id": "24063"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ SANCHEZ, CARLOS",
+        "licencia": "16349",
+        "id": "16349"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TABOADA VALVERDE, RAFAEL",
+        "licencia": "3791",
+        "id": "3791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOLINA NAVARRO, MIGUEL",
+        "licencia": "1534",
+        "id": "1534"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN GARCIA, DAVID",
+        "licencia": "24063",
+        "id": "24063"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MONTAÑANA CALVILLO, HECTOR",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVANOV ILIEV, ALEKSANDER",
+        "licencia": "7938",
+        "id": "7938"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SON CLADERA TTC",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

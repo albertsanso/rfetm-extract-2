@@ -1,0 +1,286 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2022-10-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA MUNICIPAL TENIS DE MESA",
+    "ciudad": "ANEXO PABELLON CUATRO SANTOS - Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "id": "20191255",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS BETETA BELMAR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3123.0,
+        "id": "9486"
+      },
+      "B": {
+        "nombre": "DORA MADARASZ",
+        "licencia": "37651",
+        "ranking": 2924.0,
+        "id": "37651"
+      },
+      "C": {
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 2699.0,
+        "id": "31669"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "EVA VEGA CAÑETE",
+        "licencia": "20757",
+        "ranking": 1034.0,
+        "id": "20757"
+      },
+      "X": {
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "ranking": 1787.0,
+        "id": "38470"
+      },
+      "Z": {
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2128.0,
+        "id": "31697"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARIA XIAO YAO",
+      "DORA MADARASZ"
+    ],
+    "visitante": [
+      "EVA VEGA CAÑETE",
+      "PAULA ANDREA MEDINA BERMUDEZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3123.0,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EVA VEGA CAÑETE",
+        "licencia": "20757",
+        "ranking": 1034.0,
+        "id": "20757"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DORA MADARASZ",
+        "licencia": "37651",
+        "ranking": 2924.0,
+        "id": "37651"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "ranking": 1787.0,
+        "id": "38470"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 2699.0,
+        "id": "31669"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2128.0,
+        "id": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARIA XIAO YAO",
+          "DORA MADARASZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "EVA VEGA CAÑETE",
+          "PAULA ANDREA MEDINA BERMUDEZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

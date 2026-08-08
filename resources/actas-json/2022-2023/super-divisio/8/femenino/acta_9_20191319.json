@@ -1,0 +1,281 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 8,
+  "fecha": "2022-12-07",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA MUNICIPAL TENIS DE MESA",
+    "ciudad": "ANEXO PABELLON CUATRO SANTOS - Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UE SANT CUGAT",
+      "id": "20191319",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE GARCIA LEON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3123.0,
+        "id": "9486"
+      },
+      "X": {
+        "nombre": "ANDREA MARIN BUIGUES",
+        "licencia": "21927",
+        "ranking": 815.0,
+        "id": "21927"
+      },
+      "Z": {
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 2767.0,
+        "id": "31669"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      },
+      "B": {
+        "nombre": "MARIONA MUNNE SANZ",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      },
+      "C": {
+        "nombre": "CARLA AMAGO DE LA PEÑA",
+        "licencia": "31824",
+        "ranking": 400.0,
+        "id": "31824"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARIA XIAO YAO",
+      "SILVIA ASIS DE SOUZA ERDELJI"
+    ],
+    "visitante": [
+      "SARA BALLESTER LECINA",
+      "CARLA AMAGO DE LA PEÑA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3123.0,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDREA MARIN BUIGUES",
+        "licencia": "21927",
+        "ranking": 815.0,
+        "id": "21927"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARIONA MUNNE SANZ",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 2767.0,
+        "id": "31669"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLA AMAGO DE LA PEÑA",
+        "licencia": "31824",
+        "ranking": 400.0,
+        "id": "31824"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARIA XIAO YAO",
+          "SILVIA ASIS DE SOUZA ERDELJI"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SARA BALLESTER LECINA",
+          "CARLA AMAGO DE LA PEÑA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 0
+    }
+  },
+  "acta_protestada": false
+}

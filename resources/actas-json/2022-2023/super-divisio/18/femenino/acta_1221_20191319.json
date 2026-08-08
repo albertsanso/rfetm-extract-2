@@ -1,0 +1,346 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 18,
+  "fecha": "2023-03-11",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UE SANT CUGAT",
+      "id": "20191319",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO JESUS RODRIGUEZ RUIZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIJA GALONJA ZOLOTIC",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "X": {
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "ranking": 1454.0,
+        "id": "19107"
+      },
+      "Z": {
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CHIARA COLANTONI",
+        "licencia": "39560",
+        "ranking": 2088.0,
+        "id": "39560"
+      },
+      "B": {
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      },
+      "C": {
+        "nombre": "MARIONA MUNNE SANS",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARIJA GALONJA ZOLOTIC",
+      "ANA GARCIA MONTERO"
+    ],
+    "visitante": [
+      "CHIARA COLANTONI",
+      "MARIONA MUNNE SANS"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIJA GALONJA ZOLOTIC",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHIARA COLANTONI",
+        "licencia": "39560",
+        "ranking": 2088.0,
+        "id": "39560"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "ranking": 1454.0,
+        "id": "19107"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARIONA MUNNE SANS",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARIJA GALONJA ZOLOTIC",
+          "ANA GARCIA MONTERO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "CHIARA COLANTONI",
+          "MARIONA MUNNE SANS"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "ranking": 1454.0,
+        "id": "19107"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHIARA COLANTONI",
+        "licencia": "39560",
+        "ranking": 2088.0,
+        "id": "39560"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UE SANT CUGAT",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

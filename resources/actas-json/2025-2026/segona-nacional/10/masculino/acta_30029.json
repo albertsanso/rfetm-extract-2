@@ -1,0 +1,342 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 18,
+  "fecha": "2026-04-11",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Vélez-Málaga (Málaga)",
+    "recinto": "I.E.S. JUAN DE LA CIERVA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FARMACIA EL ROMERAL - EMBASUR",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. CORDOBA-81 T.M.",
+      "delegado": {
+        "nombre": "OÑA PEREZ, JOSE LUIS",
+        "licencia": "769"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GARCIA SERRANO, JESUS",
+      "licencia": "15453"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MUÑOZ SANCHEZ, SERGIO",
+        "licencia": "40532"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES",
+        "licencia": "43155"
+      },
+      "Z": {
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS",
+        "licencia": "21135"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "OÑA PEREZ, JOSE LUIS",
+        "licencia": "769"
+      },
+      "B": {
+        "nombre": "CARRILLO MONTERO, DARIO",
+        "licencia": "40534"
+      },
+      "C": {
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MUÑOZ SANCHEZ, SERGIO"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OÑA PEREZ, JOSE LUIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRILLO MONTERO, DARIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OÑA PEREZ, JOSE LUIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MUÑOZ SANCHEZ, SERGIO"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARRILLO MONTERO, DARIO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (6-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FARMACIA EL ROMERAL - EMBASUR",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

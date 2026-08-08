@@ -1,0 +1,337 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "73",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. OLOT - GABINET PERMAR",
+      "id": "811",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376",
+        "ranking": 1970.0,
+        "id": "18376"
+      },
+      "B": {
+        "nombre": "MIRO LLORENTE, MARC",
+        "licencia": "18421",
+        "ranking": 1580.0,
+        "id": "18421"
+      },
+      "C": {
+        "nombre": "MICHIHIRO , HARUKI",
+        "licencia": "42225",
+        "ranking": 1800.0,
+        "id": "42225"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "X": {
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "Z": {
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376",
+        "ranking": 1970.0,
+        "id": "18376"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MIRO LLORENTE, MARC",
+        "licencia": "18421",
+        "ranking": 1580.0,
+        "id": "18421"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MICHIHIRO , HARUKI",
+        "licencia": "42225",
+        "ranking": 1800.0,
+        "id": "42225"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376",
+        "ranking": 1970.0,
+        "id": "18376"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MICHIHIRO , HARUKI",
+        "licencia": "42225",
+        "ranking": 1800.0,
+        "id": "42225"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. OLOT - GABINET PERMAR",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

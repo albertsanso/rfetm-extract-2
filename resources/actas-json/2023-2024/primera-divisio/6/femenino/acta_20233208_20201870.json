@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 6,
+  "fecha": "2024-04-14",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS MUNICIPAL",
+    "ciudad": "CTRA DEL PANTANO 10182 TORREORGAZ CÁCERES"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM RODEO PETROGOLD CÁCERES",
+      "id": "20233208",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "20201870",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN RODRIGUEZ ROMAN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FUENTES UGENA, LAURA",
+        "licencia": "41253",
+        "id": "41253"
+      },
+      "B": {
+        "nombre": "SANCHEZ RODRIGUEZ, CARMEN",
+        "licencia": "41752",
+        "id": "41752"
+      },
+      "C": {
+        "nombre": "LIBERAL BARRANTES, MARIA",
+        "licencia": "38045",
+        "id": "38045"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "X": {
+        "nombre": "GALLEGO NEVADO, CANDELA",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "Z": {
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FUENTES UGENA, LAURA",
+        "licencia": "41253",
+        "id": "41253"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SANCHEZ RODRIGUEZ, CARMEN",
+        "licencia": "41752",
+        "id": "41752"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GALLEGO NEVADO, CANDELA",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LIBERAL BARRANTES, MARIA",
+        "licencia": "38045",
+        "id": "38045"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FUENTES UGENA, LAURA",
+        "licencia": "41253",
+        "id": "41253"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GALLEGO NEVADO, CANDELA",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LIBERAL BARRANTES, MARIA",
+        "licencia": "38045",
+        "id": "38045"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GALÁN RODRIGUEZ, HELENA",
+        "licencia": "41751",
+        "id": "41751"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. TRES BALCONES",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

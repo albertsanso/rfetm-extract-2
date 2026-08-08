@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 3,
+  "fecha": "2023-12-17",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL PABELLON EXTREMADURA",
+    "ciudad": "CARRETERA DE RIBERA S/N 6220 VILLAFRANCA DE LOS BARROS BADAJOZ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIUDAD TENIS DE MESA TOMARES",
+      "id": "20233451",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES \"A\"",
+      "id": "20212537",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLA SILES DURÁN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "X": {
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "Z": {
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DIAZ EXPOSITO, JULIA",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "B": {
+        "nombre": "MEZQUITA CRUZ, REYES",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "C": {
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIAZ EXPOSITO, JULIA",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MEZQUITA CRUZ, REYES",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIAZ EXPOSITO, JULIA",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MEZQUITA CRUZ, REYES",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CIRCULO DE LABRADORES \"A\"",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

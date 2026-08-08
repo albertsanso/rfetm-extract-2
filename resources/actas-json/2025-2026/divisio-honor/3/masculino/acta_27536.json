@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 3,
+  "jornada": 10,
+  "fecha": "2025-12-13",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Jerez de la Frontera (Cádiz)",
+    "recinto": "CEIP PIO XII"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "delegado": {
+        "nombre": "GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      },
+      "entrenador": {
+        "nombre": "GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      }
+    },
+    "visitante": {
+      "nombre": "C.T.M. PORTUENSE",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      },
+      "entrenador": {
+        "nombre": "MULERO GOMEZ, MOISES",
+        "licencia": "2341"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUPION GARCIA, ANTONIO",
+      "licencia": "19618"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905"
+      },
+      "X": {
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED",
+        "licencia": "44606"
+      },
+      "Z": {
+        "nombre": "CABEZAS JIMENEZ, GABRIEL",
+        "licencia": "28198"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MULERO GOMEZ, MOISES",
+        "licencia": "2341"
+      },
+      "B": {
+        "nombre": "CASTILLO MULERO, PABLO",
+        "licencia": "30254"
+      },
+      "C": {
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BELLO , AHMED"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MULERO GOMEZ, MOISES"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTILLO MULERO, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CABEZAS JIMENEZ, GABRIEL"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MULERO GOMEZ, MOISES"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BELLO , AHMED"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CABEZAS JIMENEZ, GABRIEL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTILLO MULERO, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

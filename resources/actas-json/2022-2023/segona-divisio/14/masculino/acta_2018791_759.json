@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 14,
+  "fecha": "2023-02-12",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "CN SABADELL (CENTRE DE CAN LLONG)",
+    "ciudad": "Sabadell (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACIO SABADELL \"B\"",
+      "id": "2018791",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "id": "759",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ELOY JOSE FERREIRO LOPEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "IGNASI WEISZ ROMERO",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "X": {
+        "nombre": "JOAN BARBERA SOLER",
+        "licencia": "31290",
+        "id": "31290"
+      },
+      "Z": {
+        "nombre": "ANIOL FONT MONTLLO",
+        "licencia": "25808",
+        "id": "25808"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "B": {
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "C": {
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IGNASI WEISZ ROMERO",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOAN BARBERA SOLER",
+        "licencia": "31290",
+        "id": "31290"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANIOL FONT MONTLLO",
+        "licencia": "25808",
+        "id": "25808"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOAN BARBERA SOLER",
+        "licencia": "31290",
+        "id": "31290"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IGNASI WEISZ ROMERO",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANIOL FONT MONTLLO",
+        "licencia": "25808",
+        "id": "25808"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIO SABADELL \"B\"",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

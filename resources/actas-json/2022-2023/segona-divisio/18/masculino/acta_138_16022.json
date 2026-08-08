@@ -1,0 +1,443 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 10,
+  "jornada": 18,
+  "fecha": "2023-03-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES TORRETA ELDA (ENTRADA POR PUERTA DE ATRAS)",
+    "ciudad": "Elda (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FRAMUSA TOTANA B",
+      "id": "16022",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGEL LOPEZ TORRES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "B": {
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "C": {
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANDRES DAVID ROS SANDOVAL",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "X": {
+        "nombre": "VICENTE CARREÑO RODRÍGUEZ",
+        "licencia": "37400",
+        "id": "37400"
+      },
+      "Z": {
+        "nombre": "MARIANO TUDELA ROMERO",
+        "licencia": "27789",
+        "id": "27789"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "JUAN MANUEL BORDALLO AZORIN",
+      "JAVIER SANCHEZ SANCHEZ"
+    ],
+    "visitante": [
+      "VICENTE CARREÑO RODRÍGUEZ",
+      "ANDRES DAVID ROS SANDOVAL"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDRES DAVID ROS SANDOVAL",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VICENTE CARREÑO RODRÍGUEZ",
+        "licencia": "37400",
+        "id": "37400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIANO TUDELA ROMERO",
+        "licencia": "27789",
+        "id": "27789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VICENTE CARREÑO RODRÍGUEZ",
+        "licencia": "37400",
+        "id": "37400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDRES DAVID ROS SANDOVAL",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIANO TUDELA ROMERO",
+        "licencia": "27789",
+        "id": "27789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "JUAN MANUEL BORDALLO AZORIN",
+          "JAVIER SANCHEZ SANCHEZ"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "VICENTE CARREÑO RODRÍGUEZ",
+          "ANDRES DAVID ROS SANDOVAL"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA TORRETA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

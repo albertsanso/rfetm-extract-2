@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2022-11-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB OBERENA",
+    "ciudad": "Pamplona/Iruña (Navarra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO OBERENA",
+      "id": "141",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FONTANERIA IRURIETA BERAUN ERRENTERIA TM",
+      "id": "2018807",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA ELENA GUELBENZU FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "X": {
+        "nombre": "MATÍAS MILLERA CHARRO",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "Z": {
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IKER GARCIA PRIETO",
+        "licencia": "19913",
+        "id": "19913"
+      },
+      "B": {
+        "nombre": "XABIER LEGARRA ACERO",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "C": {
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IKER GARCIA PRIETO",
+        "licencia": "19913",
+        "id": "19913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MATÍAS MILLERA CHARRO",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "XABIER LEGARRA ACERO",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MATÍAS MILLERA CHARRO",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IKER GARCIA PRIETO",
+        "licencia": "19913",
+        "id": "19913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDER SAN MARTÍN SOLANO",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JULEN LEGARRA ACERO",
+        "licencia": "2784",
+        "id": "2784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XABIER ZUGASTI GOÑI",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "XABIER LEGARRA ACERO",
+        "licencia": "2527",
+        "id": "2527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO OBERENA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

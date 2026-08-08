@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRE CAN LLONG (CN SABADELL)",
+    "ciudad": "Sabadell (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "id": "10818",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FRANCISCO R. POMARES S.L.",
+      "id": "234",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS SAIZ CUEVAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "B": {
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "C": {
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "X": {
+        "nombre": "JAIR JIMENEZ BENITEZ",
+        "licencia": "29616",
+        "id": "29616"
+      },
+      "Z": {
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAIR JIMENEZ BENITEZ",
+        "licencia": "29616",
+        "id": "29616"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAIR JIMENEZ BENITEZ",
+        "licencia": "29616",
+        "id": "29616"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 25,
+  "jornada": 8,
+  "fecha": "2021-04-10",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON CUBIERTO MUNICIPAL DE AYAMONTE CALLE CADIZ, 2",
+    "ciudad": "Ayamonte (Huelva)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUENTE DEL MAESTRE-CAT. LA GRAN FAMILIA",
+      "id": "10629",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CIRCULO MERCANTIL E INDUSTRIAL",
+      "id": "10469",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO SEBASTIAN BIEDMA CABET",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CESAR MARTIN CAPARROS",
+        "licencia": "3335",
+        "id": "3335"
+      },
+      "B": {
+        "nombre": "LUIS MARIA CORDERO JIMENEZ",
+        "licencia": "1246",
+        "id": "1246"
+      },
+      "C": {
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOSE MANUEL CABEZAS FLORES",
+        "licencia": "28048",
+        "id": "28048"
+      },
+      "X": {
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "Z": {
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CESAR MARTIN CAPARROS",
+        "licencia": "3335",
+        "id": "3335"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL CABEZAS FLORES",
+        "licencia": "28048",
+        "id": "28048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LUIS MARIA CORDERO JIMENEZ",
+        "licencia": "1246",
+        "id": "1246"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CESAR MARTIN CAPARROS",
+        "licencia": "3335",
+        "id": "3335"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 16,
+          "visitante": 18
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANDRES MARTINEZ CAMACHO",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL CABEZAS FLORES",
+        "licencia": "28048",
+        "id": "28048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LUIS MARIA CORDERO JIMENEZ",
+        "licencia": "1246",
+        "id": "1246"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO MERCANTIL E INDUSTRIAL",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

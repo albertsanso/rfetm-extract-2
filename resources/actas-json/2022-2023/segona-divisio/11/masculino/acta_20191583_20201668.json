@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2023-01-21",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "20191583",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA BASAURI",
+      "id": "20201668",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER GARCíA DIEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "OSCAR CHAVARRI GONZALEZ",
+        "licencia": "34278",
+        "id": "34278"
+      },
+      "X": {
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "Z": {
+        "nombre": "RAUL MARTINEZ MEDIAVILLA",
+        "licencia": "2085",
+        "id": "2085"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "B": {
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      },
+      "C": {
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ENRIQUE GARCIA NIETO",
+      "RAUL MARTINEZ MEDIAVILLA"
+    ],
+    "visitante": [
+      "JON LUCAS AMADOZ",
+      "KEVIN FERNANDEZ ARCE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OSCAR CHAVARRI GONZALEZ",
+        "licencia": "34278",
+        "id": "34278"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAUL MARTINEZ MEDIAVILLA",
+        "licencia": "2085",
+        "id": "2085"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JULEN SANCHO OJETA",
+        "licencia": "18880",
+        "id": "18880"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "OSCAR CHAVARRI GONZALEZ",
+        "licencia": "34278",
+        "id": "34278"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAUL MARTINEZ MEDIAVILLA",
+        "licencia": "2085",
+        "id": "2085"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JON LUCAS AMADOZ",
+        "licencia": "30023",
+        "id": "30023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ENRIQUE GARCIA NIETO",
+          "RAUL MARTINEZ MEDIAVILLA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "JON LUCAS AMADOZ",
+          "KEVIN FERNANDEZ ARCE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA BASAURI",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

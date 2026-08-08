@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 4,
+  "jornada": 11,
+  "fecha": "2024-01-14",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Gimnasio del CEIP JAUME VIDAL",
+    "ciudad": "Manacor (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT MANACOR GRUP ORELL",
+      "id": "20223011",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALSA CARTAGENA",
+      "id": "70",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANDRA BOTELLA BONILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285",
+        "id": "5285"
+      },
+      "X": {
+        "nombre": "GARCIA-ROMEU FERNANDEZ, EMILIO",
+        "licencia": "8829",
+        "id": "8829"
+      },
+      "Z": {
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853",
+        "id": "15853"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARREÑO RODRIGUEZ, PEPE",
+        "licencia": "23262",
+        "id": "23262"
+      },
+      "B": {
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "C": {
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833",
+        "id": "2833"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285",
+        "id": "5285"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARREÑO RODRIGUEZ, PEPE",
+        "licencia": "23262",
+        "id": "23262"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA-ROMEU FERNANDEZ, EMILIO",
+        "licencia": "8829",
+        "id": "8829"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853",
+        "id": "15853"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833",
+        "id": "2833"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA-ROMEU FERNANDEZ, EMILIO",
+        "licencia": "8829",
+        "id": "8829"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARREÑO RODRIGUEZ, PEPE",
+        "licencia": "23262",
+        "id": "23262"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285",
+        "id": "5285"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833",
+        "id": "2833"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853",
+        "id": "15853"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986",
+        "id": "19986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT MANACOR GRUP ORELL",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

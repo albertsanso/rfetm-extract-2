@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 12,
+  "jornada": 1,
+  "fecha": "2023-10-01",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "CLUB DEPORTIVO CIRCULO DE AMISTAD XII DE ENERO",
+    "ciudad": "Candelaria (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO DE AMISTAD-TENERIFE",
+      "id": "14003",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. ACOROMA DE CANDELARIA",
+      "id": "10181",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CALIXTO SOSA PACHECO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEREZ DE CASTRO, VICENTE ANASTASIO",
+        "licencia": "753",
+        "id": "753"
+      },
+      "B": {
+        "nombre": "SERRANO DIAZ, JOSE MANUEL",
+        "licencia": "6435",
+        "id": "6435"
+      },
+      "C": {
+        "nombre": "PARRA PEREZ, ELBERTH",
+        "licencia": "22763",
+        "id": "22763"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "X": {
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "Z": {
+        "nombre": "ALONSO MARRERO, CRISTIAN",
+        "licencia": "10634",
+        "id": "10634"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEREZ DE CASTRO, VICENTE ANASTASIO",
+        "licencia": "753",
+        "id": "753"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SERRANO DIAZ, JOSE MANUEL",
+        "licencia": "6435",
+        "id": "6435"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PARRA PEREZ, ELBERTH",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALONSO MARRERO, CRISTIAN",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEREZ DE CASTRO, VICENTE ANASTASIO",
+        "licencia": "753",
+        "id": "753"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PARRA PEREZ, ELBERTH",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "AMAYA GARCIA, JUAN CARLOS",
+        "licencia": "1009",
+        "id": "1009"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALONSO MARRERO, CRISTIAN",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO DE AMISTAD-TENERIFE",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

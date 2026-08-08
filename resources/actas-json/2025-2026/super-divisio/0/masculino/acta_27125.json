@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2025-09-26",
+  "hora": "18:30",
+  "lugar": {
+    "ciudad": "Hospitalet de Llobregat (L') (Barcelona)",
+    "recinto": "INSTITUT BISBE BERENGUER"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT L'HOSPITALET",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GALLEGO LEAL, OSCAR",
+        "licencia": "1655"
+      }
+    },
+    "visitante": {
+      "nombre": "ENOLI LES BORGES VALL",
+      "delegado": {
+        "nombre": "VALL DALMAU, ENRIC",
+        "licencia": "343"
+      },
+      "entrenador": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "VILLAHOZ GARCIA, FERNANDO",
+      "licencia": "824"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "KESHAVARZI , AMIRMAHDI",
+        "licencia": "46835"
+      },
+      "X": {
+        "nombre": "CHERNOV , KONSTANTIN",
+        "licencia": "46471"
+      },
+      "Z": {
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856"
+      },
+      "B": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "C": {
+        "nombre": "MAJOROS , JÁNOS BENCE",
+        "licencia": "47237"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KESHAVARZI , AMIRMAHDI"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 18
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHERNOV , KONSTANTIN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TAULER ALSINA, NORBERT"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAJOROS , JÁNOS BENCE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHERNOV , KONSTANTIN"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KESHAVARZI , AMIRMAHDI"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAJOROS , JÁNOS BENCE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TAULER ALSINA, NORBERT"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT L'HOSPITALET",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

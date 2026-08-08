@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 4,
+  "fecha": "2023-02-11",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CEIP LEOPOLDO CALVO",
+    "ciudad": "SOTELO - C/ PUENTE DE LA REINA S/N 28001 Madrid Madrid"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "EIVISSA-CARMEN PELUQUEROS PATR.HUMANITAT",
+      "id": "2018889",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TENIS DE MESA FEMENINO",
+      "id": "2018886",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE FRANCISCO CIFUENTES GARRIDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PAULA MARIA GUERRERO MARTINEZ",
+        "licencia": "33818",
+        "id": "33818"
+      },
+      "X": {
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "Z": {
+        "nombre": "IARA SOLANGE CORDERO MUÑOZ",
+        "licencia": "38745",
+        "id": "38745"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "B": {
+        "nombre": "NAHIA ROBLES MARTIN",
+        "licencia": "38899",
+        "id": "38899"
+      },
+      "C": {
+        "nombre": "INES MEANA GARCIA",
+        "licencia": "39048",
+        "id": "39048"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAULA MARIA GUERRERO MARTINEZ",
+        "licencia": "33818",
+        "id": "33818"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAHIA ROBLES MARTIN",
+        "licencia": "38899",
+        "id": "38899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IARA SOLANGE CORDERO MUÑOZ",
+        "licencia": "38745",
+        "id": "38745"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "INES MEANA GARCIA",
+        "licencia": "39048",
+        "id": "39048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARINA JULIAN VILLAVERDE",
+        "licencia": "35398",
+        "id": "35398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAULA MARIA GUERRERO MARTINEZ",
+        "licencia": "33818",
+        "id": "33818"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "INES MEANA GARCIA",
+        "licencia": "39048",
+        "id": "39048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IARA SOLANGE CORDERO MUÑOZ",
+        "licencia": "38745",
+        "id": "38745"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAHIA ROBLES MARTIN",
+        "licencia": "38899",
+        "id": "38899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "EIVISSA-CARMEN PELUQUEROS PATR.HUMANITAT",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

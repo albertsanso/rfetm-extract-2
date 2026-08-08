@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 8,
+  "fecha": "2023-11-25",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ZUBI ALDE",
+    "ciudad": "Portugalete (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "WELLTECH ELECTRONICS GURETALDE",
+      "id": "101",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT TORTOSA",
+      "id": "48",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ROBERTO PRADANOS MEMENDI",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTRESANA MARTIN, EDER",
+        "licencia": "20212",
+        "id": "20212"
+      },
+      "X": {
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      },
+      "Z": {
+        "nombre": "HERROJO BARRENA, GAIZKA",
+        "licencia": "18876",
+        "id": "18876"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "B": {
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "C": {
+        "nombre": "MARTINEZ FONTANE, JUAN",
+        "licencia": "21671",
+        "id": "21671"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRESANA MARTIN, EDER",
+        "licencia": "20212",
+        "id": "20212"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HERROJO BARRENA, GAIZKA",
+        "licencia": "18876",
+        "id": "18876"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ FONTANE, JUAN",
+        "licencia": "21671",
+        "id": "21671"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TEMPRANO SEVILLA, GABRIEL",
+        "licencia": "29730",
+        "id": "29730"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRESANA MARTIN, EDER",
+        "licencia": "20212",
+        "id": "20212"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ FONTANE, JUAN",
+        "licencia": "21671",
+        "id": "21671"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HERROJO BARRENA, GAIZKA",
+        "licencia": "18876",
+        "id": "18876"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT TORTOSA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

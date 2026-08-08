@@ -1,0 +1,355 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 4,
+  "jornada": 2,
+  "fecha": "2025-11-15",
+  "hora": "19:00",
+  "lugar": {
+    "ciudad": "COLEGIO EMILIO CASADO",
+    "recinto": "C/ CASIMIRO MORCILLO, 51 28100-ALCOBENDAS (MADRID)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MURPROTEC ALCOBENDAS TM",
+      "delegado": {
+        "nombre": "ECHEVERRI OCAMPO, MANUELA",
+        "licencia": "38506"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCON TM",
+      "delegado": {
+        "nombre": "AGUILAR SALAS, PEDRO",
+        "licencia": "22716"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "TARDIO DEL CERRO, CARLOS M.",
+      "licencia": "5496"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RODRIGUEZ GALLARDO, CELIA",
+        "licencia": "37874"
+      },
+      "B": {
+        "nombre": "RODRIGUEZ DE ARCE CARRASCOSA, ROCIO",
+        "licencia": "31258"
+      },
+      "C": {
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL",
+        "licencia": "39321"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROMERO DE AVILA GONZALEZ-ALBO, CATALINA",
+        "licencia": "494"
+      },
+      "X": {
+        "nombre": "AGUILAR GUEVARA, DENISSE MARY",
+        "licencia": "29847"
+      },
+      "Z": {
+        "nombre": "TERAN LOVERA, REBECA",
+        "licencia": "46951"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ GALLARDO, CELIA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMERO DE AVILA GONZALEZ-ALBO, CATALINA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ DE ARCE CARRASCOSA, ROCIO"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGUILAR GUEVARA, DENISSE MARY"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TERAN LOVERA, REBECA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ GALLARDO, CELIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGUILAR GUEVARA, DENISSE MARY"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMERO DE AVILA GONZALEZ-ALBO, CATALINA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ DE ARCE CARRASCOSA, ROCIO"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TERAN LOVERA, REBECA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (6-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MURPROTEC ALCOBENDAS TM",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

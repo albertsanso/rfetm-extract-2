@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 4,
+  "jornada": 10,
+  "fecha": "2023-12-16",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB OBERENA",
+    "ciudad": "Pamplona/Iruña (Navarra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO OBERENA \"B\"",
+      "id": "141",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T SALLENT.RESET",
+      "id": "16017",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "Mª CONCEPCION OHARRIZ ECHENIQUE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "IZKUE SALINAS, LUIS",
+        "licencia": "21797",
+        "id": "21797"
+      },
+      "B": {
+        "nombre": "ILARDUYA IZCUE, JOSU",
+        "licencia": "35456",
+        "id": "35456"
+      },
+      "C": {
+        "nombre": "ELIZARI PEREZ, HUGO",
+        "licencia": "22558",
+        "id": "22558"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CABALLERO CORNET, POL",
+        "licencia": "24823",
+        "id": "24823"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "Z": {
+        "nombre": "ARMENGOL CODINA, JOSEP",
+        "licencia": "9796",
+        "id": "9796"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "IZKUE SALINAS, LUIS",
+        "licencia": "21797",
+        "id": "21797"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CABALLERO CORNET, POL",
+        "licencia": "24823",
+        "id": "24823"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ILARDUYA IZCUE, JOSU",
+        "licencia": "35456",
+        "id": "35456"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ELIZARI PEREZ, HUGO",
+        "licencia": "22558",
+        "id": "22558"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARMENGOL CODINA, JOSEP",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "IZKUE SALINAS, LUIS",
+        "licencia": "21797",
+        "id": "21797"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304",
+        "id": "25304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ELIZARI PEREZ, HUGO",
+        "licencia": "22558",
+        "id": "22558"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CABALLERO CORNET, POL",
+        "licencia": "24823",
+        "id": "24823"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ILARDUYA IZCUE, JOSU",
+        "licencia": "35456",
+        "id": "35456"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARMENGOL CODINA, JOSEP",
+        "licencia": "9796",
+        "id": "9796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T SALLENT.RESET",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

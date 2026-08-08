@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 5,
+  "jornada": 4,
+  "fecha": "2021-03-06",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION FRANCISCO MARTIN COLMENERO AVENIDA DE TOLEDO, 36",
+    "ciudad": "Álamo (El) (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA EL ALAMO",
+      "id": "20191347",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "EIVISSA-CARMEN PELUQUEROS PATR.HUMANITAT",
+      "id": "2018889",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO PARRA ALVAREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "X": {
+        "nombre": "CELIA CAMPILLOS GARCIA",
+        "licencia": "6191",
+        "id": "6191"
+      },
+      "Z": {
+        "nombre": "MARTA LEON GONZALEZ",
+        "licencia": "22237",
+        "id": "22237"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "B": {
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      },
+      "C": {
+        "nombre": "CELIA LOPEZ-BRAVO CIFUENTES",
+        "licencia": "19464",
+        "id": "19464"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA CAMPILLOS GARCIA",
+        "licencia": "6191",
+        "id": "6191"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTA LEON GONZALEZ",
+        "licencia": "22237",
+        "id": "22237"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CELIA LOPEZ-BRAVO CIFUENTES",
+        "licencia": "19464",
+        "id": "19464"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA CAMPILLOS GARCIA",
+        "licencia": "6191",
+        "id": "6191"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LAURA PEREZ JARAIZ",
+        "licencia": "8825",
+        "id": "8825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CELIA LOPEZ-BRAVO CIFUENTES",
+        "licencia": "19464",
+        "id": "19464"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTA LEON GONZALEZ",
+        "licencia": "22237",
+        "id": "22237"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

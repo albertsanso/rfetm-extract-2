@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 22,
+  "fecha": "2024-05-05",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA T.M. CEIP TERESA BERGANZA",
+      "id": "20191284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AD COLLADO MEDIANO",
+      "id": "2017355",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL ANGEL PIÑERO DEL REAL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "B": {
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "C": {
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PARAMO MATEO, CARLOS",
+        "licencia": "10838",
+        "id": "10838"
+      },
+      "X": {
+        "nombre": "MORATA FERNÁNDEZ, JAIME",
+        "licencia": "15569",
+        "id": "15569"
+      },
+      "Z": {
+        "nombre": "HIDALGO HERRERO, MARIO",
+        "licencia": "24084",
+        "id": "24084"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ZABALLOS GALAN, MIGUEL",
+      "CANALEJO GOMEZ, DIEGO"
+    ],
+    "visitante": [
+      "MORATA FERNÁNDEZ, JAIME",
+      "HIDALGO HERRERO, MARIO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PARAMO MATEO, CARLOS",
+        "licencia": "10838",
+        "id": "10838"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORATA FERNÁNDEZ, JAIME",
+        "licencia": "15569",
+        "id": "15569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HIDALGO HERRERO, MARIO",
+        "licencia": "24084",
+        "id": "24084"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORATA FERNÁNDEZ, JAIME",
+        "licencia": "15569",
+        "id": "15569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PARAMO MATEO, CARLOS",
+        "licencia": "10838",
+        "id": "10838"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HIDALGO HERRERO, MARIO",
+        "licencia": "24084",
+        "id": "24084"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ZABALLOS GALAN, MIGUEL",
+          "CANALEJO GOMEZ, DIEGO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MORATA FERNÁNDEZ, JAIME",
+          "HIDALGO HERRERO, MARIO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA T.M. CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

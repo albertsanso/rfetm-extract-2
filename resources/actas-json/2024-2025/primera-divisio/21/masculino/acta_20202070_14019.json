@@ -1,0 +1,420 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 21,
+  "fecha": "2025-04-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CIRCULO DE LABRADORES",
+      "id": "20202070",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "14019",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GERVAS DIAZ, JUAN LUIS",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "X": {
+        "nombre": "ROMERO GRANADO, VENANCIO",
+        "licencia": "31124",
+        "id": "31124"
+      },
+      "Z": {
+        "nombre": "DURAN MINGUET, DAVID",
+        "licencia": "30677",
+        "id": "30677"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147",
+        "id": "19147"
+      },
+      "B": {
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "C": {
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ROMERO GRANADO, VENANCIO",
+      "DURAN MINGUET, DAVID"
+    ],
+    "visitante": [
+      "SABUGAL MORGADO, NICOLAS",
+      "BELLO , AHMED"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GERVAS DIAZ, JUAN LUIS",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147",
+        "id": "19147"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROMERO GRANADO, VENANCIO",
+        "licencia": "31124",
+        "id": "31124"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DURAN MINGUET, DAVID",
+        "licencia": "30677",
+        "id": "30677"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROMERO GRANADO, VENANCIO",
+        "licencia": "31124",
+        "id": "31124"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147",
+        "id": "19147"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GERVAS DIAZ, JUAN LUIS",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DURAN MINGUET, DAVID",
+        "licencia": "30677",
+        "id": "30677"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ROMERO GRANADO, VENANCIO",
+          "DURAN MINGUET, DAVID"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SABUGAL MORGADO, NICOLAS",
+          "BELLO , AHMED"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

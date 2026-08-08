@@ -1,0 +1,355 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 11,
+  "fecha": "2026-01-11",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Barcelona (Barcelona)",
+    "recinto": "LLUISOS DE GRACIA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DARUMA LLUISOS DE GRACIA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "CANO ROYO, FERRAN",
+        "licencia": "5388"
+      }
+    },
+    "visitante": {
+      "nombre": "TT ELS 8 ICELAND LA GARRIGA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: CANO ROYO, FERRAN",
+        "licencia": "5388"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMONA RODRIGUEZ, MANUEL",
+      "licencia": "536"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARCO MARTINEZ, ORIOL",
+        "licencia": "32179"
+      },
+      "X": {
+        "nombre": "MARTORELL LOCASCIO, NEIL",
+        "licencia": "26171"
+      },
+      "Z": {
+        "nombre": "MORIO , FLORIAN MARTIN",
+        "licencia": "38520"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ARAGALL CHECA, NIL",
+        "licencia": "17979"
+      },
+      "B": {
+        "nombre": "LLASTANÓS BUJONS, ALEX",
+        "licencia": "33174"
+      },
+      "C": {
+        "nombre": "GUINART FONT, JOEL",
+        "licencia": "25818"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARCO MARTINEZ, ORIOL"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ARAGALL CHECA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTORELL LOCASCIO, NEIL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LLASTANÓS BUJONS, ALEX"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MORIO , FLORIAN MARTIN"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GUINART FONT, JOEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTORELL LOCASCIO, NEIL"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ARAGALL CHECA, NIL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARCO MARTINEZ, ORIOL"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GUINART FONT, JOEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MORIO , FLORIAN MARTIN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LLASTANÓS BUJONS, ALEX"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 21,
+          "visitante": 19
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DARUMA LLUISOS DE GRACIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

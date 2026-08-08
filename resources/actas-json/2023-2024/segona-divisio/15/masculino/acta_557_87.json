@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 15,
+  "fecha": "2024-02-11",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL SANTA ANA",
+    "ciudad": "Chiclana de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM CHICLANA FUNDACION VIPREN",
+      "id": "557",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RC LABRADORES",
+      "id": "87",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PABLO ESTRADA MEJIDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "X": {
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "Z": {
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DIAZ MARQUEZ, MANUEL",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "B": {
+        "nombre": "RODRIGUEZ DEL CASTILLO, CAYETANO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "C": {
+        "nombre": "MORENO ROMERO, SILVERIO",
+        "licencia": "28701",
+        "id": "28701"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIAZ MARQUEZ, MANUEL",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ DEL CASTILLO, CAYETANO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MORENO ROMERO, SILVERIO",
+        "licencia": "28701",
+        "id": "28701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JURADO DECLARA, JUAN",
+        "licencia": "22164",
+        "id": "22164"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIAZ MARQUEZ, MANUEL",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEREZ RODRIGUEZ, ANTONIO",
+        "licencia": "37860",
+        "id": "37860"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MORENO ROMERO, SILVERIO",
+        "licencia": "28701",
+        "id": "28701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ DEL CASTILLO, CAYETANO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RC LABRADORES",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

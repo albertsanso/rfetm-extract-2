@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 6,
+  "fecha": "2025-05-04",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TARTESSOS VAUS",
+      "id": "20243883",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD NERVION TENIS DE MESA CITY \"A\"",
+      "id": "20191255",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "X": {
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "Z": {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "WU , YIFEI",
+        "licencia": "41402",
+        "id": "41402"
+      },
+      "B": {
+        "nombre": "BLINOV VALDES, MARIA EUGENIA",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "C": {
+        "nombre": "ZHI YAN , WANG",
+        "licencia": "40285",
+        "id": "40285"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "WU , YIFEI",
+        "licencia": "41402",
+        "id": "41402"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BLINOV VALDES, MARIA EUGENIA",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ZHI YAN , WANG",
+        "licencia": "40285",
+        "id": "40285"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "WU , YIFEI",
+        "licencia": "41402",
+        "id": "41402"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ZHI YAN , WANG",
+        "licencia": "40285",
+        "id": "40285"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BLINOV VALDES, MARIA EUGENIA",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM TARTESSOS VAUS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

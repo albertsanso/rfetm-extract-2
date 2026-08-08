@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 9,
+  "jornada": 11,
+  "fecha": "2023-01-22",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO LA RAMBLA",
+    "ciudad": "Coslada (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. COSLADA",
+      "id": "54",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MADRID CAPITAL TM",
+      "id": "20223010",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO HERRERO GÓMEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "X": {
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "Z": {
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "B": {
+        "nombre": "ADRIAN MONTESDEOCA SAAVEDRA",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "C": {
+        "nombre": "MARCO LOPEZ BALLESTRINO",
+        "licencia": "37071",
+        "id": "37071"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIAN MONTESDEOCA SAAVEDRA",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO LOPEZ BALLESTRINO",
+        "licencia": "37071",
+        "id": "37071"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDRES BUITRAGO MORALES",
+        "licencia": "22832",
+        "id": "22832"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 18
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDO CELDRAN ROMERO",
+        "licencia": "19749",
+        "id": "19749"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO LOPEZ BALLESTRINO",
+        "licencia": "37071",
+        "id": "37071"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIAN MONTESDEOCA SAAVEDRA",
+        "licencia": "8252",
+        "id": "8252"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. COSLADA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

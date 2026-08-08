@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2023-11-18",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CEIP PIO XII",
+    "ciudad": "C / DIEGO GóMEZ SALIDO S/N 11401 JEREZ DE LA FRONTERA CÁDIZ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "20212207",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RESTAURANTE VENTUCCIO - CTM JAEN",
+      "id": "20222961",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN GROSSO LAGOSTENA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "X": {
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "Z": {
+        "nombre": "FRIAS MOSTAZO, PILAR",
+        "licencia": "2308",
+        "id": "2308"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ABAD ORTEGA, DULCE",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "B": {
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "C": {
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ABAD ORTEGA, DULCE",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRIAS MOSTAZO, PILAR",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ABAD ORTEGA, DULCE",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REYNALDO TOLEDO, CLAUDIA",
+        "licencia": "36669",
+        "id": "36669"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

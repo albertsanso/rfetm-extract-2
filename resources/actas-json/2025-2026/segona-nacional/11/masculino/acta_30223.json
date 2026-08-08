@@ -1,0 +1,413 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 8,
+  "fecha": "2025-11-23",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Linares (Jaén)",
+    "recinto": "SALA DE TENIS DE MESA FELIPE VI"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AQADEM.COM LINARES",
+      "delegado": {
+        "nombre": "ROBLES MARTINEZ, JOSE",
+        "licencia": "618"
+      },
+      "entrenador": {
+        "nombre": "RODRIGUEZ PERALTO, ESTEBAN ROBERTO",
+        "licencia": "1141"
+      }
+    },
+    "visitante": {
+      "nombre": "IES SIERRA DE CARRASCOY EL PALMAR",
+      "delegado": {
+        "nombre": "SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      },
+      "entrenador": {
+        "nombre": "SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LóPEZ LOPERA, PABLO",
+      "licencia": "45607"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CANO MORENO, EDUARDO",
+        "licencia": "36687"
+      },
+      "B": {
+        "nombre": "ROBLES MARTINEZ, JOSE",
+        "licencia": "618"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ PERALTO, ESTEBAN ROBERTO",
+        "licencia": "1141"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      },
+      "X": {
+        "nombre": "MARTINEZ HERNANDO, ALEJANDRO",
+        "licencia": "35152"
+      },
+      "Z": {
+        "nombre": "GARCIA CRUZ, PABLO",
+        "licencia": "31131"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "CANO MORENO, EDUARDO",
+      "RODRIGUEZ PERALTO, ESTEBAN ROBERTO"
+    ],
+    "visitante": [
+      "GARCIA CRUZ, PABLO",
+      "SALINAS PUJANTE, JOSE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CANO MORENO, EDUARDO"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SALINAS PUJANTE, JOSE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ROBLES MARTINEZ, JOSE"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ HERNANDO, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ PERALTO, ESTEBAN ROBERTO"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA CRUZ, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CANO MORENO, EDUARDO"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ HERNANDO, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ PERALTO, ESTEBAN ROBERTO"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SALINAS PUJANTE, JOSE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ROBLES MARTINEZ, JOSE"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA CRUZ, PABLO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "CANO MORENO, EDUARDO",
+          "RODRIGUEZ PERALTO, ESTEBAN ROBERTO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "GARCIA CRUZ, PABLO",
+          "SALINAS PUJANTE, JOSE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IES SIERRA DE CARRASCOY EL PALMAR",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

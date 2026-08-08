@@ -1,0 +1,428 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 17,
+  "fecha": "2024-03-09",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "GIMNASIO INSTITUTO OLIVAR GRAN",
+    "ciudad": "Figueres (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "1016",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "45",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI FONT EXPOSITO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "X": {
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "Z": {
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "B": {
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "C": {
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509",
+        "id": "23509"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GRAU HARO, SERGI",
+      "REDONDO GALLARDO, MANEL"
+    ],
+    "visitante": [
+      "SHAFREH , EHSAN",
+      "MOLIST PALOMERA, SERGI"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509",
+        "id": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509",
+        "id": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GRAU HARO, SERGI",
+          "REDONDO GALLARDO, MANEL"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SHAFREH , EHSAN",
+          "MOLIST PALOMERA, SERGI"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

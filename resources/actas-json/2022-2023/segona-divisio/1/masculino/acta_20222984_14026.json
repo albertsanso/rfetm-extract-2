@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 1,
+  "fecha": "2022-09-24",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PAVELLó DEL CLUB GIMNàSTIC",
+    "ciudad": "Tarragona (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB GIMNASTIC DE TARRAGONA",
+      "id": "20222984",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT MOLLERUSSA ARCUSIN",
+      "id": "14026",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI GEBELLI BORRAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "IVAN HERRERO RABASO",
+        "licencia": "25799",
+        "id": "25799"
+      },
+      "X": {
+        "nombre": "XAVIER DE BLAS FOIX",
+        "licencia": "7403",
+        "id": "7403"
+      },
+      "Z": {
+        "nombre": "IKER ARCE GOMEZ",
+        "licencia": "5017",
+        "id": "5017"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CRISTIAN FERNANDEZ MARTINEZ",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "B": {
+        "nombre": "MARC MIRO G. GALCERAN",
+        "licencia": "16375",
+        "id": "16375"
+      },
+      "C": {
+        "nombre": "FRANCESC MIRO PONS",
+        "licencia": "16280",
+        "id": "16280"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IVAN HERRERO RABASO",
+        "licencia": "25799",
+        "id": "25799"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTIAN FERNANDEZ MARTINEZ",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "XAVIER DE BLAS FOIX",
+        "licencia": "7403",
+        "id": "7403"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARC MIRO G. GALCERAN",
+        "licencia": "16375",
+        "id": "16375"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IKER ARCE GOMEZ",
+        "licencia": "5017",
+        "id": "5017"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCESC MIRO PONS",
+        "licencia": "16280",
+        "id": "16280"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "XAVIER DE BLAS FOIX",
+        "licencia": "7403",
+        "id": "7403"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTIAN FERNANDEZ MARTINEZ",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IVAN HERRERO RABASO",
+        "licencia": "25799",
+        "id": "25799"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCESC MIRO PONS",
+        "licencia": "16280",
+        "id": "16280"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IKER ARCE GOMEZ",
+        "licencia": "5017",
+        "id": "5017"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARC MIRO G. GALCERAN",
+        "licencia": "16375",
+        "id": "16375"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB GIMNASTIC DE TARRAGONA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

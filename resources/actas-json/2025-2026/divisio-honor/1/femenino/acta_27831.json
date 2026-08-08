@@ -1,0 +1,345 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 1,
+  "jornada": 7,
+  "fecha": "2025-11-15",
+  "hora": "17:30",
+  "lugar": {
+    "ciudad": "Mos (Pontevedra)",
+    "recinto": "ALWAYSTM"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MOS Dismac",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "PEREIRO COSTAS, SAMUEL",
+        "licencia": "3581"
+      }
+    },
+    "visitante": {
+      "nombre": "T.M.DEFENSE LA PALMA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GONZALEZ MACHIN, ELADIO MOISES",
+        "licencia": "20949"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RIAL GONDAR, ALBERTO",
+      "licencia": "35368"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SANMARTIN PEÑA, CARMELA",
+        "licencia": "19658"
+      },
+      "B": {
+        "nombre": "ALFARO AVENDAÑO, SARA",
+        "licencia": "29522"
+      },
+      "C": {
+        "nombre": "SANDE MARTINS, MARTINA",
+        "licencia": "37599"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA",
+        "licencia": "42182"
+      },
+      "X": {
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE",
+        "licencia": "22246"
+      },
+      "Z": {
+        "nombre": "SAFINA , KAMILLA",
+        "licencia": "40925"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SANMARTIN PEÑA, CARMELA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALFARO AVENDAÑO, SARA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SANDE MARTINS, MARTINA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SAFINA , KAMILLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SANMARTIN PEÑA, CARMELA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SAGARDIA RODRIGUEZ, ELENE"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SANDE MARTINS, MARTINA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SáNCHEZ VECHIONACCI, EMILY ISABELLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALFARO AVENDAÑO, SARA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SAFINA , KAMILLA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "T.M.DEFENSE LA PALMA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

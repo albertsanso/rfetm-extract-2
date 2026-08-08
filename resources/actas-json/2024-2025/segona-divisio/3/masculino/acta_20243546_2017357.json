@@ -1,0 +1,410 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 11,
+  "jornada": 3,
+  "fecha": "2024-10-13",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "T.M. BEST HOUSE CALASPARRA",
+      "id": "20243546",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GIL MOYA, MIGUEL ANGEL",
+        "licencia": "10138",
+        "id": "10138"
+      },
+      "X": {
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "Z": {
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "B": {
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "C": {
+        "nombre": "MIRA PASTOR, JUAN CARLOS",
+        "licencia": "1353",
+        "id": "1353"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GARCIA GARCIA, PEDRO",
+      "MARIN LOZANO, FRANCISCO"
+    ],
+    "visitante": [
+      "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+      "MIRA PASTOR, JUAN CARLOS"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIL MOYA, MIGUEL ANGEL",
+        "licencia": "10138",
+        "id": "10138"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIRA PASTOR, JUAN CARLOS",
+        "licencia": "1353",
+        "id": "1353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIL MOYA, MIGUEL ANGEL",
+        "licencia": "10138",
+        "id": "10138"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIRA PASTOR, JUAN CARLOS",
+        "licencia": "1353",
+        "id": "1353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GARCIA GARCIA, PEDRO",
+          "MARIN LOZANO, FRANCISCO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+          "MIRA PASTOR, JUAN CARLOS"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ILICITANO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

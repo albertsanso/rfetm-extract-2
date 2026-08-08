@@ -1,0 +1,392 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 16,
+  "fecha": "2026-02-28",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Zaragoza (Zaragoza)",
+    "recinto": "IES AZUCARERA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GAMBRA SAID, JORGE ANDRES",
+        "licencia": "855"
+      }
+    },
+    "visitante": {
+      "nombre": "LES BORGES GENERAL D'OLIS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: GAMBRA SAID, JORGE ANDRES",
+        "licencia": "855"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ARAGON PEREZ, JOSE LUIS",
+      "licencia": "780"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO",
+        "licencia": "27032"
+      },
+      "X": {
+        "nombre": "GONZALVO SIMON, HECTOR",
+        "licencia": "26754"
+      },
+      "Z": {
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014"
+      },
+      "B": {
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800"
+      },
+      "C": {
+        "nombre": "SERRET PERELLO, JOAN",
+        "licencia": "34232"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "GONZALVO SIMON, HECTOR",
+      "SANTACRUZ RAMOS, ALEJANDRO"
+    ],
+    "visitante": [
+      "JIMéNEZ BENíTEZ, JAIR",
+      "SERRET PERELLO, JOAN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TANG QIU, RUIXIANG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRET PERELLO, JOAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TANG QIU, RUIXIANG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRET PERELLO, JOAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "GONZALVO SIMON, HECTOR",
+          "SANTACRUZ RAMOS, ALEJANDRO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "JIMéNEZ BENíTEZ, JAIR",
+          "SERRET PERELLO, JOAN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LES BORGES GENERAL D'OLIS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

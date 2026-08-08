@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 22,
+  "fecha": "2025-05-03",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "T.M. FUENTE DEL MAESTRE",
+      "id": "10629",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "EXTREMADURA TM ALMENDRALEJO",
+      "id": "14",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTINEZ VIVAS, ANGEL JESUS",
+        "licencia": "16184",
+        "id": "16184"
+      },
+      "X": {
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      },
+      "Z": {
+        "nombre": "GONZALEZ LOPEZ, JUAN FRANCISCO",
+        "licencia": "4766",
+        "id": "4766"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "B": {
+        "nombre": "PEREZ GONZALEZ, JUAN BAUTISTA",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "C": {
+        "nombre": "MARTINEZ ALVAREZ, PABLO",
+        "licencia": "39810",
+        "id": "39810"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ VIVAS, ANGEL JESUS",
+        "licencia": "16184",
+        "id": "16184"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ GONZALEZ, JUAN BAUTISTA",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ LOPEZ, JUAN FRANCISCO",
+        "licencia": "4766",
+        "id": "4766"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ ALVAREZ, PABLO",
+        "licencia": "39810",
+        "id": "39810"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ VIVAS, ANGEL JESUS",
+        "licencia": "16184",
+        "id": "16184"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ ALVAREZ, PABLO",
+        "licencia": "39810",
+        "id": "39810"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ LOPEZ, JUAN FRANCISCO",
+        "licencia": "4766",
+        "id": "4766"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ PEREZ, JAIME",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "T.M. FUENTE DEL MAESTRE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

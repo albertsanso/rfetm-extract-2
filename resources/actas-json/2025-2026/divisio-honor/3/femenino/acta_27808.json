@@ -1,0 +1,402 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2025-10-26",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Madrid (Madrid)",
+    "recinto": "Colegio Villamadrid, C/ transversal sexta, 17, Villaverde 28021-Madrid"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDE MADRID CAPITAL DEL TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "CIFUENTES CAMACHO, PABLO",
+        "licencia": "942"
+      }
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "ROLDAN PEREZ, ALMUDENA",
+        "licencia": "2512"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GONZALEZ RUBIO, DAVID",
+      "licencia": "8627"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PANADERO SANTOS, GLORIA",
+        "licencia": "1422"
+      },
+      "B": {
+        "nombre": "CIFUENTES FERNANDEZ, MIREIA",
+        "licencia": "8643"
+      },
+      "C": {
+        "nombre": "ALIA MARIA, MARIA",
+        "licencia": "24090"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "TSAI , PEI-RUNG",
+        "licencia": "47115"
+      },
+      "X": {
+        "nombre": "PERALES GONZALEZ, MARTA",
+        "licencia": "34526"
+      },
+      "Z": {
+        "nombre": "MUÑOZ DE RUS, BLANCA",
+        "licencia": "36702"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "CIFUENTES FERNANDEZ, MIREIA",
+      "ALIA MARIA, MARIA"
+    ],
+    "visitante": [
+      "TSAI , PEI-RUNG",
+      "MUÑOZ DE RUS, BLANCA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PANADERO SANTOS, GLORIA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TSAI , PEI-RUNG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CIFUENTES FERNANDEZ, MIREIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PERALES GONZALEZ, MARTA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALIA MARIA, MARIA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MUÑOZ DE RUS, BLANCA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PANADERO SANTOS, GLORIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PERALES GONZALEZ, MARTA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALIA MARIA, MARIA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TSAI , PEI-RUNG"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CIFUENTES FERNANDEZ, MIREIA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MUÑOZ DE RUS, BLANCA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "CIFUENTES FERNANDEZ, MIREIA",
+          "ALIA MARIA, MARIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "TSAI , PEI-RUNG",
+          "MUÑOZ DE RUS, BLANCA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TECNIGEN LINARES",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 12,
+  "jornada": 19,
+  "fecha": "2023-04-02",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLÓN PLAYITAS",
+    "ciudad": "Tuineje (Las Palmas)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO DE AJEDREZ HENAR Y SUS DRAGONES",
+      "id": "20222592",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO YACAL",
+      "id": "1381",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EDUARDO COUSO NAVEIRA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      },
+      "X": {
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "Z": {
+        "nombre": "RICARDO MANUEL GARCíA CáCERES",
+        "licencia": "36668",
+        "id": "36668"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "B": {
+        "nombre": "ALEJANDRO SUAREZ SANTANA",
+        "licencia": "36723",
+        "id": "36723"
+      },
+      "C": {
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEJANDRO SUAREZ SANTANA",
+        "licencia": "36723",
+        "id": "36723"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RICARDO MANUEL GARCíA CáCERES",
+        "licencia": "36668",
+        "id": "36668"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORGE GARCÍA PÉREZ",
+        "licencia": "37541",
+        "id": "37541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALEJANDRO SUAREZ SANTANA",
+        "licencia": "36723",
+        "id": "36723"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO DE AJEDREZ HENAR Y SUS DRAGONES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

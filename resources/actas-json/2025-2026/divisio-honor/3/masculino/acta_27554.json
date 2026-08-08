@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2026-01-10",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Palmar (El) (Murcia)",
+    "recinto": "Gimnasio IES Sierra de Carrascoy"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB CÍRCULO CULTURAL EL PALMAR",
+      "delegado": {
+        "nombre": "SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      },
+      "entrenador": {
+        "nombre": "SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      }
+    },
+    "visitante": {
+      "nombre": "CTM VEGAS DEL GENIL",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: SALINAS PUJANTE, JOSE",
+        "licencia": "2179"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "AVILA FERNANDEZ, LUIS",
+      "licencia": "661"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SORIA MARTINEZ, JAVIER",
+        "licencia": "10444"
+      },
+      "X": {
+        "nombre": "RECHE VAZQUEZ, MARTIN",
+        "licencia": "21344"
+      },
+      "Z": {
+        "nombre": "BETETA BELMAR, CARLOS",
+        "licencia": "3427"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PUERTAS MARTINEZ, IVAN",
+        "licencia": "23400"
+      },
+      "B": {
+        "nombre": "PUERTAS MARTINEZ, DAVID",
+        "licencia": "23399"
+      },
+      "C": {
+        "nombre": "RUIZ REYES, JOSE MANUEL",
+        "licencia": "1856"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SORIA MARTINEZ, JAVIER"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PUERTAS MARTINEZ, IVAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RECHE VAZQUEZ, MARTIN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PUERTAS MARTINEZ, DAVID"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BETETA BELMAR, CARLOS"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUIZ REYES, JOSE MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RECHE VAZQUEZ, MARTIN"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PUERTAS MARTINEZ, IVAN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SORIA MARTINEZ, JAVIER"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUIZ REYES, JOSE MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BETETA BELMAR, CARLOS"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PUERTAS MARTINEZ, DAVID"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB CÍRCULO CULTURAL EL PALMAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

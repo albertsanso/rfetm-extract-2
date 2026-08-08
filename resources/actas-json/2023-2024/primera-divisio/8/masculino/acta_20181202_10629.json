@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 8,
+  "fecha": "2023-11-26",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL DE POLÁN",
+    "ciudad": "Polán (Toledo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM POLAN-TOLEDO",
+      "id": "20181202",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. FUENTE DEL MAESTRE",
+      "id": "10629",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE EUFRASIO MORENO SORIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTELLANO DíAZ, YAMIL ASIER",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "X": {
+        "nombre": "RESUELA AREVALO, JOSE ALBERTO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "Z": {
+        "nombre": "GAYOSO GARCIA, BRAULIO",
+        "licencia": "1077",
+        "id": "1077"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875",
+        "id": "2875"
+      },
+      "B": {
+        "nombre": "GALEANO ALVARADO, JAIME FRANCISCO",
+        "licencia": "34185",
+        "id": "34185"
+      },
+      "C": {
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "RESUELA AREVALO, JOSE ALBERTO",
+      "GAYOSO GARCIA, BRAULIO"
+    ],
+    "visitante": [
+      "MURIEL BLANCO, DAVID CRISTIAN",
+      "DIEZ APOLO, JUAN CARLOS"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTELLANO DíAZ, YAMIL ASIER",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875",
+        "id": "2875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RESUELA AREVALO, JOSE ALBERTO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALEANO ALVARADO, JAIME FRANCISCO",
+        "licencia": "34185",
+        "id": "34185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GAYOSO GARCIA, BRAULIO",
+        "licencia": "1077",
+        "id": "1077"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RESUELA AREVALO, JOSE ALBERTO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875",
+        "id": "2875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTELLANO DíAZ, YAMIL ASIER",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEZ APOLO, JUAN CARLOS",
+        "licencia": "8649",
+        "id": "8649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GAYOSO GARCIA, BRAULIO",
+        "licencia": "1077",
+        "id": "1077"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALEANO ALVARADO, JAIME FRANCISCO",
+        "licencia": "34185",
+        "id": "34185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "RESUELA AREVALO, JOSE ALBERTO",
+          "GAYOSO GARCIA, BRAULIO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MURIEL BLANCO, DAVID CRISTIAN",
+          "DIEZ APOLO, JUAN CARLOS"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM POLAN-TOLEDO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,408 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 7,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON CIUDAD DEPORTIVA",
+    "ciudad": "Castellón de la Plana/Castelló de la Plana (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CASTELLÓ APE CERÁMICA",
+      "id": "10144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. MEDITERRANEO-VALENCIA",
+      "id": "217",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN IGNACIO IRANZO REIG",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "X": {
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      },
+      "Z": {
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JONATAN NAVARRETE TELLES",
+        "licencia": "8226",
+        "id": "8226"
+      },
+      "B": {
+        "nombre": "ANGEL NAVARRETE TELLES",
+        "licencia": "3563",
+        "id": "3563"
+      },
+      "C": {
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "DANIEL TIRADO FERNANDEZ",
+      "ERNEST RODRIGO MORENO"
+    ],
+    "visitante": [
+      "ANGEL NAVARRETE TELLES",
+      "VICENT VIDAL GARCIA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JONATAN NAVARRETE TELLES",
+        "licencia": "8226",
+        "id": "8226"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANGEL NAVARRETE TELLES",
+        "licencia": "3563",
+        "id": "3563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSEP ANTONI GRAMATGE GARCIA",
+        "licencia": "28114",
+        "id": "28114"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JONATAN NAVARRETE TELLES",
+        "licencia": "8226",
+        "id": "8226"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL TIRADO FERNANDEZ",
+        "licencia": "21041",
+        "id": "21041"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANGEL NAVARRETE TELLES",
+        "licencia": "3563",
+        "id": "3563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "DANIEL TIRADO FERNANDEZ",
+          "ERNEST RODRIGO MORENO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "ANGEL NAVARRETE TELLES",
+          "VICENT VIDAL GARCIA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CASTELLÓ APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

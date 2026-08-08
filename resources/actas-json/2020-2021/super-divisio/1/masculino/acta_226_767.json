@@ -1,0 +1,272 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2021-03-13",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO C/ MESTRA MARIA CODINA, 1",
+    "ciudad": "Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.T.M. LEGANES",
+      "id": "226",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASISA BORGES VALL",
+      "id": "767",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID SANTOS CUENCA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ABDELKARIM BELHADJI",
+        "licencia": "34922",
+        "ranking": 1000.0,
+        "id": "34922"
+      },
+      "X": {
+        "nombre": "EMILIO GARCIA-ROMEU FERNANDEZ",
+        "licencia": "8829",
+        "ranking": 1010.0,
+        "id": "8829"
+      },
+      "Z": {
+        "nombre": "RAUL MARTINAS IACOB",
+        "licencia": "34213",
+        "ranking": 1000.0,
+        "id": "34213"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "ranking": 1509.0,
+        "id": "18940"
+      },
+      "B": {
+        "nombre": "VIKTOR SVEN ERIK BRODD",
+        "licencia": "36237",
+        "ranking": 2500.0,
+        "id": "36237"
+      },
+      "C": {
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2210.0,
+        "id": "9787"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ABDELKARIM BELHADJI",
+        "licencia": "34922",
+        "ranking": 1000.0,
+        "id": "34922"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "ranking": 1509.0,
+        "id": "18940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "EMILIO GARCIA-ROMEU FERNANDEZ",
+        "licencia": "8829",
+        "ranking": 1010.0,
+        "id": "8829"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VIKTOR SVEN ERIK BRODD",
+        "licencia": "36237",
+        "ranking": 2500.0,
+        "id": "36237"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAUL MARTINAS IACOB",
+        "licencia": "34213",
+        "ranking": 1000.0,
+        "id": "34213"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2210.0,
+        "id": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "EMILIO GARCIA-ROMEU FERNANDEZ",
+        "licencia": "8829",
+        "ranking": 1010.0,
+        "id": "8829"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "ranking": 1509.0,
+        "id": "18940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASISA BORGES VALL",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 0,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

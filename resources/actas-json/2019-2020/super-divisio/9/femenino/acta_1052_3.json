@@ -1,0 +1,446 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 9,
+  "fecha": "2019-12-19",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "B": {
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "C": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "X": {
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "Z": {
+        "nombre": "GABRIELA FEHER",
+        "licencia": "8480",
+        "ranking": 3330.0,
+        "id": "8480"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "KLAUDIA KUSINSKA",
+      "ROXANA ANA MARIA ISTRATE"
+    ],
+    "visitante": [
+      "SOFIA-XUAN ZHANG XU",
+      "ORSOLYA AGOTA FEHER"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GABRIELA FEHER",
+        "licencia": "8480",
+        "ranking": 3330.0,
+        "id": "8480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "KLAUDIA KUSINSKA",
+          "ROXANA ANA MARIA ISTRATE"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SOFIA-XUAN ZHANG XU",
+          "ORSOLYA AGOTA FEHER"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "ranking": 1591.0,
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ORSOLYA AGOTA FEHER",
+        "licencia": "33840",
+        "ranking": 2000.0,
+        "id": "33840"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2982.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 3088.0,
+        "id": "8195"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "KLAUDIA KUSINSKA",
+        "licencia": "33974",
+        "ranking": 2000.0,
+        "id": "33974"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GABRIELA FEHER",
+        "licencia": "8480",
+        "ranking": 3330.0,
+        "id": "8480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

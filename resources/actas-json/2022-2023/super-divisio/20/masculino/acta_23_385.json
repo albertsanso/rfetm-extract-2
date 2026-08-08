@@ -1,0 +1,297 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 20,
+  "fecha": "2023-04-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA POLIVALENT",
+    "ciudad": "Escala (L') (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.E.R. ROBIN PRISCO L´ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "PERE ILLA MINISTRAL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "KONSTANTIN CHERNOV",
+        "licencia": "39153",
+        "ranking": 3000.0,
+        "id": "39153"
+      },
+      "B": {
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1857.0,
+        "id": "18284"
+      },
+      "C": {
+        "nombre": "CHIH-WEI YEH",
+        "licencia": "33851",
+        "ranking": 2644.0,
+        "id": "33851"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DAMIEN ROLAND PROVOST",
+        "licencia": "27561",
+        "ranking": 2749.0,
+        "id": "27561"
+      },
+      "X": {
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 1778.0,
+        "id": "3775"
+      },
+      "Z": {
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "ranking": 1785.0,
+        "id": "17323"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "KONSTANTIN CHERNOV",
+        "licencia": "39153",
+        "ranking": 3000.0,
+        "id": "39153"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DAMIEN ROLAND PROVOST",
+        "licencia": "27561",
+        "ranking": 2749.0,
+        "id": "27561"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1857.0,
+        "id": "18284"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 1778.0,
+        "id": "3775"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CHIH-WEI YEH",
+        "licencia": "33851",
+        "ranking": 2644.0,
+        "id": "33851"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIEL BERZOSA CASAS",
+        "licencia": "17323",
+        "ranking": 1785.0,
+        "id": "17323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "KONSTANTIN CHERNOV",
+        "licencia": "39153",
+        "ranking": 3000.0,
+        "id": "39153"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 1778.0,
+        "id": "3775"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

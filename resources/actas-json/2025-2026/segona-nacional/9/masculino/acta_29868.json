@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 12,
+  "fecha": "2026-01-17",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Sevilla (Sevilla)",
+    "recinto": "CENTRO TENIS DE MESA MIKI JUARBE"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM DOC GUADAIRA",
+      "delegado": {
+        "nombre": "SANCHEZ FARIÑAS, FRANCISCO MIGUEL",
+        "licencia": "2260"
+      },
+      "entrenador": {
+        "nombre": "LLAMAS RODRIGUEZ, JULIO",
+        "licencia": "17332"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO MERIDA TENIS DE MESA",
+      "delegado": {
+        "nombre": "BAZO REGAJO, MANUEL",
+        "licencia": "18813"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: LLAMAS RODRIGUEZ, JULIO",
+        "licencia": "17332"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CHAVES BENJUMEA, ANGELA",
+      "licencia": "16075"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BELTRAN MOLINA, JOSE ANTONIO",
+        "licencia": "11043"
+      },
+      "X": {
+        "nombre": "SANCHEZ FARIÑAS, FRANCISCO MIGUEL",
+        "licencia": "2260"
+      },
+      "Z": {
+        "nombre": "ALéS PéREZ, MANUEL",
+        "licencia": "44885"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BAZO REGAJO, MANUEL",
+        "licencia": "18813"
+      },
+      "B": {
+        "nombre": "DOMINGUEZ DOMINGUEZ, GABRIEL",
+        "licencia": "37066"
+      },
+      "C": {
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS",
+        "licencia": "19945"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BELTRAN MOLINA, JOSE ANTONIO"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BAZO REGAJO, MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ FARIÑAS, FRANCISCO MIGUEL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOMINGUEZ DOMINGUEZ, GABRIEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALéS PéREZ, MANUEL"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ FARIÑAS, FRANCISCO MIGUEL"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BAZO REGAJO, MANUEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BELTRAN MOLINA, JOSE ANTONIO"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NAHARRO DOMINGUEZ, FRANCIS"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALéS PéREZ, MANUEL"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DOMINGUEZ DOMINGUEZ, GABRIEL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM DOC GUADAIRA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

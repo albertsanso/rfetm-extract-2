@@ -1,0 +1,413 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 18,
+  "fecha": "2026-04-11",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Oliva (Valencia)",
+    "recinto": "SALA PIERRE GUITART(IES GABRIEL CISCAR)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT CORRIOL OLIVA",
+      "delegado": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "entrenador": {
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LANDETE BIXQUERT, DANIEL",
+      "licencia": "33747"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      },
+      "X": {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      },
+      "Z": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BOCANEGRA GALVAN, SERGI",
+        "licencia": "19000"
+      },
+      "B": {
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292"
+      },
+      "C": {
+        "nombre": "FONT MONTLLO, ANIOL",
+        "licencia": "25808"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MALONDA CLIMENT, ENRIC",
+      "PELLICER CLIMENT, VICTOR"
+    ],
+    "visitante": [
+      "FONT MONTLLO, ANIOL",
+      "SERRANO AMAYA, FRANCISCO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PARRA ESTEVE, VICTOR"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BOCANEGRA GALVAN, SERGI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MALONDA CLIMENT, ENRIC"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SERRANO AMAYA, FRANCISCO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PELLICER CLIMENT, VICTOR"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FONT MONTLLO, ANIOL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MALONDA CLIMENT, ENRIC"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BOCANEGRA GALVAN, SERGI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PARRA ESTEVE, VICTOR"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FONT MONTLLO, ANIOL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PELLICER CLIMENT, VICTOR"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SERRANO AMAYA, FRANCISCO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MALONDA CLIMENT, ENRIC",
+          "PELLICER CLIMENT, VICTOR"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "FONT MONTLLO, ANIOL",
+          "SERRANO AMAYA, FRANCISCO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT CORRIOL OLIVA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

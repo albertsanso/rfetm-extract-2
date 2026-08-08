@@ -1,0 +1,365 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 2,
+  "jornada": 7,
+  "fecha": "2025-11-15",
+  "hora": "16:30",
+  "lugar": {
+    "ciudad": "Sabadell (Barcelona)",
+    "recinto": "CN SABADELL (CENTRE DE CAN LLONG)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "BOCANEGRA GALVAN, ALEXANDER",
+        "licencia": "18423"
+      }
+    },
+    "visitante": {
+      "nombre": "VALLS DEL NORD ORX",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: BOCANEGRA GALVAN, ALEXANDER",
+        "licencia": "18423"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CASADO PAGES, ENRIC",
+      "licencia": "9813"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "KHIDASHELI , LUCA",
+        "licencia": "26138"
+      },
+      "B": {
+        "nombre": "O'CONNOR , MIIKKA FRANCIS",
+        "licencia": "43994"
+      },
+      "C": {
+        "nombre": "BARBERA SOLER, JOAN",
+        "licencia": "31290"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CINTAS ORTEGA, ERIC",
+        "licencia": "25660"
+      },
+      "X": {
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+        "licencia": "16357"
+      },
+      "Z": {
+        "nombre": "PORTA LOPEZ, RAUL",
+        "licencia": "3984"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "KHIDASHELI , LUCA"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CINTAS ORTEGA, ERIC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "O'CONNOR , MIIKKA FRANCIS"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BARBERA SOLER, JOAN"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PORTA LOPEZ, RAUL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "KHIDASHELI , LUCA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BARBERA SOLER, JOAN"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CINTAS ORTEGA, ERIC"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "O'CONNOR , MIIKKA FRANCIS"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PORTA LOPEZ, RAUL"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 13,
+  "fecha": "2024-01-27",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "2017543",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
+      "id": "16207",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS GARCIA SERRANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "COUCE INSUA, SOFÍA",
+        "licencia": "20841",
+        "id": "20841"
+      },
+      "X": {
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107",
+        "id": "19107"
+      },
+      "Z": {
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020",
+        "id": "27020"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RUBIÑO MOTA, MERCEDES",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "B": {
+        "nombre": "LALLI SÁNCHEZ, JULIETA ALEJANDRA",
+        "licencia": "39137",
+        "id": "39137"
+      },
+      "C": {
+        "nombre": "VIDAL DIAZ, LUCIA",
+        "licencia": "27924",
+        "id": "27924"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COUCE INSUA, SOFÍA",
+        "licencia": "20841",
+        "id": "20841"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUBIÑO MOTA, MERCEDES",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107",
+        "id": "19107"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LALLI SÁNCHEZ, JULIETA ALEJANDRA",
+        "licencia": "39137",
+        "id": "39137"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020",
+        "id": "27020"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VIDAL DIAZ, LUCIA",
+        "licencia": "27924",
+        "id": "27924"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107",
+        "id": "19107"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUBIÑO MOTA, MERCEDES",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COUCE INSUA, SOFÍA",
+        "licencia": "20841",
+        "id": "20841"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VIDAL DIAZ, LUCIA",
+        "licencia": "27924",
+        "id": "27924"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020",
+        "id": "27020"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LALLI SÁNCHEZ, JULIETA ALEJANDRA",
+        "licencia": "39137",
+        "id": "39137"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

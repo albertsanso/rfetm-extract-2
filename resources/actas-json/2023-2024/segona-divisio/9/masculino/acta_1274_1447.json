@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 9,
+  "fecha": "2023-12-02",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CAMPO DE FUTBOL DE SAN LAZARO",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL",
+      "id": "1274",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "id": "1447",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAQUEL PEREZ BONILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MALVAR EGERIQUE, BENITO",
+        "licencia": "29908",
+        "id": "29908"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "Z": {
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "B": {
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "C": {
+        "nombre": "AHMED ., MORUFO OLADELE",
+        "licencia": "23025",
+        "id": "23025"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MALVAR EGERIQUE, BENITO",
+        "licencia": "29908",
+        "id": "29908"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AHMED ., MORUFO OLADELE",
+        "licencia": "23025",
+        "id": "23025"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MALVAR EGERIQUE, BENITO",
+        "licencia": "29908",
+        "id": "29908"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AHMED ., MORUFO OLADELE",
+        "licencia": "23025",
+        "id": "23025"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

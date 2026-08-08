@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 8,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "PABELLÓN JUAN ANTONIO SAMARANCH",
+    "ciudad": "Valdemoro (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+      "id": "1139",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "NOROESTE - LAS ROZAS",
+      "id": "10288",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ISRAEL SIERRA IZQUIERDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "B": {
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      },
+      "C": {
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MATEO MARTÍNEZ RUIZ",
+        "licencia": "39441",
+        "id": "39441"
+      },
+      "X": {
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "Z": {
+        "nombre": "ALEJANDRO GARCIA SUALDEA",
+        "licencia": "26818",
+        "id": "26818"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MATEO MARTÍNEZ RUIZ",
+        "licencia": "39441",
+        "id": "39441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALEJANDRO GARCIA SUALDEA",
+        "licencia": "26818",
+        "id": "26818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MATEO MARTÍNEZ RUIZ",
+        "licencia": "39441",
+        "id": "39441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RAFAEL MATEO VALENCIA",
+        "licencia": "23157",
+        "id": "23157"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALEJANDRO GARCIA SUALDEA",
+        "licencia": "26818",
+        "id": "26818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "NOROESTE - LAS ROZAS",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

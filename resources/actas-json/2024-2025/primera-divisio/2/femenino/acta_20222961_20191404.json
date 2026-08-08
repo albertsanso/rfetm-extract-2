@@ -1,0 +1,405 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2024-11-16",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "RESTAURANTE VENTUCCIO - CTM JAEN",
+      "id": "20222961",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES",
+      "id": "20191404",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "B": {
+        "nombre": "CINTERO SANTISTEBAN, CARLOTA",
+        "licencia": "44833",
+        "id": "44833"
+      },
+      "C": {
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "X": {
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "Z": {
+        "nombre": "ELIAS AGUILAR, ELISA",
+        "licencia": "42302",
+        "id": "42302"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "LORENTE ESCOBAR, MARINA",
+      "GUERRERO GARCIA, ADRIANA"
+    ],
+    "visitante": [
+      "AGUILAR RODRIGUEZ, ELISA",
+      "LOPEZ JERONIMO, ROCIO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CINTERO SANTISTEBAN, CARLOTA",
+        "licencia": "44833",
+        "id": "44833"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ELIAS AGUILAR, ELISA",
+        "licencia": "42302",
+        "id": "42302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGUILAR RODRIGUEZ, ELISA",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ JERONIMO, ROCIO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CINTERO SANTISTEBAN, CARLOTA",
+        "licencia": "44833",
+        "id": "44833"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ELIAS AGUILAR, ELISA",
+        "licencia": "42302",
+        "id": "42302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "LORENTE ESCOBAR, MARINA",
+          "GUERRERO GARCIA, ADRIANA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "AGUILAR RODRIGUEZ, ELISA",
+          "LOPEZ JERONIMO, ROCIO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CIRCULO DE LABRADORES",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

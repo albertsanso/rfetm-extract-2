@@ -1,0 +1,428 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 14,
+  "fecha": "2020-01-26",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL LA LIBERTAD",
+    "ciudad": "Huétor Vega (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO HUETOR VEGA",
+      "id": "16101",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA BAHIA DE CADIZ",
+      "id": "20191643",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "EUGENIO PEREZ TORRES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      },
+      "B": {
+        "nombre": "ANTONIO CRUZ MORILLAS",
+        "licencia": "18499",
+        "id": "18499"
+      },
+      "C": {
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "X": {
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "Z": {
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ANTONIO CRUZ MORILLAS",
+      "PEDRO RIVERO ARIAS"
+    ],
+    "visitante": [
+      "GUILLERMO PACHECO CORTES",
+      "JOSE GUZMAN MUÑOZ"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANTONIO CRUZ MORILLAS",
+        "licencia": "18499",
+        "id": "18499"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANTONIO CRUZ MORILLAS",
+        "licencia": "18499",
+        "id": "18499"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ANTONIO CRUZ MORILLAS",
+          "PEDRO RIVERO ARIAS"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "GUILLERMO PACHECO CORTES",
+          "JOSE GUZMAN MUÑOZ"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA BAHIA DE CADIZ",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

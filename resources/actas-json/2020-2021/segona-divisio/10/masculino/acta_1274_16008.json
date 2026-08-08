@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2021-05-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CAMPO DE FUTBOL DE SAN LAZARO SAN LAZARO, S N",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL",
+      "id": "1274",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OROSO TM PELUQUERíA TIJE",
+      "id": "16008",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCOS ESPANTOSO SANDE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "XAVI SOUTO LOPEZ",
+        "licencia": "30059",
+        "id": "30059"
+      },
+      "X": {
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "Z": {
+        "nombre": "RICARDO CARRACEDO ALVAREZ",
+        "licencia": "8005",
+        "id": "8005"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "B": {
+        "nombre": "VALERI MALOV MALOV",
+        "licencia": "1812",
+        "id": "1812"
+      },
+      "C": {
+        "nombre": "UXIO PAMPIN EIRAS",
+        "licencia": "18783",
+        "id": "18783"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "XAVI SOUTO LOPEZ",
+        "licencia": "30059",
+        "id": "30059"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VALERI MALOV MALOV",
+        "licencia": "1812",
+        "id": "1812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RICARDO CARRACEDO ALVAREZ",
+        "licencia": "8005",
+        "id": "8005"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "UXIO PAMPIN EIRAS",
+        "licencia": "18783",
+        "id": "18783"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "XAVI SOUTO LOPEZ",
+        "licencia": "30059",
+        "id": "30059"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEXANDER MALOV CASTRO",
+        "licencia": "21826",
+        "id": "21826"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RICARDO CARRACEDO ALVAREZ",
+        "licencia": "8005",
+        "id": "8005"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VALERI MALOV MALOV",
+        "licencia": "1812",
+        "id": "1812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "OROSO TM PELUQUERíA TIJE",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

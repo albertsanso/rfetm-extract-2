@@ -1,0 +1,381 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 7,
+  "jornada": 11,
+  "fecha": "2025-01-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "20243970",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TM",
+      "id": "2018800",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019",
+        "id": "23019"
+      },
+      "B": {
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "C": {
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "X": {
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "Z": {
+        "nombre": "MOREL ., CYRIL",
+        "licencia": "1904",
+        "id": "1904"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019",
+        "id": "23019"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MOREL ., CYRIL",
+        "licencia": "1904",
+        "id": "1904"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019",
+        "id": "23019"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028",
+        "id": "23028"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MOREL ., CYRIL",
+        "licencia": "1904",
+        "id": "1904"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDE ALCORCÓN TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

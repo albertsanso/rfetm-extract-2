@@ -1,0 +1,451 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 1,
+  "jornada": 4,
+  "fecha": "2021-12-03",
+  "hora": "20:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "Vic (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "10422",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "PAU BARCELO MAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 1500.0,
+        "id": "37049"
+      },
+      "B": {
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2540.0,
+        "id": "33839"
+      },
+      "C": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2776.0,
+        "id": "8195"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "ranking": 1610.0,
+        "id": "16388"
+      },
+      "X": {
+        "nombre": "TIN-TIN HO",
+        "licencia": "37534",
+        "ranking": 3000.0,
+        "id": "37534"
+      },
+      "Z": {
+        "nombre": "MARIIA MALANINA",
+        "licencia": "36430",
+        "ranking": 2500.0,
+        "id": "36430"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "SOFIA-XUAN ZHANG XU",
+      "MISS TAMOLWAN KHETKHUAN"
+    ],
+    "visitante": [
+      "TIN-TIN HO",
+      "MARIIA MALANINA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 1500.0,
+        "id": "37049"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "ranking": 1610.0,
+        "id": "16388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2540.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TIN-TIN HO",
+        "licencia": "37534",
+        "ranking": 3000.0,
+        "id": "37534"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2776.0,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIIA MALANINA",
+        "licencia": "36430",
+        "ranking": 2500.0,
+        "id": "36430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "SOFIA-XUAN ZHANG XU",
+          "MISS TAMOLWAN KHETKHUAN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "TIN-TIN HO",
+          "MARIIA MALANINA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 1500.0,
+        "id": "37049"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TIN-TIN HO",
+        "licencia": "37534",
+        "ranking": 3000.0,
+        "id": "37534"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2776.0,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "ranking": 1610.0,
+        "id": "16388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CHARLOTTE CAREY",
+        "licencia": "33839",
+        "ranking": 2540.0,
+        "id": "33839"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIIA MALANINA",
+        "licencia": "36430",
+        "ranking": 2500.0,
+        "id": "36430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS TAULA TRAMUNTANA FIGUERES",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

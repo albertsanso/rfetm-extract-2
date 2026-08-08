@@ -1,0 +1,346 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 6,
+  "fecha": "2024-11-09",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HONEST PIZZA - CORRIOL OLIVA",
+      "id": "20233476",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT POBLA VALLBONA",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORDA GARCIA, MIGUEL",
+        "licencia": "32282",
+        "id": "32282"
+      },
+      "X": {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "Z": {
+        "nombre": "GONZALEZ SANTANA, DAVID",
+        "licencia": "33569",
+        "id": "33569"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VALLDECABRES TORRES, VICTOR",
+        "licencia": "10707",
+        "id": "10707"
+      },
+      "B": {
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "C": {
+        "nombre": "MITITICA , ALEXANDRU",
+        "licencia": "37398",
+        "id": "37398"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDA GARCIA, MIGUEL",
+        "licencia": "32282",
+        "id": "32282"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALLDECABRES TORRES, VICTOR",
+        "licencia": "10707",
+        "id": "10707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ SANTANA, DAVID",
+        "licencia": "33569",
+        "id": "33569"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MITITICA , ALEXANDRU",
+        "licencia": "37398",
+        "id": "37398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALLDECABRES TORRES, VICTOR",
+        "licencia": "10707",
+        "id": "10707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDA GARCIA, MIGUEL",
+        "licencia": "32282",
+        "id": "32282"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MITITICA , ALEXANDRU",
+        "licencia": "37398",
+        "id": "37398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ SANTANA, DAVID",
+        "licencia": "33569",
+        "id": "33569"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HONEST PIZZA - CORRIOL OLIVA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

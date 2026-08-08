@@ -1,0 +1,421 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 5,
+  "fecha": "2022-11-16",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+      "id": "1297",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO ARROZPIDE NEGREDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "X": {
+        "nombre": "TZE WING MAK",
+        "licencia": "39514",
+        "ranking": 2000.0,
+        "id": "39514"
+      },
+      "Z": {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1630.0,
+        "id": "19691"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "B": {
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      },
+      "C": {
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "IOANA TECLA GHEMES",
+      "TZE WING MAK"
+    ],
+    "visitante": [
+      "TATIANA GARNOVA",
+      "MARIJA GALONJA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TZE WING MAK",
+        "licencia": "39514",
+        "ranking": 2000.0,
+        "id": "39514"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANA GARCIA MONTERO",
+        "licencia": "9863",
+        "ranking": 2128.0,
+        "id": "9863"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1630.0,
+        "id": "19691"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "IOANA TECLA GHEMES",
+          "TZE WING MAK"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "TATIANA GARNOVA",
+          "MARIJA GALONJA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TZE WING MAK",
+        "licencia": "39514",
+        "ranking": 2000.0,
+        "id": "39514"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 2871.0,
+        "id": "17113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2901.0,
+        "id": "31327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

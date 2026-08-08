@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 19,
+  "fecha": "2023-04-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEIP PÍO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "id": "20201928",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CIRCULO MERCANTIL E INDUSTRIAL",
+      "id": "10469",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO LUPION GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SERGIO LOPEZ PUERTO",
+        "licencia": "28201",
+        "id": "28201"
+      },
+      "B": {
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "C": {
+        "nombre": "JULIAN ANDRES CRUZ APONTE",
+        "licencia": "41008",
+        "id": "41008"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NICOLAS SABUGAL MORGADO",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "X": {
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      },
+      "Z": {
+        "nombre": "VICTORIANO CARMONA ARANZANA",
+        "licencia": "27761",
+        "id": "27761"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "JULIAN ANDRES CRUZ APONTE",
+      "SERGIO LOPEZ PUERTO"
+    ],
+    "visitante": [
+      "VICTORIANO CARMONA ARANZANA",
+      "NICOLAS SABUGAL MORGADO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SERGIO LOPEZ PUERTO",
+        "licencia": "28201",
+        "id": "28201"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NICOLAS SABUGAL MORGADO",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JULIAN ANDRES CRUZ APONTE",
+        "licencia": "41008",
+        "id": "41008"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VICTORIANO CARMONA ARANZANA",
+        "licencia": "27761",
+        "id": "27761"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SERGIO LOPEZ PUERTO",
+        "licencia": "28201",
+        "id": "28201"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JULIAN ANDRES CRUZ APONTE",
+        "licencia": "41008",
+        "id": "41008"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NICOLAS SABUGAL MORGADO",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VICTORIANO CARMONA ARANZANA",
+        "licencia": "27761",
+        "id": "27761"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "JULIAN ANDRES CRUZ APONTE",
+          "SERGIO LOPEZ PUERTO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "VICTORIANO CARMONA ARANZANA",
+          "NICOLAS SABUGAL MORGADO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO MERCANTIL E INDUSTRIAL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

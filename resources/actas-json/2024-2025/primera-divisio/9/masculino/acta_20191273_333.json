@@ -1,0 +1,351 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 9,
+  "fecha": "2024-12-01",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DANIMEATS ALCOBENDAS TM",
+      "id": "20191273",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "id": "333",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "B": {
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "C": {
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "X": {
+        "nombre": "MONTESINOS ARZOLA, JONAY",
+        "licencia": "2431",
+        "id": "2431"
+      },
+      "Z": {
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONTESINOS ARZOLA, JONAY",
+        "licencia": "2431",
+        "id": "2431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990",
+        "id": "19990"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONTESINOS ARZOLA, JONAY",
+        "licencia": "2431",
+        "id": "2431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "VELAZQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "AVILES CABRERA, DAVID",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DANIMEATS ALCOBENDAS TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

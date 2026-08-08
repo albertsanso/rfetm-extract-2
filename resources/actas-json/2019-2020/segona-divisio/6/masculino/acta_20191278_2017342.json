@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2019-11-10",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CHARLOTTE´S GRILL BADALONA",
+      "id": "20191278",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CPP IGUALADA",
+      "id": "2017342",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PAU BARCELO MAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOAN REDON BERNABEU",
+        "licencia": "1823",
+        "id": "1823"
+      },
+      "X": {
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "Z": {
+        "nombre": "JORDI MIRANDA ANTOLIN",
+        "licencia": "20676",
+        "id": "20676"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "B": {
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "C": {
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOAN REDON BERNABEU",
+        "licencia": "1823",
+        "id": "1823"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORDI MIRANDA ANTOLIN",
+        "licencia": "20676",
+        "id": "20676"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOAN REDON BERNABEU",
+        "licencia": "1823",
+        "id": "1823"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORDI MIRANDA ANTOLIN",
+        "licencia": "20676",
+        "id": "20676"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CHARLOTTE´S GRILL BADALONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

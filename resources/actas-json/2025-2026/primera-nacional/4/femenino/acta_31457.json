@@ -1,0 +1,412 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2025-10-18",
+  "hora": "16:30",
+  "lugar": {
+    "ciudad": "PABELLON MARTIN DONES",
+    "recinto": "C/ REAL 58 28231-ROZAS DE MADRID (LAS) (MADRID)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALUCHE TM FEM A",
+      "delegado": {
+        "nombre": "ROBLES CABALLERO, HUGO",
+        "licencia": "39202"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MADRID CTM",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: ROBLES CABALLERO, HUGO",
+        "licencia": "39202"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CALDERON MARTINEZ, ANTONIO",
+      "licencia": "78"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JARAMILLO LALALEO, CATHERINE ISABEL",
+        "licencia": "23698"
+      },
+      "B": {
+        "nombre": "ROBLES MARTIN, NAHIA",
+        "licencia": "38899"
+      },
+      "C": {
+        "nombre": "DIDE , ERIKA ELENA ALEXANDR",
+        "licencia": "39050"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "TANDEA , THALIDA IZASKUN",
+        "licencia": "44420"
+      },
+      "X": {
+        "nombre": "GUERRERO BERMUDEZ, DANIELA",
+        "licencia": "45153"
+      },
+      "Z": {
+        "nombre": "MANZANO BAZAGA, ISTHAR",
+        "licencia": "28519"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ROBLES MARTIN, NAHIA",
+      "DIDE , ERIKA ELENA ALEXANDR"
+    ],
+    "visitante": [
+      "MANZANO BAZAGA, ISTHAR",
+      "TANDEA , THALIDA IZASKUN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JARAMILLO LALALEO, CATHERINE ISABEL"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TANDEA , THALIDA IZASKUN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ROBLES MARTIN, NAHIA"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GUERRERO BERMUDEZ, DANIELA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DIDE , ERIKA ELENA ALEXANDR"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MANZANO BAZAGA, ISTHAR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JARAMILLO LALALEO, CATHERINE ISABEL"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GUERRERO BERMUDEZ, DANIELA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DIDE , ERIKA ELENA ALEXANDR"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TANDEA , THALIDA IZASKUN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ROBLES MARTIN, NAHIA"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MANZANO BAZAGA, ISTHAR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ROBLES MARTIN, NAHIA",
+          "DIDE , ERIKA ELENA ALEXANDR"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MANZANO BAZAGA, ISTHAR",
+          "TANDEA , THALIDA IZASKUN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALUCHE TM FEM A",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

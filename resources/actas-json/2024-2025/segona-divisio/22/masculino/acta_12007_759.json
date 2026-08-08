@@ -1,0 +1,435 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 22,
+  "fecha": "2025-05-03",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB ESPORTIU TT RIPOLL",
+      "id": "12007",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "id": "759",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ROMERA ROCA, GERARD",
+        "licencia": "25610",
+        "id": "25610"
+      },
+      "B": {
+        "nombre": "MORATO VILA, EDUARD",
+        "licencia": "4173",
+        "id": "4173"
+      },
+      "C": {
+        "nombre": "MOHEDANO GARCIA, SERGI",
+        "licencia": "25230",
+        "id": "25230"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PIJUAN COSTA, EUDALD",
+        "licencia": "38973",
+        "id": "38973"
+      },
+      "X": {
+        "nombre": "MATARÓ MARTÍNEZ, ISAAC",
+        "licencia": "33002",
+        "id": "33002"
+      },
+      "Z": {
+        "nombre": "SÁEZ CEREZO, HIRAM",
+        "licencia": "42173",
+        "id": "42173"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ROMERA ROCA, GERARD",
+      "MOHEDANO GARCIA, SERGI"
+    ],
+    "visitante": [
+      "PIJUAN COSTA, EUDALD",
+      "SÁEZ CEREZO, HIRAM"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ROMERA ROCA, GERARD",
+        "licencia": "25610",
+        "id": "25610"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PIJUAN COSTA, EUDALD",
+        "licencia": "38973",
+        "id": "38973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MORATO VILA, EDUARD",
+        "licencia": "4173",
+        "id": "4173"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATARÓ MARTÍNEZ, ISAAC",
+        "licencia": "33002",
+        "id": "33002"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MOHEDANO GARCIA, SERGI",
+        "licencia": "25230",
+        "id": "25230"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁEZ CEREZO, HIRAM",
+        "licencia": "42173",
+        "id": "42173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ROMERA ROCA, GERARD",
+        "licencia": "25610",
+        "id": "25610"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATARÓ MARTÍNEZ, ISAAC",
+        "licencia": "33002",
+        "id": "33002"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MOHEDANO GARCIA, SERGI",
+        "licencia": "25230",
+        "id": "25230"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PIJUAN COSTA, EUDALD",
+        "licencia": "38973",
+        "id": "38973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MORATO VILA, EDUARD",
+        "licencia": "4173",
+        "id": "4173"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁEZ CEREZO, HIRAM",
+        "licencia": "42173",
+        "id": "42173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ROMERA ROCA, GERARD",
+          "MOHEDANO GARCIA, SERGI"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "PIJUAN COSTA, EUDALD",
+          "SÁEZ CEREZO, HIRAM"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB ESPORTIU TT RIPOLL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

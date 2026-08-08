@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 3,
+  "fecha": "2019-10-12",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y DE LA ACEITUNA",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ALMENDRALEJO EXTREMADURA",
+      "id": "2017333",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASOCIACION DEPORTIVA TENIS MESA CACERES",
+      "id": "14004",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO PRIOR MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "X": {
+        "nombre": "JAIME PEREZ PEREZ",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "Z": {
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SERGIO BAÑOS MONTES",
+        "licencia": "20963",
+        "id": "20963"
+      },
+      "B": {
+        "nombre": "ALBERTO GUTIERREZ ESCALONA",
+        "licencia": "21907",
+        "id": "21907"
+      },
+      "C": {
+        "nombre": "ANTONIO DIAZ MACHUCA",
+        "licencia": "16138",
+        "id": "16138"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO BAÑOS MONTES",
+        "licencia": "20963",
+        "id": "20963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAIME PEREZ PEREZ",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALBERTO GUTIERREZ ESCALONA",
+        "licencia": "21907",
+        "id": "21907"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO DIAZ MACHUCA",
+        "licencia": "16138",
+        "id": "16138"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAIME PEREZ PEREZ",
+        "licencia": "29156",
+        "id": "29156"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO BAÑOS MONTES",
+        "licencia": "20963",
+        "id": "20963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO DIAZ MACHUCA",
+        "licencia": "16138",
+        "id": "16138"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALBERTO GUTIERREZ ESCALONA",
+        "licencia": "21907",
+        "id": "21907"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ALMENDRALEJO EXTREMADURA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 16,
+  "fecha": "2020-02-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "I.E.S PEDRO IBARRA",
+    "ciudad": "Elche/Elx (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FRANCISCO R. POMARES S.L.",
+      "id": "234",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MARPEX BERAUN ERRENTERIA T.M.",
+      "id": "40",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO IBAÑEZ GIL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "B": {
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "C": {
+        "nombre": "DIEGO SALAZAR DEL TORO",
+        "licencia": "19188",
+        "id": "19188"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      },
+      "X": {
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "Z": {
+        "nombre": "MARKUS HERMANN KILIAN",
+        "licencia": "1504",
+        "id": "1504"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DIEGO SALAZAR DEL TORO",
+        "licencia": "19188",
+        "id": "19188"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARKUS HERMANN KILIAN",
+        "licencia": "1504",
+        "id": "1504"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DIEGO SALAZAR DEL TORO",
+        "licencia": "19188",
+        "id": "19188"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARKUS HERMANN KILIAN",
+        "licencia": "1504",
+        "id": "1504"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FRANCISCO R. POMARES S.L.",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2019-09-29",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "C.E.I.P. MARQUES DE ARCO",
+    "ciudad": "San Cristóbal de Segovia (Segovia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SEGHOS-SAN CRISTOBAL",
+      "id": "2017364",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VASA ARROYO-CDO",
+      "id": "50102",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO GILARRANZ SAN LORENZO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AARON JUNIOR WILSON",
+        "licencia": "28885",
+        "id": "28885"
+      },
+      "X": {
+        "nombre": "DANIEL SANZ CUESTA",
+        "licencia": "10674",
+        "id": "10674"
+      },
+      "Z": {
+        "nombre": "FERNANDO GARCIA TERRON",
+        "licencia": "5110",
+        "id": "5110"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      },
+      "B": {
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "C": {
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AARON JUNIOR WILSON",
+        "licencia": "28885",
+        "id": "28885"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL SANZ CUESTA",
+        "licencia": "10674",
+        "id": "10674"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDO GARCIA TERRON",
+        "licencia": "5110",
+        "id": "5110"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL SANZ CUESTA",
+        "licencia": "10674",
+        "id": "10674"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AARON JUNIOR WILSON",
+        "licencia": "28885",
+        "id": "28885"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FERNANDO GARCIA TERRON",
+        "licencia": "5110",
+        "id": "5110"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VASA ARROYO-CDO",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

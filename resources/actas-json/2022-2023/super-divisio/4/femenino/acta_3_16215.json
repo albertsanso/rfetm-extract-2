@@ -1,0 +1,296 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 4,
+  "fecha": "2022-10-28",
+  "hora": "20:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "Vic (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "16215",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI ARAGALL MUSACH",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2656.0,
+        "id": "8195"
+      },
+      "X": {
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2248.0,
+        "id": "37049"
+      },
+      "Z": {
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1789.0,
+        "id": "21634"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LEILA ERIKA IMRE",
+        "licencia": "37061",
+        "ranking": 1350.0,
+        "id": "37061"
+      },
+      "B": {
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1911.0,
+        "id": "15670"
+      },
+      "C": {
+        "nombre": "MOANA NAKAMICHI",
+        "licencia": "39155",
+        "ranking": 1500.0,
+        "id": "39155"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "SOFIA-XUAN ZHANG XU",
+      "MISS TAMOLWAN KHETKHUAN"
+    ],
+    "visitante": [
+      "AINHOA CRISTOBAL HUERTAS",
+      "LEILA ERIKA IMRE"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2656.0,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LEILA ERIKA IMRE",
+        "licencia": "37061",
+        "ranking": 1350.0,
+        "id": "37061"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2248.0,
+        "id": "37049"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1911.0,
+        "id": "15670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1789.0,
+        "id": "21634"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOANA NAKAMICHI",
+        "licencia": "39155",
+        "ranking": 1500.0,
+        "id": "39155"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "SOFIA-XUAN ZHANG XU",
+          "MISS TAMOLWAN KHETKHUAN"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "AINHOA CRISTOBAL HUERTAS",
+          "LEILA ERIKA IMRE"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

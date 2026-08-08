@@ -1,0 +1,358 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 14,
+  "fecha": "2026-02-01",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Barcelona (Barcelona)",
+    "recinto": "LLUISOS DE GRACIA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DARUMA LLUïSOS DE GRACIA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "CANO ROYO, FERRAN",
+        "licencia": "5388"
+      }
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": {
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: CANO ROYO, FERRAN",
+        "licencia": "5388"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMONA RODRIGUEZ, MANUEL",
+      "licencia": "536"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FOLCH PAMIES, MARTI",
+        "licencia": "17587"
+      },
+      "X": {
+        "nombre": "CASADEVALL CARRILERO, XAVIER",
+        "licencia": "20518"
+      },
+      "Z": {
+        "nombre": "RUIZ LAZARO, MARTI",
+        "licencia": "31138"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO",
+        "licencia": "27032"
+      },
+      "B": {
+        "nombre": "GONZALVO SIMON, HECTOR",
+        "licencia": "26754"
+      },
+      "C": {
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FOLCH PAMIES, MARTI"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CASADEVALL CARRILERO, XAVIER"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUIZ LAZARO, MARTI"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CASADEVALL CARRILERO, XAVIER"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SANTACRUZ RAMOS, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FOLCH PAMIES, MARTI"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUIZ LAZARO, MARTI"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALVO SIMON, HECTOR"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DARUMA LLUïSOS DE GRACIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 11,
+  "fecha": "2024-01-13",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "COLEGIO VEDRUNA",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALUCHE TM",
+      "id": "2018800",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BOADILLA TENIS MESA TERESA BERGANZA",
+      "id": "20233037",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO SAN VICENTE VICENTE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "B": {
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "C": {
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "X": {
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "Z": {
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "ROMERO VERDASCO, ADRIAN",
+      "MEANA GARCIA, RAMIRO"
+    ],
+    "visitante": [
+      "SUAREZ LOPEZ, ALBERTO",
+      "CANALEJO GOMEZ, DIEGO"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ROMERO VERDASCO, ADRIAN",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MEANA GARCIA, RAMIRO",
+        "licencia": "30494",
+        "id": "30494"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LUCAS DOMINGUEZ, JUAN",
+        "licencia": "32703",
+        "id": "32703"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CANALEJO GOMEZ, DIEGO",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "ROMERO VERDASCO, ADRIAN",
+          "MEANA GARCIA, RAMIRO"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SUAREZ LOPEZ, ALBERTO",
+          "CANALEJO GOMEZ, DIEGO"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA TENIS MESA TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

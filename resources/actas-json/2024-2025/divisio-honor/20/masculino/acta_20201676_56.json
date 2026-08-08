@@ -1,0 +1,410 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 3,
+  "jornada": 20,
+  "fecha": "2025-04-06",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA COSLADA",
+      "id": "20201676",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. COLLADO MEDIANO",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719",
+        "id": "19719"
+      },
+      "X": {
+        "nombre": "MARTINEZ PINO, LIVAN GILBERTO",
+        "licencia": "45735",
+        "id": "45735"
+      },
+      "Z": {
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353",
+        "id": "29353"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BERNABEU MUNUERA, PABLO",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "B": {
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "id": "18487"
+      },
+      "C": {
+        "nombre": "PIGUAVE BALDEON, DIEGO BENJAMIN",
+        "licencia": "38436",
+        "id": "38436"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARTINEZ PINO, LIVAN GILBERTO",
+      "GRAMCKO MARQUEZ, PEDRO DAVID"
+    ],
+    "visitante": [
+      "BAILON CERRADILLO, DANIEL",
+      "PIGUAVE BALDEON, DIEGO BENJAMIN"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719",
+        "id": "19719"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERNABEU MUNUERA, PABLO",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTINEZ PINO, LIVAN GILBERTO",
+        "licencia": "45735",
+        "id": "45735"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "id": "18487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIGUAVE BALDEON, DIEGO BENJAMIN",
+        "licencia": "38436",
+        "id": "38436"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTINEZ PINO, LIVAN GILBERTO",
+        "licencia": "45735",
+        "id": "45735"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERNABEU MUNUERA, PABLO",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719",
+        "id": "19719"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIGUAVE BALDEON, DIEGO BENJAMIN",
+        "licencia": "38436",
+        "id": "38436"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "id": "18487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARTINEZ PINO, LIVAN GILBERTO",
+          "GRAMCKO MARQUEZ, PEDRO DAVID"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "BAILON CERRADILLO, DANIEL",
+          "PIGUAVE BALDEON, DIEGO BENJAMIN"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. COLLADO MEDIANO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

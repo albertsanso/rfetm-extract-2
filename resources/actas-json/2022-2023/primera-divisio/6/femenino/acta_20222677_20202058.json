@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2023-04-29",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "PABELLÓN MUNICIPAL",
+    "ciudad": "PLAZA DE LA CUARTA PUEBLA S/N 28723 Pedrezuela Madrid"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALCOBENDAS-PEDREZUELA",
+      "id": "20222677",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDETM PROGRESO MOSTOLES",
+      "id": "20202058",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DANIEL LEYVA GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SARA MARTIN RODRIGUEZ",
+        "licencia": "28983",
+        "id": "28983"
+      },
+      "B": {
+        "nombre": "CHLOE MARCOS BEJAR",
+        "licencia": "33492",
+        "id": "33492"
+      },
+      "C": {
+        "nombre": "ROCIO RODRIGUEZ DE ARCE CARRASCOSA",
+        "licencia": "31258",
+        "id": "31258"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SARA AVILA GARCIA",
+        "licencia": "16259",
+        "id": "16259"
+      },
+      "X": {
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "Z": {
+        "nombre": "KARLA BURCAL",
+        "licencia": "38562",
+        "id": "38562"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SARA MARTIN RODRIGUEZ",
+        "licencia": "28983",
+        "id": "28983"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SARA AVILA GARCIA",
+        "licencia": "16259",
+        "id": "16259"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 19,
+          "visitante": 17
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CHLOE MARCOS BEJAR",
+        "licencia": "33492",
+        "id": "33492"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ROCIO RODRIGUEZ DE ARCE CARRASCOSA",
+        "licencia": "31258",
+        "id": "31258"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "KARLA BURCAL",
+        "licencia": "38562",
+        "id": "38562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SARA MARTIN RODRIGUEZ",
+        "licencia": "28983",
+        "id": "28983"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ROCIO RODRIGUEZ DE ARCE CARRASCOSA",
+        "licencia": "31258",
+        "id": "31258"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SARA AVILA GARCIA",
+        "licencia": "16259",
+        "id": "16259"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CHLOE MARCOS BEJAR",
+        "licencia": "33492",
+        "id": "33492"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "KARLA BURCAL",
+        "licencia": "38562",
+        "id": "38562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALCOBENDAS-PEDREZUELA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

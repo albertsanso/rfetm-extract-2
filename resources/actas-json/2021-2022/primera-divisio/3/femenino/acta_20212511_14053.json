@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2022-01-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACIÓN SONIA ETXAZARRETA",
+    "ciudad": "C/OLAKETA SN 20303-Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "20212511",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "14053",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO ECHEVERRIA URRETA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      "B": {
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "C": {
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VERONICA RIESGO RODRIGUEZ",
+        "licencia": "20770",
+        "id": "20770"
+      },
+      "X": {
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "Z": {
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VERONICA RIESGO RODRIGUEZ",
+        "licencia": "20770",
+        "id": "20770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "AMAIA ANGULO OCIO",
+        "licencia": "28079",
+        "id": "28079"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VERONICA RIESGO RODRIGUEZ",
+        "licencia": "20770",
+        "id": "20770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

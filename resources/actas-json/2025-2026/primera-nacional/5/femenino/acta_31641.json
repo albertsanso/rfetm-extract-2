@@ -1,0 +1,376 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Femenina",
+  "grupo": 5,
+  "jornada": 3,
+  "fecha": "2025-12-14",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "SALA DE TENIS DE MESA ANTONIO MAZA",
+    "recinto": "AVDA. DE GRANADA, S/N, ESQUINA CALLE PLAZA DE TOROS 23003-JAÉN (JAÉN)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO INDIANA GAMES",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ALBACETE SOLAR WORLD STAIN",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TORIO SAN JOSE, PATRICIA",
+      "licencia": "26515"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CAñADAS RAMOS, MARTA",
+        "licencia": "47180"
+      },
+      "X": {
+        "nombre": "CHEN HU, ANA",
+        "licencia": "36699"
+      },
+      "Z": {
+        "nombre": "TARIFA MORALES, JULIA",
+        "licencia": "38968"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PUJANTE PARRA, ANGELA",
+        "licencia": "38936"
+      },
+      "B": {
+        "nombre": "SáNCHEZ CASTILLO, EVA MARIA",
+        "licencia": "43942"
+      },
+      "C": {
+        "nombre": "GARCIA PALENCIA, CARMEN",
+        "licencia": "38937"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "CHEN HU, ANA",
+      "TARIFA MORALES, JULIA"
+    ],
+    "visitante": [
+      "SáNCHEZ CASTILLO, EVA MARIA",
+      "PUJANTE PARRA, ANGELA"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CAñADAS RAMOS, MARTA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PUJANTE PARRA, ANGELA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHEN HU, ANA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SáNCHEZ CASTILLO, EVA MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TARIFA MORALES, JULIA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA PALENCIA, CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CHEN HU, ANA"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PUJANTE PARRA, ANGELA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CAñADAS RAMOS, MARTA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA PALENCIA, CARMEN"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TARIFA MORALES, JULIA"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SáNCHEZ CASTILLO, EVA MARIA"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "CHEN HU, ANA",
+          "TARIFA MORALES, JULIA"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "SáNCHEZ CASTILLO, EVA MARIA",
+          "PUJANTE PARRA, ANGELA"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO INDIANA GAMES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

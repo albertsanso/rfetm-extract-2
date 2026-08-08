@@ -1,0 +1,423 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2022-05-14",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL (AVENIDA DE NAVARRONDAN S N)",
+    "ciudad": "SAN SEBASTIÁN DE LOS REYES (MADRID)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ONE VISION PARLA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AQADEM.COM",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA SUM",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARKO JEVTOVIC",
+        "licencia": "38401",
+        "id": "38401"
+      },
+      "B": {
+        "nombre": "XAVIER PERAL PARENT",
+        "licencia": "3969",
+        "id": "3969"
+      },
+      "C": {
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "X": {
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
+      },
+      "Z": {
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      "MARKO JEVTOVIC",
+      "MIGUEL ANGEL PANTOJA ANDRADE"
+    ],
+    "visitante": [
+      "MOISES ALVAREZ GARCIA",
+      "JEAN KARIM LAURIC"
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARKO JEVTOVIC",
+        "licencia": "38401",
+        "id": "38401"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "XAVIER PERAL PARENT",
+        "licencia": "3969",
+        "id": "3969"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARKO JEVTOVIC",
+        "licencia": "38401",
+        "id": "38401"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "id": "18012"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "XAVIER PERAL PARENT",
+        "licencia": "3969",
+        "id": "3969"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          "MARKO JEVTOVIC",
+          "MIGUEL ANGEL PANTOJA ANDRADE"
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          "MOISES ALVAREZ GARCIA",
+          "JEAN KARIM LAURIC"
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ONE VISION PARLA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}
