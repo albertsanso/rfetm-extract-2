@@ -12,7 +12,7 @@
   },
   "equipos": {
     "local": {
-      "nombre": null,
+      "nombre": "HUJASE JAÉN PARAISO INTERIOR",
       "delegado": {
         "nombre": "BUENO BUENO, PAULA",
         "licencia": "3909"
@@ -20,7 +20,7 @@
       "entrenador": null
     },
     "visitante": {
-      "nombre": "MORALES",
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
       "delegado": {
         "nombre": "Lic: Delegado Local: BUENO BUENO, PAULA",
         "licencia": "3909"
@@ -31,7 +31,7 @@
       }
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
       "nombre": "GARCIA MARTIN, JOSE ANTONIO",
@@ -41,20 +41,6 @@
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "MENG , JIAQI",
-        "licencia": "39598"
-      },
-      "B": {
-        "nombre": "GALONJA ZOLOTIC, MARIJA",
-        "licencia": "17113"
-      },
-      "C": {
-        "nombre": "GARNOVA , TATIANA",
-        "licencia": "31327"
-      }
-    },
-    "visitante": {
       "Y": {
         "nombre": "PESOTSKA , MARGARYTA",
         "licencia": "43917"
@@ -67,6 +53,20 @@
         "nombre": "ZHANG XU, SOFIA-XUAN",
         "licencia": "8195"
       }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598"
+      },
+      "B": {
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113"
+      },
+      "C": {
+        "nombre": "GARNOVA , TATIANA",
+        "licencia": "31327"
+      }
     }
   },
   "dobles": null,
@@ -76,12 +76,61 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
+        "letra": "Y",
+        "nombre": "PESOTSKA , MARGARYTA"
+      },
+      "visitante": {
         "letra": "A",
         "nombre": "MENG , JIAQI"
       },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GE , CHI"
+      },
       "visitante": {
-        "letra": "Y",
-        "nombre": "PESOTSKA , MARGARYTA"
+        "letra": "B",
+        "nombre": "GALONJA ZOLOTIC, MARIJA"
       },
       "sets": [
         {
@@ -91,69 +140,20 @@
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 4,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 8
+          "visitante": 6
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
       },
       "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "B",
-        "nombre": "GALONJA ZOLOTIC, MARIJA"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "GE , CHI"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
       "marcador_acumulado": {
         "local": 1,
         "visitante": 1
@@ -164,37 +164,86 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "C",
-        "nombre": "GARNOVA , TATIANA"
-      },
-      "visitante": {
         "letra": "Z",
         "nombre": "ZHANG XU, SOFIA-XUAN"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARNOVA , TATIANA"
       },
       "sets": [
         {
           "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
           "local": 11,
-          "visitante": 8
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GE , CHI"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENG , JIAQI"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 9
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 6,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 4,
-          "local": 4,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 5,
-          "local": 5,
+          "local": 7,
           "visitante": 11
         }
       ],
@@ -203,55 +252,6 @@
         "visitante": 3
       },
       "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "A",
-        "nombre": "MENG , JIAQI"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "GE , CHI"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 2,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 4,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
       "marcador_acumulado": {
         "local": 2,
         "visitante": 2
@@ -262,43 +262,43 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "GARNOVA , TATIANA"
-      },
-      "visitante": {
         "letra": "Y",
         "nombre": "PESOTSKA , MARGARYTA"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARNOVA , TATIANA"
       },
       "sets": [
         {
           "set": 1,
-          "local": 3,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 1,
-          "visitante": 11
+          "local": 11,
+          "visitante": 1
         },
         {
           "set": 4,
-          "local": 2,
-          "visitante": 11
+          "local": 11,
+          "visitante": 2
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 2
       }
     },
     {
@@ -306,55 +306,55 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "GALONJA ZOLOTIC, MARIJA"
-      },
-      "visitante": {
         "letra": "Z",
         "nombre": "ZHANG XU, SOFIA-XUAN"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALONJA ZOLOTIC, MARIJA"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 13
+          "local": 13,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 9
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 4,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 4
+        "local": 4,
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
     "ganador": "HUJASE JAÉN PARAISO INTERIOR",
     "marcador_partidos": {
-      "local": 2,
-      "visitante": 4
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 10,
-      "visitante": 16
+      "local": 16,
+      "visitante": 10
     }
   },
   "acta_protestada": false

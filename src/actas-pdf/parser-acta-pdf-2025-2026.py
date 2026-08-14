@@ -142,7 +142,18 @@ def parse_acta(pdf_path):
             for p0, p1 in zip(parts0, parts1):
                 header_lines.append(p0.strip() + p1.strip())
         elif len(col0) == 1 and col0.isalpha() and col1:
-            header_lines.append(col0 + col1)
+            # Si col1 tiene saltos de línea, dividirla y reconstruir cada parte:
+            # las líneas que empiezan por minúscula son la continuación de col0.
+            if "\n" in col1:
+                for part in col1.split("\n"):
+                    if not part:
+                        continue
+                    if part[0].islower():
+                        header_lines.append(col0 + part)
+                    else:
+                        header_lines.append(part)
+            else:
+                header_lines.append(col0 + col1)
 
     # ── Datos generales ──
     full_text = " ".join(header_lines)
@@ -246,9 +257,19 @@ def parse_acta(pdf_path):
     equipo_abc = equipo_xyz = None
     if header_idx is not None:
         hdr = table[header_idx]
-        # col[2] = nombre equipo ABC, col[4] = nombre equipo XYZ
+        # col[2] = nombre equipo ABC
         equipo_abc = clean(hdr[2])
-        equipo_xyz = clean(hdr[4])
+        # Buscar equipo XYZ: primera celda no vacía tras el marcador 'XYZ'
+        # (la columna puede variar según el PDF)
+        xyz_label_idx = next(
+            (i for i, c in enumerate(hdr) if c and str(c).strip() == "XYZ"), None
+        )
+        if xyz_label_idx is not None:
+            for c in hdr[xyz_label_idx + 1:]:
+                v = clean(c)
+                if v and not re.match(r"^J\d$|^JUEG|^TOT", v, re.IGNORECASE):
+                    equipo_xyz = v
+                    break
 
     # Determinar si ABC es local o visitante
     abc_es_local = True
@@ -492,12 +513,12 @@ def parse_acta(pdf_path):
         },
         "equipos": {
             "local": {
-                "nombre": equipo_local,
+                "nombre": nombre_local,
                 "delegado": delegado_local,
                 "entrenador": entrenador_local,
             },
             "visitante": {
-                "nombre": equipo_visitante,
+                "nombre": nombre_visitante,
                 "delegado": delegado_visitante,
                 "entrenador": entrenador_visitante,
             },
