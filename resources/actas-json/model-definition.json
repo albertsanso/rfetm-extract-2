@@ -116,7 +116,7 @@
         { "type": "null" },
         { "$ref": "#/$defs/dobles" }
       ],
-      "examples": [null, { "local": ["JUGADOR LOCAL 1", "JUGADOR LOCAL 2"], "visitante": ["JUGADOR VISITANTE 1", "JUGADOR VISITANTE 2"] }]
+      "examples": [null, { "local": [{ "nombre": "JUGADOR LOCAL 1", "licencia": "12345" }, { "nombre": "JUGADOR LOCAL 2", "licencia": "12346" }], "visitante": [{ "nombre": "JUGADOR VISITANTE 1", "licencia": "12347" }, { "nombre": "JUGADOR VISITANTE 2", "licencia": "12348" }] }]
     },
     "partidos": {
       "type": "array",
@@ -223,11 +223,11 @@
     },
     "pareja": {
       "type": "array",
-      "description": "Nombres de los dos integrantes de una pareja de dobles.",
-      "items": { "type": "string" },
+      "description": "Jugadores, con nombre y número de licencia, que integran una pareja de dobles.",
+      "items": { "$ref": "#/$defs/jugador" },
       "minItems": 2,
       "maxItems": 2,
-      "examples": [["CARMEN HENARES SÁNCHEZ", "LORENA GIL GOMEZ"]]
+      "examples": [[{ "nombre": "CARMEN HENARES SÁNCHEZ", "licencia": "12345" }, { "nombre": "LORENA GIL GOMEZ", "licencia": "12346" }]]
     },
     "marcador": {
       "type": "object",

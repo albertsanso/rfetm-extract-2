@@ -370,11 +370,11 @@ def parse_acta(pdf_path):
             if es_dobles:
                 abc_info = {
                     "letra": "Db",
-                    "jugadores": [p["nombre"] for p in players_abc],
+                    "jugadores": players_abc,
                 }
                 xyz_info = {
                     "letra": "Db",
-                    "jugadores": [p["nombre"] for p in players_xyz],
+                    "jugadores": players_xyz,
                 }
             else:
                 abc_info = {
@@ -488,7 +488,7 @@ def parse_acta(pdf_path):
         alin_local = alineaciones_xyz
         alin_visitante = alineaciones_abc
 
-    # Dobles: extraer jugadores del partido de dobles si existe
+    # Dobles: conservar nombre y licencia del partido de dobles si existe
     dobles_local = dobles_visitante = None
     for p in partidos:
         if p["tipo"] == "dobles":

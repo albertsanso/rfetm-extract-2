@@ -120,7 +120,9 @@ def extract_players_from_td(td):
     Extrae la lista de jugadores de una celda 'tdacta'.
 
     - Individual: 1 enlace con el nombre del jugador + texto con 'Lic:' y 'Rk:'.
-    - Dobles:     2 enlaces con los nombres de los jugadores (sin Lic/Rk).
+    - Dobles:     2 enlaces con los nombres de los jugadores. El número de
+                  licencia se obtiene del identificador del enlace, porque
+                  estas celdas normalmente no muestran el texto 'Lic:'.
 
     Devuelve lista de dicts: [{nombre, licencia?, ranking?, id?}, ...]
     """
@@ -156,6 +158,12 @@ def extract_players_from_td(td):
             rk_m = re.search(r"Rk:\s*([\d.]+)", full_text)
             if rk_m:
                 player["ranking"] = float(rk_m.group(1))
+
+        # En las celdas de dobles RFETM no aparece "Lic:". El identificador
+        # de cada enlace sí corresponde al número de licencia, tanto en
+        # `jugador=<licencia>` como en el formato antiguo `#<licencia>#`.
+        if jugador_id and "licencia" not in player:
+            player["licencia"] = jugador_id
 
         if jugador_id:
             player["id"] = jugador_id
@@ -336,11 +344,11 @@ def parse_inner_table(table):
         if es_dobles:
             abc_info = {
                 "letra": "Db",
-                "jugadores": [p["nombre"] for p in players_abc],
+                "jugadores": players_abc,
             }
             xyz_info = {
                 "letra": "Db",
-                "jugadores": [p["nombre"] for p in players_xyz],
+                "jugadores": players_xyz,
             }
         else:
             abc_info = {

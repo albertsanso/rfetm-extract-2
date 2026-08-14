@@ -6,7 +6,7 @@ Existen casos en que el parseo no es correcto y el json generado no es válido.
 
 # Problemas conocidos
 
-## Nombres de equipos
+## Nombres de equipos - FIXED -> SKIP
 
 ### Descripcion del problema
 
@@ -47,3 +47,62 @@ Iterate on JSON files and check if the "nombre" field is null for both "local" a
 
 - Modificar script de python `parser-acta-pdf-2025-2026.py` para que capture correctamente los nombres de los equipos y genere un JSON válido.
 - Si no es posible capturar los nombres de los equipos, rellenar los campos "nombre" con un valor por defecto (por ejemplo, "Desconocido") para evitar que el JSON generado sea inválido.
+
+## Jugadores de dobles sin numero de licencia - FIXED -> SKIP
+
+En el fichero PDF, los jugadores de dobles no tienen número de licencia.
+
+### Descripcion del problema
+
+Por ejemplo el siguiente JSON es el nodo generado para los jugadores de dobles:
+```json
+  "dobles": {
+    "local": [
+      "SANZ GARCIA, CELIA",
+      "PIÑÓN PITA, VALERIA"
+    ],
+    "visitante": [
+      "TUBIO MARCO, MARIA LUISA",
+      "CRESPO RIAL, MARTA"
+    ]
+  },
+```
+
+### Solución propuesta
+
+Se necesita extraer el número de licencia de los jugadores de dobles para que el JSON generado sea válido.
+En la acta original (PDF) los jugadores de dobles tienen un número de licencia asociado, pero este no se está capturando correctamente en el JSON generado.
+```text
+SANZ GARCIA, CELIA (35875)
+PIÑÓN PITA, VALERIA (39326)
+```
+
+### Output resultante esperado
+
+EL output deseado es que el JSON generado tenga el número de licencia asociado a cada jugador de dobles, por ejemplo:
+```json
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SANZ GARCIA, CELIA",
+        "licencia": 35875
+      },
+      {
+        "nombre": "PIÑÓN PITA, VALERIA",
+        "licencia": 39326
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "TUBIO MARCO, MARIA LUISA",
+        "licencia": 12345
+      },
+      {
+        "nombre": "CRESPO RIAL, MARTA",
+        "licencia": 67890
+      }
+    ]
+  },
+```
+
+- Modificar script de python `parser-acta-pdf-2025-2026.py` para que capture correctamente los números de licencia de los jugadores de dobles y genere un JSON válido.

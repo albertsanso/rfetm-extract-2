@@ -25,7 +25,7 @@ spec.loader.exec_module(parser_module)
 parse_acta = parser_module.parse_acta
 
 # ── Rutas base ──
-BASE_DIR = SRC_DIR.parent
+BASE_DIR = SRC_DIR.parent.parent
 ACTAS_DIR = BASE_DIR / "resources" / "actas"
 JSON_DIR = BASE_DIR / "resources" / "actas-json"
 LOG_FILE = BASE_DIR / "conversion_errors.log"
