@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 16,
+  "fecha": "2020-03-08",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "CENTRO DEPORTIVO SAN LUIS C/ SAN LUIS, Nº 29",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HISPALIS TM",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D.T.M. RIVAS",
+      "id": "10828",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGELA CHAVES BENJUMEA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "X": {
+        "nombre": "VALERIIA KOTSIUR",
+        "licencia": "34131",
+        "ranking": 3032.0,
+        "id": "34131"
+      },
+      "Z": {
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "B": {
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "ranking": 1777.0,
+        "id": "4804"
+      },
+      "C": {
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2452.0,
+        "id": "34083"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "id": "32720"
+      },
+      {
+        "nombre": "VALERIIA KOTSIUR",
+        "licencia": "34131",
+        "id": "34131"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "id": "31698"
+      },
+      {
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "id": "34083"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VALERIIA KOTSIUR",
+        "licencia": "34131",
+        "ranking": 3032.0,
+        "id": "34131"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "ranking": 1777.0,
+        "id": "4804"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "ranking": 1604.0,
+        "id": "8643"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2452.0,
+        "id": "34083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PO-HSUAN LIN",
+            "licencia": "32720",
+            "id": "32720"
+          },
+          {
+            "nombre": "VALERIIA KOTSIUR",
+            "licencia": "34131",
+            "id": "34131"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "EDEM OFFIONG",
+            "licencia": "31698",
+            "id": "31698"
+          },
+          {
+            "nombre": "MARGARITA FETIUKHINA",
+            "licencia": "34083",
+            "id": "34083"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VALERIIA KOTSIUR",
+        "licencia": "34131",
+        "ranking": 3032.0,
+        "id": "34131"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PO-HSUAN LIN",
+        "licencia": "32720",
+        "ranking": 3131.0,
+        "id": "32720"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2452.0,
+        "id": "34083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HISPALIS TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

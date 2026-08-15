@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 22,
+  "fecha": "2024-05-04",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PABELLÓN SEVERO RODRIGUEZ",
+    "ciudad": "Llanos de Aridane (Los) (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO TEMESPIN",
+      "id": "333",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M.DEFENSE ELECTROSATEL",
+      "id": "329",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS HISAI MARTIN DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTRO SANCHEZ, SANDRO",
+        "licencia": "7708",
+        "id": "7708"
+      },
+      "X": {
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "Z": {
+        "nombre": "PEREZ GONZALEZ, NESTOR LUIS",
+        "licencia": "18389",
+        "id": "18389"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ESPINOSA SÁNCHEZ, BERNABÉ",
+        "licencia": "17140",
+        "id": "17140"
+      },
+      "B": {
+        "nombre": "PéREZ DELGADO, MARIO",
+        "licencia": "38390",
+        "id": "38390"
+      },
+      "C": {
+        "nombre": "DELGADO NAVARRO, SERGIO",
+        "licencia": "38391",
+        "id": "38391"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SANCHEZ, SANDRO",
+        "licencia": "7708",
+        "id": "7708"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESPINOSA SÁNCHEZ, BERNABÉ",
+        "licencia": "17140",
+        "id": "17140"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PéREZ DELGADO, MARIO",
+        "licencia": "38390",
+        "id": "38390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEREZ GONZALEZ, NESTOR LUIS",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DELGADO NAVARRO, SERGIO",
+        "licencia": "38391",
+        "id": "38391"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESPINOSA SÁNCHEZ, BERNABÉ",
+        "licencia": "17140",
+        "id": "17140"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SANCHEZ, SANDRO",
+        "licencia": "7708",
+        "id": "7708"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DELGADO NAVARRO, SERGIO",
+        "licencia": "38391",
+        "id": "38391"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEREZ GONZALEZ, NESTOR LUIS",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PéREZ DELGADO, MARIO",
+        "licencia": "38390",
+        "id": "38390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO TEMESPIN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

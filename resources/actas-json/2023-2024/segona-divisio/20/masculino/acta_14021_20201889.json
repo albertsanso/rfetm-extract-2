@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 20,
+  "fecha": "2024-04-20",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "GIMNASIO C.R.A. LA FLECHA",
+    "ciudad": "Cabrerizos (Salamanca)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA CABRERIZOS",
+      "id": "14021",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "20201889",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANDRA GORJON HERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "B": {
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "C": {
+        "nombre": "PINTO DE DIOS, LUIS",
+        "licencia": "4060",
+        "id": "4060"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MAGRO BUSELA, MARTIN",
+        "licencia": "33732",
+        "id": "33732"
+      },
+      "X": {
+        "nombre": "NUÑEZ HERNANDEZ, FELIX",
+        "licencia": "32264",
+        "id": "32264"
+      },
+      "Z": {
+        "nombre": "REY MARTINEZ, ISMAEL RINAT",
+        "licencia": "35205",
+        "id": "35205"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MAGRO BUSELA, MARTIN",
+        "licencia": "33732",
+        "id": "33732"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NUÑEZ HERNANDEZ, FELIX",
+        "licencia": "32264",
+        "id": "32264"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PINTO DE DIOS, LUIS",
+        "licencia": "4060",
+        "id": "4060"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "REY MARTINEZ, ISMAEL RINAT",
+        "licencia": "35205",
+        "id": "35205"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NUÑEZ HERNANDEZ, FELIX",
+        "licencia": "32264",
+        "id": "32264"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PINTO DE DIOS, LUIS",
+        "licencia": "4060",
+        "id": "4060"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MAGRO BUSELA, MARTIN",
+        "licencia": "33732",
+        "id": "33732"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "REY MARTINEZ, ISMAEL RINAT",
+        "licencia": "35205",
+        "id": "35205"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA CABRERIZOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

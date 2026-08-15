@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 1,
+  "jornada": 7,
+  "fecha": "2019-11-17",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO INSTITUTO LUIS BUÑUEL",
+    "ciudad": "Móstoles (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MÓSTOLES",
+      "id": "283",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. TENIS DE MESA RIVAS",
+      "id": "183",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO PÉREZ BARRANCO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARLOS VEDRIEL SORIANO",
+        "licencia": "5790",
+        "id": "5790"
+      },
+      "X": {
+        "nombre": "RODRIGO CANO LASALDE",
+        "licencia": "7095",
+        "id": "7095"
+      },
+      "Z": {
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DAVID AVILES CABRERA",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "B": {
+        "nombre": "AYRTON ANDRE OVIEDO ESCOBAR",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "C": {
+        "nombre": "MANUEL ALONSO TAJUELO",
+        "licencia": "7439",
+        "id": "7439"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS VEDRIEL SORIANO",
+        "licencia": "5790",
+        "id": "5790"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID AVILES CABRERA",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGO CANO LASALDE",
+        "licencia": "7095",
+        "id": "7095"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AYRTON ANDRE OVIEDO ESCOBAR",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL ALONSO TAJUELO",
+        "licencia": "7439",
+        "id": "7439"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGO CANO LASALDE",
+        "licencia": "7095",
+        "id": "7095"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID AVILES CABRERA",
+        "licencia": "1831",
+        "id": "1831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS VEDRIEL SORIANO",
+        "licencia": "5790",
+        "id": "5790"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL ALONSO TAJUELO",
+        "licencia": "7439",
+        "id": "7439"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AYRTON ANDRE OVIEDO ESCOBAR",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MÓSTOLES",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

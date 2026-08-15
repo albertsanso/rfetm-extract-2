@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 11,
+  "fecha": "2023-01-21",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "REAL CÍRCULO DE LABRADORES",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "RC LABRADORES",
+      "id": "87",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA JEREZ",
+      "id": "20223009",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUCIA PEDROSA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALEJANDRO BUZON COLOMERA",
+        "licencia": "27717",
+        "id": "27717"
+      },
+      "X": {
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "Z": {
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JUAN CARLOS BOUTELLIER MUÑOZ",
+        "licencia": "18530",
+        "id": "18530"
+      },
+      "B": {
+        "nombre": "FRANCISCO BERMEJO SOLIS",
+        "licencia": "28626",
+        "id": "28626"
+      },
+      "C": {
+        "nombre": "SEBASTIÁN GUERRERO PARRA",
+        "licencia": "16899",
+        "id": "16899"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO BUZON COLOMERA",
+        "licencia": "27717",
+        "id": "27717"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS BOUTELLIER MUÑOZ",
+        "licencia": "18530",
+        "id": "18530"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCISCO BERMEJO SOLIS",
+        "licencia": "28626",
+        "id": "28626"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIÁN GUERRERO PARRA",
+        "licencia": "16899",
+        "id": "16899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS BOUTELLIER MUÑOZ",
+        "licencia": "18530",
+        "id": "18530"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO BUZON COLOMERA",
+        "licencia": "27717",
+        "id": "27717"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIÁN GUERRERO PARRA",
+        "licencia": "16899",
+        "id": "16899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCISCO BERMEJO SOLIS",
+        "licencia": "28626",
+        "id": "28626"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RC LABRADORES",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

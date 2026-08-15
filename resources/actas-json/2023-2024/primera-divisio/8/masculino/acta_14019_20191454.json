@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 8,
+  "fecha": "2023-11-25",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEIP PIO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. TODODISCA JEREZ",
+      "id": "14019",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA TECNIK '87",
+      "id": "20191454",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN MANUEL SAÑUDO JIMENEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "X": {
+        "nombre": "IZQUIERDO PEREZ, FERNANDO",
+        "licencia": "31453",
+        "id": "31453"
+      },
+      "Z": {
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALVAREZ GONZALEZ, ANTONIO",
+        "licencia": "1105",
+        "id": "1105"
+      },
+      "B": {
+        "nombre": "GONZALEZ CABACO, JUAN LUIS",
+        "licencia": "1589",
+        "id": "1589"
+      },
+      "C": {
+        "nombre": "ALAMO SANCHEZ, MIGUEL",
+        "licencia": "9416",
+        "id": "9416"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVAREZ GONZALEZ, ANTONIO",
+        "licencia": "1105",
+        "id": "1105"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZQUIERDO PEREZ, FERNANDO",
+        "licencia": "31453",
+        "id": "31453"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALEZ CABACO, JUAN LUIS",
+        "licencia": "1589",
+        "id": "1589"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALAMO SANCHEZ, MIGUEL",
+        "licencia": "9416",
+        "id": "9416"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZQUIERDO PEREZ, FERNANDO",
+        "licencia": "31453",
+        "id": "31453"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVAREZ GONZALEZ, ANTONIO",
+        "licencia": "1105",
+        "id": "1105"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALAMO SANCHEZ, MIGUEL",
+        "licencia": "9416",
+        "id": "9416"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALEZ CABACO, JUAN LUIS",
+        "licencia": "1589",
+        "id": "1589"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. TODODISCA JEREZ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

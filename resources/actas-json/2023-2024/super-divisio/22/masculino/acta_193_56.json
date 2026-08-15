@@ -1,0 +1,282 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 22,
+  "fecha": "2024-05-04",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "PABELLON PEREZ PUIG",
+    "ciudad": "Alzira (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "id": "193",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COLLADO MEDIANO TM /AGRUPACION DEPORTIVA",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE VICENTE NICOLAS PELLICER",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "X": {
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1793.0,
+        "id": "21851"
+      },
+      "Z": {
+        "nombre": "DE SAINTILAN , MATHIEU JULIEN NICOL",
+        "licencia": "37483",
+        "ranking": 2217.0,
+        "id": "37483"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "B": {
+        "nombre": "SANCHEZ TERRONES, JUAN PEDRO",
+        "licencia": "18622",
+        "ranking": 1419.0,
+        "id": "18622"
+      },
+      "C": {
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "ranking": 993.0,
+        "id": "18487"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1793.0,
+        "id": "21851"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ TERRONES, JUAN PEDRO",
+        "licencia": "18622",
+        "ranking": 1419.0,
+        "id": "18622"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DE SAINTILAN , MATHIEU JULIEN NICOL",
+        "licencia": "37483",
+        "ranking": 2217.0,
+        "id": "37483"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487",
+        "ranking": 993.0,
+        "id": "18487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1793.0,
+        "id": "21851"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AYUSO SERRA, ANGEL",
+        "licencia": "18334",
+        "ranking": 1812.0,
+        "id": "18334"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HORTITEC ALZIRA TT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 2
+    }
+  },
+  "acta_protestada": false
+}

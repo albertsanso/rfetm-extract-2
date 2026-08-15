@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 12,
+  "fecha": "2024-01-20",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLÓN COLEGIO SANTO TOMÉ",
+    "ciudad": "Cambados (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CONCELLO DE CAMBADOS",
+      "id": "2018798",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM BREOGAN OLEIROS",
+      "id": "2018795",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "EVA PEÑA LORENZO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "B": {
+        "nombre": "BAHAMONDE PÉREZ, MARCELINO",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "C": {
+        "nombre": "TORRES TOBIO, FRANCISCO JAVIER",
+        "licencia": "7830",
+        "id": "7830"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "X": {
+        "nombre": "CANZOBRE PEREIRA, JAVIER",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "Z": {
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BAHAMONDE PÉREZ, MARCELINO",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CANZOBRE PEREIRA, JAVIER",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "TORRES TOBIO, FRANCISCO JAVIER",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CANZOBRE PEREIRA, JAVIER",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "TORRES TOBIO, FRANCISCO JAVIER",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREIRA AZEVEDO, LUIS CARLOS",
+        "licencia": "29284",
+        "id": "29284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BAHAMONDE PÉREZ, MARCELINO",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERREIRO LAGE, JUAN ANGEL",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CONCELLO DE CAMBADOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

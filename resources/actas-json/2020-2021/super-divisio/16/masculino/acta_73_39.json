@@ -1,0 +1,382 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 16,
+  "fecha": "2021-05-28",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "AVDA. ROMEU ZARANDIETA, S N - Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "73",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA MARPEX",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS MEDINA ARABID",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      },
+      "B": {
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2165.0,
+        "id": "17948"
+      },
+      "C": {
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2043.0,
+        "id": "7535"
+      },
+      "X": {
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      },
+      "Z": {
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2043.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2165.0,
+        "id": "17948"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2673.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2043.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2165.0,
+        "id": "17948"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2600.0,
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

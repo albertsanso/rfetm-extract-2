@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 7,
+  "fecha": "2019-11-16",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON SEVERO RODRIGUEZ",
+    "ciudad": "Llanos de Aridane (Los) (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE B",
+      "id": "2017766",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. ACOROMA DE CANDELARIA",
+      "id": "10181",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS HISAI MARTIN DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "B": {
+        "nombre": "ALEJANDRO MONTESDEOCA AFONSO",
+        "licencia": "7710",
+        "id": "7710"
+      },
+      "C": {
+        "nombre": "OLIVER PHILIPP BUCH VERA",
+        "licencia": "23660",
+        "id": "23660"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOSE JOAQUIN FREGEL PADILLA",
+        "licencia": "420",
+        "id": "420"
+      },
+      "X": {
+        "nombre": "LUIS JORGE FREGEL PADILLA",
+        "licencia": "963",
+        "id": "963"
+      },
+      "Z": {
+        "nombre": "RUBEN DARIO PEREZ VALENCIA",
+        "licencia": "16991",
+        "id": "16991"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      {
+        "nombre": "ALEJANDRO MONTESDEOCA AFONSO",
+        "licencia": "7710",
+        "id": "7710"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JOSE JOAQUIN FREGEL PADILLA",
+        "licencia": "420",
+        "id": "420"
+      },
+      {
+        "nombre": "LUIS JORGE FREGEL PADILLA",
+        "licencia": "963",
+        "id": "963"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE JOAQUIN FREGEL PADILLA",
+        "licencia": "420",
+        "id": "420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALEJANDRO MONTESDEOCA AFONSO",
+        "licencia": "7710",
+        "id": "7710"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUIS JORGE FREGEL PADILLA",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "OLIVER PHILIPP BUCH VERA",
+        "licencia": "23660",
+        "id": "23660"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUBEN DARIO PEREZ VALENCIA",
+        "licencia": "16991",
+        "id": "16991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LUIS JORGE FREGEL PADILLA",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "OLIVER PHILIPP BUCH VERA",
+        "licencia": "23660",
+        "id": "23660"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE JOAQUIN FREGEL PADILLA",
+        "licencia": "420",
+        "id": "420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALEJANDRO MONTESDEOCA AFONSO",
+        "licencia": "7710",
+        "id": "7710"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUBEN DARIO PEREZ VALENCIA",
+        "licencia": "16991",
+        "id": "16991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+            "licencia": "18389",
+            "id": "18389"
+          },
+          {
+            "nombre": "ALEJANDRO MONTESDEOCA AFONSO",
+            "licencia": "7710",
+            "id": "7710"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JOSE JOAQUIN FREGEL PADILLA",
+            "licencia": "420",
+            "id": "420"
+          },
+          {
+            "nombre": "LUIS JORGE FREGEL PADILLA",
+            "licencia": "963",
+            "id": "963"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TEMESPIN LOS LLANOS DE ARIDANE B",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

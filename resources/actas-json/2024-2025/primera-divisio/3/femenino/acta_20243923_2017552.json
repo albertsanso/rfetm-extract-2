@@ -1,0 +1,351 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2024-12-14",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO INDIANA GAMES",
+      "id": "20243923",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM HUERCAL DE ALMERIA",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690",
+        "id": "36690"
+      },
+      "B": {
+        "nombre": "BARRAGAN CALERO, ANA",
+        "licencia": "40622",
+        "id": "40622"
+      },
+      "C": {
+        "nombre": "CHEN HU, ANA",
+        "licencia": "36699",
+        "id": "36699"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CASTAÑO DOMENE, VALERIA",
+        "licencia": "44040",
+        "id": "44040"
+      },
+      "X": {
+        "nombre": "VILLEGAS MARTINES, INES",
+        "licencia": "44039",
+        "id": "44039"
+      },
+      "Z": {
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690",
+        "id": "36690"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTAÑO DOMENE, VALERIA",
+        "licencia": "44040",
+        "id": "44040"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRAGAN CALERO, ANA",
+        "licencia": "40622",
+        "id": "40622"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VILLEGAS MARTINES, INES",
+        "licencia": "44039",
+        "id": "44039"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CHEN HU, ANA",
+        "licencia": "36699",
+        "id": "36699"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690",
+        "id": "36690"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VILLEGAS MARTINES, INES",
+        "licencia": "44039",
+        "id": "44039"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CHEN HU, ANA",
+        "licencia": "36699",
+        "id": "36699"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTAÑO DOMENE, VALERIA",
+        "licencia": "44040",
+        "id": "44040"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRAGAN CALERO, ANA",
+        "licencia": "40622",
+        "id": "40622"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO INDIANA GAMES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

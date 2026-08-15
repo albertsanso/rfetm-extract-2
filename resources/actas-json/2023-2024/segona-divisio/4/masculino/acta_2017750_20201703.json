@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 4,
+  "fecha": "2023-10-21",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "GIMNASIO INSTITUTO OLIVAR GRAN",
+    "ciudad": "Figueres (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "2017750",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT HOSPITALET VITALY",
+      "id": "20201703",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SALVADOR SIMON COLL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "X": {
+        "nombre": "GOMEZ SANCHEZ, ANTONIO",
+        "licencia": "9250",
+        "id": "9250"
+      },
+      "Z": {
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902",
+        "id": "8902"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SOLSONA SANCHEZ, EDUARD",
+        "licencia": "25437",
+        "id": "25437"
+      },
+      "B": {
+        "nombre": "GUTIERREZ OLMEDO, MIQUEL",
+        "licencia": "31606",
+        "id": "31606"
+      },
+      "C": {
+        "nombre": "VILALLONGA BARBER, NURJAN",
+        "licencia": "25636",
+        "id": "25636"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SOLSONA SANCHEZ, EDUARD",
+        "licencia": "25437",
+        "id": "25437"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GOMEZ SANCHEZ, ANTONIO",
+        "licencia": "9250",
+        "id": "9250"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUTIERREZ OLMEDO, MIQUEL",
+        "licencia": "31606",
+        "id": "31606"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902",
+        "id": "8902"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VILALLONGA BARBER, NURJAN",
+        "licencia": "25636",
+        "id": "25636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GOMEZ SANCHEZ, ANTONIO",
+        "licencia": "9250",
+        "id": "9250"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SOLSONA SANCHEZ, EDUARD",
+        "licencia": "25437",
+        "id": "25437"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MUNTADA MASO, BERNAT",
+        "licencia": "22628",
+        "id": "22628"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VILALLONGA BARBER, NURJAN",
+        "licencia": "25636",
+        "id": "25636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902",
+        "id": "8902"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUTIERREZ OLMEDO, MIQUEL",
+        "licencia": "31606",
+        "id": "31606"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 3,
+  "fecha": "2023-10-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CAMPO DE FUTBOL DE SAN LAZARO",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL",
+      "id": "1274",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CONCELLO DE CAMBADOS",
+      "id": "2018798",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALEJANDRO SEOANE SEOANE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "B": {
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "C": {
+        "nombre": "LOIS GONZÁLEZ, PABLO",
+        "licencia": "1290",
+        "id": "1290"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "IGLESIAS LEMA, BENITO",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "X": {
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "Z": {
+        "nombre": "BAHAMONDE PÉREZ, MARCELINO",
+        "licencia": "18254",
+        "id": "18254"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IGLESIAS LEMA, BENITO",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LOIS GONZÁLEZ, PABLO",
+        "licencia": "1290",
+        "id": "1290"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BAHAMONDE PÉREZ, MARCELINO",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LOIS GONZÁLEZ, PABLO",
+        "licencia": "1290",
+        "id": "1290"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IGLESIAS LEMA, BENITO",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CASTRO CAROU, SERGIO",
+        "licencia": "18407",
+        "id": "18407"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ARTEAL",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

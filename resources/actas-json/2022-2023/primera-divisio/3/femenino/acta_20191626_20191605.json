@@ -1,0 +1,440 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2023-01-14",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "SALA ESPECIFICA CUATRO SANTOS",
+    "ciudad": "CALLE LUGO S/N 30204 Cartagena Murcia"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLAN TECH2 TM CARTAGENA",
+      "id": "20191626",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AQADEM.COM",
+      "id": "20191605",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IRENE GOMEZ-VAZQUEZ ALVAREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "B": {
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "C": {
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BLANCA MUÑOZ DE RUS",
+        "licencia": "36702",
+        "id": "36702"
+      },
+      "X": {
+        "nombre": "ALBA SANCHEZ ARBOLEDAS",
+        "licencia": "28624",
+        "id": "28624"
+      },
+      "Z": {
+        "nombre": "ANA CHEN HU",
+        "licencia": "36699",
+        "id": "36699"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      {
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ALBA SANCHEZ ARBOLEDAS",
+        "licencia": "28624",
+        "id": "28624"
+      },
+      {
+        "nombre": "BLANCA MUÑOZ DE RUS",
+        "licencia": "36702",
+        "id": "36702"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BLANCA MUÑOZ DE RUS",
+        "licencia": "36702",
+        "id": "36702"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBA SANCHEZ ARBOLEDAS",
+        "licencia": "28624",
+        "id": "28624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANA CHEN HU",
+        "licencia": "36699",
+        "id": "36699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBA SANCHEZ ARBOLEDAS",
+        "licencia": "28624",
+        "id": "28624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BLANCA MUÑOZ DE RUS",
+        "licencia": "36702",
+        "id": "36702"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANA CHEN HU",
+        "licencia": "36699",
+        "id": "36699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CLARA MONTALBAN TORRES",
+            "licencia": "3035",
+            "id": "3035"
+          },
+          {
+            "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+            "licencia": "6770",
+            "id": "6770"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALBA SANCHEZ ARBOLEDAS",
+            "licencia": "28624",
+            "id": "28624"
+          },
+          {
+            "nombre": "BLANCA MUÑOZ DE RUS",
+            "licencia": "36702",
+            "id": "36702"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLAN TECH2 TM CARTAGENA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

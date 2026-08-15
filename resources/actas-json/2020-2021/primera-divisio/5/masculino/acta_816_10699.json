@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 10,
+  "jornada": 5,
+  "fecha": "2021-03-20",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE LA RAMBLA DEL CELLER RAMBLA JAUME SABAT S/N",
+    "ciudad": "Sant Cugat del Vallès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT L'HOSPITALET GRUPO PREVING",
+      "id": "10699",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI CASAS CASAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "X": {
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "Z": {
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NAZARII KISHCHUK",
+        "licencia": "33770",
+        "id": "33770"
+      },
+      "B": {
+        "nombre": "DANIEL CARRASCO GALLEGO",
+        "licencia": "21630",
+        "id": "21630"
+      },
+      "C": {
+        "nombre": "ROGER MIRO LLORENTE",
+        "licencia": "17644",
+        "id": "17644"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NAZARII KISHCHUK",
+        "licencia": "33770",
+        "id": "33770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL CARRASCO GALLEGO",
+        "licencia": "21630",
+        "id": "21630"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROGER MIRO LLORENTE",
+        "licencia": "17644",
+        "id": "17644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NAZARII KISHCHUK",
+        "licencia": "33770",
+        "id": "33770"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROGER MIRO LLORENTE",
+        "licencia": "17644",
+        "id": "17644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL CARRASCO GALLEGO",
+        "licencia": "21630",
+        "id": "21630"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BLANXART XALOC OLESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

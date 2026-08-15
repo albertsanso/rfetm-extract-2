@@ -1,0 +1,452 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 8,
+  "fecha": "2024-11-23",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TT ELS 8 ICELAND LA GARRIGA",
+      "id": "16002",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA CASSA",
+      "id": "20243961",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LLASTANÓS BUJONS, ALEX",
+        "licencia": "33174",
+        "id": "33174"
+      },
+      "B": {
+        "nombre": "SANCHEZ BAYONA, ERIC",
+        "licencia": "25667",
+        "id": "25667"
+      },
+      "C": {
+        "nombre": "GUINART FONT, JOEL",
+        "licencia": "25818",
+        "id": "25818"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      "X": {
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320",
+        "id": "24320"
+      },
+      "Z": {
+        "nombre": "LABARTA SERRA, ORIOL",
+        "licencia": "41069",
+        "id": "41069"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "LLASTANÓS BUJONS, ALEX",
+        "licencia": "33174",
+        "id": "33174"
+      },
+      {
+        "nombre": "GUINART FONT, JOEL",
+        "licencia": "25818",
+        "id": "25818"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      {
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320",
+        "id": "24320"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LLASTANÓS BUJONS, ALEX",
+        "licencia": "33174",
+        "id": "33174"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SANCHEZ BAYONA, ERIC",
+        "licencia": "25667",
+        "id": "25667"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320",
+        "id": "24320"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUINART FONT, JOEL",
+        "licencia": "25818",
+        "id": "25818"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "LABARTA SERRA, ORIOL",
+        "licencia": "41069",
+        "id": "41069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LLASTANÓS BUJONS, ALEX",
+        "licencia": "33174",
+        "id": "33174"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320",
+        "id": "24320"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUINART FONT, JOEL",
+        "licencia": "25818",
+        "id": "25818"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SANCHEZ BAYONA, ERIC",
+        "licencia": "25667",
+        "id": "25667"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "LABARTA SERRA, ORIOL",
+        "licencia": "41069",
+        "id": "41069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LLASTANÓS BUJONS, ALEX",
+            "licencia": "33174",
+            "id": "33174"
+          },
+          {
+            "nombre": "GUINART FONT, JOEL",
+            "licencia": "25818",
+            "id": "25818"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "COLL CICRES, ARNAU",
+            "licencia": "28408",
+            "id": "28408"
+          },
+          {
+            "nombre": "RUIZ PUEYO, ELOI",
+            "licencia": "24320",
+            "id": "24320"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TT ELS 8 ICELAND LA GARRIGA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

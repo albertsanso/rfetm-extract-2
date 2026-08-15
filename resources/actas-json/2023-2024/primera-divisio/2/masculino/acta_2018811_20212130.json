@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2023-10-07",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "IES MAR DE CADIZ",
+    "ciudad": "Puerto de Santa María (El) (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. PORTUENSE",
+      "id": "2018811",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AVILÉS DIGITAL DENTAL CLINIC",
+      "id": "20212130",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN GROSSO LAGOSTENA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SANCHEZ NECHYPORENKO, CRISTIAN",
+        "licencia": "28800",
+        "id": "28800"
+      },
+      "X": {
+        "nombre": "MAESTRE RUFO, JOSE LUIS",
+        "licencia": "7058",
+        "id": "7058"
+      },
+      "Z": {
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "HAUTH , LARS",
+        "licencia": "38510",
+        "id": "38510"
+      },
+      "B": {
+        "nombre": "PORTILLO MARTINEZ, DANIEL",
+        "licencia": "18478",
+        "id": "18478"
+      },
+      "C": {
+        "nombre": "GARRIDO ROPERO, ANTONIO",
+        "licencia": "9248",
+        "id": "9248"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANCHEZ NECHYPORENKO, CRISTIAN",
+        "licencia": "28800",
+        "id": "28800"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "HAUTH , LARS",
+        "licencia": "38510",
+        "id": "38510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAESTRE RUFO, JOSE LUIS",
+        "licencia": "7058",
+        "id": "7058"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PORTILLO MARTINEZ, DANIEL",
+        "licencia": "18478",
+        "id": "18478"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARRIDO ROPERO, ANTONIO",
+        "licencia": "9248",
+        "id": "9248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAESTRE RUFO, JOSE LUIS",
+        "licencia": "7058",
+        "id": "7058"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "HAUTH , LARS",
+        "licencia": "38510",
+        "id": "38510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANCHEZ NECHYPORENKO, CRISTIAN",
+        "licencia": "28800",
+        "id": "28800"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARRIDO ROPERO, ANTONIO",
+        "licencia": "9248",
+        "id": "9248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTILLO MULERO, FRANCISCO JOSE",
+        "licencia": "30261",
+        "id": "30261"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PORTILLO MARTINEZ, DANIEL",
+        "licencia": "18478",
+        "id": "18478"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. PORTUENSE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

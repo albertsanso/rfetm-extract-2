@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2023-09-30",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SOSMATIC BADALONA",
+      "id": "1072",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LES BORGES GENERAL D'OLIS",
+      "id": "305",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL CARMONA RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LLORET RIGAT, PAU",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "B": {
+        "nombre": "NAVARRO GALVEZ, PERE",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "C": {
+        "nombre": "CONIC , DENIS",
+        "licencia": "19451",
+        "id": "19451"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800",
+        "id": "39800"
+      },
+      "X": {
+        "nombre": "SERRET PERELLO, JOAN",
+        "licencia": "34232",
+        "id": "34232"
+      },
+      "Z": {
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995",
+        "id": "1995"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LLORET RIGAT, PAU",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800",
+        "id": "39800"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "NAVARRO GALVEZ, PERE",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRET PERELLO, JOAN",
+        "licencia": "34232",
+        "id": "34232"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CONIC , DENIS",
+        "licencia": "19451",
+        "id": "19451"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LLORET RIGAT, PAU",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRET PERELLO, JOAN",
+        "licencia": "34232",
+        "id": "34232"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CONIC , DENIS",
+        "licencia": "19451",
+        "id": "19451"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800",
+        "id": "39800"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "NAVARRO GALVEZ, PERE",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SOSMATIC BADALONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

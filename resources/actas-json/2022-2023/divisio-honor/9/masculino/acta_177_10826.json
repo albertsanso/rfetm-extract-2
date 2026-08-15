@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AQADEM.COM",
+      "id": "177",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HORTITEC ALZIRA",
+      "id": "10826",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "X": {
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "Z": {
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "B": {
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "C": {
+        "nombre": "SERGI GOMEZ PERIS",
+        "licencia": "19998",
+        "id": "19998"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERGI GOMEZ PERIS",
+        "licencia": "19998",
+        "id": "19998"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 18,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERGI GOMEZ PERIS",
+        "licencia": "19998",
+        "id": "19998"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VICTOR PELLICER CLIMENT",
+        "licencia": "10363",
+        "id": "10363"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AQADEM.COM",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 1,
+  "jornada": 3,
+  "fecha": "2019-10-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "Gondomar (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS/ROSQUILLAS CRISTALEIRO",
+      "id": "1070",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ETM TORRESPORT",
+      "id": "2017348",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SERGIO DANIEL PUERTAS LEDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "X": {
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      },
+      "Z": {
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "B": {
+        "nombre": "MARCOS GARCIA RAMOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "C": {
+        "nombre": "JAVIER RABAGO GONZALEZ",
+        "licencia": "9899",
+        "id": "9899"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      {
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      {
+        "nombre": "JAVIER RABAGO GONZALEZ",
+        "licencia": "9899",
+        "id": "9899"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS GARCIA RAMOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER RABAGO GONZALEZ",
+        "licencia": "9899",
+        "id": "9899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER RABAGO GONZALEZ",
+        "licencia": "9899",
+        "id": "9899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCOS GARCIA RAMOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANDRES TORRES VIDAL",
+            "licencia": "16078",
+            "id": "16078"
+          },
+          {
+            "nombre": "ANXO IGLESIAS NUÑEZ",
+            "licencia": "8939",
+            "id": "8939"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+            "licencia": "19868",
+            "id": "19868"
+          },
+          {
+            "nombre": "JAVIER RABAGO GONZALEZ",
+            "licencia": "9899",
+            "id": "9899"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM TORRESPORT",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

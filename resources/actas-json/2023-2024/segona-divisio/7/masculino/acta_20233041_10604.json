@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 7,
+  "fecha": "2023-11-18",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES IBN Albaytar",
+    "ciudad": "Benalmádena (Málaga)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "INPRE – RSA ALSINA",
+      "id": "20233041",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. CORDOBA-81 T.M.",
+      "id": "10604",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL RINCON YUSTE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HERNANDEZ DOBLAS, MARIO CARLOS",
+        "licencia": "3147",
+        "id": "3147"
+      },
+      "B": {
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      },
+      "C": {
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "X": {
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "Z": {
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HERNANDEZ DOBLAS, MARIO CARLOS",
+        "licencia": "3147",
+        "id": "3147"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HERNANDEZ DOBLAS, MARIO CARLOS",
+        "licencia": "3147",
+        "id": "3147"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685",
+        "id": "2685"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "INPRE – RSA ALSINA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

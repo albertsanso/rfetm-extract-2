@@ -1,0 +1,328 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO CUBIERTO DEL COMPLEJO DEPORTIVO MUNICIPAL LA SALOBREJA",
+    "ciudad": "Jaén (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "10422",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2878.0,
+        "id": "27846"
+      },
+      "B": {
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2495.0,
+        "id": "6401"
+      },
+      "C": {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2056.0,
+        "id": "33821"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CLARA-JONIA OLIVERA MOYANO",
+        "licencia": "26389",
+        "ranking": 783.0,
+        "id": "26389"
+      },
+      "X": {
+        "nombre": "CLAUDIA CAYMEL ROMERO",
+        "licencia": "8399",
+        "ranking": 2117.0,
+        "id": "8399"
+      },
+      "Z": {
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "ranking": 1729.0,
+        "id": "16388"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "id": "27846"
+      },
+      {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "id": "33821"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CLAUDIA CAYMEL ROMERO",
+        "licencia": "8399",
+        "id": "8399"
+      },
+      {
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "id": "16388"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2878.0,
+        "id": "27846"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CLARA-JONIA OLIVERA MOYANO",
+        "licencia": "26389",
+        "ranking": 783.0,
+        "id": "26389"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2495.0,
+        "id": "6401"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CLAUDIA CAYMEL ROMERO",
+        "licencia": "8399",
+        "ranking": 2117.0,
+        "id": "8399"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2056.0,
+        "id": "33821"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JANA RIERA MOLONS",
+        "licencia": "16388",
+        "ranking": 1729.0,
+        "id": "16388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANNAMARIA ERDELYI",
+            "licencia": "27846",
+            "id": "27846"
+          },
+          {
+            "nombre": "TIJANA JOKIC",
+            "licencia": "33821",
+            "id": "33821"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CLAUDIA CAYMEL ROMERO",
+            "licencia": "8399",
+            "id": "8399"
+          },
+          {
+            "nombre": "JANA RIERA MOLONS",
+            "licencia": "16388",
+            "id": "16388"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN PARAÍSO INTERIOR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

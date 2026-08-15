@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2022-09-24",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB OBERENA",
+    "ciudad": "Pamplona/Iruña (Navarra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO OBERENA",
+      "id": "2017335",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACION PAMPLONA",
+      "id": "142",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "Mª CONCEPCION OHARRIZ ECHENIQUE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "X": {
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "Z": {
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JOSE IGNACIO VIDAURRE PORRAS",
+        "licencia": "16188",
+        "id": "16188"
+      },
+      "B": {
+        "nombre": "JORGE FRANCISCO BEDOYA MOLINA",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      "C": {
+        "nombre": "JAVIER BAUTISTA ARGUIÑARIZ",
+        "licencia": "22826",
+        "id": "22826"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      {
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JORGE FRANCISCO BEDOYA MOLINA",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      {
+        "nombre": "JOSE IGNACIO VIDAURRE PORRAS",
+        "licencia": "16188",
+        "id": "16188"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE IGNACIO VIDAURRE PORRAS",
+        "licencia": "16188",
+        "id": "16188"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORGE FRANCISCO BEDOYA MOLINA",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER BAUTISTA ARGUIÑARIZ",
+        "licencia": "22826",
+        "id": "22826"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+        "licencia": "34961",
+        "id": "34961"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE IGNACIO VIDAURRE PORRAS",
+        "licencia": "16188",
+        "id": "16188"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER BAUTISTA ARGUIÑARIZ",
+        "licencia": "22826",
+        "id": "22826"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ABEL SANCHEZ LIBERAL",
+        "licencia": "22821",
+        "id": "22821"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORGE FRANCISCO BEDOYA MOLINA",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+            "licencia": "20606",
+            "id": "20606"
+          },
+          {
+            "nombre": "CARLOS ARTURO ALZATE RAMIREZ",
+            "licencia": "34961",
+            "id": "34961"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JORGE FRANCISCO BEDOYA MOLINA",
+            "licencia": "15324",
+            "id": "15324"
+          },
+          {
+            "nombre": "JOSE IGNACIO VIDAURRE PORRAS",
+            "licencia": "16188",
+            "id": "16188"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACION PAMPLONA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

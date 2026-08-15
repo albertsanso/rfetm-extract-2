@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 3,
+  "jornada": 13,
+  "fecha": "2022-04-02",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "GIMNASIO CUBIERTO DEL COMPLEJO DEPORTIVO MUNICIPAL LA SALOBREJA",
+    "ciudad": "AVDA. GRANADA S/N 23003-Jaén(Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
+      },
+      "X": {
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "Z": {
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "B": {
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
+      },
+      "C": {
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN AUTÉNTICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

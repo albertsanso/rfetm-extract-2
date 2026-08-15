@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 5,
+  "fecha": "2024-03-16",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL",
+    "ciudad": "TRAVESIA PASEO DE EXTREMADURA S/N 6240 FUENTE DE CANTOS BADAJOZ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "id": "20191449",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "20201870",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER RODRIGUEZ FIGUERAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "X": {
+        "nombre": "GONZALEZ CARRASCO, SILVIA",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "Z": {
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705",
+        "id": "27705"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "B": {
+        "nombre": "ROMAN ROSA, LETICIA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "C": {
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALEZ CARRASCO, SILVIA",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMAN ROSA, LETICIA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALEZ CARRASCO, SILVIA",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANTUNEZ PORRINO, LUCIA",
+        "licencia": "27703",
+        "id": "27703"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMAN ROSA, LETICIA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA FUENTE DE CANTOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

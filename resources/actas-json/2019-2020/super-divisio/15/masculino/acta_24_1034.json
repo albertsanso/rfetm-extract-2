@@ -1,0 +1,382 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2020-02-28",
+  "hora": "20:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL GARCIA COBO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3337.0,
+        "id": "17121"
+      },
+      "B": {
+        "nombre": "DANIEL KOSIBA",
+        "licencia": "31387",
+        "ranking": 2805.0,
+        "id": "31387"
+      },
+      "C": {
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3331.0,
+        "id": "2054"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2902.0,
+        "id": "29423"
+      },
+      "X": {
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      },
+      "Z": {
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3337.0,
+        "id": "17121"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2902.0,
+        "id": "29423"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DANIEL KOSIBA",
+        "licencia": "31387",
+        "ranking": 2805.0,
+        "id": "31387"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3331.0,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3337.0,
+        "id": "17121"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SHOHEI ONODERA",
+        "licencia": "34352",
+        "ranking": 2000.0,
+        "id": "34352"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 3331.0,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "HORACIO CIFUENTES AVALOS",
+        "licencia": "29423",
+        "ranking": 2902.0,
+        "id": "29423"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DANIEL KOSIBA",
+        "licencia": "31387",
+        "ranking": 2805.0,
+        "id": "31387"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2168.0,
+        "id": "32709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

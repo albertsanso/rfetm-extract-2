@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 16,
+  "fecha": "2023-02-25",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SOSMATIC BADALONA",
+      "id": "1072",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIC BOSCH PASTOR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DAVID GONZALEZ TERUEL",
+        "licencia": "2262",
+        "id": "2262"
+      },
+      "X": {
+        "nombre": "PERE NAVARRO GALVEZ",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "Z": {
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "B": {
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "C": {
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID GONZALEZ TERUEL",
+        "licencia": "2262",
+        "id": "2262"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PERE NAVARRO GALVEZ",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PERE NAVARRO GALVEZ",
+        "licencia": "2562",
+        "id": "2562"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID GONZALEZ TERUEL",
+        "licencia": "2262",
+        "id": "2262"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SOSMATIC BADALONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

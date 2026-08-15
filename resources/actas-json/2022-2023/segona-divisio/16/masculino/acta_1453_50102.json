@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 16,
+  "fecha": "2023-02-26",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COLEGIO RAMON MUÑOZ",
+    "ciudad": "Valdés (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "1453",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD VALLADOLID TENIS DE MESA",
+      "id": "50102",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "VERONICA RIESGO RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "B": {
+        "nombre": "JOSE DOMINGO LARRIETY FERREIRA",
+        "licencia": "9049",
+        "id": "9049"
+      },
+      "C": {
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JORGE JAVIER GONZALEZ GATO",
+        "licencia": "3276",
+        "id": "3276"
+      },
+      "X": {
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "Z": {
+        "nombre": "HECTOR GOMEZ RIOSERAS",
+        "licencia": "24153",
+        "id": "24153"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      {
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      {
+        "nombre": "JORGE JAVIER GONZALEZ GATO",
+        "licencia": "3276",
+        "id": "3276"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORGE JAVIER GONZALEZ GATO",
+        "licencia": "3276",
+        "id": "3276"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE DOMINGO LARRIETY FERREIRA",
+        "licencia": "9049",
+        "id": "9049"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR GOMEZ RIOSERAS",
+        "licencia": "24153",
+        "id": "24153"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "EMILIO BURGOS RODRIGUEZ",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORGE JAVIER GONZALEZ GATO",
+        "licencia": "3276",
+        "id": "3276"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSE DOMINGO LARRIETY FERREIRA",
+        "licencia": "9049",
+        "id": "9049"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR GOMEZ RIOSERAS",
+        "licencia": "24153",
+        "id": "24153"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "EMILIO BURGOS RODRIGUEZ",
+            "licencia": "1248",
+            "id": "1248"
+          },
+          {
+            "nombre": "SALVADOR ALFONSO RODRIGUEZ",
+            "licencia": "1558",
+            "id": "1558"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RAUL GOMEZ DEL OLMO",
+            "licencia": "18566",
+            "id": "18566"
+          },
+          {
+            "nombre": "JORGE JAVIER GONZALEZ GATO",
+            "licencia": "3276",
+            "id": "3276"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD VALLADOLID TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

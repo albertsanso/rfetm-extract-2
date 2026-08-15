@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 5,
+  "fecha": "2024-03-16",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "INSTALACIONES DEPORTIVAS CIRCULO MERCANTIL INDUSTRIAL",
+    "ciudad": "AVDA. PRESIDENTE ADOLFO SUAREZ NO. 1 41011 SEVILLA SEVILLA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIUDAD TENIS DE MESA TOMARES",
+      "id": "20233451",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD NERVION TENIS DE MESA CITY",
+      "id": "20222978",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GONZALEZ MUÑOZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "X": {
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "Z": {
+        "nombre": "CALVO DE LEóN SANTA CREUS, PURIFICACIóN",
+        "licencia": "42318",
+        "id": "42318"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "KELCHTERMANS , NATACHA",
+        "licencia": "40125",
+        "id": "40125"
+      },
+      "B": {
+        "nombre": "RUIZ ROCA, JIMENA",
+        "licencia": "22408",
+        "id": "22408"
+      },
+      "C": {
+        "nombre": "GAONA LARREA, ANA",
+        "licencia": "20756",
+        "id": "20756"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KELCHTERMANS , NATACHA",
+        "licencia": "40125",
+        "id": "40125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUIZ ROCA, JIMENA",
+        "licencia": "22408",
+        "id": "22408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALVO DE LEóN SANTA CREUS, PURIFICACIóN",
+        "licencia": "42318",
+        "id": "42318"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GAONA LARREA, ANA",
+        "licencia": "20756",
+        "id": "20756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KELCHTERMANS , NATACHA",
+        "licencia": "40125",
+        "id": "40125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GAONA LARREA, ANA",
+        "licencia": "20756",
+        "id": "20756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALVO DE LEóN SANTA CREUS, PURIFICACIóN",
+        "licencia": "42318",
+        "id": "42318"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUIZ ROCA, JIMENA",
+        "licencia": "22408",
+        "id": "22408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD NERVION TENIS DE MESA CITY",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

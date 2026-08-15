@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRE NATACIO MATARO",
+    "ciudad": "Mataró (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "id": "759",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT VILABLAREIX",
+      "id": "10354",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL CARMONA RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "B": {
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "C": {
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROBERT BERNEDA GIBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "X": {
+        "nombre": "PAU VILARNAU GRABULEDA",
+        "licencia": "28055",
+        "id": "28055"
+      },
+      "Z": {
+        "nombre": "ARNAU COLL CICRES",
+        "licencia": "28408",
+        "id": "28408"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROBERT BERNEDA GIBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU VILARNAU GRABULEDA",
+        "licencia": "28055",
+        "id": "28055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARNAU COLL CICRES",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEIX PACAREU DE ARCAYNE",
+        "licencia": "28219",
+        "id": "28219"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU VILARNAU GRABULEDA",
+        "licencia": "28055",
+        "id": "28055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUILLEM PIJUAN COSTA",
+        "licencia": "32920",
+        "id": "32920"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROBERT BERNEDA GIBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JACOB POUS CISNEROS",
+        "licencia": "28046",
+        "id": "28046"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARNAU COLL CICRES",
+        "licencia": "28408",
+        "id": "28408"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRE NATACIO MATARO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

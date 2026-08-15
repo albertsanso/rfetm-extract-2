@@ -1,0 +1,321 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2022-05-14",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO",
+    "ciudad": "C/ MESTRA MARIA CODINA, 1 - Les Borges Blanques (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TERMOSOLAR BORGES",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM TODODISCA JEREZ",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA SUF",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "B": {
+        "nombre": "JOEL RUBIO CORTADA",
+        "licencia": "25698",
+        "id": "25698"
+      },
+      "C": {
+        "nombre": "FRANCESC CARRERA RUIZ",
+        "licencia": "24329",
+        "id": "24329"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOSE MANUEL CARO RAMIREZ",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "X": {
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
+      },
+      "Z": {
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL CARO RAMIREZ",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOEL RUBIO CORTADA",
+        "licencia": "25698",
+        "id": "25698"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC CARRERA RUIZ",
+        "licencia": "24329",
+        "id": "24329"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC CARRERA RUIZ",
+        "licencia": "24329",
+        "id": "24329"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL CARO RAMIREZ",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TERMOSOLAR BORGES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

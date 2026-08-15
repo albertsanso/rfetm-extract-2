@@ -1,0 +1,292 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2021-10-15",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO",
+    "ciudad": "Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ASISA BORGES VALL",
+      "id": "767",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.E.R. ROBIN PRISCO L´ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS SAIZ CUEVAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARC DURAN GIRALT",
+        "licencia": "2856",
+        "ranking": 2756.0,
+        "id": "2856"
+      },
+      "B": {
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2212.0,
+        "id": "9787"
+      },
+      "C": {
+        "nombre": "VIKTOR SVEN ERIK BRODD",
+        "licencia": "36237",
+        "ranking": 2892.0,
+        "id": "36237"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2720.0,
+        "id": "34126"
+      },
+      "X": {
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1544.0,
+        "id": "16808"
+      },
+      "Z": {
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1570.0,
+        "id": "18284"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARC DURAN GIRALT",
+        "licencia": "2856",
+        "ranking": 2756.0,
+        "id": "2856"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2720.0,
+        "id": "34126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2212.0,
+        "id": "9787"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1544.0,
+        "id": "16808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "VIKTOR SVEN ERIK BRODD",
+        "licencia": "36237",
+        "ranking": 2892.0,
+        "id": "36237"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1570.0,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARC DURAN GIRALT",
+        "licencia": "2856",
+        "ranking": 2756.0,
+        "id": "2856"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1544.0,
+        "id": "16808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASISA BORGES VALL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

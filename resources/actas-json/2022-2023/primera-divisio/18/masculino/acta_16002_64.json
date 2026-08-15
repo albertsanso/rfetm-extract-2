@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 18,
+  "fecha": "2023-03-11",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PISCINES MUNICIPALS LA GARRIGA",
+    "ciudad": "Garriga (La) (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ICELAND TT ELS 8 LA GARRIGA",
+      "id": "16002",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "64",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PAU BARCELO MAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "X": {
+        "nombre": "JOAN MONTAGUT ARIN",
+        "licencia": "32831",
+        "id": "32831"
+      },
+      "Z": {
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "POL MAS FONT",
+        "licencia": "21655",
+        "id": "21655"
+      },
+      "B": {
+        "nombre": "GERARD CUADRADO MURILLO",
+        "licencia": "24411",
+        "id": "24411"
+      },
+      "C": {
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "POL MAS FONT",
+        "licencia": "21655",
+        "id": "21655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOAN MONTAGUT ARIN",
+        "licencia": "32831",
+        "id": "32831"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GERARD CUADRADO MURILLO",
+        "licencia": "24411",
+        "id": "24411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOAN MONTAGUT ARIN",
+        "licencia": "32831",
+        "id": "32831"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "POL MAS FONT",
+        "licencia": "21655",
+        "id": "21655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GERARD CUADRADO MURILLO",
+        "licencia": "24411",
+        "id": "24411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CETT ESPARREGUERA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

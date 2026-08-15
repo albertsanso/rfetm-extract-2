@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 1,
+  "jornada": 6,
+  "fecha": "2019-11-09",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "LOCAL SOCIAL A SOLAINA",
+    "ciudad": "Narón (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PANADERIA SANTY-NARON",
+      "id": "132",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA PARLA - DRAGO TT",
+      "id": "10770",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANA GARCIA CARBALLIDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "B": {
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "C": {
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALBERTO LÓPEZ GAVILÁN",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "X": {
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "Z": {
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      {
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      {
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALBERTO LÓPEZ GAVILÁN",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAFAEL DE LAS HERAS PLAZA",
+        "licencia": "19291",
+        "id": "19291"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALBERTO LÓPEZ GAVILÁN",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ZORAN SAVIC",
+        "licencia": "18629",
+        "id": "18629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ADRIAN VIDAL FERNANDEZ",
+            "licencia": "3243",
+            "id": "3243"
+          },
+          {
+            "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+            "licencia": "33904",
+            "id": "33904"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RAFAEL DE LAS HERAS PLAZA",
+            "licencia": "19291",
+            "id": "19291"
+          },
+          {
+            "nombre": "ZORAN SAVIC",
+            "licencia": "18629",
+            "id": "18629"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA PARLA - DRAGO TT",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

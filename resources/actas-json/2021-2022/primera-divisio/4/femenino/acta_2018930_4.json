@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2022-02-13",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "PAVELLÓ MUNICIPAL D'ESPORTS GIRONA",
+    "ciudad": "FONTAJAU - AVGDA. JOSEP TARRADELLAS, 22-24 17007-Girona (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT VILABLAREIX",
+      "id": "2018930",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AUTOESCOLA TATCHEPOL RIPOLLET",
+      "id": "4",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS ZAPATA PAEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "B": {
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "C": {
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LIDIA RICO RODRIGUEZ",
+        "licencia": "10434",
+        "id": "10434"
+      },
+      "X": {
+        "nombre": "MARTA PEÑARANDO BAREA",
+        "licencia": "25462",
+        "id": "25462"
+      },
+      "Z": {
+        "nombre": "JUDITH GUTIERREZ PUIG",
+        "licencia": "25459",
+        "id": "25459"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LIDIA RICO RODRIGUEZ",
+        "licencia": "10434",
+        "id": "10434"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTA PEÑARANDO BAREA",
+        "licencia": "25462",
+        "id": "25462"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUDITH GUTIERREZ PUIG",
+        "licencia": "25459",
+        "id": "25459"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTA PEÑARANDO BAREA",
+        "licencia": "25462",
+        "id": "25462"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LIDIA RICO RODRIGUEZ",
+        "licencia": "10434",
+        "id": "10434"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUDITH GUTIERREZ PUIG",
+        "licencia": "25459",
+        "id": "25459"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AUTOESCOLA TATCHEPOL RIPOLLET",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIESPORTIU MUNICIPAL DE RIPOLLET",
+    "ciudad": "Ripollet (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLINICA DENTAL VIRGEN DEL PILAR RIPOLLET",
+      "id": "16001",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. ATENEU 1882",
+      "id": "151",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALBERT BADIA PERACAULA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "B": {
+        "nombre": "VICTOR LLORENS RAMOS",
+        "licencia": "17615",
+        "id": "17615"
+      },
+      "C": {
+        "nombre": "RAUL FERNANDEZ MARTIN",
+        "licencia": "18938",
+        "id": "18938"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NURJAN VILALLONGA BARBER",
+        "licencia": "25636",
+        "id": "25636"
+      },
+      "X": {
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "Z": {
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "VICTOR LLORENS RAMOS",
+        "licencia": "17615",
+        "id": "17615"
+      },
+      {
+        "nombre": "RAUL FERNANDEZ MARTIN",
+        "licencia": "18938",
+        "id": "18938"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      {
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NURJAN VILALLONGA BARBER",
+        "licencia": "25636",
+        "id": "25636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR LLORENS RAMOS",
+        "licencia": "17615",
+        "id": "17615"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RAUL FERNANDEZ MARTIN",
+        "licencia": "18938",
+        "id": "18938"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RAUL FERNANDEZ MARTIN",
+        "licencia": "18938",
+        "id": "18938"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NURJAN VILALLONGA BARBER",
+        "licencia": "25636",
+        "id": "25636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR LLORENS RAMOS",
+        "licencia": "17615",
+        "id": "17615"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VICTOR LLORENS RAMOS",
+            "licencia": "17615",
+            "id": "17615"
+          },
+          {
+            "nombre": "RAUL FERNANDEZ MARTIN",
+            "licencia": "18938",
+            "id": "18938"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FRANCISCO FERNANDEZ QUESADA",
+            "licencia": "1809",
+            "id": "1809"
+          },
+          {
+            "nombre": "JUAN DIAZ CARRILLO",
+            "licencia": "9353",
+            "id": "9353"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLINICA DENTAL VIRGEN DEL PILAR RIPOLLET",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

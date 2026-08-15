@@ -1,0 +1,287 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 5,
+  "fecha": "2019-11-08",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "Gondomar (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HISPALIS T.M",
+      "id": "1344",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE LUIS CABALEIRO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "B": {
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2462.0,
+        "id": "27212"
+      },
+      "C": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1643.0,
+        "id": "9975"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FRANCISCO MIGUEL RUIZ RODRIGUEZ",
+        "licencia": "10160",
+        "ranking": 1839.0,
+        "id": "10160"
+      },
+      "X": {
+        "nombre": "WILMER GIOVANNY NUÑEZ SANTISTEBAN",
+        "licencia": "34235",
+        "ranking": 800.0,
+        "id": "34235"
+      },
+      "Z": {
+        "nombre": "ANTONIO CHAVES BENJUMEA",
+        "licencia": "7057",
+        "ranking": 1598.0,
+        "id": "7057"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FRANCISCO MIGUEL RUIZ RODRIGUEZ",
+        "licencia": "10160",
+        "ranking": 1839.0,
+        "id": "10160"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2462.0,
+        "id": "27212"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "WILMER GIOVANNY NUÑEZ SANTISTEBAN",
+        "licencia": "34235",
+        "ranking": 800.0,
+        "id": "34235"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1643.0,
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANTONIO CHAVES BENJUMEA",
+        "licencia": "7057",
+        "ranking": 1598.0,
+        "id": "7057"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "WILMER GIOVANNY NUÑEZ SANTISTEBAN",
+        "licencia": "34235",
+        "ranking": 800.0,
+        "id": "34235"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D.VINCIOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

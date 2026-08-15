@@ -1,0 +1,279 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 12,
+  "fecha": "2025-01-17",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL SANTIAGO",
+      "id": "21",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MANHANI JUNIOR , HUMBERTO",
+        "licencia": "31328",
+        "ranking": 2307.9,
+        "id": "31328"
+      },
+      "X": {
+        "nombre": "MOLINA SOTO, MIGUEL",
+        "licencia": "16161",
+        "ranking": 2073.1,
+        "id": "16161"
+      },
+      "Z": {
+        "nombre": "CORREA PICCONE, ANDRES GUILLERMO",
+        "licencia": "5678",
+        "ranking": 1594.8,
+        "id": "5678"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121",
+        "ranking": 2628.9,
+        "id": "17121"
+      },
+      "B": {
+        "nombre": "LILLO BORDAJANDI, ALBERTO",
+        "licencia": "17948",
+        "ranking": 2289.0,
+        "id": "17948"
+      },
+      "C": {
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327",
+        "ranking": 2473.1,
+        "id": "39327"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MANHANI JUNIOR , HUMBERTO",
+        "licencia": "31328",
+        "ranking": 2307.9,
+        "id": "31328"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121",
+        "ranking": 2628.9,
+        "id": "17121"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOLINA SOTO, MIGUEL",
+        "licencia": "16161",
+        "ranking": 2073.1,
+        "id": "16161"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LILLO BORDAJANDI, ALBERTO",
+        "licencia": "17948",
+        "ranking": 2289.0,
+        "id": "17948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CORREA PICCONE, ANDRES GUILLERMO",
+        "licencia": "5678",
+        "ranking": 1594.8,
+        "id": "5678"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327",
+        "ranking": 2473.1,
+        "id": "39327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOLINA SOTO, MIGUEL",
+        "licencia": "16161",
+        "ranking": 2073.1,
+        "id": "16161"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121",
+        "ranking": 2628.9,
+        "id": "17121"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

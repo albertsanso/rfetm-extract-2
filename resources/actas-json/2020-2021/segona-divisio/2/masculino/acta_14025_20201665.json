@@ -1,0 +1,389 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2021-03-06",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "PABELLON CASTELAO CALLE CASTELAO Nº 13",
+    "ciudad": "Vilagarcía de Arousa (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM EL CALVARIO",
+      "id": "14025",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VILAGARCIA TENIS DE MESA",
+      "id": "20201665",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORGE JUAN VIDAL DAPORTA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      },
+      "X": {
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "Z": {
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FACUNDO DE LEON",
+        "licencia": "36132",
+        "id": "36132"
+      },
+      "B": {
+        "nombre": "ANTONIO CASTRO MONTENEGRO",
+        "licencia": "995",
+        "id": "995"
+      },
+      "C": {
+        "nombre": "GONZALO RECUNA CUIÑA",
+        "licencia": "7949",
+        "id": "7949"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FACUNDO DE LEON",
+        "licencia": "36132",
+        "id": "36132"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO CASTRO MONTENEGRO",
+        "licencia": "995",
+        "id": "995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GONZALO RECUNA CUIÑA",
+        "licencia": "7949",
+        "id": "7949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FACUNDO DE LEON",
+        "licencia": "36132",
+        "id": "36132"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GONZALO RECUNA CUIÑA",
+        "licencia": "7949",
+        "id": "7949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO CASTRO MONTENEGRO",
+        "licencia": "995",
+        "id": "995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM EL CALVARIO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,387 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 10,
+  "fecha": "2021-05-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA C/OLAKETA S N",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D.T.M. RIVAS",
+      "id": "10828",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CLAUDE ALAIN BOTOG",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CAROLINE AIKO KUMAHARA",
+        "licencia": "35824",
+        "ranking": 2600.0,
+        "id": "35824"
+      },
+      "X": {
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2930.0,
+        "id": "22026"
+      },
+      "Z": {
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "ranking": 1696.0,
+        "id": "1422"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2709.0,
+        "id": "31698"
+      },
+      "B": {
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2587.0,
+        "id": "31697"
+      },
+      "C": {
+        "nombre": "MIHAELA CIUREZ CAZACU",
+        "licencia": "5139",
+        "ranking": 2082.0,
+        "id": "5139"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CAROLINE AIKO KUMAHARA",
+        "licencia": "35824",
+        "ranking": 2600.0,
+        "id": "35824"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2709.0,
+        "id": "31698"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2930.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2587.0,
+        "id": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "ranking": 1696.0,
+        "id": "1422"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIHAELA CIUREZ CAZACU",
+        "licencia": "5139",
+        "ranking": 2082.0,
+        "id": "5139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROXANA ANA MARIA ISTRATE",
+        "licencia": "22026",
+        "ranking": 2930.0,
+        "id": "22026"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2709.0,
+        "id": "31698"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CAROLINE AIKO KUMAHARA",
+        "licencia": "35824",
+        "ranking": 2600.0,
+        "id": "35824"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIHAELA CIUREZ CAZACU",
+        "licencia": "5139",
+        "ranking": 2082.0,
+        "id": "5139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "ranking": 1696.0,
+        "id": "1422"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2587.0,
+        "id": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

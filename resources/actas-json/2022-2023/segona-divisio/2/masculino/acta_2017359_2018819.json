@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CHEF",
+    "ciudad": "León (León)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "id": "2018819",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GREGORIO PELLITERO GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "B": {
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "C": {
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALEJANDRO SANCHEZ SOUSA",
+        "licencia": "20113",
+        "id": "20113"
+      },
+      "X": {
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "Z": {
+        "nombre": "TITUS ODUNLAMI OMOTARA",
+        "licencia": "533",
+        "id": "533"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO SANCHEZ SOUSA",
+        "licencia": "20113",
+        "id": "20113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TITUS ODUNLAMI OMOTARA",
+        "licencia": "533",
+        "id": "533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DENNIS RIVERA HERNANDEZ",
+        "licencia": "14737",
+        "id": "14737"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL SÁNCHEZ LÓPEZ",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO SANCHEZ SOUSA",
+        "licencia": "20113",
+        "id": "20113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IKER GARCIA GARCIA",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TITUS ODUNLAMI OMOTARA",
+        "licencia": "533",
+        "id": "533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MANUFACTURAS DEPORTIVAS",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

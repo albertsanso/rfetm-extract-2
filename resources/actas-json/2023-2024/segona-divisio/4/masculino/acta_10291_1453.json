@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2023-10-22",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO HUERTA DEL REY (LOCAL DE LA DELEGACION DE TENIS DE MESA DE VALALDOLID)",
+    "ciudad": "Valladolid (Valladolid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. PISUERGA T.M./ DRAGO TT",
+      "id": "10291",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "1453",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID VEGAS MERINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "B": {
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "C": {
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BURGOS RODRIGUEZ, EMILIO",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "X": {
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "Z": {
+        "nombre": "OLIVER RODRIGUEZ, JOSE",
+        "licencia": "19872",
+        "id": "19872"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BURGOS RODRIGUEZ, EMILIO",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "OLIVER RODRIGUEZ, JOSE",
+        "licencia": "19872",
+        "id": "19872"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ CAMPOS, ALBERTO",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558",
+        "id": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PEREZ REPISO, GREGORIO",
+        "licencia": "1128",
+        "id": "1128"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BURGOS RODRIGUEZ, EMILIO",
+        "licencia": "1248",
+        "id": "1248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "HORTAL GUADILLA, ALEJANDRO",
+        "licencia": "3927",
+        "id": "3927"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "OLIVER RODRIGUEZ, JOSE",
+        "licencia": "19872",
+        "id": "19872"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. PISUERGA T.M./ DRAGO TT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

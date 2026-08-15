@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 7,
+  "fecha": "2019-11-17",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO MOZART",
+    "ciudad": "Alcalá de Henares (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA ALCALA-VILLALBILLA",
+      "id": "20191612",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ITV OCAÑA",
+      "id": "14007",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FEDERICO PIERO DRAGO MILANTI",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
+      },
+      "X": {
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
+      },
+      "Z": {
+        "nombre": "JULIO ADRIAN SILVA RODRIGUEZ",
+        "licencia": "3275",
+        "id": "3275"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "B": {
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      },
+      "C": {
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JULIO ADRIAN SILVA RODRIGUEZ",
+        "licencia": "3275",
+        "id": "3275"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JULIO ADRIAN SILVA RODRIGUEZ",
+        "licencia": "3275",
+        "id": "3275"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ITV OCAÑA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

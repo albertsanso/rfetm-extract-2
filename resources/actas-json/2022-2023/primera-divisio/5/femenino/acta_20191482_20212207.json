@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2023-03-11",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA ESPECÍFICA DE TENIS DE MESA",
+    "ciudad": "PROLONGACIÓN AVENIDA LUXEMBURGO, BARRIADA CUATRO SANTOS Cartagena"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB UNIVERSIDAD CATOLICA SAN ANTONIO",
+      "id": "20191482",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "20212207",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IRENE GOMEZ-VAZQUEZ ALVAREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AINARA GARCIA PEREZ",
+        "licencia": "22125",
+        "id": "22125"
+      },
+      "X": {
+        "nombre": "ANDREA MARIN BUIGUES",
+        "licencia": "21927",
+        "id": "21927"
+      },
+      "Z": {
+        "nombre": "CARLA PAREDES BUIGUES",
+        "licencia": "21928",
+        "id": "21928"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ROSALIA FLOR GALLEGO",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "B": {
+        "nombre": "PILAR FRIAS MOSTAZO",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "C": {
+        "nombre": "ALBA SANCHEZ OGALLA",
+        "licencia": "32048",
+        "id": "32048"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AINARA GARCIA PEREZ",
+        "licencia": "22125",
+        "id": "22125"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROSALIA FLOR GALLEGO",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDREA MARIN BUIGUES",
+        "licencia": "21927",
+        "id": "21927"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PILAR FRIAS MOSTAZO",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLA PAREDES BUIGUES",
+        "licencia": "21928",
+        "id": "21928"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA SANCHEZ OGALLA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDREA MARIN BUIGUES",
+        "licencia": "21927",
+        "id": "21927"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROSALIA FLOR GALLEGO",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AINARA GARCIA PEREZ",
+        "licencia": "22125",
+        "id": "22125"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA SANCHEZ OGALLA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLA PAREDES BUIGUES",
+        "licencia": "21928",
+        "id": "21928"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NURIA VEGA RODRIGUEZ",
+        "licencia": "36674",
+        "id": "36674"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB UNIVERSIDAD CATOLICA SAN ANTONIO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

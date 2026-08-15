@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Femenina",
+  "grupo": 2,
+  "jornada": 15,
+  "fecha": "2020-02-09",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "GIMNASO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BEONE BOADILLA",
+      "id": "2018826",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1440",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIA SANCHA GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PILAR GARCIA SORIANO",
+        "licencia": "7622",
+        "id": "7622"
+      },
+      "B": {
+        "nombre": "ELENA LOPEZ LAGUNA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "C": {
+        "nombre": "MARIA DEL PILAR MARTIN PALACIOS",
+        "licencia": "18640",
+        "id": "18640"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "X": {
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "Z": {
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PILAR GARCIA SORIANO",
+        "licencia": "7622",
+        "id": "7622"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ELENA LOPEZ LAGUNA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA DEL PILAR MARTIN PALACIOS",
+        "licencia": "18640",
+        "id": "18640"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PILAR GARCIA SORIANO",
+        "licencia": "7622",
+        "id": "7622"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA DEL PILAR MARTIN PALACIOS",
+        "licencia": "18640",
+        "id": "18640"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ELENA LOPEZ LAGUNA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TECNIGEN LINARES",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

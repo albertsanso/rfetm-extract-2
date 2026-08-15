@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "20191583",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAFÉS LA BRASILEÑA-GAILAK",
+      "id": "2017751",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "NOELIA NUÑEZ TAPIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "X": {
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "Z": {
+        "nombre": "SERGIO MENDEZ ALONSO",
+        "licencia": "30901",
+        "id": "30901"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IXAI RODRIGUEZ PEREZ",
+        "licencia": "4225",
+        "id": "4225"
+      },
+      "B": {
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "C": {
+        "nombre": "UNAI ARMAS MARDONES",
+        "licencia": "10626",
+        "id": "10626"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IXAI RODRIGUEZ PEREZ",
+        "licencia": "4225",
+        "id": "4225"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO MENDEZ ALONSO",
+        "licencia": "30901",
+        "id": "30901"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "UNAI ARMAS MARDONES",
+        "licencia": "10626",
+        "id": "10626"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IXAI RODRIGUEZ PEREZ",
+        "licencia": "4225",
+        "id": "4225"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "UNAI ARMAS MARDONES",
+        "licencia": "10626",
+        "id": "10626"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO MENDEZ ALONSO",
+        "licencia": "30901",
+        "id": "30901"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2023-03-04",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON DE TENIS DE MESA PARQUE DE FRIGSA",
+    "ciudad": "Lugo (Lugo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MILAGROSA",
+      "id": "1388",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR",
+      "id": "937",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGELINO DA SILVA DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "IHOR ZAVADSKYI",
+        "licencia": "39888",
+        "id": "39888"
+      },
+      "X": {
+        "nombre": "SANTIAGO OTERO RODRIGUEZ",
+        "licencia": "10331",
+        "id": "10331"
+      },
+      "Z": {
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "B": {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "C": {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IHOR ZAVADSKYI",
+        "licencia": "39888",
+        "id": "39888"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANTIAGO OTERO RODRIGUEZ",
+        "licencia": "10331",
+        "id": "10331"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANTIAGO OTERO RODRIGUEZ",
+        "licencia": "10331",
+        "id": "10331"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IHOR ZAVADSKYI",
+        "licencia": "39888",
+        "id": "39888"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MILAGROSA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

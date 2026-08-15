@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 4,
+  "jornada": 4,
+  "fecha": "2021-03-20",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ZUBI ALDE C/MARTIN FERNANDEZ VILLARAN Nº2",
+    "ciudad": "Portugalete (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GURE TALDE",
+      "id": "16017",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA BASAURI",
+      "id": "1335",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO OTEO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JON ISIDRO IPARRAGUIRRE SANTIAGO",
+        "licencia": "18850",
+        "id": "18850"
+      },
+      "B": {
+        "nombre": "IMANOL MARTINEZ PENA",
+        "licencia": "21754",
+        "id": "21754"
+      },
+      "C": {
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "X": {
+        "nombre": "JAVIER GARCIA ARCE",
+        "licencia": "1930",
+        "id": "1930"
+      },
+      "Z": {
+        "nombre": "ENRIQUE IRINEU ANCA",
+        "licencia": "1976",
+        "id": "1976"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JON ISIDRO IPARRAGUIRRE SANTIAGO",
+        "licencia": "18850",
+        "id": "18850"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IMANOL MARTINEZ PENA",
+        "licencia": "21754",
+        "id": "21754"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAVIER GARCIA ARCE",
+        "licencia": "1930",
+        "id": "1930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ENRIQUE IRINEU ANCA",
+        "licencia": "1976",
+        "id": "1976"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JON ISIDRO IPARRAGUIRRE SANTIAGO",
+        "licencia": "18850",
+        "id": "18850"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JAVIER GARCIA ARCE",
+        "licencia": "1930",
+        "id": "1930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KEVIN FERNANDEZ ARCE",
+        "licencia": "35023",
+        "id": "35023"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IMANOL MARTINEZ PENA",
+        "licencia": "21754",
+        "id": "21754"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ENRIQUE IRINEU ANCA",
+        "licencia": "1976",
+        "id": "1976"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GURE TALDE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

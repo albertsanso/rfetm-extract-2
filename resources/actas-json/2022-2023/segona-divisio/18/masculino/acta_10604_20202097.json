@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 18,
+  "fecha": "2023-03-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "INSTALACIONES DEPORTIVAS MUNICIPALES DE LA FUENSANTA",
+    "ciudad": "Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CORDOBA-81 FUNDACIÓN CABEZAS CARMONA",
+      "id": "10604",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "20202097",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL LUQUE SOTELO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "X": {
+        "nombre": "JOSE CAPARROS ZAMORA",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "Z": {
+        "nombre": "CESAR MOISES FRANCO TARDAGUILA",
+        "licencia": "22182",
+        "id": "22182"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SAMUEL GOMEZ ARENAS",
+        "licencia": "38916",
+        "id": "38916"
+      },
+      "B": {
+        "nombre": "JOSE VILLA JIMENEZ",
+        "licencia": "23495",
+        "id": "23495"
+      },
+      "C": {
+        "nombre": "ANDRES FRANCISCO MOLINA SANCHEZ",
+        "licencia": "1117",
+        "id": "1117"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      {
+        "nombre": "CESAR MOISES FRANCO TARDAGUILA",
+        "licencia": "22182",
+        "id": "22182"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "SAMUEL GOMEZ ARENAS",
+        "licencia": "38916",
+        "id": "38916"
+      },
+      {
+        "nombre": "JOSE VILLA JIMENEZ",
+        "licencia": "23495",
+        "id": "23495"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAMUEL GOMEZ ARENAS",
+        "licencia": "38916",
+        "id": "38916"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE CAPARROS ZAMORA",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE VILLA JIMENEZ",
+        "licencia": "23495",
+        "id": "23495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CESAR MOISES FRANCO TARDAGUILA",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRES FRANCISCO MOLINA SANCHEZ",
+        "licencia": "1117",
+        "id": "1117"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE CAPARROS ZAMORA",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAMUEL GOMEZ ARENAS",
+        "licencia": "38916",
+        "id": "38916"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRES FRANCISCO MOLINA SANCHEZ",
+        "licencia": "1117",
+        "id": "1117"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CESAR MOISES FRANCO TARDAGUILA",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE VILLA JIMENEZ",
+        "licencia": "23495",
+        "id": "23495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JOSE LUIS OÑA MURILLO",
+            "licencia": "6779",
+            "id": "6779"
+          },
+          {
+            "nombre": "CESAR MOISES FRANCO TARDAGUILA",
+            "licencia": "22182",
+            "id": "22182"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SAMUEL GOMEZ ARENAS",
+            "licencia": "38916",
+            "id": "38916"
+          },
+          {
+            "nombre": "JOSE VILLA JIMENEZ",
+            "licencia": "23495",
+            "id": "23495"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CORDOBA-81 FUNDACIÓN CABEZAS CARMONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

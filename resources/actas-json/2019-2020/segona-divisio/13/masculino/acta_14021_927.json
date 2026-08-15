@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 13,
+  "fecha": "2020-01-18",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO C.R.A. LA FLECHA",
+    "ciudad": "Cabrerizos (Salamanca)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. CABRERIZOS",
+      "id": "14021",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AVILES T.M.",
+      "id": "927",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL BELTRAN SANCHEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
+      },
+      "X": {
+        "nombre": "ARMANDO MANUEL SERONERO SANCHEZ",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "Z": {
+        "nombre": "OSCAR OCHOA CALVO",
+        "licencia": "22181",
+        "id": "22181"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALEXANDRU GABRIEL ELEFTERESCU",
+        "licencia": "26841",
+        "id": "26841"
+      },
+      "B": {
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "C": {
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEXANDRU GABRIEL ELEFTERESCU",
+        "licencia": "26841",
+        "id": "26841"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARMANDO MANUEL SERONERO SANCHEZ",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR OCHOA CALVO",
+        "licencia": "22181",
+        "id": "22181"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARMANDO MANUEL SERONERO SANCHEZ",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEXANDRU GABRIEL ELEFTERESCU",
+        "licencia": "26841",
+        "id": "26841"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE GONZALEZ MALDONADO",
+        "licencia": "3217",
+        "id": "3217"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR OCHOA CALVO",
+        "licencia": "22181",
+        "id": "22181"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "HODEI RODRIGUEZ BARBON",
+        "licencia": "17459",
+        "id": "17459"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. CABRERIZOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,452 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 11,
+  "jornada": 6,
+  "fecha": "2024-11-10",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TM ROQUETAS",
+      "id": "1532",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. BEST HOUSE CALASPARRA",
+      "id": "20243546",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MASSANET GARCIA, DANIEL",
+        "licencia": "23328",
+        "id": "23328"
+      },
+      "B": {
+        "nombre": "EGEA JARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "C": {
+        "nombre": "DURILLO QUESADA, ADRIAN",
+        "licencia": "5220",
+        "id": "5220"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "X": {
+        "nombre": "MERCADER ALCOFEA, JONATHAN",
+        "licencia": "11115",
+        "id": "11115"
+      },
+      "Z": {
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MASSANET GARCIA, DANIEL",
+        "licencia": "23328",
+        "id": "23328"
+      },
+      {
+        "nombre": "DURILLO QUESADA, ADRIAN",
+        "licencia": "5220",
+        "id": "5220"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MERCADER ALCOFEA, JONATHAN",
+        "licencia": "11115",
+        "id": "11115"
+      },
+      {
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MASSANET GARCIA, DANIEL",
+        "licencia": "23328",
+        "id": "23328"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "EGEA JARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MERCADER ALCOFEA, JONATHAN",
+        "licencia": "11115",
+        "id": "11115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DURILLO QUESADA, ADRIAN",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MASSANET GARCIA, DANIEL",
+        "licencia": "23328",
+        "id": "23328"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MERCADER ALCOFEA, JONATHAN",
+        "licencia": "11115",
+        "id": "11115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DURILLO QUESADA, ADRIAN",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA GARCIA, PEDRO",
+        "licencia": "10136",
+        "id": "10136"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "EGEA JARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIN LOZANO, FRANCISCO",
+        "licencia": "10137",
+        "id": "10137"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MASSANET GARCIA, DANIEL",
+            "licencia": "23328",
+            "id": "23328"
+          },
+          {
+            "nombre": "DURILLO QUESADA, ADRIAN",
+            "licencia": "5220",
+            "id": "5220"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MERCADER ALCOFEA, JONATHAN",
+            "licencia": "11115",
+            "id": "11115"
+          },
+          {
+            "nombre": "MARIN LOZANO, FRANCISCO",
+            "licencia": "10137",
+            "id": "10137"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TM ROQUETAS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

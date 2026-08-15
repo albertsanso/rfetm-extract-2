@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 15,
+  "fecha": "2020-02-08",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON ESPERANZA LAG",
+    "ciudad": "Elche/Elx (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM; EL PALMAR",
+      "id": "2017349",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL BELTRA SEVILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "X": {
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "Z": {
+        "nombre": "AITOR RABAL ASENSIO",
+        "licencia": "11057",
+        "id": "11057"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ENRIQUE LIMONTA SAEZ",
+        "licencia": "23553",
+        "id": "23553"
+      },
+      "B": {
+        "nombre": "ADRIÁN SERRANO RUBIO",
+        "licencia": "20737",
+        "id": "20737"
+      },
+      "C": {
+        "nombre": "VICTOR SANCHEZ LIZARAN",
+        "licencia": "22687",
+        "id": "22687"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIQUE LIMONTA SAEZ",
+        "licencia": "23553",
+        "id": "23553"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SERRANO RUBIO",
+        "licencia": "20737",
+        "id": "20737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AITOR RABAL ASENSIO",
+        "licencia": "11057",
+        "id": "11057"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICTOR SANCHEZ LIZARAN",
+        "licencia": "22687",
+        "id": "22687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IVAN DAVID PEREZ DOMINGUEZ",
+        "licencia": "10367",
+        "id": "10367"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIQUE LIMONTA SAEZ",
+        "licencia": "23553",
+        "id": "23553"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE ENMANUEL ROSAS ALGUETA",
+        "licencia": "27150",
+        "id": "27150"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICTOR SANCHEZ LIZARAN",
+        "licencia": "22687",
+        "id": "22687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AITOR RABAL ASENSIO",
+        "licencia": "11057",
+        "id": "11057"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIÁN SERRANO RUBIO",
+        "licencia": "20737",
+        "id": "20737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM; EL PALMAR",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

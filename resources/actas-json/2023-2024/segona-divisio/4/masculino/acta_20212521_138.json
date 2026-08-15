@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 4,
+  "fecha": "2023-10-21",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Sala tenis de mesa PABELLON FUENTE DE SAN LUIS",
+    "ciudad": "Valencia"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CD VALENCIA TM",
+      "id": "20212521",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN CARLOS PEREZ BUSTOS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SOLSONA ESPRIU, BENJAMIN EDUARDO",
+        "licencia": "33393",
+        "id": "33393"
+      },
+      "X": {
+        "nombre": "KOZHARA , MYCOLA",
+        "licencia": "37725",
+        "id": "37725"
+      },
+      "Z": {
+        "nombre": "COLL LOPEZ ANDUJAR, ANTONIO JOSE",
+        "licencia": "16225",
+        "id": "16225"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "B": {
+        "nombre": "OLAYA BERNABÉU, ÁNGEL",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "C": {
+        "nombre": "RICO FERNANDEZ, CARLOS",
+        "licencia": "10382",
+        "id": "10382"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SOLSONA ESPRIU, BENJAMIN EDUARDO",
+        "licencia": "33393",
+        "id": "33393"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "KOZHARA , MYCOLA",
+        "licencia": "37725",
+        "id": "37725"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLAYA BERNABÉU, ÁNGEL",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COLL LOPEZ ANDUJAR, ANTONIO JOSE",
+        "licencia": "16225",
+        "id": "16225"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RICO FERNANDEZ, CARLOS",
+        "licencia": "10382",
+        "id": "10382"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "KOZHARA , MYCOLA",
+        "licencia": "37725",
+        "id": "37725"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BORDALLO AZORIN, JUAN MANUEL",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SOLSONA ESPRIU, BENJAMIN EDUARDO",
+        "licencia": "33393",
+        "id": "33393"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RICO FERNANDEZ, CARLOS",
+        "licencia": "10382",
+        "id": "10382"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COLL LOPEZ ANDUJAR, ANTONIO JOSE",
+        "licencia": "16225",
+        "id": "16225"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLAYA BERNABÉU, ÁNGEL",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA TORRETA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

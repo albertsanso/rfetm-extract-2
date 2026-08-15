@@ -1,0 +1,443 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 17,
+  "fecha": "2023-03-03",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "Reus (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "id": "20191255",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIC CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "B": {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "C": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "ranking": 2235.0,
+        "id": "38470"
+      },
+      "X": {
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2128.0,
+        "id": "31697"
+      },
+      "Z": {
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "ranking": 1219.0,
+        "id": "19220"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "id": "36834"
+      },
+      {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "id": "28792"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "id": "38470"
+      },
+      {
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "ranking": 2235.0,
+        "id": "38470"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2128.0,
+        "id": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "ranking": 1219.0,
+        "id": "19220"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AIKATERINI TOLIOU",
+            "licencia": "36834",
+            "id": "36834"
+          },
+          {
+            "nombre": "MARIA PAULINA VEGA MAGAÑA",
+            "licencia": "28792",
+            "id": "28792"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+            "licencia": "38470",
+            "id": "38470"
+          },
+          {
+            "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+            "licencia": "19220",
+            "id": "19220"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAULA ANDREA MEDINA BERMUDEZ",
+        "licencia": "31697",
+        "ranking": 2128.0,
+        "id": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WANWISA AUEAWIRIYAYOTHIN",
+        "licencia": "38470",
+        "ranking": 2235.0,
+        "id": "38470"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS MIRÓ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

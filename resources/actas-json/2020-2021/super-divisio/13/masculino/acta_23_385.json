@@ -1,0 +1,387 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2021-05-22",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "C/ JUAN DE PADILLA, S N - Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.E.R. L ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA DELGADO AUSIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "X": {
+        "nombre": "SERGI GRAU HARO",
+        "licencia": "16367",
+        "ranking": 1383.0,
+        "id": "16367"
+      },
+      "Z": {
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 1040.0,
+        "id": "36182"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      },
+      "B": {
+        "nombre": "SIMON ALEXANDER BERGLUND",
+        "licencia": "29393",
+        "ranking": 0.0,
+        "id": "29393"
+      },
+      "C": {
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 2844.0,
+        "id": "29645"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERGI GRAU HARO",
+        "licencia": "16367",
+        "ranking": 1383.0,
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SIMON ALEXANDER BERGLUND",
+        "licencia": "29393",
+        "ranking": 0.0,
+        "id": "29393"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 1040.0,
+        "id": "36182"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 2844.0,
+        "id": "29645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERGI GRAU HARO",
+        "licencia": "16367",
+        "ranking": 1383.0,
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1837.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 2844.0,
+        "id": "29645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 1040.0,
+        "id": "36182"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SIMON ALEXANDER BERGLUND",
+        "licencia": "29393",
+        "ranking": 0.0,
+        "id": "29393"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

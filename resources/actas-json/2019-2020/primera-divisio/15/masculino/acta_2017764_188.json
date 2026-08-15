@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 15,
+  "fecha": "2020-02-08",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "ANEXO DOCTOR COMAS (COLEGIO)",
+    "ciudad": "Alaior (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA ALAIOR",
+      "id": "2017764",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GOLD-ART CLUB PALMA T.T.",
+      "id": "188",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAN VILLALONGA PONS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      },
+      "B": {
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "C": {
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "X": {
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "Z": {
+        "nombre": "SALVADOR MARCUS XAMENA",
+        "licencia": "3298",
+        "id": "3298"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SALVADOR MARCUS XAMENA",
+        "licencia": "3298",
+        "id": "3298"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO GARCIA MENA",
+        "licencia": "3994",
+        "id": "3994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SALVADOR MARCUS XAMENA",
+        "licencia": "3298",
+        "id": "3298"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 18
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GOLD-ART CLUB PALMA T.T.",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 6,
+  "jornada": 6,
+  "fecha": "2019-11-09",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D.E. MIAMPI GUADALAJARA T.M.",
+      "id": "2017360",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANDREEA MADALINA OMOCEA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORGE BORRA BADÍA",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "X": {
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "Z": {
+        "nombre": "OSCAR FRONTIÑAN MEIJON",
+        "licencia": "1728",
+        "id": "1728"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GABRIEL DARIUS STREMTAN",
+        "licencia": "21820",
+        "id": "21820"
+      },
+      "B": {
+        "nombre": "ATILA IVELINOV DULEV",
+        "licencia": "29248",
+        "id": "29248"
+      },
+      "C": {
+        "nombre": "ANGEL LOPE JIMENEZ",
+        "licencia": "19070",
+        "id": "19070"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORGE BORRA BADÍA",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GABRIEL DARIUS STREMTAN",
+        "licencia": "21820",
+        "id": "21820"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ATILA IVELINOV DULEV",
+        "licencia": "29248",
+        "id": "29248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR FRONTIÑAN MEIJON",
+        "licencia": "1728",
+        "id": "1728"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL LOPE JIMENEZ",
+        "licencia": "19070",
+        "id": "19070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GABRIEL DARIUS STREMTAN",
+        "licencia": "21820",
+        "id": "21820"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORGE BORRA BADÍA",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL LOPE JIMENEZ",
+        "licencia": "19070",
+        "id": "19070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR FRONTIÑAN MEIJON",
+        "licencia": "1728",
+        "id": "1728"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ATILA IVELINOV DULEV",
+        "licencia": "29248",
+        "id": "29248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACIÓN HELIOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

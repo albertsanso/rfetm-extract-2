@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2024-01-13",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEIP, PIO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "2017553",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "20191304",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL DURAN GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNANDEZ GAINZA, MERCEDES",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "X": {
+        "nombre": "GONZÁLEZ SÁNCHEZ, ABRIL",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "Z": {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VEGA CAÑETE, EVA",
+        "licencia": "20757",
+        "id": "20757"
+      },
+      "B": {
+        "nombre": "PEREZ MARIN, MARIA",
+        "licencia": "6229",
+        "id": "6229"
+      },
+      "C": {
+        "nombre": "GARCIA CUTILLAS, ALBA",
+        "licencia": "28038",
+        "id": "28038"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ GAINZA, MERCEDES",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VEGA CAÑETE, EVA",
+        "licencia": "20757",
+        "id": "20757"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZÁLEZ SÁNCHEZ, ABRIL",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ MARIN, MARIA",
+        "licencia": "6229",
+        "id": "6229"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA CUTILLAS, ALBA",
+        "licencia": "28038",
+        "id": "28038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZÁLEZ SÁNCHEZ, ABRIL",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VEGA CAÑETE, EVA",
+        "licencia": "20757",
+        "id": "20757"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ GAINZA, MERCEDES",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA CUTILLAS, ALBA",
+        "licencia": "28038",
+        "id": "28038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ MARIN, MARIA",
+        "licencia": "6229",
+        "id": "6229"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

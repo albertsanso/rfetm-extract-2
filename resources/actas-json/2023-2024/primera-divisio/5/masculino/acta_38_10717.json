@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 5,
+  "fecha": "2023-10-28",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "IES AZUCARERA",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SCHOOL ZARAGOZA GLOBAL SPEDITION",
+      "id": "38",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ELMA GASTEIZ",
+      "id": "10717",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO JAVIER REY SAHUN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540",
+        "id": "30540"
+      },
+      "X": {
+        "nombre": "ZAPATA LOPEZ, CARLOS MARIO",
+        "licencia": "41517",
+        "id": "41517"
+      },
+      "Z": {
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069",
+        "id": "9069"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LOMBRAÑA ALCAIDE, ALVARO",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "B": {
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "C": {
+        "nombre": "LOMBRAÑA ALCALDE, PABLO",
+        "licencia": "16547",
+        "id": "16547"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540",
+        "id": "30540"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LOMBRAÑA ALCAIDE, ALVARO",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ZAPATA LOPEZ, CARLOS MARIO",
+        "licencia": "41517",
+        "id": "41517"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069",
+        "id": "9069"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOMBRAÑA ALCALDE, PABLO",
+        "licencia": "16547",
+        "id": "16547"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ZAPATA LOPEZ, CARLOS MARIO",
+        "licencia": "41517",
+        "id": "41517"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LOMBRAÑA ALCAIDE, ALVARO",
+        "licencia": "17772",
+        "id": "17772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540",
+        "id": "30540"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOMBRAÑA ALCALDE, PABLO",
+        "licencia": "16547",
+        "id": "16547"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069",
+        "id": "9069"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SCHOOL ZARAGOZA GLOBAL SPEDITION",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

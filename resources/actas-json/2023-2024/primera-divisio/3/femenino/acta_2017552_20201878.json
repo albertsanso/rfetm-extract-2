@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2023-12-16",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA FELIPE VI",
+    "ciudad": "PARQUE DEPORTES SAN JOSE, PLAZA JUANFRA GARRIDO S N 23700 LINARES JAÉN"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM HUERCAL DE ALMERIA",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "INDIANA GAMES LINARES",
+      "id": "20201878",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN PEDRO TERUEL VEGA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "X": {
+        "nombre": "VIDAL DIAZ, JULIA",
+        "licencia": "29133",
+        "id": "29133"
+      },
+      "Z": {
+        "nombre": "VIDAL GONZALEZ, PATRICIA",
+        "licencia": "35720",
+        "id": "35720"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347",
+        "id": "29347"
+      },
+      "B": {
+        "nombre": "TRIANA SANCHEZ, AMALIA",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "C": {
+        "nombre": "TORRES LEON, CARMEN",
+        "licencia": "23743",
+        "id": "23743"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347",
+        "id": "29347"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VIDAL DIAZ, JULIA",
+        "licencia": "29133",
+        "id": "29133"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TRIANA SANCHEZ, AMALIA",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VIDAL GONZALEZ, PATRICIA",
+        "licencia": "35720",
+        "id": "35720"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TORRES LEON, CARMEN",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VIDAL DIAZ, JULIA",
+        "licencia": "29133",
+        "id": "29133"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347",
+        "id": "29347"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TORRES LEON, CARMEN",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VIDAL GONZALEZ, PATRICIA",
+        "licencia": "35720",
+        "id": "35720"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ ARBOLEDAS, ALBA",
+        "licencia": "28624",
+        "id": "28624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "INDIANA GAMES LINARES",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

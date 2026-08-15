@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 2,
+  "fecha": "2019-10-06",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TITUS BADALONA",
+      "id": "66",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA ALAIOR",
+      "id": "2017764",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ROBERTO CARLOS DURAN SALGUEIRO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "X": {
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "Z": {
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "B": {
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "C": {
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN MARTINEZ BUDIA",
+        "licencia": "2228",
+        "id": "2228"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ADRIAN PALAZON MARTINEZ",
+        "licencia": "18580",
+        "id": "18580"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TITUS BADALONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2022-11-05",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "Gondomar (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VAL MIÑOR TM / ROSQUILLAS CRISTALEIRO",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAJA RURAL - GALAXIA PHONE",
+      "id": "2018812",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "NATALIA FERNANDEZ LORENZO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      },
+      "B": {
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "C": {
+        "nombre": "FACUNDO DE LEÓN",
+        "licencia": "39221",
+        "id": "39221"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "X": {
+        "nombre": "JOSÉ MIGUEL LIMA MAGALHAES",
+        "licencia": "35809",
+        "id": "35809"
+      },
+      "Z": {
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSÉ MIGUEL LIMA MAGALHAES",
+        "licencia": "35809",
+        "id": "35809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FACUNDO DE LEÓN",
+        "licencia": "39221",
+        "id": "39221"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSÉ MIGUEL LIMA MAGALHAES",
+        "licencia": "35809",
+        "id": "35809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FACUNDO DE LEÓN",
+        "licencia": "39221",
+        "id": "39221"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANXO IGLESIAS NUÑEZ",
+        "licencia": "8939",
+        "id": "8939"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CAJA RURAL - GALAXIA PHONE",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

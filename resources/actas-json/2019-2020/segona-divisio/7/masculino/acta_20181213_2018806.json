@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 7,
+  "fecha": "2019-11-17",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL DE DAGANZO DE ARRIBA",
+    "ciudad": "Daganzo de Arriba (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "T.M. DAGANZO",
+      "id": "20181213",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "DRAGOTT. MIGUELTURRA",
+      "id": "2018806",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALVARO ALEGRE ALEGRE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ISMAEL GONZALEZ AGUADO",
+        "licencia": "5781",
+        "id": "5781"
+      },
+      "X": {
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
+      },
+      "Z": {
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ROBERTO FRANCES SELAS",
+        "licencia": "19847",
+        "id": "19847"
+      },
+      "B": {
+        "nombre": "DANIEL MELGAR ALDOMAR",
+        "licencia": "27066",
+        "id": "27066"
+      },
+      "C": {
+        "nombre": "ANGEL CAMBRONERO CASTILLO",
+        "licencia": "17362",
+        "id": "17362"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ISMAEL GONZALEZ AGUADO",
+        "licencia": "5781",
+        "id": "5781"
+      },
+      {
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DANIEL MELGAR ALDOMAR",
+        "licencia": "27066",
+        "id": "27066"
+      },
+      {
+        "nombre": "ROBERTO FRANCES SELAS",
+        "licencia": "19847",
+        "id": "19847"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ISMAEL GONZALEZ AGUADO",
+        "licencia": "5781",
+        "id": "5781"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROBERTO FRANCES SELAS",
+        "licencia": "19847",
+        "id": "19847"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL MELGAR ALDOMAR",
+        "licencia": "27066",
+        "id": "27066"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL CAMBRONERO CASTILLO",
+        "licencia": "17362",
+        "id": "17362"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ROBERTO FRANCES SELAS",
+        "licencia": "19847",
+        "id": "19847"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ISMAEL GONZALEZ AGUADO",
+        "licencia": "5781",
+        "id": "5781"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGEL CAMBRONERO CASTILLO",
+        "licencia": "17362",
+        "id": "17362"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL MELGAR ALDOMAR",
+        "licencia": "27066",
+        "id": "27066"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ISMAEL GONZALEZ AGUADO",
+            "licencia": "5781",
+            "id": "5781"
+          },
+          {
+            "nombre": "ROBERTO GONZALEZ AGUADO",
+            "licencia": "5779",
+            "id": "5779"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DANIEL MELGAR ALDOMAR",
+            "licencia": "27066",
+            "id": "27066"
+          },
+          {
+            "nombre": "ROBERTO FRANCES SELAS",
+            "licencia": "19847",
+            "id": "19847"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DRAGOTT. MIGUELTURRA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

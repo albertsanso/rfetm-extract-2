@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 9,
+  "jornada": 1,
+  "fecha": "2022-09-24",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS MUNICIPAL",
+    "ciudad": "Torreorgaz (Cáceres)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "454",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. COVIRAN DON BENITO T.M.",
+      "id": "20191280",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARA PALACIOS RUIZ DE EGUINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARLON LOPEZ PEREZ",
+        "licencia": "23889",
+        "id": "23889"
+      },
+      "X": {
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "Z": {
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
+      },
+      "B": {
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "C": {
+        "nombre": "ANTONIO GONZALEZ SIERRA",
+        "licencia": "24189",
+        "id": "24189"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARLON LOPEZ PEREZ",
+        "licencia": "23889",
+        "id": "23889"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO GONZALEZ SIERRA",
+        "licencia": "24189",
+        "id": "24189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARLON LOPEZ PEREZ",
+        "licencia": "23889",
+        "id": "23889"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO GONZALEZ SIERRA",
+        "licencia": "24189",
+        "id": "24189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. TRES BALCONES",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

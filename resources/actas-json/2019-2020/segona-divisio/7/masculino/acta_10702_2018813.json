@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 7,
+  "fecha": "2019-11-16",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO JUAN DE HERRERA",
+    "ciudad": "Camargo (Cantabria)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA EL CACHON",
+      "id": "10702",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VASA ARROYO-CDO",
+      "id": "2018813",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALEX MARTIN PALLARES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "B": {
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      },
+      "C": {
+        "nombre": "GUILLERMO FERNANDEZ GONZALEZ",
+        "licencia": "14945",
+        "id": "14945"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIKEL IZKUE URDÁNIZ",
+        "licencia": "18538",
+        "id": "18538"
+      },
+      "X": {
+        "nombre": "ALBERTO MARTINEZ CAMPOS",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "Z": {
+        "nombre": "FRANCISCO MARTIN MARTIN",
+        "licencia": "24151",
+        "id": "24151"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL IZKUE URDÁNIZ",
+        "licencia": "18538",
+        "id": "18538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO MARTINEZ CAMPOS",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUILLERMO FERNANDEZ GONZALEZ",
+        "licencia": "14945",
+        "id": "14945"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO MARTIN MARTIN",
+        "licencia": "24151",
+        "id": "24151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO FERNANDEZ QUEVEDO",
+        "licencia": "20918",
+        "id": "20918"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO MARTINEZ CAMPOS",
+        "licencia": "19092",
+        "id": "19092"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUILLERMO FERNANDEZ GONZALEZ",
+        "licencia": "14945",
+        "id": "14945"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL IZKUE URDÁNIZ",
+        "licencia": "18538",
+        "id": "18538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO ORTEGA RUIZ",
+        "licencia": "20077",
+        "id": "20077"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO MARTIN MARTIN",
+        "licencia": "24151",
+        "id": "24151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA EL CACHON",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

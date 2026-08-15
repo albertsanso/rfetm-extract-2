@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 8,
+  "jornada": 14,
+  "fecha": "2023-02-11",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CEIP JAUME VIDAL",
+    "ciudad": "Manacor (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT MANACOR GRUP ORELL",
+      "id": "20223011",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE TENIS DE MESA A",
+      "id": "10531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCA SASTRE PEREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSE LUIS MORAGON MONDEJAR",
+        "licencia": "1145",
+        "id": "1145"
+      },
+      "X": {
+        "nombre": "JUAN MARTIN GONZALEZ BAJAÑA",
+        "licencia": "39584",
+        "id": "39584"
+      },
+      "Z": {
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "B": {
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "C": {
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE LUIS MORAGON MONDEJAR",
+        "licencia": "1145",
+        "id": "1145"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MARTIN GONZALEZ BAJAÑA",
+        "licencia": "39584",
+        "id": "39584"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MARTIN GONZALEZ BAJAÑA",
+        "licencia": "39584",
+        "id": "39584"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSE LUIS MORAGON MONDEJAR",
+        "licencia": "1145",
+        "id": "1145"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN BIBILONI BIBILONI",
+        "licencia": "5796",
+        "id": "5796"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT MANACOR GRUP ORELL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

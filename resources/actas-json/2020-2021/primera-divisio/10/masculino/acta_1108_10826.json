@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 13,
+  "jornada": 10,
+  "fecha": "2021-05-01",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO FRANCISCO LAPORTA CARRETERA FUENTE ROJA S/N",
+    "ciudad": "Alcoy/Alcoi (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ALCOY UNIÓN ALCOYANA DE SEGUROS",
+      "id": "1108",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "id": "10826",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IGNACIO JOSÉ JORQUES RICART",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "X": {
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "Z": {
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANGEL BALAGUER MARTINEZ",
+        "licencia": "10364",
+        "id": "10364"
+      },
+      "B": {
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "C": {
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL BALAGUER MARTINEZ",
+        "licencia": "10364",
+        "id": "10364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALFREDO GISBERT MOLINA",
+        "licencia": "3879",
+        "id": "3879"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL BALAGUER MARTINEZ",
+        "licencia": "10364",
+        "id": "10364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PABLO BERNABEU MUNUERA",
+        "licencia": "9310",
+        "id": "9310"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ÁNGEL OLAYA BERNABÉU",
+        "licencia": "19791",
+        "id": "19791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ARNAU FERRER CARBONELL",
+        "licencia": "10718",
+        "id": "10718"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IVAN MARTIN SANCHO",
+        "licencia": "19915",
+        "id": "19915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

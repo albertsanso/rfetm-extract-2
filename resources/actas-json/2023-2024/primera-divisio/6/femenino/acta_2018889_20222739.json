@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2024-05-05",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP LAS CIGÜEÑAS",
+    "ciudad": "AVDA. DE LAS NACIONES S/N RIVAS VACIAMADRID"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "EIVISSA-PATRIMONI DE LA HUMANITAT",
+      "id": "2018889",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS DEPORTIU",
+      "id": "20222739",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ISRAEL SIERRA IZQUIERDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LOPEZ LAGUNA, ELENA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "B": {
+        "nombre": "DEL VIGO SOTO, IRENE",
+        "licencia": "3372",
+        "id": "3372"
+      },
+      "C": {
+        "nombre": "HENARES SANCHEZ, BELEN",
+        "licencia": "8231",
+        "id": "8231"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MELERO LACARCEL, GEMMA",
+        "licencia": "29563",
+        "id": "29563"
+      },
+      "X": {
+        "nombre": "MONTSERRAT CANELA, LAIA",
+        "licencia": "17655",
+        "id": "17655"
+      },
+      "Z": {
+        "nombre": "ROYO MATA, CARLOTA",
+        "licencia": "9131",
+        "id": "9131"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LOPEZ LAGUNA, ELENA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MELERO LACARCEL, GEMMA",
+        "licencia": "29563",
+        "id": "29563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DEL VIGO SOTO, IRENE",
+        "licencia": "3372",
+        "id": "3372"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONTSERRAT CANELA, LAIA",
+        "licencia": "17655",
+        "id": "17655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "HENARES SANCHEZ, BELEN",
+        "licencia": "8231",
+        "id": "8231"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ROYO MATA, CARLOTA",
+        "licencia": "9131",
+        "id": "9131"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LOPEZ LAGUNA, ELENA",
+        "licencia": "5789",
+        "id": "5789"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MONTSERRAT CANELA, LAIA",
+        "licencia": "17655",
+        "id": "17655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "HENARES SANCHEZ, BELEN",
+        "licencia": "8231",
+        "id": "8231"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MELERO LACARCEL, GEMMA",
+        "licencia": "29563",
+        "id": "29563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DEL VIGO SOTO, IRENE",
+        "licencia": "3372",
+        "id": "3372"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ROYO MATA, CARLOTA",
+        "licencia": "9131",
+        "id": "9131"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 18,
+          "visitante": 16
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "EIVISSA-PATRIMONI DE LA HUMANITAT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

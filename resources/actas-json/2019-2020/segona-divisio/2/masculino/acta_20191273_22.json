@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "COLEGIO EE.PP SAGRADA FAMILIA",
+    "ciudad": "Andújar (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CD SAFA ANDÚJAR TRANSP. ÁLVAREZ MARÍN",
+      "id": "20191273",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "22",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "B": {
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "C": {
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIGUEL ANGEL RAMIREZ MARTINEZ",
+        "licencia": "918",
+        "id": "918"
+      },
+      "X": {
+        "nombre": "ESTEBAN ROBERTO RODRIGUEZ PERALTO",
+        "licencia": "1141",
+        "id": "1141"
+      },
+      "Z": {
+        "nombre": "DAVID SAMPEDRO MARTINEZ",
+        "licencia": "3650",
+        "id": "3650"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL ANGEL RAMIREZ MARTINEZ",
+        "licencia": "918",
+        "id": "918"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ESTEBAN ROBERTO RODRIGUEZ PERALTO",
+        "licencia": "1141",
+        "id": "1141"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID SAMPEDRO MARTINEZ",
+        "licencia": "3650",
+        "id": "3650"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO JESUS HERRERA DELGADO",
+        "licencia": "3077",
+        "id": "3077"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ESTEBAN ROBERTO RODRIGUEZ PERALTO",
+        "licencia": "1141",
+        "id": "1141"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCISCO JAVIER CARRILLO MAGAÑA",
+        "licencia": "18793",
+        "id": "18793"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL ANGEL RAMIREZ MARTINEZ",
+        "licencia": "918",
+        "id": "918"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN DURILLO QUESADA",
+        "licencia": "5220",
+        "id": "5220"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID SAMPEDRO MARTINEZ",
+        "licencia": "3650",
+        "id": "3650"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CD SAFA ANDÚJAR TRANSP. ÁLVAREZ MARÍN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

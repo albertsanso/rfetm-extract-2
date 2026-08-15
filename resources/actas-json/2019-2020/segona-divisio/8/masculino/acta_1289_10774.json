@@ -1,0 +1,480 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 8,
+  "fecha": "2019-11-23",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "IES BENITO PEREZ ARMAS",
+    "ciudad": "Santa Cruz de Tenerife (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DEDALOS TM",
+      "id": "1289",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MENCEY REAL ESTATE",
+      "id": "10774",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "OSCAR PEREZ CANINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JESUS RUBIO GONZALEZ",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "B": {
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "C": {
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LUIS ALFONSO PERAITA AGUILAR",
+        "licencia": "1460",
+        "id": "1460"
+      },
+      "X": {
+        "nombre": "MOISES SANTANA MEDINA",
+        "licencia": "1900",
+        "id": "1900"
+      },
+      "Z": {
+        "nombre": "AIRAM MARTIN SANTANA",
+        "licencia": "10464",
+        "id": "10464"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      },
+      {
+        "nombre": "JESUS RUBIO GONZALEZ",
+        "licencia": "15396",
+        "id": "15396"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "AIRAM MARTIN SANTANA",
+        "licencia": "10464",
+        "id": "10464"
+      },
+      {
+        "nombre": "MOISES SANTANA MEDINA",
+        "licencia": "1900",
+        "id": "1900"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JESUS RUBIO GONZALEZ",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUIS ALFONSO PERAITA AGUILAR",
+        "licencia": "1460",
+        "id": "1460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MOISES SANTANA MEDINA",
+        "licencia": "1900",
+        "id": "1900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AIRAM MARTIN SANTANA",
+        "licencia": "10464",
+        "id": "10464"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JESUS RUBIO GONZALEZ",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MOISES SANTANA MEDINA",
+        "licencia": "1900",
+        "id": "1900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUIS ALFONSO PERAITA AGUILAR",
+        "licencia": "1460",
+        "id": "1460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AIRAM MARTIN SANTANA",
+        "licencia": "10464",
+        "id": "10464"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+            "licencia": "10247",
+            "id": "10247"
+          },
+          {
+            "nombre": "JESUS RUBIO GONZALEZ",
+            "licencia": "15396",
+            "id": "15396"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AIRAM MARTIN SANTANA",
+            "licencia": "10464",
+            "id": "10464"
+          },
+          {
+            "nombre": "MOISES SANTANA MEDINA",
+            "licencia": "1900",
+            "id": "1900"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MENCEY REAL ESTATE",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

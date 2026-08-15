@@ -1,0 +1,344 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 12,
+  "fecha": "2025-01-18",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SANTJOSEP.NET - SANT JORDI",
+      "id": "911",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SZUDI , ADAM",
+        "licencia": "45755",
+        "ranking": 2535.3,
+        "id": "45755"
+      },
+      "B": {
+        "nombre": "BERZOSA CASAS, DANIEL",
+        "licencia": "17323",
+        "ranking": 2333.4,
+        "id": "17323"
+      },
+      "C": {
+        "nombre": "CAI , SHUNHANG",
+        "licencia": "44912",
+        "ranking": 2162.3,
+        "id": "44912"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VEDRIEL SORIANO, CARLOS",
+        "licencia": "5790",
+        "ranking": 2000.5,
+        "id": "5790"
+      },
+      "X": {
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2454.3,
+        "id": "34126"
+      },
+      "Z": {
+        "nombre": "STAMATOUROS , GEORGIOS",
+        "licencia": "44251",
+        "ranking": 2121.5,
+        "id": "44251"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SZUDI , ADAM",
+        "licencia": "45755",
+        "ranking": 2535.3,
+        "id": "45755"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VEDRIEL SORIANO, CARLOS",
+        "licencia": "5790",
+        "ranking": 2000.5,
+        "id": "5790"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BERZOSA CASAS, DANIEL",
+        "licencia": "17323",
+        "ranking": 2333.4,
+        "id": "17323"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2454.3,
+        "id": "34126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CAI , SHUNHANG",
+        "licencia": "44912",
+        "ranking": 2162.3,
+        "id": "44912"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "STAMATOUROS , GEORGIOS",
+        "licencia": "44251",
+        "ranking": 2121.5,
+        "id": "44251"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SZUDI , ADAM",
+        "licencia": "45755",
+        "ranking": 2535.3,
+        "id": "45755"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2454.3,
+        "id": "34126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CAI , SHUNHANG",
+        "licencia": "44912",
+        "ranking": 2162.3,
+        "id": "44912"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VEDRIEL SORIANO, CARLOS",
+        "licencia": "5790",
+        "ranking": 2000.5,
+        "id": "5790"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

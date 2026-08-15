@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2023-01-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PAZO DOS DEPORTES PACO PAZ",
+    "ciudad": "Ourense (Ourense)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GALMÉDICA OURENSE T.M",
+      "id": "833",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ZOOLANDIA CONXO TM",
+      "id": "20191657",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CRISTINA ILLAN DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "B": {
+        "nombre": "JORGE GAMAZO VAZQUEZ",
+        "licencia": "1714",
+        "id": "1714"
+      },
+      "C": {
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "X": {
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "Z": {
+        "nombre": "ADRIANO CALDERONI FRANCES",
+        "licencia": "18683",
+        "id": "18683"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE GAMAZO VAZQUEZ",
+        "licencia": "1714",
+        "id": "1714"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ADRIANO CALDERONI FRANCES",
+        "licencia": "18683",
+        "id": "18683"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EMILIO DIEGUEZ ARBOR",
+        "licencia": "8605",
+        "id": "8605"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LUIS RODRIGUEZ MENDEZ",
+        "licencia": "1365",
+        "id": "1365"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE GAMAZO VAZQUEZ",
+        "licencia": "1714",
+        "id": "1714"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ADRIANO CALDERONI FRANCES",
+        "licencia": "18683",
+        "id": "18683"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ZOOLANDIA CONXO TM",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

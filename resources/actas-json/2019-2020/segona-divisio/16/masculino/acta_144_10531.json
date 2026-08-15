@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 6,
+  "jornada": 16,
+  "fecha": "2020-02-15",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE T.M- A",
+      "id": "10531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE LUIS ARAGON PEREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PABLO CESTER MARQUESAN",
+        "licencia": "9023",
+        "id": "9023"
+      },
+      "B": {
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "C": {
+        "nombre": "PABLO DE MARCO LILLO",
+        "licencia": "9022",
+        "id": "9022"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIGUEL ANGEL JESUS VELAZQUEZ PEÑA",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "X": {
+        "nombre": "PABLO ELVIRA CAÑADILLAS",
+        "licencia": "21773",
+        "id": "21773"
+      },
+      "Z": {
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO CESTER MARQUESAN",
+        "licencia": "9023",
+        "id": "9023"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL ANGEL JESUS VELAZQUEZ PEÑA",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PABLO ELVIRA CAÑADILLAS",
+        "licencia": "21773",
+        "id": "21773"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO DE MARCO LILLO",
+        "licencia": "9022",
+        "id": "9022"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO CESTER MARQUESAN",
+        "licencia": "9023",
+        "id": "9023"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PABLO ELVIRA CAÑADILLAS",
+        "licencia": "21773",
+        "id": "21773"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO DE MARCO LILLO",
+        "licencia": "9022",
+        "id": "9022"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL ANGEL JESUS VELAZQUEZ PEÑA",
+        "licencia": "34432",
+        "id": "34432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VICTOR MANUEL DOBATO FERRER",
+        "licencia": "2009",
+        "id": "2009"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "LEOPOLDO FERNANDEZ APARICIO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACIÓN HELIOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

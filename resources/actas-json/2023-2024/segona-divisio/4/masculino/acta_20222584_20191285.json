@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 4,
+  "fecha": "2023-10-21",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CEIP FELIPE II",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUENCARRAL TM",
+      "id": "20222584",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB FUENLABRADA EL TRIGAL T.M.",
+      "id": "20191285",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IGNACIO PERAL OTERO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "EBENTHEUER BARCELO, JAN",
+        "licencia": "41842",
+        "id": "41842"
+      },
+      "X": {
+        "nombre": "RAMIL PORRAS, JUAN JOSE",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "Z": {
+        "nombre": "RONDON REQUENA, ELIS JOSE",
+        "licencia": "39307",
+        "id": "39307"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "B": {
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      },
+      "C": {
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EBENTHEUER BARCELO, JAN",
+        "licencia": "41842",
+        "id": "41842"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAMIL PORRAS, JUAN JOSE",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RONDON REQUENA, ELIS JOSE",
+        "licencia": "39307",
+        "id": "39307"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAMIL PORRAS, JUAN JOSE",
+        "licencia": "27022",
+        "id": "27022"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EBENTHEUER BARCELO, JAN",
+        "licencia": "41842",
+        "id": "41842"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RONDON REQUENA, ELIS JOSE",
+        "licencia": "39307",
+        "id": "39307"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FUENCARRAL TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

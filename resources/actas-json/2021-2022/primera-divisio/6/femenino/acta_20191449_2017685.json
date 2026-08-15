@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 6,
+  "jornada": 6,
+  "fecha": "2022-04-23",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "CALLE JUAN CAMPOMANES PUERTO, S/N 6200-Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "id": "20191449",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+      "id": "2017685",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "BLAS NUÑEZ GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "B": {
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "C": {
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NATALIA GONZALEZ SANCHEZ",
+        "licencia": "34253",
+        "id": "34253"
+      },
+      "X": {
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "Z": {
+        "nombre": "JARA ALVAREZ LEON",
+        "licencia": "3492",
+        "id": "3492"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      {
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JARA ALVAREZ LEON",
+        "licencia": "3492",
+        "id": "3492"
+      },
+      {
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NATALIA GONZALEZ SANCHEZ",
+        "licencia": "34253",
+        "id": "34253"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JARA ALVAREZ LEON",
+        "licencia": "3492",
+        "id": "3492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NATALIA GONZALEZ SANCHEZ",
+        "licencia": "34253",
+        "id": "34253"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JARA ALVAREZ LEON",
+        "licencia": "3492",
+        "id": "3492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PAULA GONZALEZ CARRASCO",
+            "licencia": "8859",
+            "id": "8859"
+          },
+          {
+            "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+            "licencia": "27705",
+            "id": "27705"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JARA ALVAREZ LEON",
+            "licencia": "3492",
+            "id": "3492"
+          },
+          {
+            "nombre": "BEATRIZ DIEZ APOLO",
+            "licencia": "14795",
+            "id": "14795"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

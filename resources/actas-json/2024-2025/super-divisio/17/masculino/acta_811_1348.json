@@ -1,0 +1,409 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 17,
+  "fecha": "2025-03-14",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T. OLOT - CAPDEVILA PERMAR",
+      "id": "811",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ENOLI LES BORGES VALL",
+      "id": "1348",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 2006.9,
+        "id": "17694"
+      },
+      "X": {
+        "nombre": "PROVOST , DAMIEN ROLAND",
+        "licencia": "27561",
+        "ranking": 2725.3,
+        "id": "27561"
+      },
+      "Z": {
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2297.0,
+        "id": "19291"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2356.9,
+        "id": "2856"
+      },
+      "B": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787",
+        "ranking": 2237.1,
+        "id": "9787"
+      },
+      "C": {
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 2242.3,
+        "id": "18284"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 2006.9,
+        "id": "17694"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2356.9,
+        "id": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PROVOST , DAMIEN ROLAND",
+        "licencia": "27561",
+        "ranking": 2725.3,
+        "id": "27561"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787",
+        "ranking": 2237.1,
+        "id": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2297.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 2242.3,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PROVOST , DAMIEN ROLAND",
+        "licencia": "27561",
+        "ranking": 2725.3,
+        "id": "27561"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856",
+        "ranking": 2356.9,
+        "id": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 2006.9,
+        "id": "17694"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TAULER ALSINA, NORBERT",
+        "licencia": "18284",
+        "ranking": 2242.3,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DE LAS HERAS PLAZA, RAFAEL",
+        "licencia": "19291",
+        "ranking": 2297.0,
+        "id": "19291"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787",
+        "ranking": 2237.1,
+        "id": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. OLOT - CAPDEVILA PERMAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

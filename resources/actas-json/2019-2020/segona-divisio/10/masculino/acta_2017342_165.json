@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 10,
+  "fecha": "2019-12-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "POLIESPORTIU LES COMES",
+    "ciudad": "Igualada (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CPP IGUALADA",
+      "id": "2017342",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA TORELLÓ",
+      "id": "165",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN ANTONIO FLORES MARTINEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "X": {
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "Z": {
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "B": {
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      },
+      "C": {
+        "nombre": "DANI ZAMORA CABALLANO",
+        "licencia": "17760",
+        "id": "17760"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANI ZAMORA CABALLANO",
+        "licencia": "17760",
+        "id": "17760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GERARD FONT GARCIA",
+        "licencia": "5356",
+        "id": "5356"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL LUCO MANUBENS",
+        "licencia": "1328",
+        "id": "1328"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANI ZAMORA CABALLANO",
+        "licencia": "17760",
+        "id": "17760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCESC JOSEP MASIP HERNANDEZ",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID AVILES NAVARRO",
+        "licencia": "17519",
+        "id": "17519"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CPP IGUALADA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

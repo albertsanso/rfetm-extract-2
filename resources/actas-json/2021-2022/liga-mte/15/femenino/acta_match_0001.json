@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2022-04-22",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "CARRER. D'EVARIST FABREGAS, Nº 9 43205-Reus(Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM SANTIAGO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "id": "33705"
+      },
+      "B": {
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "id": "1647"
+      },
+      "C": {
+        "nombre": "RENATA SHYPSHA",
+        "licencia": "33347",
+        "id": "33347"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "id": "17118"
+      },
+      "X": {
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "Z": {
+        "nombre": "NAGORE LATORRE LOPEZ",
+        "licencia": "29508",
+        "id": "29508"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "id": "33705"
+      },
+      {
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "id": "1647"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "id": "17118"
+      },
+      {
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "id": "33705"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "id": "17118"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "id": "1647"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RENATA SHYPSHA",
+        "licencia": "33347",
+        "id": "33347"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NAGORE LATORRE LOPEZ",
+        "licencia": "29508",
+        "id": "29508"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANASTASIIA KOLISH",
+            "licencia": "33705",
+            "id": "33705"
+          },
+          {
+            "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+            "licencia": "1647",
+            "id": "1647"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "IOANA TECLA GHEMES",
+            "licencia": "17118",
+            "id": "17118"
+          },
+          {
+            "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+            "licencia": "30165",
+            "id": "30165"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "id": "33705"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS MIRÓ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

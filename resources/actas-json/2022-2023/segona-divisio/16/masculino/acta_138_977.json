@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 10,
+  "jornada": 16,
+  "fecha": "2023-02-25",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES TORRETA ELDA (ENTRADA POR PUERTA DE ATRAS)",
+    "ciudad": "Elda (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD POLITÉCNICA CARTAGENA TENIS",
+      "id": "977",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ALBERTO GOMEZ ALCANTARILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "X": {
+        "nombre": "DIEGO CARRILLO PASCUAL",
+        "licencia": "29992",
+        "id": "29992"
+      },
+      "Z": {
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JUAN CAYUELA RODRIGUEZ",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "B": {
+        "nombre": "ALVARO MARTINEZ MARTINEZ",
+        "licencia": "33510",
+        "id": "33510"
+      },
+      "C": {
+        "nombre": "MARIO GARCIA TOMAS",
+        "licencia": "33512",
+        "id": "33512"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN CAYUELA RODRIGUEZ",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO CARRILLO PASCUAL",
+        "licencia": "29992",
+        "id": "29992"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALVARO MARTINEZ MARTINEZ",
+        "licencia": "33510",
+        "id": "33510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARIO GARCIA TOMAS",
+        "licencia": "33512",
+        "id": "33512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO CARRILLO PASCUAL",
+        "licencia": "29992",
+        "id": "29992"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN CAYUELA RODRIGUEZ",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JAVIER SANCHEZ SANCHEZ",
+        "licencia": "28798",
+        "id": "28798"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARIO GARCIA TOMAS",
+        "licencia": "33512",
+        "id": "33512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN MANUEL BORDALLO AZORIN",
+        "licencia": "30860",
+        "id": "30860"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALVARO MARTINEZ MARTINEZ",
+        "licencia": "33510",
+        "id": "33510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA TORRETA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

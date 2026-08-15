@@ -1,0 +1,428 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2021-10-17",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "NAVE",
+    "ciudad": "Palma de Mallorca (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SON CLADERA TTC",
+      "id": "16215",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAIME AUGUSTO MARI RIGO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DARIA SEMENOVA",
+        "licencia": "36874",
+        "ranking": 2800.0,
+        "id": "36874"
+      },
+      "B": {
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "ranking": 2019.0,
+        "id": "18659"
+      },
+      "C": {
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1800.0,
+        "id": "15670"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2880.0,
+        "id": "27846"
+      },
+      "X": {
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "Z": {
+        "nombre": "MARIA VINTILA TIFACHI",
+        "licencia": "742",
+        "ranking": 1444.0,
+        "id": "742"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "id": "15670"
+      },
+      {
+        "nombre": "DARIA SEMENOVA",
+        "licencia": "36874",
+        "id": "36874"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "id": "27846"
+      },
+      {
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "id": "36830"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DARIA SEMENOVA",
+        "licencia": "36874",
+        "ranking": 2800.0,
+        "id": "36874"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2880.0,
+        "id": "27846"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "ranking": 2019.0,
+        "id": "18659"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1800.0,
+        "id": "15670"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIA VINTILA TIFACHI",
+        "licencia": "742",
+        "ranking": 1444.0,
+        "id": "742"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AINHOA CRISTOBAL HUERTAS",
+            "licencia": "15670",
+            "id": "15670"
+          },
+          {
+            "nombre": "DARIA SEMENOVA",
+            "licencia": "36874",
+            "id": "36874"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANNAMARIA ERDELYI",
+            "licencia": "27846",
+            "id": "27846"
+          },
+          {
+            "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+            "licencia": "36830",
+            "id": "36830"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DARIA SEMENOVA",
+        "licencia": "36874",
+        "ranking": 2800.0,
+        "id": "36874"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1800.0,
+        "id": "15670"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANNAMARIA ERDELYI",
+        "licencia": "27846",
+        "ranking": 2880.0,
+        "id": "27846"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN PARAÍSO INTERIOR",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

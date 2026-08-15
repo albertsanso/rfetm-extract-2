@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 6,
+  "fecha": "2024-05-04",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE ROMARIGO",
+    "ciudad": "AVENIDA DE LUGO, 1ª TRAVESIA S/N 36940 CANGAS PONTEVEDRA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CINANIA TM",
+      "id": "1260",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M.CORUÑA",
+      "id": "97",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL ANGEL GARCIA LOBATO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PENA CALVAR, MARÍA",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "B": {
+        "nombre": "CALVO RODRIGUEZ, MARIA",
+        "licencia": "4404",
+        "id": "4404"
+      },
+      "C": {
+        "nombre": "GRAÑA MOLINA, LUCIA",
+        "licencia": "9986",
+        "id": "9986"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VARELA SIMO, PILAR",
+        "licencia": "24218",
+        "id": "24218"
+      },
+      "X": {
+        "nombre": "TERUEL SANJURJO, ISABEL",
+        "licencia": "2028",
+        "id": "2028"
+      },
+      "Z": {
+        "nombre": "CARRERAS PORTELA, CARMELA",
+        "licencia": "22360",
+        "id": "22360"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PENA CALVAR, MARÍA",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VARELA SIMO, PILAR",
+        "licencia": "24218",
+        "id": "24218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CALVO RODRIGUEZ, MARIA",
+        "licencia": "4404",
+        "id": "4404"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TERUEL SANJURJO, ISABEL",
+        "licencia": "2028",
+        "id": "2028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GRAÑA MOLINA, LUCIA",
+        "licencia": "9986",
+        "id": "9986"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARRERAS PORTELA, CARMELA",
+        "licencia": "22360",
+        "id": "22360"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PENA CALVAR, MARÍA",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TERUEL SANJURJO, ISABEL",
+        "licencia": "2028",
+        "id": "2028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GRAÑA MOLINA, LUCIA",
+        "licencia": "9986",
+        "id": "9986"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VARELA SIMO, PILAR",
+        "licencia": "24218",
+        "id": "24218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRERAS GONZALEZ, MONTSERRAT",
+        "licencia": "34747",
+        "id": "34747"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARRERAS PORTELA, CARMELA",
+        "licencia": "22360",
+        "id": "22360"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CINANIA TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

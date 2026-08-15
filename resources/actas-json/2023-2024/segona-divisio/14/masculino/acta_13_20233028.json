@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 12,
+  "jornada": 14,
+  "fecha": "2024-02-03",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "IES DOMINGO RIVERO",
+    "ciudad": "Arucas (Las Palmas)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARUCAS TENIS DE MESA",
+      "id": "13",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "JUVENTUD TENIS DE MESA",
+      "id": "20233028",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA DEL CARMEN GONZALEZ SOCAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIAZ ARMAS, LORENZO",
+        "licencia": "1724",
+        "id": "1724"
+      },
+      "B": {
+        "nombre": "MEDEROS SANTAMARIA, LUIS",
+        "licencia": "35660",
+        "id": "35660"
+      },
+      "C": {
+        "nombre": "SANTANA MEDINA, MOISES",
+        "licencia": "1900",
+        "id": "1900"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849",
+        "id": "849"
+      },
+      "X": {
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "Z": {
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "DIAZ ARMAS, LORENZO",
+        "licencia": "1724",
+        "id": "1724"
+      },
+      {
+        "nombre": "SANTANA MEDINA, MOISES",
+        "licencia": "1900",
+        "id": "1900"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      {
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ ARMAS, LORENZO",
+        "licencia": "1724",
+        "id": "1724"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849",
+        "id": "849"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MEDEROS SANTAMARIA, LUIS",
+        "licencia": "35660",
+        "id": "35660"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SANTANA MEDINA, MOISES",
+        "licencia": "1900",
+        "id": "1900"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ ARMAS, LORENZO",
+        "licencia": "1724",
+        "id": "1724"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SANTANA MEDINA, MOISES",
+        "licencia": "1900",
+        "id": "1900"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849",
+        "id": "849"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MEDEROS SANTAMARIA, LUIS",
+        "licencia": "35660",
+        "id": "35660"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DIAZ ARMAS, LORENZO",
+            "licencia": "1724",
+            "id": "1724"
+          },
+          {
+            "nombre": "SANTANA MEDINA, MOISES",
+            "licencia": "1900",
+            "id": "1900"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+            "licencia": "15799",
+            "id": "15799"
+          },
+          {
+            "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+            "licencia": "2540",
+            "id": "2540"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ARUCAS TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 12,
+  "jornada": 7,
+  "fecha": "2023-11-18",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "SOCIEDAD JUVENTUD ESPAÑOLA",
+    "ciudad": "Breña Baja (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "JUVENTUD TENIS DE MESA",
+      "id": "20233028",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. PRAKAN JANALZA ASESORAMIENTO",
+      "id": "10307",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "NICOLAS AFONSO BETHENCOURT",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "B": {
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "C": {
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERREZ MARTIN, RAFAEL JESUS",
+        "licencia": "34008",
+        "id": "34008"
+      },
+      "X": {
+        "nombre": "GONZÁLEZ ALONSO, ÁLVARO JOSÉ",
+        "licencia": "15925",
+        "id": "15925"
+      },
+      "Z": {
+        "nombre": "DELGADO HERRERA, RUBEN",
+        "licencia": "6443",
+        "id": "6443"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      {
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GONZÁLEZ ALONSO, ÁLVARO JOSÉ",
+        "licencia": "15925",
+        "id": "15925"
+      },
+      {
+        "nombre": "DELGADO HERRERA, RUBEN",
+        "licencia": "6443",
+        "id": "6443"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREZ MARTIN, RAFAEL JESUS",
+        "licencia": "34008",
+        "id": "34008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GONZÁLEZ ALONSO, ÁLVARO JOSÉ",
+        "licencia": "15925",
+        "id": "15925"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 19,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DELGADO HERRERA, RUBEN",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GONZÁLEZ ALONSO, ÁLVARO JOSÉ",
+        "licencia": "15925",
+        "id": "15925"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERREZ MARTIN, RAFAEL JESUS",
+        "licencia": "34008",
+        "id": "34008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DELGADO HERRERA, RUBEN",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+            "licencia": "4022",
+            "id": "4022"
+          },
+          {
+            "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+            "licencia": "2540",
+            "id": "2540"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GONZÁLEZ ALONSO, ÁLVARO JOSÉ",
+            "licencia": "15925",
+            "id": "15925"
+          },
+          {
+            "nombre": "DELGADO HERRERA, RUBEN",
+            "licencia": "6443",
+            "id": "6443"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "JUVENTUD TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

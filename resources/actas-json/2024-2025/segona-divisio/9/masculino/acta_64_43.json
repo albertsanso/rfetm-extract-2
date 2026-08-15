@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 9,
+  "fecha": "2024-11-30",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "64",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ATT PREMIA DE MAR",
+      "id": "43",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NEVADO MORENO, SAMUEL",
+        "licencia": "41009",
+        "id": "41009"
+      },
+      "B": {
+        "nombre": "CASQUERO MARíN, ERIC",
+        "licencia": "41106",
+        "id": "41106"
+      },
+      "C": {
+        "nombre": "MAS FONT, POL",
+        "licencia": "21655",
+        "id": "21655"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARCIA HIJARRUBIA, XAVIER",
+        "licencia": "1421",
+        "id": "1421"
+      },
+      "X": {
+        "nombre": "ESCOLA SANCHEZ, FRANCISCO JAVIER",
+        "licencia": "24745",
+        "id": "24745"
+      },
+      "Z": {
+        "nombre": "SANTIAGO BAUDRY, DAVID JOSE",
+        "licencia": "1297",
+        "id": "1297"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NEVADO MORENO, SAMUEL",
+        "licencia": "41009",
+        "id": "41009"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA HIJARRUBIA, XAVIER",
+        "licencia": "1421",
+        "id": "1421"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CASQUERO MARíN, ERIC",
+        "licencia": "41106",
+        "id": "41106"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ESCOLA SANCHEZ, FRANCISCO JAVIER",
+        "licencia": "24745",
+        "id": "24745"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MAS FONT, POL",
+        "licencia": "21655",
+        "id": "21655"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANTIAGO BAUDRY, DAVID JOSE",
+        "licencia": "1297",
+        "id": "1297"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NEVADO MORENO, SAMUEL",
+        "licencia": "41009",
+        "id": "41009"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ESCOLA SANCHEZ, FRANCISCO JAVIER",
+        "licencia": "24745",
+        "id": "24745"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MAS FONT, POL",
+        "licencia": "21655",
+        "id": "21655"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA HIJARRUBIA, XAVIER",
+        "licencia": "1421",
+        "id": "1421"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CASQUERO MARíN, ERIC",
+        "licencia": "41106",
+        "id": "41106"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANTIAGO BAUDRY, DAVID JOSE",
+        "licencia": "1297",
+        "id": "1297"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CETT ESPARREGUERA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

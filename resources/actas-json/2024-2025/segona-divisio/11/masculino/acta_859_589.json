@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 2,
+  "jornada": 11,
+  "fecha": "2025-01-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ABADIÑO - L4UKO",
+      "id": "859",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LA ATALAYA GIJON TENIS DE MESA",
+      "id": "589",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ERVITI RÍPODAS, ENEKO",
+        "licencia": "17041",
+        "id": "17041"
+      },
+      "B": {
+        "nombre": "ARROYO ARGUL, MARKEL",
+        "licencia": "35525",
+        "id": "35525"
+      },
+      "C": {
+        "nombre": "BEDOYA MOLINA, JORGE FRANCISCO",
+        "licencia": "15324",
+        "id": "15324"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BANCES ALADRO, LUCAS",
+        "licencia": "34852",
+        "id": "34852"
+      },
+      "X": {
+        "nombre": "SANTAMARTA FERNáNDEZ, MARIO",
+        "licencia": "37756",
+        "id": "37756"
+      },
+      "Z": {
+        "nombre": "CRESPO VEGA, ADRIáN",
+        "licencia": "37954",
+        "id": "37954"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ERVITI RÍPODAS, ENEKO",
+        "licencia": "17041",
+        "id": "17041"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BANCES ALADRO, LUCAS",
+        "licencia": "34852",
+        "id": "34852"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ARROYO ARGUL, MARKEL",
+        "licencia": "35525",
+        "id": "35525"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANTAMARTA FERNáNDEZ, MARIO",
+        "licencia": "37756",
+        "id": "37756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BEDOYA MOLINA, JORGE FRANCISCO",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CRESPO VEGA, ADRIáN",
+        "licencia": "37954",
+        "id": "37954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ERVITI RÍPODAS, ENEKO",
+        "licencia": "17041",
+        "id": "17041"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANTAMARTA FERNáNDEZ, MARIO",
+        "licencia": "37756",
+        "id": "37756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BEDOYA MOLINA, JORGE FRANCISCO",
+        "licencia": "15324",
+        "id": "15324"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BANCES ALADRO, LUCAS",
+        "licencia": "34852",
+        "id": "34852"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ARROYO ARGUL, MARKEL",
+        "licencia": "35525",
+        "id": "35525"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CRESPO VEGA, ADRIáN",
+        "licencia": "37954",
+        "id": "37954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ABADIÑO - L4UKO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

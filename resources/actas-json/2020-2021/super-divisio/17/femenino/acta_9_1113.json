@@ -1,0 +1,362 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2021-05-29",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "SALA MUNICIPAL TENIS DE MESA",
+    "ciudad": "ANEXO PABELLON CUATRO SANTOS C/ LUGO, S N - BDA. CUATRO SANTOS - Cartagena (MURCIA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BALAGUER PIERA ECOCERAMICA",
+      "id": "1113",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS AVILA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARMEN LOZANO MIRÓN",
+        "licencia": "19183",
+        "ranking": 872.0,
+        "id": "19183"
+      },
+      "X": {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3228.0,
+        "id": "9486"
+      },
+      "Z": {
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 3344.0,
+        "id": "31669"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "ranking": 2925.0,
+        "id": "1647"
+      },
+      "B": {
+        "nombre": "CLAUDIA CEJAS ARCOS",
+        "licencia": "3482",
+        "ranking": 751.0,
+        "id": "3482"
+      },
+      "C": {
+        "nombre": "LOREDANA-CARMEN DORCA",
+        "licencia": "4584",
+        "ranking": 844.0,
+        "id": "4584"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARMEN LOZANO MIRÓN",
+        "licencia": "19183",
+        "ranking": 872.0,
+        "id": "19183"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "ranking": 2925.0,
+        "id": "1647"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3228.0,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CLAUDIA CEJAS ARCOS",
+        "licencia": "3482",
+        "ranking": 751.0,
+        "id": "3482"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 3344.0,
+        "id": "31669"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOREDANA-CARMEN DORCA",
+        "licencia": "4584",
+        "ranking": 844.0,
+        "id": "4584"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "ranking": 3228.0,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "ranking": 2925.0,
+        "id": "1647"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARMEN LOZANO MIRÓN",
+        "licencia": "19183",
+        "ranking": 872.0,
+        "id": "19183"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LOREDANA-CARMEN DORCA",
+        "licencia": "4584",
+        "ranking": 844.0,
+        "id": "4584"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "ranking": 3344.0,
+        "id": "31669"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CLAUDIA CEJAS ARCOS",
+        "licencia": "3482",
+        "ranking": 751.0,
+        "id": "3482"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

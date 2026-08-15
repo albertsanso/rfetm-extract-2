@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 3,
+  "fecha": "2023-10-14",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "LOCAL SOCIAL A SOLAINA",
+    "ciudad": "Narón (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TIJERITAS LA PELU DE SIXTO",
+      "id": "20222589",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "id": "1447",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO JAVIER GONZALEZ RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GARCIA GOMEZ, MARTIN",
+        "licencia": "27815",
+        "id": "27815"
+      },
+      "B": {
+        "nombre": "LOPEZ LEDO, ENZO",
+        "licencia": "27814",
+        "id": "27814"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      },
+      "X": {
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "Z": {
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      {
+        "nombre": "GARCIA GOMEZ, MARTIN",
+        "licencia": "27815",
+        "id": "27815"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      {
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GARCIA GOMEZ, MARTIN",
+        "licencia": "27815",
+        "id": "27815"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LOPEZ LEDO, ENZO",
+        "licencia": "27814",
+        "id": "27814"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GARCIA GOMEZ, MARTIN",
+        "licencia": "27815",
+        "id": "27815"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BECERRA MELO, RAMON",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EXPOSITO MATEO, ADRIAN",
+        "licencia": "3087",
+        "id": "3087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LOPEZ LEDO, ENZO",
+        "licencia": "27814",
+        "id": "27814"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN REIJA, ANDRES",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RODRIGUEZ SIXTO, BRAIS",
+            "licencia": "23571",
+            "id": "23571"
+          },
+          {
+            "nombre": "GARCIA GOMEZ, MARTIN",
+            "licencia": "27815",
+            "id": "27815"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BECERRA MELO, RAMON",
+            "licencia": "1501",
+            "id": "1501"
+          },
+          {
+            "nombre": "MARTIN REIJA, ANDRES",
+            "licencia": "23024",
+            "id": "23024"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TIJERITAS LA PELU DE SIXTO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

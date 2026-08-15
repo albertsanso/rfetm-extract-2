@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 6,
+  "jornada": 4,
+  "fecha": "2022-02-12",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "SALA MIKI JUARBE",
+    "ciudad": "QUEJIO35 41006-Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CIRCULO DE LABRADORES \"A\"",
+      "id": "20191404",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "id": "20191449",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUCIA PEDROSA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "B": {
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "C": {
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "X": {
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "Z": {
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDREA BARRIENTOS BERNALDEZ",
+        "licencia": "27705",
+        "id": "27705"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CIRCULO DE LABRADORES \"A\"",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

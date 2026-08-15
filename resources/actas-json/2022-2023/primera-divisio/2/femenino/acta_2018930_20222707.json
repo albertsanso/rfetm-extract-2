@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 2,
+  "fecha": "2022-12-03",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "FABRICA LLOBET",
+    "ciudad": "C/ SANT JAUME Nº 321, PRIMER PISO DE CALELLA (N-II) 8370 Calella Barcelona"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT VILABLAREIX",
+      "id": "2018930",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA CASSA",
+      "id": "20222707",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI FONT EXPOSITO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "X": {
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "Z": {
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "B": {
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      },
+      "C": {
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS TAULA CASSA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

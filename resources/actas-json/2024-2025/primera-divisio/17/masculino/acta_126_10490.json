@@ -1,0 +1,351 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2025-03-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VILAGARCIA TENIS DE MESA",
+      "id": "126",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "PANADERÍA SANTY SIN GLUTEN",
+      "id": "10490",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "X": {
+        "nombre": "MONTEIRO BRANDAO, PEDRO",
+        "licencia": "45808",
+        "id": "45808"
+      },
+      "Z": {
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939",
+        "id": "16939"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VIDAL FERNANDEZ, ADRIAN",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "B": {
+        "nombre": "PIÑEIRO GARCIA, ISHAI",
+        "licencia": "5679",
+        "id": "5679"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIDAL FERNANDEZ, ADRIAN",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MONTEIRO BRANDAO, PEDRO",
+        "licencia": "45808",
+        "id": "45808"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PIÑEIRO GARCIA, ISHAI",
+        "licencia": "5679",
+        "id": "5679"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939",
+        "id": "16939"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MONTEIRO BRANDAO, PEDRO",
+        "licencia": "45808",
+        "id": "45808"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIDAL FERNANDEZ, ADRIAN",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ SIXTO, BRAIS",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939",
+        "id": "16939"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PIÑEIRO GARCIA, ISHAI",
+        "licencia": "5679",
+        "id": "5679"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VILAGARCIA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

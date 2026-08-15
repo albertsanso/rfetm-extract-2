@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 22,
+  "jornada": 9,
+  "fecha": "2021-04-10",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA VEGAS DEL GENIL CALLE ENCINA",
+    "ciudad": "Vegas del Genil (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO HUÉTOR VEGA",
+      "id": "16101",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM CIUDAD DE GRANADA 2012",
+      "id": "20202034",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "EMILIO MANUEL GARCIA ARROYO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "B": {
+        "nombre": "FERNANDO ALEX JIMENEZ",
+        "licencia": "27966",
+        "id": "27966"
+      },
+      "C": {
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MANUEL GARCÍA RAMÍREZ",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "X": {
+        "nombre": "CARLOS CASTRO DURAN",
+        "licencia": "20755",
+        "id": "20755"
+      },
+      "Z": {
+        "nombre": "JUAN GALLEGOS LINDE",
+        "licencia": "23556",
+        "id": "23556"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MANUEL GARCÍA RAMÍREZ",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDO ALEX JIMENEZ",
+        "licencia": "27966",
+        "id": "27966"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS CASTRO DURAN",
+        "licencia": "20755",
+        "id": "20755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUAN GALLEGOS LINDE",
+        "licencia": "23556",
+        "id": "23556"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS CASTRO DURAN",
+        "licencia": "20755",
+        "id": "20755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MANUEL GARCÍA RAMÍREZ",
+        "licencia": "19167",
+        "id": "19167"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDO ALEX JIMENEZ",
+        "licencia": "27966",
+        "id": "27966"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JUAN GALLEGOS LINDE",
+        "licencia": "23556",
+        "id": "23556"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO HUÉTOR VEGA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

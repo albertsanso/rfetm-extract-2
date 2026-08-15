@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 18,
+  "fecha": "2024-03-16",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Casal jove d`onda",
+    "ciudad": "Onda (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA SANTISIMO SALVADOR",
+      "id": "20233039",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ALCOY TAIA, S.L.",
+      "id": "2018816",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN CARLOS PEREZ BUSTOS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "X": {
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "Z": {
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GISBERT IBORRA, ALFREDO",
+        "licencia": "736",
+        "id": "736"
+      },
+      "B": {
+        "nombre": "PRATS PASCUAL, PABLO",
+        "licencia": "19495",
+        "id": "19495"
+      },
+      "C": {
+        "nombre": "BOTELLA CASAMPVA, ALVARO",
+        "licencia": "37363",
+        "id": "37363"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GISBERT IBORRA, ALFREDO",
+        "licencia": "736",
+        "id": "736"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRATS PASCUAL, PABLO",
+        "licencia": "19495",
+        "id": "19495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOTELLA CASAMPVA, ALVARO",
+        "licencia": "37363",
+        "id": "37363"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GISBERT IBORRA, ALFREDO",
+        "licencia": "736",
+        "id": "736"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOTELLA CASAMPVA, ALVARO",
+        "licencia": "37363",
+        "id": "37363"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRATS PASCUAL, PABLO",
+        "licencia": "19495",
+        "id": "19495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA SANTISIMO SALVADOR",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

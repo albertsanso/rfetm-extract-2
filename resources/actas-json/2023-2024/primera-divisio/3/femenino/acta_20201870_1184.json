@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 3,
+  "fecha": "2024-01-13",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS",
+    "ciudad": "CRTA DEL PANTANO S/N 10182 TORREORGAZ CÁCERES"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "20201870",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. TRES BALCONES B",
+      "id": "1184",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN RODRIGUEZ ROMAN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "B": {
+        "nombre": "GALLEGO NEVADO, CANDELA",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "C": {
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "X": {
+        "nombre": "MATEOS BLAZQUEZ, VICENTA",
+        "licencia": "1593",
+        "id": "1593"
+      },
+      "Z": {
+        "nombre": "RUIZ DE EGUINO ABADIA, ANA ISABEL",
+        "licencia": "15760",
+        "id": "15760"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GALLEGO NEVADO, CANDELA",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATEOS BLAZQUEZ, VICENTA",
+        "licencia": "1593",
+        "id": "1593"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUIZ DE EGUINO ABADIA, ANA ISABEL",
+        "licencia": "15760",
+        "id": "15760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATEOS BLAZQUEZ, VICENTA",
+        "licencia": "1593",
+        "id": "1593"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ROSA HOLGUIN, PAULA",
+        "licencia": "30247",
+        "id": "30247"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ROMAN ROSA, LETICIA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUIZ DE EGUINO ABADIA, ANA ISABEL",
+        "licencia": "15760",
+        "id": "15760"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. TRES BALCONES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

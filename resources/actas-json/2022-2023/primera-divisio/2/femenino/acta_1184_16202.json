@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2022-12-04",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS MUNICIPAL",
+    "ciudad": "CRTA DEL PANTANO S/N 10182 Torreorgaz Cáceres"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES B",
+      "id": "1184",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CIRCULO MERCANTIL E INDUSTRIAL",
+      "id": "16202",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN RODRIGUEZ ROMAN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EMMA MERIDEÑO MATEOS",
+        "licencia": "30233",
+        "id": "30233"
+      },
+      "B": {
+        "nombre": "SONIA ROMAN QUINTANILLA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "C": {
+        "nombre": "VICENTA MATEOS BLAZQUEZ",
+        "licencia": "1593",
+        "id": "1593"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ELISA AGUILAR RODRIGUEZ",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "X": {
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "Z": {
+        "nombre": "SHEILA DIAZ POPOVICS",
+        "licencia": "32571",
+        "id": "32571"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SONIA ROMAN QUINTANILLA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      {
+        "nombre": "VICENTA MATEOS BLAZQUEZ",
+        "licencia": "1593",
+        "id": "1593"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ELISA AGUILAR RODRIGUEZ",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      {
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EMMA MERIDEÑO MATEOS",
+        "licencia": "30233",
+        "id": "30233"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ELISA AGUILAR RODRIGUEZ",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SONIA ROMAN QUINTANILLA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "VICENTA MATEOS BLAZQUEZ",
+        "licencia": "1593",
+        "id": "1593"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SHEILA DIAZ POPOVICS",
+        "licencia": "32571",
+        "id": "32571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EMMA MERIDEÑO MATEOS",
+        "licencia": "30233",
+        "id": "30233"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "VICENTA MATEOS BLAZQUEZ",
+        "licencia": "1593",
+        "id": "1593"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ELISA AGUILAR RODRIGUEZ",
+        "licencia": "2238",
+        "id": "2238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SONIA ROMAN QUINTANILLA",
+        "licencia": "27207",
+        "id": "27207"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SHEILA DIAZ POPOVICS",
+        "licencia": "32571",
+        "id": "32571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SONIA ROMAN QUINTANILLA",
+            "licencia": "27207",
+            "id": "27207"
+          },
+          {
+            "nombre": "VICENTA MATEOS BLAZQUEZ",
+            "licencia": "1593",
+            "id": "1593"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ELISA AGUILAR RODRIGUEZ",
+            "licencia": "2238",
+            "id": "2238"
+          },
+          {
+            "nombre": "MARIA EUGENIA BLINOV VALDES",
+            "licencia": "15518",
+            "id": "15518"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO MERCANTIL E INDUSTRIAL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

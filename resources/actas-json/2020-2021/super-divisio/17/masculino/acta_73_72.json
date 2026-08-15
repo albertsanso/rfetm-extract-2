@@ -1,0 +1,372 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2021-05-30",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "AVDA. ROMEU ZARANDIETA, S N - Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "73",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM MURCIA",
+      "id": "72",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIA SALVADOR DE ESPAÑA MOYA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "ranking": 1045.0,
+        "id": "18376"
+      },
+      "B": {
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      },
+      "C": {
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIGUEL MOLINA SOTO",
+        "licencia": "16161",
+        "ranking": 1571.0,
+        "id": "16161"
+      },
+      "X": {
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "Z": {
+        "nombre": "JAVIER SORIA MARTINEZ",
+        "licencia": "10444",
+        "ranking": 1660.0,
+        "id": "10444"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "ranking": 1045.0,
+        "id": "18376"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL MOLINA SOTO",
+        "licencia": "16161",
+        "ranking": 1571.0,
+        "id": "16161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAVIER SORIA MARTINEZ",
+        "licencia": "10444",
+        "ranking": 1660.0,
+        "id": "10444"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "ranking": 1045.0,
+        "id": "18376"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAMÁS LAKATOS",
+        "licencia": "36632",
+        "ranking": 2500.0,
+        "id": "36632"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JAN ZIBRAT",
+        "licencia": "36553",
+        "ranking": 2200.0,
+        "id": "36553"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIGUEL MOLINA SOTO",
+        "licencia": "16161",
+        "ranking": 1571.0,
+        "id": "16161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "ranking": 2324.0,
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAVIER SORIA MARTINEZ",
+        "licencia": "10444",
+        "ranking": 1660.0,
+        "id": "10444"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MURCIA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

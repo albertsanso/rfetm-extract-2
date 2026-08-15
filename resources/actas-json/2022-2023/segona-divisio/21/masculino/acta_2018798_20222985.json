@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 21,
+  "fecha": "2023-04-22",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLÓN COLEGIO SANTO TOMÉ",
+    "ciudad": "Cambados (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CONCELLO DE CAMBADOS",
+      "id": "2018798",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222985",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID LORENZO LOIS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "X": {
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "Z": {
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "B": {
+        "nombre": "MANUEL CARRASCO VIEITO",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "C": {
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MANUEL CARRASCO VIEITO",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MANUEL CARRASCO VIEITO",
+        "licencia": "29708",
+        "id": "29708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CONCELLO DE CAMBADOS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

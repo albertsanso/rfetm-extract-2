@@ -1,0 +1,337 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 7,
+  "fecha": "2022-11-25",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL GARCIA COBO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIOGO JIAHONG CHEN",
+        "licencia": "39327",
+        "ranking": 2248.0,
+        "id": "39327"
+      },
+      "B": {
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 2497.0,
+        "id": "2054"
+      },
+      "C": {
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3117.0,
+        "id": "17121"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
+        "licencia": "36533",
+        "ranking": 1871.0,
+        "id": "36533"
+      },
+      "X": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2095.0,
+        "id": "7535"
+      },
+      "Z": {
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2240.0,
+        "id": "5807"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIOGO JIAHONG CHEN",
+        "licencia": "39327",
+        "ranking": 2248.0,
+        "id": "39327"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
+        "licencia": "36533",
+        "ranking": 1871.0,
+        "id": "36533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS DAVID MACHADO SOBRADOS",
+        "licencia": "2054",
+        "ranking": 2497.0,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2095.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3117.0,
+        "id": "17121"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "ranking": 2240.0,
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIOGO JIAHONG CHEN",
+        "licencia": "39327",
+        "ranking": 2248.0,
+        "id": "39327"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 2095.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DIOGO MIGUEL FERREIRA DE CARVALHO",
+        "licencia": "17121",
+        "ranking": 3117.0,
+        "id": "17121"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
+        "licencia": "36533",
+        "ranking": 1871.0,
+        "id": "36533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,404 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 5,
+  "fecha": "2024-10-25",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": "9",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZHANG XU, SOFIA-XUAN",
+        "licencia": "8195",
+        "ranking": 2430.8,
+        "id": "8195"
+      },
+      "X": {
+        "nombre": "QI , FEI",
+        "licencia": "44368",
+        "ranking": 2111.6,
+        "id": "44368"
+      },
+      "Z": {
+        "nombre": "XIAO YAO, MARIA",
+        "licencia": "9486",
+        "ranking": 2759.9,
+        "id": "9486"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598",
+        "ranking": 2731.9,
+        "id": "39598"
+      },
+      "B": {
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113",
+        "ranking": 2366.5,
+        "id": "17113"
+      },
+      "C": {
+        "nombre": "FETIUKHINA , MARGARITA",
+        "licencia": "34083",
+        "ranking": 1907.7,
+        "id": "34083"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHANG XU, SOFIA-XUAN",
+        "licencia": "8195",
+        "ranking": 2430.8,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598",
+        "ranking": 2731.9,
+        "id": "39598"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "QI , FEI",
+        "licencia": "44368",
+        "ranking": 2111.6,
+        "id": "44368"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113",
+        "ranking": 2366.5,
+        "id": "17113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XIAO YAO, MARIA",
+        "licencia": "9486",
+        "ranking": 2759.9,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FETIUKHINA , MARGARITA",
+        "licencia": "34083",
+        "ranking": 1907.7,
+        "id": "34083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "QI , FEI",
+        "licencia": "44368",
+        "ranking": 2111.6,
+        "id": "44368"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598",
+        "ranking": 2731.9,
+        "id": "39598"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHANG XU, SOFIA-XUAN",
+        "licencia": "8195",
+        "ranking": 2430.8,
+        "id": "8195"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FETIUKHINA , MARGARITA",
+        "licencia": "34083",
+        "ranking": 1907.7,
+        "id": "34083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XIAO YAO, MARIA",
+        "licencia": "9486",
+        "ranking": 2759.9,
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113",
+        "ranking": 2366.5,
+        "id": "17113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

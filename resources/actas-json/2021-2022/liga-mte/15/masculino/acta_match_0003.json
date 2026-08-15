@@ -1,0 +1,273 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2022-04-23",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "C/ JUAN DE PADILLA, S N 9006-Burgos(Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA MARPEX",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMEN MARIA ALONSO SENDINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "id": "3775"
+      },
+      "B": {
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "C": {
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "id": "14625"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "id": "5807"
+      },
+      "X": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      "Z": {
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "id": "3509"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CARLOS FRANCO MEDINA",
+        "licencia": "5807",
+        "id": "5807"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "id": "14625"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA MARPEX",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

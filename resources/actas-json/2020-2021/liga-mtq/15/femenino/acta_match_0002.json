@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 15,
+  "fecha": "2021-05-23",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO DE LA MAGDALENA SABINO ALVAREZ GENDIN, S N",
+    "ciudad": "Avilés (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CORVERASTUR TM",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AVILES T.M.",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL BARAGAÑO COTO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MIRIAM MARTINEZ VERA",
+        "licencia": "3420",
+        "id": "3420"
+      },
+      "B": {
+        "nombre": "ADRIANA BELVER DIAZ",
+        "licencia": "23479",
+        "id": "23479"
+      },
+      "C": {
+        "nombre": "RAQUEL BONILLA GONZALEZ",
+        "licencia": "3905",
+        "id": "3905"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARIA DEL CARMEN CALLE BALADO",
+        "licencia": "23480",
+        "id": "23480"
+      },
+      "X": {
+        "nombre": "CARLA SANCHEZ AGÜERA",
+        "licencia": "20849",
+        "id": "20849"
+      },
+      "Z": {
+        "nombre": "SOFIA ARIAS FERNANDEZ",
+        "licencia": "30238",
+        "id": "30238"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MIRIAM MARTINEZ VERA",
+        "licencia": "3420",
+        "id": "3420"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARIA DEL CARMEN CALLE BALADO",
+        "licencia": "23480",
+        "id": "23480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIANA BELVER DIAZ",
+        "licencia": "23479",
+        "id": "23479"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLA SANCHEZ AGÜERA",
+        "licencia": "20849",
+        "id": "20849"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RAQUEL BONILLA GONZALEZ",
+        "licencia": "3905",
+        "id": "3905"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SOFIA ARIAS FERNANDEZ",
+        "licencia": "30238",
+        "id": "30238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MIRIAM MARTINEZ VERA",
+        "licencia": "3420",
+        "id": "3420"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLA SANCHEZ AGÜERA",
+        "licencia": "20849",
+        "id": "20849"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RAQUEL BONILLA GONZALEZ",
+        "licencia": "3905",
+        "id": "3905"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARIA DEL CARMEN CALLE BALADO",
+        "licencia": "23480",
+        "id": "23480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIANA BELVER DIAZ",
+        "licencia": "23479",
+        "id": "23479"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SOFIA ARIAS FERNANDEZ",
+        "licencia": "30238",
+        "id": "30238"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

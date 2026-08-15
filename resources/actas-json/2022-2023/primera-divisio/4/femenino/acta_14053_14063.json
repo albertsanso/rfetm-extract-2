@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2023-02-12",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "COMPLEJO DEPORTIVO DE LA CALZADA",
+    "ciudad": "SIMóN BOLíVAR S/N 33213 Gijón Asturias"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "id": "14053",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": "14063",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EVA NURIA SANTOS MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "X": {
+        "nombre": "ELENA FERNANDEZ PEREZ",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "Z": {
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "B": {
+        "nombre": "OLAIA MARTINEZ GONZALEZ",
+        "licencia": "33958",
+        "id": "33958"
+      },
+      "C": {
+        "nombre": "GARAZI ETXEBESTE GORRITI",
+        "licencia": "27679",
+        "id": "27679"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      },
+      {
+        "nombre": "ELENA FERNANDEZ PEREZ",
+        "licencia": "19855",
+        "id": "19855"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GARAZI ETXEBESTE GORRITI",
+        "licencia": "27679",
+        "id": "27679"
+      },
+      {
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ELENA FERNANDEZ PEREZ",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLAIA MARTINEZ GONZALEZ",
+        "licencia": "33958",
+        "id": "33958"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARAZI ETXEBESTE GORRITI",
+        "licencia": "27679",
+        "id": "27679"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ELENA FERNANDEZ PEREZ",
+        "licencia": "19855",
+        "id": "19855"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAIALEN GARCIA PRIETO",
+        "licencia": "22472",
+        "id": "22472"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SONIA GARCIA HUERTAS",
+        "licencia": "21223",
+        "id": "21223"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARAZI ETXEBESTE GORRITI",
+        "licencia": "27679",
+        "id": "27679"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+        "licencia": "29518",
+        "id": "29518"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLAIA MARTINEZ GONZALEZ",
+        "licencia": "33958",
+        "id": "33958"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DANIELA RODRIGUEZ ALMEIDA",
+            "licencia": "29518",
+            "id": "29518"
+          },
+          {
+            "nombre": "ELENA FERNANDEZ PEREZ",
+            "licencia": "19855",
+            "id": "19855"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GARAZI ETXEBESTE GORRITI",
+            "licencia": "27679",
+            "id": "27679"
+          },
+          {
+            "nombre": "MAIALEN GARCIA PRIETO",
+            "licencia": "22472",
+            "id": "22472"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LUARCA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

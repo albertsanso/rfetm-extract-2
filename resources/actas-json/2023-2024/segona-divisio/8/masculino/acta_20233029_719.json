@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 8,
+  "fecha": "2023-11-25",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "ESCOLA ANDORRANA SEGONA ENSEYANÇA ORDINO",
+    "ciudad": "Andorra (Andorra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VALLS DEL NORD ORX",
+      "id": "20233029",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT A",
+      "id": "719",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SONIA SANCHEZ PEREGRINA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "B": {
+        "nombre": "MASIP HERNANDEZ, FRANCESC JOSEP",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "C": {
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+        "licencia": "16357",
+        "id": "16357"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CALLEJóN PIERA, CHRISTIAN",
+        "licencia": "37194",
+        "id": "37194"
+      },
+      "X": {
+        "nombre": "ZOU , TIANQI",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      "Z": {
+        "nombre": "ZOU , TIANXIANG",
+        "licencia": "33549",
+        "id": "33549"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MASIP HERNANDEZ, FRANCESC JOSEP",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      {
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+        "licencia": "16357",
+        "id": "16357"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ZOU , TIANQI",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      {
+        "nombre": "CALLEJóN PIERA, CHRISTIAN",
+        "licencia": "37194",
+        "id": "37194"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CALLEJóN PIERA, CHRISTIAN",
+        "licencia": "37194",
+        "id": "37194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MASIP HERNANDEZ, FRANCESC JOSEP",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZOU , TIANQI",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+        "licencia": "16357",
+        "id": "16357"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ZOU , TIANXIANG",
+        "licencia": "33549",
+        "id": "33549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZOU , TIANQI",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+        "licencia": "16357",
+        "id": "16357"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CALLEJóN PIERA, CHRISTIAN",
+        "licencia": "37194",
+        "id": "37194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MASIP HERNANDEZ, FRANCESC JOSEP",
+        "licencia": "15183",
+        "id": "15183"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ZOU , TIANXIANG",
+        "licencia": "33549",
+        "id": "33549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MASIP HERNANDEZ, FRANCESC JOSEP",
+            "licencia": "15183",
+            "id": "15183"
+          },
+          {
+            "nombre": "BLANCAFORT MUÑOZ, JOSEP MARIA",
+            "licencia": "16357",
+            "id": "16357"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ZOU , TIANQI",
+            "licencia": "33548",
+            "id": "33548"
+          },
+          {
+            "nombre": "CALLEJóN PIERA, CHRISTIAN",
+            "licencia": "37194",
+            "id": "37194"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VALLS DEL NORD ORX",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

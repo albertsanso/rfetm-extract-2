@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "186",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "EL PALMAR MURCIA",
+      "id": "20212125",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638",
+        "id": "39638"
+      },
+      "X": {
+        "nombre": "BONET MARTINEZ, DAVID",
+        "licencia": "27635",
+        "id": "27635"
+      },
+      "Z": {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892",
+        "id": "19892"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "REVERTE VIDAL, JOSE LUIS",
+        "licencia": "20433",
+        "id": "20433"
+      },
+      "B": {
+        "nombre": "CUTILLAS MARTINEZ, HUGO",
+        "licencia": "34701",
+        "id": "34701"
+      },
+      "C": {
+        "nombre": "MARTíNEZ HERNANDO, PABLO",
+        "licencia": "36152",
+        "id": "36152"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638",
+        "id": "39638"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REVERTE VIDAL, JOSE LUIS",
+        "licencia": "20433",
+        "id": "20433"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BONET MARTINEZ, DAVID",
+        "licencia": "27635",
+        "id": "27635"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CUTILLAS MARTINEZ, HUGO",
+        "licencia": "34701",
+        "id": "34701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892",
+        "id": "19892"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTíNEZ HERNANDO, PABLO",
+        "licencia": "36152",
+        "id": "36152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BONET MARTINEZ, DAVID",
+        "licencia": "27635",
+        "id": "27635"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REVERTE VIDAL, JOSE LUIS",
+        "licencia": "20433",
+        "id": "20433"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638",
+        "id": "39638"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTíNEZ HERNANDO, PABLO",
+        "licencia": "36152",
+        "id": "36152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892",
+        "id": "19892"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CUTILLAS MARTINEZ, HUGO",
+        "licencia": "34701",
+        "id": "34701"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALICANTE TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

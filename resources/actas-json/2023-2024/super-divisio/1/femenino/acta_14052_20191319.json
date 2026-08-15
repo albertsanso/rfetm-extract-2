@@ -1,0 +1,382 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2023-10-01",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "GIMNASIO CUBIERTO DEL COMPLEJO DEPORTIVO MUNICIPAL LA SALOBREJA",
+    "ciudad": "Jaén (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT",
+      "id": "20191319",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN PEDRO TERUEL VEGA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ERMAKOVA , IRINA",
+        "licencia": "29869",
+        "ranking": 1918.0,
+        "id": "29869"
+      },
+      "B": {
+        "nombre": "BUENO BUENO, PAULA",
+        "licencia": "3909",
+        "ranking": 1121.0,
+        "id": "3909"
+      },
+      "C": {
+        "nombre": "OFFIONG , EDEM",
+        "licencia": "31698",
+        "ranking": 2539.0,
+        "id": "31698"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MUNNE SANS, MARIONA",
+        "licencia": "27649",
+        "ranking": 1614.0,
+        "id": "27649"
+      },
+      "X": {
+        "nombre": "YOVKOVA , MARIA",
+        "licencia": "42069",
+        "ranking": 1800.0,
+        "id": "42069"
+      },
+      "Z": {
+        "nombre": "VIGNJEVIC , DRAGANA",
+        "licencia": "42068",
+        "ranking": 1800.0,
+        "id": "42068"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ERMAKOVA , IRINA",
+        "licencia": "29869",
+        "ranking": 1918.0,
+        "id": "29869"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MUNNE SANS, MARIONA",
+        "licencia": "27649",
+        "ranking": 1614.0,
+        "id": "27649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BUENO BUENO, PAULA",
+        "licencia": "3909",
+        "ranking": 1121.0,
+        "id": "3909"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YOVKOVA , MARIA",
+        "licencia": "42069",
+        "ranking": 1800.0,
+        "id": "42069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "OFFIONG , EDEM",
+        "licencia": "31698",
+        "ranking": 2539.0,
+        "id": "31698"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VIGNJEVIC , DRAGANA",
+        "licencia": "42068",
+        "ranking": 1800.0,
+        "id": "42068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ERMAKOVA , IRINA",
+        "licencia": "29869",
+        "ranking": 1918.0,
+        "id": "29869"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YOVKOVA , MARIA",
+        "licencia": "42069",
+        "ranking": 1800.0,
+        "id": "42069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "OFFIONG , EDEM",
+        "licencia": "31698",
+        "ranking": 2539.0,
+        "id": "31698"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MUNNE SANS, MARIONA",
+        "licencia": "27649",
+        "ranking": 1614.0,
+        "id": "27649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BUENO BUENO, PAULA",
+        "licencia": "3909",
+        "ranking": 1121.0,
+        "id": "3909"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VIGNJEVIC , DRAGANA",
+        "licencia": "42068",
+        "ranking": 1800.0,
+        "id": "42068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

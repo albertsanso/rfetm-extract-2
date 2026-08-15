@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 6,
+  "fecha": "2022-11-19",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON DE CAN GUERXO",
+    "ciudad": "Sant Jordi (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SANTJOSEP.NET - SANT JORDI",
+      "id": "911",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CETT ESPARREGUERA",
+      "id": "40",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "X": {
+        "nombre": "DORDE BORCIC BORCIC",
+        "licencia": "21737",
+        "id": "21737"
+      },
+      "Z": {
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "B": {
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "C": {
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DORDE BORCIC BORCIC",
+        "licencia": "21737",
+        "id": "21737"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DORDE BORCIC BORCIC",
+        "licencia": "21737",
+        "id": "21737"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO LOPEZ LAGUNA",
+        "licencia": "3870",
+        "id": "3870"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ERIC CINTAS ORTEGA",
+        "licencia": "25660",
+        "id": "25660"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VICENT GARCIA FERRER",
+        "licencia": "10874",
+        "id": "10874"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL GONZALEZ CANO",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CETT ESPARREGUERA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

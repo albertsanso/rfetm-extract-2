@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 9,
+  "fecha": "2019-11-30",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL MIGUEL ANGEL DIAZ MOLINA",
+    "ciudad": "Puerto de la Cruz (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. HIDRA PUERTO DE LA CRUZ",
+      "id": "2017363",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE B",
+      "id": "2017766",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CALIXTO SOSA PACHECO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "B": {
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "C": {
+        "nombre": "ANGEL MARCOS TRUJILLO TRUJILLO",
+        "licencia": "21022",
+        "id": "21022"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "X": {
+        "nombre": "DARIO ROCHA VARGAS",
+        "licencia": "23659",
+        "id": "23659"
+      },
+      "Z": {
+        "nombre": "AYOZE VERONA PEÑA",
+        "licencia": "2055",
+        "id": "2055"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DARIO ROCHA VARGAS",
+        "licencia": "23659",
+        "id": "23659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANGEL MARCOS TRUJILLO TRUJILLO",
+        "licencia": "21022",
+        "id": "21022"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AYOZE VERONA PEÑA",
+        "licencia": "2055",
+        "id": "2055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DARIO ROCHA VARGAS",
+        "licencia": "23659",
+        "id": "23659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANGEL MARCOS TRUJILLO TRUJILLO",
+        "licencia": "21022",
+        "id": "21022"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NESTOR LUIS PEREZ GONZALEZ",
+        "licencia": "18389",
+        "id": "18389"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AYOZE VERONA PEÑA",
+        "licencia": "2055",
+        "id": "2055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. HIDRA PUERTO DE LA CRUZ",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

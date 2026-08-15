@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Femenina",
+  "grupo": 1,
+  "jornada": 4,
+  "fecha": "2020-01-25",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "XIMNASIO CPI DE ZAS",
+    "ciudad": "Zas (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MONTE PORREIRO CONFITERIA CAPRI",
+      "id": "10460",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RIBADUMIA TENIS DE MESA",
+      "id": "2017632",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO PAZOS VARELA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "INÉS QUINTANA RAÑA",
+        "licencia": "19437",
+        "id": "19437"
+      },
+      "B": {
+        "nombre": "ALICIA CASAL FARIÑA",
+        "licencia": "8943",
+        "id": "8943"
+      },
+      "C": {
+        "nombre": "MARIÑA GARCIA TRELLES",
+        "licencia": "19656",
+        "id": "19656"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "X": {
+        "nombre": "ELENA MONTAOS CHAVES",
+        "licencia": "20865",
+        "id": "20865"
+      },
+      "Z": {
+        "nombre": "EVA PEÑA LORENZO",
+        "licencia": "8670",
+        "id": "8670"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "INÉS QUINTANA RAÑA",
+        "licencia": "19437",
+        "id": "19437"
+      },
+      {
+        "nombre": "MARIÑA GARCIA TRELLES",
+        "licencia": "19656",
+        "id": "19656"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      {
+        "nombre": "ELENA MONTAOS CHAVES",
+        "licencia": "20865",
+        "id": "20865"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "INÉS QUINTANA RAÑA",
+        "licencia": "19437",
+        "id": "19437"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALICIA CASAL FARIÑA",
+        "licencia": "8943",
+        "id": "8943"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ELENA MONTAOS CHAVES",
+        "licencia": "20865",
+        "id": "20865"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIÑA GARCIA TRELLES",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "EVA PEÑA LORENZO",
+        "licencia": "8670",
+        "id": "8670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "INÉS QUINTANA RAÑA",
+        "licencia": "19437",
+        "id": "19437"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ELENA MONTAOS CHAVES",
+        "licencia": "20865",
+        "id": "20865"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIÑA GARCIA TRELLES",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALICIA CASAL FARIÑA",
+        "licencia": "8943",
+        "id": "8943"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "EVA PEÑA LORENZO",
+        "licencia": "8670",
+        "id": "8670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "INÉS QUINTANA RAÑA",
+            "licencia": "19437",
+            "id": "19437"
+          },
+          {
+            "nombre": "MARIÑA GARCIA TRELLES",
+            "licencia": "19656",
+            "id": "19656"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARMELA SANMARTIN PEÑA",
+            "licencia": "19658",
+            "id": "19658"
+          },
+          {
+            "nombre": "ELENA MONTAOS CHAVES",
+            "licencia": "20865",
+            "id": "20865"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RIBADUMIA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

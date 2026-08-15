@@ -1,0 +1,389 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 15,
+  "fecha": "2024-02-10",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA ANEXA PABELLON CUATRO SANTOS",
+    "ciudad": "Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALSA CARTAGENA TM",
+      "id": "977",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FRAMUSA TOTANA TM",
+      "id": "16338",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAMON GOMEZ-VAZQUEZ BRES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "B": {
+        "nombre": "SABIO RUIZ, RICARD",
+        "licencia": "20669",
+        "id": "20669"
+      },
+      "C": {
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "X": {
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "Z": {
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SABIO RUIZ, RICARD",
+        "licencia": "20669",
+        "id": "20669"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 18
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GARCIA TOMAS, MARIO",
+        "licencia": "33512",
+        "id": "33512"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALSA CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

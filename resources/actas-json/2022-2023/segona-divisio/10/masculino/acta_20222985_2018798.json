@@ -1,0 +1,440 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2023-01-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CLUB DEL MAR DE SAN AMARO",
+    "ciudad": "Coruña (A) (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222985",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CONCELLO DE CAMBADOS",
+      "id": "2018798",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO JAVIER GONZALEZ RODRIGUEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "X": {
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "Z": {
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "B": {
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "C": {
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      {
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      {
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCELINO BAHAMONDE PÉREZ",
+        "licencia": "18254",
+        "id": "18254"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALBERTO SEOANE ALCARAZ",
+            "licencia": "5689",
+            "id": "5689"
+          },
+          {
+            "nombre": "SERGIO PEREZ FANDIÑO",
+            "licencia": "16636",
+            "id": "16636"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FERNANDO PADIN FERNANDEZ",
+            "licencia": "4460",
+            "id": "4460"
+          },
+          {
+            "nombre": "MARCELINO BAHAMONDE PÉREZ",
+            "licencia": "18254",
+            "id": "18254"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CONCELLO DE CAMBADOS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

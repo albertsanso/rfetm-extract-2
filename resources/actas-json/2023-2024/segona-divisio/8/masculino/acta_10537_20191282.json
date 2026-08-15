@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 8,
+  "fecha": "2023-11-25",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON COLEGIO AREALONGA",
+    "ciudad": "Vilagarcía de Arousa (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VILAGARCIA TENIS DE MESA",
+      "id": "10537",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA TUY",
+      "id": "20191282",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID LORENZO LOIS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "B": {
+        "nombre": "CHAVES MIGUENS, BRAIS",
+        "licencia": "32716",
+        "id": "32716"
+      },
+      "C": {
+        "nombre": "CASTRO OREIRO, ANDRES",
+        "licencia": "27993",
+        "id": "27993"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "STUZNINSKIY , VLADIMIR",
+        "licencia": "14569",
+        "id": "14569"
+      },
+      "X": {
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "Z": {
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "STUZNINSKIY , VLADIMIR",
+        "licencia": "14569",
+        "id": "14569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CHAVES MIGUENS, BRAIS",
+        "licencia": "32716",
+        "id": "32716"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CASTRO OREIRO, ANDRES",
+        "licencia": "27993",
+        "id": "27993"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ DIAZ, RODRIGO",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CASTRO OREIRO, ANDRES",
+        "licencia": "27993",
+        "id": "27993"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "STUZNINSKIY , VLADIMIR",
+        "licencia": "14569",
+        "id": "14569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CHAVES MIGUENS, BRAIS",
+        "licencia": "32716",
+        "id": "32716"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SAIZ BARREIRO, JAVIER",
+        "licencia": "17395",
+        "id": "17395"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VILAGARCIA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 15,
+  "fecha": "2020-02-08",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON DEL COLEGIO ALFONSO VI",
+    "ciudad": "Toledo (Toledo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA TOLEDO",
+      "id": "20181202",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ITV OCAÑA",
+      "id": "14007",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO JESUS FERNANDEZ SANTANA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALBERTO MARTIN VENTAS",
+        "licencia": "11118",
+        "id": "11118"
+      },
+      "B": {
+        "nombre": "DANIEL CASTRO YAGÜE",
+        "licencia": "21035",
+        "id": "21035"
+      },
+      "C": {
+        "nombre": "ALVARO PEREZ HOYOS",
+        "licencia": "15608",
+        "id": "15608"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "X": {
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "Z": {
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALBERTO MARTIN VENTAS",
+        "licencia": "11118",
+        "id": "11118"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DANIEL CASTRO YAGÜE",
+        "licencia": "21035",
+        "id": "21035"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO PEREZ HOYOS",
+        "licencia": "15608",
+        "id": "15608"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALBERTO MARTIN VENTAS",
+        "licencia": "11118",
+        "id": "11118"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO PEREZ HOYOS",
+        "licencia": "15608",
+        "id": "15608"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DANIEL CASTRO YAGÜE",
+        "licencia": "21035",
+        "id": "21035"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ITV OCAÑA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

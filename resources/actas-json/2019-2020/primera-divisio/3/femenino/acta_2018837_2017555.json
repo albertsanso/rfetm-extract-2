@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Femenina",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2019-12-14",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "SALA TENNIS TAULA CAN BALSACH",
+    "ciudad": "Sabadell (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CAN MARIO'S BADALONA",
+      "id": "2018837",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "id": "2017555",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALEJANDRO CHACON SIMEON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LIS MARIA PARDO ARIAS-CACHERO",
+        "licencia": "2652",
+        "id": "2652"
+      },
+      "B": {
+        "nombre": "MARIONA BACHS GARRIGA",
+        "licencia": "22259",
+        "id": "22259"
+      },
+      "C": {
+        "nombre": "MARINA BUENO MARIN",
+        "licencia": "21713",
+        "id": "21713"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MONICA WEISZ ROMERO",
+        "licencia": "15275",
+        "id": "15275"
+      },
+      "X": {
+        "nombre": "CARME MESTRE ORS",
+        "licencia": "435",
+        "id": "435"
+      },
+      "Z": {
+        "nombre": "MONTSERRAT WEISZ ROMERO",
+        "licencia": "22002",
+        "id": "22002"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "LIS MARIA PARDO ARIAS-CACHERO",
+        "licencia": "2652",
+        "id": "2652"
+      },
+      {
+        "nombre": "MARINA BUENO MARIN",
+        "licencia": "21713",
+        "id": "21713"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MONICA WEISZ ROMERO",
+        "licencia": "15275",
+        "id": "15275"
+      },
+      {
+        "nombre": "MONTSERRAT WEISZ ROMERO",
+        "licencia": "22002",
+        "id": "22002"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LIS MARIA PARDO ARIAS-CACHERO",
+        "licencia": "2652",
+        "id": "2652"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MONICA WEISZ ROMERO",
+        "licencia": "15275",
+        "id": "15275"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIONA BACHS GARRIGA",
+        "licencia": "22259",
+        "id": "22259"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARME MESTRE ORS",
+        "licencia": "435",
+        "id": "435"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARINA BUENO MARIN",
+        "licencia": "21713",
+        "id": "21713"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MONTSERRAT WEISZ ROMERO",
+        "licencia": "22002",
+        "id": "22002"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LIS MARIA PARDO ARIAS-CACHERO",
+        "licencia": "2652",
+        "id": "2652"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARME MESTRE ORS",
+        "licencia": "435",
+        "id": "435"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARINA BUENO MARIN",
+        "licencia": "21713",
+        "id": "21713"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MONICA WEISZ ROMERO",
+        "licencia": "15275",
+        "id": "15275"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIONA BACHS GARRIGA",
+        "licencia": "22259",
+        "id": "22259"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MONTSERRAT WEISZ ROMERO",
+        "licencia": "22002",
+        "id": "22002"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LIS MARIA PARDO ARIAS-CACHERO",
+            "licencia": "2652",
+            "id": "2652"
+          },
+          {
+            "nombre": "MARINA BUENO MARIN",
+            "licencia": "21713",
+            "id": "21713"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MONICA WEISZ ROMERO",
+            "licencia": "15275",
+            "id": "15275"
+          },
+          {
+            "nombre": "MONTSERRAT WEISZ ROMERO",
+            "licencia": "22002",
+            "id": "22002"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

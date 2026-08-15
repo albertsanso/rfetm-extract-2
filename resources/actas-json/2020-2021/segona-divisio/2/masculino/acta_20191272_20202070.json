@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 24,
+  "jornada": 2,
+  "fecha": "2021-03-06",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO 1º DE MAYO (PABELLÓN CUBIERTO) CALLE FRANCISCO MANUEL MARTIN",
+    "ciudad": "San Juan de Aznalfarache (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CARMONA TENIS DE MESA",
+      "id": "20191272",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES",
+      "id": "20202070",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GRIMARET URBANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PABLO MARTINEZ CARRERA",
+        "licencia": "21365",
+        "id": "21365"
+      },
+      "B": {
+        "nombre": "CARLOS PASTRANA MARTINEZ",
+        "licencia": "28295",
+        "id": "28295"
+      },
+      "C": {
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "X": {
+        "nombre": "CARLOS ADAME DE LA ROSA",
+        "licencia": "6913",
+        "id": "6913"
+      },
+      "Z": {
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO MARTINEZ CARRERA",
+        "licencia": "21365",
+        "id": "21365"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS PASTRANA MARTINEZ",
+        "licencia": "28295",
+        "id": "28295"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS ADAME DE LA ROSA",
+        "licencia": "6913",
+        "id": "6913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO MARTINEZ CARRERA",
+        "licencia": "21365",
+        "id": "21365"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS ADAME DE LA ROSA",
+        "licencia": "6913",
+        "id": "6913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANTONIO E. RODRIGUEZ GONZALEZ",
+        "licencia": "17932",
+        "id": "17932"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS PASTRANA MARTINEZ",
+        "licencia": "28295",
+        "id": "28295"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GONZALO VIGUERA CORONEL",
+        "licencia": "491",
+        "id": "491"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CARMONA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

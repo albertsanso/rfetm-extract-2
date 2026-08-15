@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Femenina",
+  "grupo": 2,
+  "jornada": 12,
+  "fecha": "2020-01-25",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA FELIPE VI",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1440",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "16215",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "X": {
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "Z": {
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANNA KONDRATOVA",
+        "licencia": "34948",
+        "id": "34948"
+      },
+      "B": {
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "id": "15670"
+      },
+      "C": {
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANNA KONDRATOVA",
+        "licencia": "34948",
+        "id": "34948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "id": "15670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GLORIA PANADERO SANTOS",
+        "licencia": "1422",
+        "id": "1422"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YANLAN LI WANG",
+        "licencia": "823",
+        "id": "823"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANNA KONDRATOVA",
+        "licencia": "34948",
+        "id": "34948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTA PAJARES MUÑOZ",
+        "licencia": "4927",
+        "id": "4927"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANA PEDREGOSA LADRON DE GUEVARA",
+        "licencia": "19220",
+        "id": "19220"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CRISTINA PRIETO MORENO",
+        "licencia": "19227",
+        "id": "19227"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "id": "15670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TECNIGEN LINARES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

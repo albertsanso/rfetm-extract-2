@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 10,
+  "fecha": "2019-12-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "MESTRE RECASENS",
+    "ciudad": "Vilafranca del Penedès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS DE TAULA VILAFRANCA",
+      "id": "764",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LLUïSOS DE GRACIA - Q2B STUDIO",
+      "id": "10586",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM SANTIAGO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "B": {
+        "nombre": "JORGE ALARCO SORIA",
+        "licencia": "33973",
+        "id": "33973"
+      },
+      "C": {
+        "nombre": "JOSEP MARTINEZ GOMEZ",
+        "licencia": "436",
+        "id": "436"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERRAN CANO ROYO",
+        "licencia": "5388",
+        "id": "5388"
+      },
+      "X": {
+        "nombre": "BERNAT FOLCH PAMIES",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      "Z": {
+        "nombre": "MARTI FOLCH PAMIES",
+        "licencia": "17587",
+        "id": "17587"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      {
+        "nombre": "JOSEP MARTINEZ GOMEZ",
+        "licencia": "436",
+        "id": "436"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "BERNAT FOLCH PAMIES",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      {
+        "nombre": "FERRAN CANO ROYO",
+        "licencia": "5388",
+        "id": "5388"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERRAN CANO ROYO",
+        "licencia": "5388",
+        "id": "5388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE ALARCO SORIA",
+        "licencia": "33973",
+        "id": "33973"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BERNAT FOLCH PAMIES",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSEP MARTINEZ GOMEZ",
+        "licencia": "436",
+        "id": "436"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI FOLCH PAMIES",
+        "licencia": "17587",
+        "id": "17587"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BERNAT FOLCH PAMIES",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSEP MARTINEZ GOMEZ",
+        "licencia": "436",
+        "id": "436"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERRAN CANO ROYO",
+        "licencia": "5388",
+        "id": "5388"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE ALARCO SORIA",
+        "licencia": "33973",
+        "id": "33973"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI FOLCH PAMIES",
+        "licencia": "17587",
+        "id": "17587"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BORIS RODRIGUEZ SANCHEZ",
+            "licencia": "17717",
+            "id": "17717"
+          },
+          {
+            "nombre": "JOSEP MARTINEZ GOMEZ",
+            "licencia": "436",
+            "id": "436"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BERNAT FOLCH PAMIES",
+            "licencia": "21512",
+            "id": "21512"
+          },
+          {
+            "nombre": "FERRAN CANO ROYO",
+            "licencia": "5388",
+            "id": "5388"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LLUïSOS DE GRACIA - Q2B STUDIO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

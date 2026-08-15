@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 3,
+  "fecha": "2023-01-15",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "C/ JUAN CAMPOMANES PUERTO, S/N 6200 Almendralejo Badajoz"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ESCUELA TIERRA DE BARROS TM",
+      "id": "20191419",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCON TENIS DE MESA",
+      "id": "20222844",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "NOELIA GORDILLO GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "B": {
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "C": {
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ELENA BAUTISTA ATANES",
+        "licencia": "38369",
+        "id": "38369"
+      },
+      "X": {
+        "nombre": "CAROLINA GARCIA EJSMONT",
+        "licencia": "26901",
+        "id": "26901"
+      },
+      "Z": {
+        "nombre": "NEREA PEÑAS MARTIN",
+        "licencia": "31480",
+        "id": "31480"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ELENA BAUTISTA ATANES",
+        "licencia": "38369",
+        "id": "38369"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAROLINA GARCIA EJSMONT",
+        "licencia": "26901",
+        "id": "26901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NEREA PEÑAS MARTIN",
+        "licencia": "31480",
+        "id": "31480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAROLINA GARCIA EJSMONT",
+        "licencia": "26901",
+        "id": "26901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ELENA BAUTISTA ATANES",
+        "licencia": "38369",
+        "id": "38369"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANA PEREZ PEREZ",
+        "licencia": "27419",
+        "id": "27419"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NEREA PEÑAS MARTIN",
+        "licencia": "31480",
+        "id": "31480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDE ALCORCON TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

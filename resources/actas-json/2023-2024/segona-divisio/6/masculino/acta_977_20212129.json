@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 6,
+  "fecha": "2023-11-11",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA ANEXA PABELLON CUATRO SANTOS",
+    "ciudad": "Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALSA CARTAGENA TM",
+      "id": "977",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS MESA ROQUETAS \"A\"",
+      "id": "20212129",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANDREA MARIN BUIGUES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "B": {
+        "nombre": "CAYUELA RODRIGUEZ, JUAN",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ GONZALEZ, GONZALO",
+        "licencia": "20114",
+        "id": "20114"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "EGEA CARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "X": {
+        "nombre": "CAMPOY SIMON, PEDRO",
+        "licencia": "621",
+        "id": "621"
+      },
+      "Z": {
+        "nombre": "CHARLO DEL PINO, JOSE M.",
+        "licencia": "23327",
+        "id": "23327"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EGEA CARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CAYUELA RODRIGUEZ, JUAN",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAMPOY SIMON, PEDRO",
+        "licencia": "621",
+        "id": "621"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ GONZALEZ, GONZALO",
+        "licencia": "20114",
+        "id": "20114"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CHARLO DEL PINO, JOSE M.",
+        "licencia": "23327",
+        "id": "23327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAMPOY SIMON, PEDRO",
+        "licencia": "621",
+        "id": "621"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ GONZALEZ, GONZALO",
+        "licencia": "20114",
+        "id": "20114"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EGEA CARAMILLO, VICTOR MANUEL",
+        "licencia": "32036",
+        "id": "32036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CAYUELA RODRIGUEZ, JUAN",
+        "licencia": "7372",
+        "id": "7372"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CHARLO DEL PINO, JOSE M.",
+        "licencia": "23327",
+        "id": "23327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALSA CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,351 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 17,
+  "fecha": "2025-03-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ELMA GASTEIZ",
+      "id": "1335",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CONXO TM ZOOLANDIA",
+      "id": "1388",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "X": {
+        "nombre": "PRESTO PALACIO, ADRIAN",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "Z": {
+        "nombre": "MADINABEITIA CANAVAL, ANDER",
+        "licencia": "9715",
+        "id": "9715"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PEREZ PENEDO, ALBERTO",
+        "licencia": "15909",
+        "id": "15909"
+      },
+      "B": {
+        "nombre": "QUINTELA PAZ, EDUARDO",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "C": {
+        "nombre": "CASAL GONZALEZ, SIMON",
+        "licencia": "16669",
+        "id": "16669"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREZ PENEDO, ALBERTO",
+        "licencia": "15909",
+        "id": "15909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PRESTO PALACIO, ADRIAN",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "QUINTELA PAZ, EDUARDO",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MADINABEITIA CANAVAL, ANDER",
+        "licencia": "9715",
+        "id": "9715"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASAL GONZALEZ, SIMON",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PRESTO PALACIO, ADRIAN",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREZ PENEDO, ALBERTO",
+        "licencia": "15909",
+        "id": "15909"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ CARRILLO, ENDIKA",
+        "licencia": "31509",
+        "id": "31509"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CASAL GONZALEZ, SIMON",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MADINABEITIA CANAVAL, ANDER",
+        "licencia": "9715",
+        "id": "9715"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "QUINTELA PAZ, EDUARDO",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ELMA GASTEIZ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

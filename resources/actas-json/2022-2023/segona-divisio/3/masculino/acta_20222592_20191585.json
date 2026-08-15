@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 12,
+  "jornada": 3,
+  "fecha": "2022-10-23",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLÓN PLAYITAS",
+    "ciudad": "Tuineje (Las Palmas)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO DE AJEDREZ HENAR Y SUS DRAGONES",
+      "id": "20222592",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA DEFENSE D BREÑA ALTA",
+      "id": "20191585",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAIME PALACIOS TRONCOSO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RICARDO MANUEL GARCíA CáCERES",
+        "licencia": "36668",
+        "id": "36668"
+      },
+      "X": {
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "Z": {
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "B": {
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "C": {
+        "nombre": "RUBEN ARADO RAMIREZ",
+        "licencia": "39673",
+        "id": "39673"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RICARDO MANUEL GARCíA CáCERES",
+        "licencia": "36668",
+        "id": "36668"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUBEN ARADO RAMIREZ",
+        "licencia": "39673",
+        "id": "39673"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN MIGUEL CASARES FLORES",
+        "licencia": "2501",
+        "id": "2501"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL HERNANDEZ HERNANDEZ",
+        "licencia": "10266",
+        "id": "10266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RICARDO MANUEL GARCíA CáCERES",
+        "licencia": "36668",
+        "id": "36668"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUBEN ARADO RAMIREZ",
+        "licencia": "39673",
+        "id": "39673"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE DANIEL ERA OTERO",
+        "licencia": "35171",
+        "id": "35171"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ARTURO VIÑA CARBALLO",
+        "licencia": "1249",
+        "id": "1249"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA DEFENSE D BREÑA ALTA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 1,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 16,
+  "fecha": "2023-02-25",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO DE ESPECIALIDADES DEPORTIVAS",
+    "ciudad": "Puertollano (Ciudad Real)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA PUERTOLLANO",
+      "id": "787",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA COSLADA",
+      "id": "20201676",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JONATHAN CRUZ LEVA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALEX TORRICO FERNANDEZ",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      "B": {
+        "nombre": "ALVARO SERRANO HIDALGO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "C": {
+        "nombre": "ALBERTO TORRICO MARIN",
+        "licencia": "28625",
+        "id": "28625"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "X": {
+        "nombre": "PAZ BAUTISTA JOSE NIETO RECIO",
+        "licencia": "310",
+        "id": "310"
+      },
+      "Z": {
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALEX TORRICO FERNANDEZ",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      {
+        "nombre": "ALVARO SERRANO HIDALGO",
+        "licencia": "31201",
+        "id": "31201"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      {
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEX TORRICO FERNANDEZ",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALVARO SERRANO HIDALGO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAZ BAUTISTA JOSE NIETO RECIO",
+        "licencia": "310",
+        "id": "310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALBERTO TORRICO MARIN",
+        "licencia": "28625",
+        "id": "28625"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEX TORRICO FERNANDEZ",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAZ BAUTISTA JOSE NIETO RECIO",
+        "licencia": "310",
+        "id": "310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALBERTO TORRICO MARIN",
+        "licencia": "28625",
+        "id": "28625"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALVARO SERRANO HIDALGO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALEX TORRICO FERNANDEZ",
+            "licencia": "31202",
+            "id": "31202"
+          },
+          {
+            "nombre": "ALVARO SERRANO HIDALGO",
+            "licencia": "31201",
+            "id": "31201"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "HECTOR GRANDA PEREZ",
+            "licencia": "22922",
+            "id": "22922"
+          },
+          {
+            "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+            "licencia": "1966",
+            "id": "1966"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA PUERTOLLANO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

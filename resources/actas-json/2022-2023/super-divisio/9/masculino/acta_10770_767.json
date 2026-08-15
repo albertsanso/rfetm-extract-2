@@ -1,0 +1,277 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 9,
+  "fecha": "2022-12-16",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO VICENTE DEL BOSQUE",
+    "ciudad": "Parla (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PODOMAT TM PARLA",
+      "id": "10770",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASISA BORGES VALL",
+      "id": "767",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO JESUS PORTILLO CARMONA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARC MIRO LLORENTE",
+        "licencia": "18421",
+        "ranking": 1715.0,
+        "id": "18421"
+      },
+      "B": {
+        "nombre": "XAVIER PERAL PARENT",
+        "licencia": "3969",
+        "ranking": 1309.0,
+        "id": "3969"
+      },
+      "C": {
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "ranking": 1933.0,
+        "id": "18012"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARC DURAN GIRALT",
+        "licencia": "2856",
+        "ranking": 2824.0,
+        "id": "2856"
+      },
+      "X": {
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2063.0,
+        "id": "17948"
+      },
+      "Z": {
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2343.0,
+        "id": "9787"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARC MIRO LLORENTE",
+        "licencia": "18421",
+        "ranking": 1715.0,
+        "id": "18421"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARC DURAN GIRALT",
+        "licencia": "2856",
+        "ranking": 2824.0,
+        "id": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 19,
+          "visitante": 21
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "XAVIER PERAL PARENT",
+        "licencia": "3969",
+        "ranking": 1309.0,
+        "id": "3969"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2063.0,
+        "id": "17948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
+        "licencia": "18012",
+        "ranking": 1933.0,
+        "id": "18012"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOAN MASIP NAVARRO",
+        "licencia": "9787",
+        "ranking": 2343.0,
+        "id": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARC MIRO LLORENTE",
+        "licencia": "18421",
+        "ranking": 1715.0,
+        "id": "18421"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO LILLO BORDAJANDI",
+        "licencia": "17948",
+        "ranking": 2063.0,
+        "id": "17948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASISA BORGES VALL",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 1,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

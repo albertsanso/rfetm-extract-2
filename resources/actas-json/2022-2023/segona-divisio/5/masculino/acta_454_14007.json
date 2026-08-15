@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 9,
+  "jornada": 5,
+  "fecha": "2022-11-05",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "LOCAL MULTIUSOS MUNICIPAL",
+    "ciudad": "Torreorgaz (Cáceres)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "454",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ITV OCAÑA",
+      "id": "14007",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARA PALACIOS RUIZ DE EGUINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HECTOR EXPOSITO MORENO",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "X": {
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "Z": {
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JAVIER SAEZ BRAVO MARTINEZ",
+        "licencia": "16500",
+        "id": "16500"
+      },
+      "B": {
+        "nombre": "PATRICIO LOPEZ RICO",
+        "licencia": "17842",
+        "id": "17842"
+      },
+      "C": {
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HECTOR EXPOSITO MORENO",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JAVIER SAEZ BRAVO MARTINEZ",
+        "licencia": "16500",
+        "id": "16500"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PATRICIO LOPEZ RICO",
+        "licencia": "17842",
+        "id": "17842"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE LARGO ROMAN",
+        "licencia": "21109",
+        "id": "21109"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JAVIER SAEZ BRAVO MARTINEZ",
+        "licencia": "16500",
+        "id": "16500"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HECTOR EXPOSITO MORENO",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE GARCIA-MORENO CUESTA",
+        "licencia": "20824",
+        "id": "20824"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN JIMENEZ",
+        "licencia": "21110",
+        "id": "21110"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PATRICIO LOPEZ RICO",
+        "licencia": "17842",
+        "id": "17842"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. TRES BALCONES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

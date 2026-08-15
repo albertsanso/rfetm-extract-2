@@ -1,0 +1,344 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 5,
+  "fecha": "2024-03-17",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "LOCAL CTT ELS AMICS TERRASSA",
+    "ciudad": "CTRA. MATADEPERA, 323 8225 TERRASSA BARCELONA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIO ESPORTIVA SANT CUGAT",
+      "id": "20233397",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SD TENIS DE MESA DE LA ACR BINEFAR 77",
+      "id": "20233073",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALEJANDRO CHACON SIMEON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848",
+        "id": "32848"
+      },
+      "X": {
+        "nombre": "ESTIVILL FACI, CRISTINA",
+        "licencia": "32850",
+        "id": "32850"
+      },
+      "Z": {
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176",
+        "id": "21176"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IRICIBAR ARANDA, DUNIA",
+        "licencia": "35804",
+        "id": "35804"
+      },
+      "B": {
+        "nombre": "DORCA , LOREDANA-CARMEN",
+        "licencia": "4584",
+        "id": "4584"
+      },
+      "C": {
+        "nombre": "IRICIBAR ARANDA, NORA",
+        "licencia": "35805",
+        "id": "35805"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848",
+        "id": "32848"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IRICIBAR ARANDA, DUNIA",
+        "licencia": "35804",
+        "id": "35804"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ESTIVILL FACI, CRISTINA",
+        "licencia": "32850",
+        "id": "32850"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DORCA , LOREDANA-CARMEN",
+        "licencia": "4584",
+        "id": "4584"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176",
+        "id": "21176"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IRICIBAR ARANDA, NORA",
+        "licencia": "35805",
+        "id": "35805"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ESTIVILL FACI, CRISTINA",
+        "licencia": "32850",
+        "id": "32850"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IRICIBAR ARANDA, DUNIA",
+        "licencia": "35804",
+        "id": "35804"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848",
+        "id": "32848"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IRICIBAR ARANDA, NORA",
+        "licencia": "35805",
+        "id": "35805"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176",
+        "id": "21176"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GIL ALTEMIR, LUZIA",
+        "licencia": "35792",
+        "id": "35792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIO ESPORTIVA SANT CUGAT",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 4,
+  "jornada": 1,
+  "fecha": "2021-03-06",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "LOCAL CTT ELS AMICS TERRASSA CTRA. MATADEPERA, 323",
+    "ciudad": "Terrassa (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT VILABLAREIX",
+      "id": "2018930",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS GANXETS SALUT I TREBALL",
+      "id": "2018827",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLES GUAL ROVIRA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "X": {
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "Z": {
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RENATA SHYPSHA",
+        "licencia": "33347",
+        "id": "33347"
+      },
+      "B": {
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "C": {
+        "nombre": "CHENXIN TANG QIU",
+        "licencia": "25013",
+        "id": "25013"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RENATA SHYPSHA",
+        "licencia": "33347",
+        "id": "33347"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHENXIN TANG QIU",
+        "licencia": "25013",
+        "id": "25013"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RENATA SHYPSHA",
+        "licencia": "33347",
+        "id": "33347"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHENXIN TANG QIU",
+        "licencia": "25013",
+        "id": "25013"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS SALUT I TREBALL",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

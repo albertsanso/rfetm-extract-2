@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 14,
+  "fecha": "2022-04-09",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRE NATACIO MATARO",
+    "ciudad": "PASSEIG DEL CALLAO, S N 8301-Mataró(Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI FONT EXPOSITO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "YORDI JASON RAMOS GANDERILLA",
+        "licencia": "6908",
+        "id": "6908"
+      },
+      "B": {
+        "nombre": "ORIOL LARIO DEVESA",
+        "licencia": "15164",
+        "id": "15164"
+      },
+      "C": {
+        "nombre": "ANTONI PRADOS LOPEZ",
+        "licencia": "3964",
+        "id": "3964"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "X": {
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "Z": {
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "YORDI JASON RAMOS GANDERILLA",
+        "licencia": "6908",
+        "id": "6908"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ORIOL LARIO DEVESA",
+        "licencia": "15164",
+        "id": "15164"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANTONI PRADOS LOPEZ",
+        "licencia": "3964",
+        "id": "3964"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "YORDI JASON RAMOS GANDERILLA",
+        "licencia": "6908",
+        "id": "6908"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANTONI PRADOS LOPEZ",
+        "licencia": "3964",
+        "id": "3964"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ORIOL LARIO DEVESA",
+        "licencia": "15164",
+        "id": "15164"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRE NATACIO MATARO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

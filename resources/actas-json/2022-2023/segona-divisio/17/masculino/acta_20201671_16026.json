@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 7,
+  "jornada": 17,
+  "fecha": "2023-03-04",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRE ESPAI JOVE",
+    "ciudad": "Algemesí (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA ALGEMESI",
+      "id": "20201671",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA PATERNA",
+      "id": "16026",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "IGNACIO JOSÉ JORQUES RICART",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SERGIO BELENGUER NAVARRO",
+        "licencia": "16475",
+        "id": "16475"
+      },
+      "X": {
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "Z": {
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FRANCISCO VICENTE GUILLEM GARCIA",
+        "licencia": "4591",
+        "id": "4591"
+      },
+      "B": {
+        "nombre": "JOSE DAVID GADEA BENLLOCH",
+        "licencia": "16228",
+        "id": "16228"
+      },
+      "C": {
+        "nombre": "VICENTE RUIZ GARCIA",
+        "licencia": "20713",
+        "id": "20713"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SERGIO BELENGUER NAVARRO",
+        "licencia": "16475",
+        "id": "16475"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO VICENTE GUILLEM GARCIA",
+        "licencia": "4591",
+        "id": "4591"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE DAVID GADEA BENLLOCH",
+        "licencia": "16228",
+        "id": "16228"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICENTE RUIZ GARCIA",
+        "licencia": "20713",
+        "id": "20713"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAVIER SANCHEZ MIR",
+        "licencia": "4595",
+        "id": "4595"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO VICENTE GUILLEM GARCIA",
+        "licencia": "4591",
+        "id": "4591"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SERGIO BELENGUER NAVARRO",
+        "licencia": "16475",
+        "id": "16475"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICENTE RUIZ GARCIA",
+        "licencia": "20713",
+        "id": "20713"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AUGUSTO GOMEZ GOMEZ",
+        "licencia": "31018",
+        "id": "31018"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE DAVID GADEA BENLLOCH",
+        "licencia": "16228",
+        "id": "16228"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA ALGEMESI",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

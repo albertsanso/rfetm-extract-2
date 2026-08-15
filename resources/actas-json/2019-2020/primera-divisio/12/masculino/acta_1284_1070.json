@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 1,
+  "jornada": 12,
+  "fecha": "2020-01-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CIUDAD INFANTIL PRINCIPE FELIPE",
+    "ciudad": "Pontevedra (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MONTEPORREIRO PUB PATRIMONIO",
+      "id": "1284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D.VINCIOS/ROSQUILLAS CRISTALEIRO",
+      "id": "1070",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO VIZOSO TOURIÑO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "IGNACIO FERNANDEZ PEDROS",
+        "licencia": "5013",
+        "id": "5013"
+      },
+      "B": {
+        "nombre": "ÁNGEL RODRÍGUEZ CERDEIRA",
+        "licencia": "10558",
+        "id": "10558"
+      },
+      "C": {
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "X": {
+        "nombre": "ALBERTO VAZQUEZ VELASCO",
+        "licencia": "32732",
+        "id": "32732"
+      },
+      "Z": {
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "IGNACIO FERNANDEZ PEDROS",
+        "licencia": "5013",
+        "id": "5013"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ÁNGEL RODRÍGUEZ CERDEIRA",
+        "licencia": "10558",
+        "id": "10558"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO VAZQUEZ VELASCO",
+        "licencia": "32732",
+        "id": "32732"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "IGNACIO FERNANDEZ PEDROS",
+        "licencia": "5013",
+        "id": "5013"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERTO VAZQUEZ VELASCO",
+        "licencia": "32732",
+        "id": "32732"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SIMON CASAL GONZALEZ",
+        "licencia": "16669",
+        "id": "16669"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ÁNGEL RODRÍGUEZ CERDEIRA",
+        "licencia": "10558",
+        "id": "10558"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HECTOR COSTAS COSTAS",
+        "licencia": "3102",
+        "id": "3102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MONTEPORREIRO PUB PATRIMONIO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

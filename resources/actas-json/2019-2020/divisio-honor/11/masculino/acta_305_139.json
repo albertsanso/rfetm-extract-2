@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 11,
+  "fecha": "2019-12-21",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO",
+    "ciudad": "Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA BORGES",
+      "id": "305",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "139",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "XAVIER CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "id": "18940"
+      },
+      "X": {
+        "nombre": "JORDI LATORRE BETRIU",
+        "licencia": "8093",
+        "id": "8093"
+      },
+      "Z": {
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "KAZEEM KOLAWOLE AHMED",
+        "licencia": "27287",
+        "id": "27287"
+      },
+      "B": {
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "C": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "id": "18940"
+      },
+      {
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      {
+        "nombre": "KAZEEM KOLAWOLE AHMED",
+        "licencia": "27287",
+        "id": "27287"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "id": "18940"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KAZEEM KOLAWOLE AHMED",
+        "licencia": "27287",
+        "id": "27287"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORDI LATORRE BETRIU",
+        "licencia": "8093",
+        "id": "8093"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORDI LATORRE BETRIU",
+        "licencia": "8093",
+        "id": "8093"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "KAZEEM KOLAWOLE AHMED",
+        "licencia": "27287",
+        "id": "27287"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERT VILARDELL HIDALGO",
+        "licencia": "18940",
+        "id": "18940"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+        "licencia": "1995",
+        "id": "1995"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALBERT VILARDELL HIDALGO",
+            "licencia": "18940",
+            "id": "18940"
+          },
+          {
+            "nombre": "JOSEP LLUIS ANDRADE PAGEO",
+            "licencia": "1995",
+            "id": "1995"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+            "licencia": "7535",
+            "id": "7535"
+          },
+          {
+            "nombre": "KAZEEM KOLAWOLE AHMED",
+            "licencia": "27287",
+            "id": "27287"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA BORGES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

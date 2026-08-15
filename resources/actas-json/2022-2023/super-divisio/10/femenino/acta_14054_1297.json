@@ -1,0 +1,388 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 10,
+  "fecha": "2023-01-13",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "Reus (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+      "id": "1297",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JORDI GEBELLI BORRAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "X": {
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "Z": {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "B": {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      },
+      "C": {
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "ranking": 2210.0,
+        "id": "6506"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "id": "28792"
+      },
+      {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "id": "19272"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "id": "17118"
+      },
+      {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "id": "19691"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "ranking": 2210.0,
+        "id": "6506"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARIA PAULINA VEGA MAGAÑA",
+            "licencia": "28792",
+            "id": "28792"
+          },
+          {
+            "nombre": "ELVIRA FIONA RAD HIND",
+            "licencia": "19272",
+            "id": "19272"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "IOANA TECLA GHEMES",
+            "licencia": "17118",
+            "id": "17118"
+          },
+          {
+            "nombre": "ANGELA RODRÍGUEZ GARCIA",
+            "licencia": "19691",
+            "id": "19691"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS MIRÓ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

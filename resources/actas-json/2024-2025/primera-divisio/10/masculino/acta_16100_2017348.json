@@ -1,0 +1,371 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2024-12-14",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": "16100",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ETM LA FINCA",
+      "id": "2017348",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VIDAL GARCIA, JAIME",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "X": {
+        "nombre": "GARCIA MELENDO, BEÑAT",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "Z": {
+        "nombre": "PARDO BELTRAN, ALEXANDER",
+        "licencia": "21760",
+        "id": "21760"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANTIMIR , DRAGOS",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "B": {
+        "nombre": "QUEVEDO BENITO, NICO",
+        "licencia": "21802",
+        "id": "21802"
+      },
+      "C": {
+        "nombre": "RABAGO GONZALEZ, JAVIER",
+        "licencia": "9899",
+        "id": "9899"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VIDAL GARCIA, JAIME",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANTIMIR , DRAGOS",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA MELENDO, BEÑAT",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "QUEVEDO BENITO, NICO",
+        "licencia": "21802",
+        "id": "21802"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PARDO BELTRAN, ALEXANDER",
+        "licencia": "21760",
+        "id": "21760"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RABAGO GONZALEZ, JAVIER",
+        "licencia": "9899",
+        "id": "9899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA MELENDO, BEÑAT",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANTIMIR , DRAGOS",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VIDAL GARCIA, JAIME",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RABAGO GONZALEZ, JAVIER",
+        "licencia": "9899",
+        "id": "9899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PARDO BELTRAN, ALEXANDER",
+        "licencia": "21760",
+        "id": "21760"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "QUEVEDO BENITO, NICO",
+        "licencia": "21802",
+        "id": "21802"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ATLETICO SAN SEBASTIAN",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

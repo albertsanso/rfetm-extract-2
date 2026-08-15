@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 9,
+  "jornada": 4,
+  "fecha": "2019-10-19",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MIGUEL HERNANDEZ",
+    "ciudad": "Ocaña (Toledo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ITV OCAÑA",
+      "id": "14007",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. DAGANZO",
+      "id": "20181213",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO JESUS FERNANDEZ SANTANA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "X": {
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "Z": {
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
+      },
+      "B": {
+        "nombre": "ROMAR JOSE BALBAS ESPINOZA",
+        "licencia": "20725",
+        "id": "20725"
+      },
+      "C": {
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMAR JOSE BALBAS ESPINOZA",
+        "licencia": "20725",
+        "id": "20725"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO BOBO PLAZA",
+        "licencia": "21050",
+        "id": "21050"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAIME GARCIA ALCALA ROMERO",
+        "licencia": "19181",
+        "id": "19181"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMAR JOSE BALBAS ESPINOZA",
+        "licencia": "20725",
+        "id": "20725"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ITV OCAÑA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2022-10-29",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CHARLOTTE'S GRILL BADALONA",
+      "id": "66",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ICELAND TT ELS 8 LA GARRIGA",
+      "id": "16002",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAUME COLLDEFORN CABRE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "B": {
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "C": {
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "X": {
+        "nombre": "JOEL GUINART FONT",
+        "licencia": "25818",
+        "id": "25818"
+      },
+      "Z": {
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOEL GUINART FONT",
+        "licencia": "25818",
+        "id": "25818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIA FERNANDEZ SANCHEZ",
+        "licencia": "15142",
+        "id": "15142"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOEL GUINART FONT",
+        "licencia": "25818",
+        "id": "25818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NIL ARAGALL CHECA",
+        "licencia": "17979",
+        "id": "17979"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CHARLOTTE'S GRILL BADALONA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

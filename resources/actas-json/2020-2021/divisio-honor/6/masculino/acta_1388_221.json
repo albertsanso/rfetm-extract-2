@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 6,
+  "fecha": "2021-03-28",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON DE TENIS DE MESA PARQUE DE FRIGSA PARQUE DE FRIGSA",
+    "ciudad": "Lugo (Lugo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MILAGROSA",
+      "id": "1388",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAMBADOS TENIS DE MESA",
+      "id": "221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER BAÑOBRE LOPEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "B": {
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "C": {
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "X": {
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "Z": {
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MILAGROSA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

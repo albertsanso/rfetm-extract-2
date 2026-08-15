@@ -1,0 +1,287 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 9,
+  "fecha": "2023-12-02",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "73",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "id": "193",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MUTTI , LEONARDO",
+        "licencia": "41921",
+        "ranking": 2336.0,
+        "id": "41921"
+      },
+      "B": {
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376",
+        "ranking": 1970.0,
+        "id": "18376"
+      },
+      "C": {
+        "nombre": "ZATÓWKA , PATRYK",
+        "licencia": "41733",
+        "ranking": 2000.0,
+        "id": "41733"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERNANDEZ PARDO, CARLOS ALONSO",
+        "licencia": "29194",
+        "ranking": 1624.0,
+        "id": "29194"
+      },
+      "X": {
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "Z": {
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1793.0,
+        "id": "21851"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MUTTI , LEONARDO",
+        "licencia": "41921",
+        "ranking": 2336.0,
+        "id": "41921"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ PARDO, CARLOS ALONSO",
+        "licencia": "29194",
+        "ranking": 1624.0,
+        "id": "29194"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376",
+        "ranking": 1970.0,
+        "id": "18376"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ZATÓWKA , PATRYK",
+        "licencia": "41733",
+        "ranking": 2000.0,
+        "id": "41733"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLOT RUIZ, JOSE CARLOS",
+        "licencia": "21851",
+        "ranking": 1793.0,
+        "id": "21851"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MUTTI , LEONARDO",
+        "licencia": "41921",
+        "ranking": 2336.0,
+        "id": "41921"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAIWO , MATI",
+        "licencia": "41899",
+        "ranking": 3000.0,
+        "id": "41899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALICANTE TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

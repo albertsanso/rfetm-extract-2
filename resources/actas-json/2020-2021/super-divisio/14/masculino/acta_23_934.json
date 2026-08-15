@@ -1,0 +1,347 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2021-05-22",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "C/ JUAN DE PADILLA, S N - Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.E.R. L ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D.VINCIOS",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA DELGADO AUSIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "X": {
+        "nombre": "ANTOINE CLEMENT HACHARD",
+        "licencia": "36623",
+        "ranking": 2200.0,
+        "id": "36623"
+      },
+      "Z": {
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1491.0,
+        "id": "18284"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 1912.0,
+        "id": "36245"
+      },
+      "B": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1532.0,
+        "id": "9975"
+      },
+      "C": {
+        "nombre": "ENZO MAXENCE ANGLES",
+        "licencia": "36636",
+        "ranking": 3000.0,
+        "id": "36636"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 1912.0,
+        "id": "36245"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANTOINE CLEMENT HACHARD",
+        "licencia": "36623",
+        "ranking": 2200.0,
+        "id": "36623"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1532.0,
+        "id": "9975"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1491.0,
+        "id": "18284"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENZO MAXENCE ANGLES",
+        "licencia": "36636",
+        "ranking": 3000.0,
+        "id": "36636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANTOINE CLEMENT HACHARD",
+        "licencia": "36623",
+        "ranking": 2200.0,
+        "id": "36623"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 1912.0,
+        "id": "36245"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MOHAMED AHMED ELSAYED ELBEIALY",
+        "licencia": "34126",
+        "ranking": 2200.0,
+        "id": "34126"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENZO MAXENCE ANGLES",
+        "licencia": "36636",
+        "ranking": 3000.0,
+        "id": "36636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.E.R. L ESCALA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

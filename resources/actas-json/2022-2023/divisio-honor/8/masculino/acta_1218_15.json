@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 8,
+  "fecha": "2022-12-04",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "PABELLON CUBIERTO MUNICIPAL",
+    "ciudad": "Ayamonte (Huelva)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CONSERVAS LOLA",
+      "id": "1218",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "PUNTO Y APARTE SL – VEGAS DEL GENIL",
+      "id": "15",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MIGUEL HERNANDEZ MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANTONIO CHAVES BENJUMEA",
+        "licencia": "7057",
+        "id": "7057"
+      },
+      "X": {
+        "nombre": "AMADEO SANCHEZ ASENSIO",
+        "licencia": "3802",
+        "id": "3802"
+      },
+      "Z": {
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALEX FEDERICO OTALVARO GARCIA",
+        "licencia": "34867",
+        "id": "34867"
+      },
+      "B": {
+        "nombre": "JOSE MANUEL RUIZ REYES",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "C": {
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANTONIO CHAVES BENJUMEA",
+        "licencia": "7057",
+        "id": "7057"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEX FEDERICO OTALVARO GARCIA",
+        "licencia": "34867",
+        "id": "34867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AMADEO SANCHEZ ASENSIO",
+        "licencia": "3802",
+        "id": "3802"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE MANUEL RUIZ REYES",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AMADEO SANCHEZ ASENSIO",
+        "licencia": "3802",
+        "id": "3802"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEX FEDERICO OTALVARO GARCIA",
+        "licencia": "34867",
+        "id": "34867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANTONIO CHAVES BENJUMEA",
+        "licencia": "7057",
+        "id": "7057"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE MANUEL RUIZ REYES",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CONSERVAS LOLA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

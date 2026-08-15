@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 1,
+  "fecha": "2023-10-28",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA ANTONIO MAZA",
+    "ciudad": "AVDA. DE GRANADA, S/N, ESQUINA CALLE PLAZA DE TOROS 23003 JAÉN JAÉN"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "20212207",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM HUERCAL DE ALMERIA",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCELINO MEDINA FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "B": {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "C": {
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LOPEZ GRANADO, BERTA",
+        "licencia": "38964",
+        "id": "38964"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "Z": {
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ GRANADO, BERTA",
+        "licencia": "38964",
+        "id": "38964"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SANCHEZ OGALLA, ALBA",
+        "licencia": "32048",
+        "id": "32048"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FIGUEROA MUÑOZ, XIMENA",
+        "licencia": "41654",
+        "id": "41654"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LOPEZ GRANADO, BERTA",
+        "licencia": "38964",
+        "id": "38964"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

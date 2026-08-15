@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2022-01-15",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIÓ",
+    "ciudad": "C/ MESTRA MARIA CODINA, 1 25400-Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TERMOSOLAR BORGES",
+      "id": "20212483",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT VILABLAREIX",
+      "id": "2018930",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONI MARTINEZ GOMEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "NEUS ROMA ROS",
+        "licencia": "33060",
+        "id": "33060"
+      },
+      "X": {
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "Z": {
+        "nombre": "XÈNIA ROMA ROS",
+        "licencia": "33061",
+        "id": "33061"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "B": {
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "C": {
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NEUS ROMA ROS",
+        "licencia": "33060",
+        "id": "33060"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XÈNIA ROMA ROS",
+        "licencia": "33061",
+        "id": "33061"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAIA CASANOVAS ORIOL",
+        "licencia": "24902",
+        "id": "24902"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ÈLIA SERRA SAGUÉ",
+        "licencia": "25076",
+        "id": "25076"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NEUS ROMA ROS",
+        "licencia": "33060",
+        "id": "33060"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JUDIT CIFUENTES SAAVEDRA",
+        "licencia": "25164",
+        "id": "25164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "XÈNIA ROMA ROS",
+        "licencia": "33061",
+        "id": "33061"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ELISENDA NONO BONANY",
+        "licencia": "25069",
+        "id": "25069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TERMOSOLAR BORGES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

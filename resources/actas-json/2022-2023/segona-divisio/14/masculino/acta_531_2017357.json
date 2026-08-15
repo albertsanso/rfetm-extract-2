@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 7,
+  "jornada": 14,
+  "fecha": "2023-02-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "LA NAU MANISES",
+    "ciudad": "Manises (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS DE TAULA BURJASSOT VALENCIA",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER ENGUIX GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DAVID ISAAC JEAN CHELLY",
+        "licencia": "39386",
+        "id": "39386"
+      },
+      "X": {
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "Z": {
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "B": {
+        "nombre": "VALENTÍN ROMERO BAUTISTA",
+        "licencia": "20727",
+        "id": "20727"
+      },
+      "C": {
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID ISAAC JEAN CHELLY",
+        "licencia": "39386",
+        "id": "39386"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VALENTÍN ROMERO BAUTISTA",
+        "licencia": "20727",
+        "id": "20727"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PHILIPPE PENADES VIALLET",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID ISAAC JEAN CHELLY",
+        "licencia": "39386",
+        "id": "39386"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IVAN VEGA GRAS",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VALENTÍN ROMERO BAUTISTA",
+        "licencia": "20727",
+        "id": "20727"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS DE TAULA BURJASSOT VALENCIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

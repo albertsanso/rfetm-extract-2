@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 22,
+  "jornada": 2,
+  "fecha": "2021-03-06",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL LA LIBERTAD AVENIDA LA LIBERTAD 111",
+    "ciudad": "Huétor Vega (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA CULLAR VEGA",
+      "id": "20202096",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO HUÉTOR VEGA",
+      "id": "16101",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE LUIS MARTINEZ VILCHEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JOSE JAVIER SANCHEZ MADRID",
+        "licencia": "20973",
+        "id": "20973"
+      },
+      "B": {
+        "nombre": "DAMIR FLORES DRAZENOVIC",
+        "licencia": "22149",
+        "id": "22149"
+      },
+      "C": {
+        "nombre": "DANIEL RIQUELME CORDERO",
+        "licencia": "5205",
+        "id": "5205"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      },
+      "X": {
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "Z": {
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE JAVIER SANCHEZ MADRID",
+        "licencia": "20973",
+        "id": "20973"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DAMIR FLORES DRAZENOVIC",
+        "licencia": "22149",
+        "id": "22149"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DANIEL RIQUELME CORDERO",
+        "licencia": "5205",
+        "id": "5205"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE JAVIER SANCHEZ MADRID",
+        "licencia": "20973",
+        "id": "20973"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS FAJARDO CORPAS",
+        "licencia": "1359",
+        "id": "1359"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DANIEL RIQUELME CORDERO",
+        "licencia": "5205",
+        "id": "5205"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO MORENO ROSARIO",
+        "licencia": "19843",
+        "id": "19843"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DAMIR FLORES DRAZENOVIC",
+        "licencia": "22149",
+        "id": "22149"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 18,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO HUÉTOR VEGA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2023-02-12",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLON PRINCIPE FELIPE DE PONTEVEDRA",
+    "ciudad": "Pontevedra (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MONTE PORREIRO PUB PATRIMONIO",
+      "id": "1284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VILAGARCIA TENIS DE MESA",
+      "id": "126",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MANUEL ANGEL GARCIA LOBATO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "X": {
+        "nombre": "LEANDRO NAHUEL FUENTES",
+        "licencia": "34230",
+        "id": "34230"
+      },
+      "Z": {
+        "nombre": "PEDRO FERNANDEZ MATEO",
+        "licencia": "7583",
+        "id": "7583"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
+      },
+      "B": {
+        "nombre": "MATIAS EZEQUIEL GUADALUPE",
+        "licencia": "36133",
+        "id": "36133"
+      },
+      "C": {
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LEANDRO NAHUEL FUENTES",
+        "licencia": "34230",
+        "id": "34230"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MATIAS EZEQUIEL GUADALUPE",
+        "licencia": "36133",
+        "id": "36133"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEDRO FERNANDEZ MATEO",
+        "licencia": "7583",
+        "id": "7583"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LEANDRO NAHUEL FUENTES",
+        "licencia": "34230",
+        "id": "34230"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CRISTOFER SANTIAGO BARREIRO",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEDRO FERNANDEZ MATEO",
+        "licencia": "7583",
+        "id": "7583"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MATIAS EZEQUIEL GUADALUPE",
+        "licencia": "36133",
+        "id": "36133"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VILAGARCIA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

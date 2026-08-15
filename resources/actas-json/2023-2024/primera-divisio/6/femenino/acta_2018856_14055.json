@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 6,
+  "fecha": "2024-05-04",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "LOCAL CTT ELS AMICS TERRASSA",
+    "ciudad": "CTRA. MATADEPERA, 323 8225 TERRASSA BARCELONA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "id": "2018856",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA CASSA",
+      "id": "14055",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM SANTIAGO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322",
+        "id": "27322"
+      },
+      "X": {
+        "nombre": "GARCIA DE SORIA MIRAPEIX, MAR",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "Z": {
+        "nombre": "NAVACERRADA SERRES, ESTEL",
+        "licencia": "33073",
+        "id": "33073"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      },
+      "B": {
+        "nombre": "ROMERO PUIG, JUDIT",
+        "licencia": "32099",
+        "id": "32099"
+      },
+      "C": {
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322",
+        "id": "27322"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA DE SORIA MIRAPEIX, MAR",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMERO PUIG, JUDIT",
+        "licencia": "32099",
+        "id": "32099"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVACERRADA SERRES, ESTEL",
+        "licencia": "33073",
+        "id": "33073"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA DE SORIA MIRAPEIX, MAR",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERRET MASSÓ, EMMA",
+        "licencia": "37647",
+        "id": "37647"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322",
+        "id": "27322"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOSCH PAGANS, BRUNA",
+        "licencia": "32100",
+        "id": "32100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVACERRADA SERRES, ESTEL",
+        "licencia": "33073",
+        "id": "33073"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROMERO PUIG, JUDIT",
+        "licencia": "32099",
+        "id": "32099"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT ELS AMICS TERRASSA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

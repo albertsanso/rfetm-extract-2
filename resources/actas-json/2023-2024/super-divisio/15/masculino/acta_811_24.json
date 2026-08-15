@@ -1,0 +1,282 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2024-02-09",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE DEPORTES. PAVELLON 1 (NUEVO LOCAL)",
+    "ciudad": "Olot (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T. OLOT - GABINET PERMAR",
+      "id": "811",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GLORIA FAIG VILA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RECH DALDOSSO, MARCO",
+        "licencia": "41847",
+        "ranking": 2500.0,
+        "id": "41847"
+      },
+      "B": {
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "C": {
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SODERLUND , HAMPUS KE HANNES",
+        "licencia": "22235",
+        "ranking": 2588.0,
+        "id": "22235"
+      },
+      "X": {
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327",
+        "ranking": 2516.0,
+        "id": "39327"
+      },
+      "Z": {
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054",
+        "ranking": 2189.0,
+        "id": "2054"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RECH DALDOSSO, MARCO",
+        "licencia": "41847",
+        "ranking": 2500.0,
+        "id": "41847"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SODERLUND , HAMPUS KE HANNES",
+        "licencia": "22235",
+        "ranking": 2588.0,
+        "id": "22235"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327",
+        "ranking": 2516.0,
+        "id": "39327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054",
+        "ranking": 2189.0,
+        "id": "2054"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RECH DALDOSSO, MARCO",
+        "licencia": "41847",
+        "ranking": 2500.0,
+        "id": "41847"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CHEN , DIOGO JIAHONG",
+        "licencia": "39327",
+        "ranking": 2516.0,
+        "id": "39327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

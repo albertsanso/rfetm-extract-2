@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 9,
+  "jornada": 20,
+  "fecha": "2023-04-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON SERRANO MACAYO",
+    "ciudad": "Cáceres (Cáceres)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM RODEO PETROGOLD DE CÁCERES",
+      "id": "20222574",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. COVIRAN DON BENITO T.M.",
+      "id": "20191280",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARA PALACIOS RUIZ DE EGUINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ROBERTO ROMERO GALAN",
+        "licencia": "8216",
+        "id": "8216"
+      },
+      "X": {
+        "nombre": "PABLO MONCHO GARCIA",
+        "licencia": "7566",
+        "id": "7566"
+      },
+      "Z": {
+        "nombre": "CRISTIAN DANIEL DELGADO HERNÁNDEZ",
+        "licencia": "39541",
+        "id": "39541"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "B": {
+        "nombre": "ALFONSO DE LA CRUZ RODRIGUEZ",
+        "licencia": "635",
+        "id": "635"
+      },
+      "C": {
+        "nombre": "DANIEL ALVAREZ MENEA",
+        "licencia": "27659",
+        "id": "27659"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBERTO ROMERO GALAN",
+        "licencia": "8216",
+        "id": "8216"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO MONCHO GARCIA",
+        "licencia": "7566",
+        "id": "7566"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALFONSO DE LA CRUZ RODRIGUEZ",
+        "licencia": "635",
+        "id": "635"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CRISTIAN DANIEL DELGADO HERNÁNDEZ",
+        "licencia": "39541",
+        "id": "39541"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL ALVAREZ MENEA",
+        "licencia": "27659",
+        "id": "27659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO MONCHO GARCIA",
+        "licencia": "7566",
+        "id": "7566"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID ALVAREZ GOMEZ-VALADES",
+        "licencia": "1986",
+        "id": "1986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBERTO ROMERO GALAN",
+        "licencia": "8216",
+        "id": "8216"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL ALVAREZ MENEA",
+        "licencia": "27659",
+        "id": "27659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CRISTIAN DANIEL DELGADO HERNÁNDEZ",
+        "licencia": "39541",
+        "id": "39541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALFONSO DE LA CRUZ RODRIGUEZ",
+        "licencia": "635",
+        "id": "635"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM RODEO PETROGOLD DE CÁCERES",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

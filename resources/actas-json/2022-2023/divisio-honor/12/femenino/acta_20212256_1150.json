@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 12,
+  "fecha": "2023-01-29",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA COMPLEJO DEHESA BOYAL",
+    "ciudad": "San Sebastián de los Reyes (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA SAN S. DE LOS REYES",
+      "id": "20212256",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IÑIGO VILLACIEROS Y MANSO DE ZUÑIGA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "B": {
+        "nombre": "RIKKE SKATTET L",
+        "licencia": "39436",
+        "id": "39436"
+      },
+      "C": {
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIREIA JURADO CERDERA",
+        "licencia": "2537",
+        "id": "2537"
+      },
+      "X": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "id": "16527"
+      },
+      "Z": {
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIREIA JURADO CERDERA",
+        "licencia": "2537",
+        "id": "2537"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RIKKE SKATTET L",
+        "licencia": "39436",
+        "id": "39436"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIREIA JURADO CERDERA",
+        "licencia": "2537",
+        "id": "2537"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RIKKE SKATTET L",
+        "licencia": "39436",
+        "id": "39436"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BELEN CALVO MARTI",
+        "licencia": "9954",
+        "id": "9954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA SAN S. DE LOS REYES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

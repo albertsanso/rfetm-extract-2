@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2021-03-06",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION FRANCISCO MARTIN COLMENERO AVENIDA DE TOLEDO, 36",
+    "ciudad": "Álamo (El) (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO YACAL",
+      "id": "20191256",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SSREYES-DOS DE MAYO",
+      "id": "14066",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ADRIAN RUIZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LUCIA MONTENEGRO MARTIN",
+        "licencia": "20622",
+        "id": "20622"
+      },
+      "X": {
+        "nombre": "ELIZABETH SANTANA SANTANA",
+        "licencia": "10465",
+        "id": "10465"
+      },
+      "Z": {
+        "nombre": "ZAIRA MANZANO MUÑOZ",
+        "licencia": "28754",
+        "id": "28754"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTA GALVEZ BURGUEÑO",
+        "licencia": "28135",
+        "id": "28135"
+      },
+      "B": {
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      },
+      "C": {
+        "nombre": "ALBA CANTARERO IGLESIAS",
+        "licencia": "31456",
+        "id": "31456"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LUCIA MONTENEGRO MARTIN",
+        "licencia": "20622",
+        "id": "20622"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTA GALVEZ BURGUEÑO",
+        "licencia": "28135",
+        "id": "28135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ELIZABETH SANTANA SANTANA",
+        "licencia": "10465",
+        "id": "10465"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZAIRA MANZANO MUÑOZ",
+        "licencia": "28754",
+        "id": "28754"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA CANTARERO IGLESIAS",
+        "licencia": "31456",
+        "id": "31456"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ELIZABETH SANTANA SANTANA",
+        "licencia": "10465",
+        "id": "10465"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTA GALVEZ BURGUEÑO",
+        "licencia": "28135",
+        "id": "28135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LUCIA MONTENEGRO MARTIN",
+        "licencia": "20622",
+        "id": "20622"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBA CANTARERO IGLESIAS",
+        "licencia": "31456",
+        "id": "31456"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZAIRA MANZANO MUÑOZ",
+        "licencia": "28754",
+        "id": "28754"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOELIA PIN FRANCISCO",
+        "licencia": "21087",
+        "id": "21087"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 8,
+  "fecha": "2022-12-03",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "COLEGIO VEDRUNA",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALUCHE T.M. - A",
+      "id": "10251",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA GLOBAL SPEDITION",
+      "id": "38",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MANUEL AVILA MELINS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ADRIAN ROMERO VERDASCO",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "B": {
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
+      },
+      "C": {
+        "nombre": "GABRIEL RICARDO DE J MILLA",
+        "licencia": "38898",
+        "id": "38898"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      },
+      "X": {
+        "nombre": "ALEJANDRO ALONSO ARNAS",
+        "licencia": "30176",
+        "id": "30176"
+      },
+      "Z": {
+        "nombre": "MAURICIO ANTONIO LA ROSA SUAREZ",
+        "licencia": "23940",
+        "id": "23940"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIAN ROMERO VERDASCO",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO ALONSO ARNAS",
+        "licencia": "30176",
+        "id": "30176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GABRIEL RICARDO DE J MILLA",
+        "licencia": "38898",
+        "id": "38898"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MAURICIO ANTONIO LA ROSA SUAREZ",
+        "licencia": "23940",
+        "id": "23940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIAN ROMERO VERDASCO",
+        "licencia": "19270",
+        "id": "19270"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO ALONSO ARNAS",
+        "licencia": "30176",
+        "id": "30176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GABRIEL RICARDO DE J MILLA",
+        "licencia": "38898",
+        "id": "38898"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO ABAD PEREZ",
+        "licencia": "7382",
+        "id": "7382"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALUCHE T.M. - A",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

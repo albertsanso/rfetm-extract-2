@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 9,
+  "fecha": "2019-11-30",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO CRISTOBAL DE GAMON",
+    "ciudad": "Errenteria (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MARPEX BERAUN ERRENTERIA T.M.",
+      "id": "40",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "id": "10818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIKEL HERNANDEZ RECIO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORGE ANDRES GAMBRA SAID",
+        "licencia": "855",
+        "id": "855"
+      },
+      "X": {
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "Z": {
+        "nombre": "GORAN KOCIC",
+        "licencia": "34112",
+        "id": "34112"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      },
+      "B": {
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "C": {
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORGE ANDRES GAMBRA SAID",
+        "licencia": "855",
+        "id": "855"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GORAN KOCIC",
+        "licencia": "34112",
+        "id": "34112"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "YURI BESCHASTNYY",
+        "licencia": "31731",
+        "id": "31731"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORGE ANDRES GAMBRA SAID",
+        "licencia": "855",
+        "id": "855"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IVAN RUIZ RUBIRA",
+        "licencia": "17722",
+        "id": "17722"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GORAN KOCIC",
+        "licencia": "34112",
+        "id": "34112"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERRAN BRUGADA BELLSOLA",
+        "licencia": "3772",
+        "id": "3772"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MARPEX BERAUN ERRENTERIA T.M.",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

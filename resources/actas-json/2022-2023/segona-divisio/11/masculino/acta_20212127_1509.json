@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2023-01-21",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACIÓN SONIA ETXAZARRETA",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "20212127",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO TENIS DE MESA LAUTARO",
+      "id": "1509",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA ARANZAZU ZABALETA SARDON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HAITZ MINGUEZ AZURMENDI",
+        "licencia": "28078",
+        "id": "28078"
+      },
+      "X": {
+        "nombre": "XABIER TOQUERO SAGARZAZU",
+        "licencia": "32167",
+        "id": "32167"
+      },
+      "Z": {
+        "nombre": "ENEKO RODRIGUEZ ZABALETA",
+        "licencia": "32158",
+        "id": "32158"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IÑAKI MARTINEZ ESCUDERO",
+        "licencia": "31512",
+        "id": "31512"
+      },
+      "B": {
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "C": {
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HAITZ MINGUEZ AZURMENDI",
+        "licencia": "28078",
+        "id": "28078"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IÑAKI MARTINEZ ESCUDERO",
+        "licencia": "31512",
+        "id": "31512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "XABIER TOQUERO SAGARZAZU",
+        "licencia": "32167",
+        "id": "32167"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ENEKO RODRIGUEZ ZABALETA",
+        "licencia": "32158",
+        "id": "32158"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "XABIER TOQUERO SAGARZAZU",
+        "licencia": "32167",
+        "id": "32167"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IÑAKI MARTINEZ ESCUDERO",
+        "licencia": "31512",
+        "id": "31512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HAITZ MINGUEZ AZURMENDI",
+        "licencia": "28078",
+        "id": "28078"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "VICTOR SOTO VELAZQUEZ",
+        "licencia": "10624",
+        "id": "10624"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ENEKO RODRIGUEZ ZABALETA",
+        "licencia": "32158",
+        "id": "32158"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IÑIGO LOPEZ ZABARTE",
+        "licencia": "22310",
+        "id": "22310"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

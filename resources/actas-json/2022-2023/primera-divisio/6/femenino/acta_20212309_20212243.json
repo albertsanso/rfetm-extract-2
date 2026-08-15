@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 6,
+  "fecha": "2023-04-29",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "ALWAYSTM PRAZA DAS",
+    "ciudad": "ANGUSTIAS Nº1 INTERIOR 36419 Mos Pontevedra"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MOS",
+      "id": "20212309",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "id": "20212243",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGEL FERNANDEZ NORES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "B": {
+        "nombre": "SARA ALFARO AVENDAÑO",
+        "licencia": "29522",
+        "id": "29522"
+      },
+      "C": {
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALBA PERAZA MONSTESDEOCA",
+        "licencia": "27100",
+        "id": "27100"
+      },
+      "X": {
+        "nombre": "MARIANYELA YURIKAR BARRIGA PEREZ",
+        "licencia": "27096",
+        "id": "27096"
+      },
+      "Z": {
+        "nombre": "JESSICA MARIE ROSE",
+        "licencia": "32718",
+        "id": "32718"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALBA PERAZA MONSTESDEOCA",
+        "licencia": "27100",
+        "id": "27100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SARA ALFARO AVENDAÑO",
+        "licencia": "29522",
+        "id": "29522"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIANYELA YURIKAR BARRIGA PEREZ",
+        "licencia": "27096",
+        "id": "27096"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JESSICA MARIE ROSE",
+        "licencia": "32718",
+        "id": "32718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIANYELA YURIKAR BARRIGA PEREZ",
+        "licencia": "27096",
+        "id": "27096"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALBA PERAZA MONSTESDEOCA",
+        "licencia": "27100",
+        "id": "27100"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MAIA LOMBA JORQUERA",
+        "licencia": "35916",
+        "id": "35916"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JESSICA MARIE ROSE",
+        "licencia": "32718",
+        "id": "32718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

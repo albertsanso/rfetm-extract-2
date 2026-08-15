@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2021-03-13",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO VICENTE DEL BOSQUE CENTRO VILLA DE PARLA, ACCESO POR CALLE MEJICO, S/N",
+    "ciudad": "Parla (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AD COLLADO MEDIANO",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "id": "331",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL ANGEL PIÑERO DEL REAL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JUAN PEDRO SANCHEZ TERRONES",
+        "licencia": "18622",
+        "id": "18622"
+      },
+      "X": {
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "Z": {
+        "nombre": "BORJA SANCHEZ LOPEZ",
+        "licencia": "7179",
+        "id": "7179"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "B": {
+        "nombre": "DANIEL LOPEZ GONZALEZ",
+        "licencia": "16505",
+        "id": "16505"
+      },
+      "C": {
+        "nombre": "SEBASTIAN DIAZ GARCIA",
+        "licencia": "2149",
+        "id": "2149"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN PEDRO SANCHEZ TERRONES",
+        "licencia": "18622",
+        "id": "18622"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL LOPEZ GONZALEZ",
+        "licencia": "16505",
+        "id": "16505"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BORJA SANCHEZ LOPEZ",
+        "licencia": "7179",
+        "id": "7179"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIAN DIAZ GARCIA",
+        "licencia": "2149",
+        "id": "2149"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JUAN PEDRO SANCHEZ TERRONES",
+        "licencia": "18622",
+        "id": "18622"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIAN DIAZ GARCIA",
+        "licencia": "2149",
+        "id": "2149"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BORJA SANCHEZ LOPEZ",
+        "licencia": "7179",
+        "id": "7179"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL LOPEZ GONZALEZ",
+        "licencia": "16505",
+        "id": "16505"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AD COLLADO MEDIANO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

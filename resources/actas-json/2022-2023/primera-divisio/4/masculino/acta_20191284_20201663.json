@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2022-10-30",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA T.M. CEIP TERESA BERGANZA",
+      "id": "20191284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T",
+      "id": "20201663",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO HERRERO GÓMEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "KRISTIJONAS DAPKUS",
+        "licencia": "39238",
+        "id": "39238"
+      },
+      "X": {
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "Z": {
+        "nombre": "CARLOS MARTINEZ-MECO LOPEZ",
+        "licencia": "27822",
+        "id": "27822"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALEX MORENO SALA",
+        "licencia": "25801",
+        "id": "25801"
+      },
+      "B": {
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
+      },
+      "C": {
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KRISTIJONAS DAPKUS",
+        "licencia": "39238",
+        "id": "39238"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEX MORENO SALA",
+        "licencia": "25801",
+        "id": "25801"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS MARTINEZ-MECO LOPEZ",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEX MORENO SALA",
+        "licencia": "25801",
+        "id": "25801"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KRISTIJONAS DAPKUS",
+        "licencia": "39238",
+        "id": "39238"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ALBERTO SUAREZ LOPEZ",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA T.M. CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

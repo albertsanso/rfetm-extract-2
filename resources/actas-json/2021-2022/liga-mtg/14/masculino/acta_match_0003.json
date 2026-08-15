@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 6,
+  "jornada": 14,
+  "fecha": "2022-04-09",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "C/ JUAN CAMPOMANES PUERTO, S/N 6200-Almendralejo(Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "EXTREMADURA TM ALMENDRALEJO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M BAHÍA DE CÁDIZ",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO PRIOR MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "B": {
+        "nombre": "PABLO MENAYO CUELLAR",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "C": {
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
+        "licencia": "2629",
+        "id": "2629"
+      },
+      "X": {
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "Z": {
+        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
+        "licencia": "15864",
+        "id": "15864"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
+        "licencia": "2629",
+        "id": "2629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO MENAYO CUELLAR",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
+        "licencia": "15864",
+        "id": "15864"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE GUZMAN MUÑOZ",
+        "licencia": "16573",
+        "id": "16573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
+        "licencia": "2629",
+        "id": "2629"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO MENAYO CUELLAR",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
+        "licencia": "15864",
+        "id": "15864"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "EXTREMADURA TM ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

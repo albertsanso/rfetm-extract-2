@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 7,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CASAL JOVE",
+    "ciudad": "Onda (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA SANTISIMO SALVADOR",
+      "id": "14010",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARÍA BREVA MIGUEL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "X": {
+        "nombre": "ALEXANDRU NICHOLAS BUCEANEU",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "Z": {
+        "nombre": "DAVID DEAN BUTCOVAN",
+        "licencia": "27741",
+        "id": "27741"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "B": {
+        "nombre": "JOSE ANTONIO TEJUELO GARCIA",
+        "licencia": "943",
+        "id": "943"
+      },
+      "C": {
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALEXANDRU NICHOLAS BUCEANEU",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      {
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      {
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALEXANDRU NICHOLAS BUCEANEU",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ANTONIO TEJUELO GARCIA",
+        "licencia": "943",
+        "id": "943"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DAVID DEAN BUTCOVAN",
+        "licencia": "27741",
+        "id": "27741"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALEXANDRU NICHOLAS BUCEANEU",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VICENT VIDAL GARCIA",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIONISIO ARANGUREN PEREZ",
+        "licencia": "18404",
+        "id": "18404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DAVID DEAN BUTCOVAN",
+        "licencia": "27741",
+        "id": "27741"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ANTONIO TEJUELO GARCIA",
+        "licencia": "943",
+        "id": "943"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALEXANDRU NICHOLAS BUCEANEU",
+            "licencia": "36930",
+            "id": "36930"
+          },
+          {
+            "nombre": "VICENT VIDAL GARCIA",
+            "licencia": "10362",
+            "id": "10362"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FRANCISCO JOSE IBAÑEZ CARRILLO",
+            "licencia": "1521",
+            "id": "1521"
+          },
+          {
+            "nombre": "DIONISIO ARANGUREN PEREZ",
+            "licencia": "18404",
+            "id": "18404"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ILICITANO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}
