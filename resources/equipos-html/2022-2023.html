@@ -1,0 +1,1017 @@
+
+<!DOCTYPE html>
+
+<head>
+        <meta charset="utf-8">
+        <link rel="icon" href="favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="../../fontawesome/css/all.min.css" rel="stylesheet">
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+        <!-- Scripts -->
+        <script src="../../js/jquery-3.3.1.js"></script>
+        <script src="../../js/app.js"></script>   
+
+        <link href="../../css/app.css" rel="stylesheet">
+        <link href="../../css/estilo.css" rel="stylesheet">
+
+        <!-- <link href="DataTables/Bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="DataTables/datatables.min.css" /> 
+        <script type="text/javascript" src="DataTables/datatables.min.js"></script> -->
+
+        <link href="style.css" rel="stylesheet">
+
+        <style>
+                @media (max-width:1024px) {
+
+                        table {
+                                font-size: 12px;
+                        }
+
+                }
+
+
+                @media (max-width:760px) {
+
+                        table {
+                                font-size: 10px;
+                        }
+
+                }
+
+
+                @media (max-width:504px) {
+
+                        table {
+                                font-size: 8px;
+                        }
+
+                }
+
+
+
+                .tdacta {
+
+                        max-width: 5px;
+
+                        overflow: hidden;
+
+                        white-space: nowrap;
+
+                        text-overflow: ellipsis;
+
+                }
+
+                A.link_white {
+                        text-decoration: bold;
+                        color: #ffffff;
+                }
+
+                A.link_white:hover {
+                        text-decoration: bold;
+                        color: #ffccff;
+                }
+				
+				</style>
+
+</head>
+
+
+
+<body>
+        <nav class="navbar navbar-light bg-white fixed-top navbar-expand-xl">    
+    <div class="container">
+        <a class="navbar-brand" href="/">
+		<img src="/images/logo.png" class="d-none d-xl-block h-100" alt="logo RFETM">
+		<img src="/images/logomovil.png" class="d-block d-xl-none h-100" alt="logo RFETM">
+		</a>
+        <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon text-secondary"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-1 mr-auto">
+                <li class="nav-item ml-3">
+                    <a class="nav-link" href="/resultados">INICIO</a>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    SUPERDIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">Superdivisión Masculina</a>
+                        <div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">Liga IBERDROLA Superdivisión Femenina</a>           
+                    </div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    DIVISIÓN DE HONOR
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 2</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">División de Honor Masculina - Grupo 3</a>
+						<div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 2</a>
+                        <a class="dropdown-item" href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">División de Honor Femenina - Grupo 3</a>
+							
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    1ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">Primera División Masculina - Grupo 6</a>
+                        <div class="dropdown-divider"></div>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">Primera División Femenina - Grupo 6</a>
+					</div>
+                </li>
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    2ª DIVISIÓN
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 1</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 2</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 3</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 4</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 5</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 6</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 7</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 8</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 9</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 10</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 11</a>
+						<a class="dropdown-item" href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">Segunda División Masculina - Grupo 12</a>
+						
+                    </div>    
+                </li> 
+                <li class="nav-item dropdown ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    OTRAS TEMPORADAS
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="\resultados">Temporada Actual</a>
+						<a class='dropdown-item' href='\resultados\2024-2025'>Temporada 2024-2025</a><a class='dropdown-item' href='\resultados\2023-2024'>Temporada 2023-2024</a><a class='dropdown-item' href='\resultados\2022-2023'>Temporada 2022-2023</a><a class='dropdown-item' href='\resultados\2021-2022'>Temporada 2021-2022</a><a class='dropdown-item' href='\resultados\2020-2021'>Temporada 2020-2021</a><a class='dropdown-item' href='\resultados\2019-2020'>Temporada 2019-2020</a><a class='dropdown-item' href='\resultados\2018-2019'>Temporada 2018-2019</a><a class='dropdown-item' href='\resultados\2017-2018'>Temporada 2017-2018</a>	
+
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2016-2017/" target="_blank">Temporada 2016-2017</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2015-2016/" target="_blank">Temporada 2015-2016</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2014-2015/" target="_blank">Temporada 2014-2015</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2013-2014/" target="_blank">Temporada 2013-2014</a>
+						<a class="dropdown-item" href="https://rfetm.es/resultados/2012-2013/" target="_blank">Temporada 2012-2013</a>						
+						
+                    </div>
+                </li>
+            </ul>
+
+            <ul class="navbar-nav ml-3">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/"><b>Volver a RFETM.ES</b></a>
+                </li>
+            </ul>    
+        </div>
+    </div>
+</nav>
+        <div class="container bg-white">
+                <div class="row">
+	
+                        <div class="col-12 col-md-9 mt-4">
+
+
+								<div class="w-100 mb-3">  
+                    <div class="w-100 d-flex align-items-end" style="background-image: url(/images/cabeceras/resultados.jpg); 
+                                background-size: cover; background-repeat:no-repeat; height: 15vw; max-height:200px; min-height:100px;">
+                        <div class="text-white pb-0 w-100">
+                            <h4 class="d-none d-lg-block titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2022-2023</p></h4>  
+                            <h5 class="d-block d-lg-none titulo-cabecera card-title mb-0 px-3 py-1 w-100"><p>Temporada 2022-2023</p></h5>                                             
+                        </div>                    
+                    </div>                                                      
+                </div>
+								
+								
+                                <a href="/resultados" class="text-decoration-none text-dark"><h4>Resultados Ligas Nacionales</h4></a>
+                                <div class="section-title-separator secondary mb-4"></div>
+
+                                <div align="center">
+
+                                        										
+								
+
+                                        
+
+                                        <table class='table table-sm' width='95%'>
+                                        <tr>
+                                        <td class='border-0' align='left' valign='top'><a href='index.php'><b>Temporada 2022/2023</b></td><td class='border-0'></td></tr></table>
+                                        <hr>
+
+                                          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.10/css/jquery.dataTables.min.css">
+  <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
+
+<h1 style='color:#6E6E6E;'>Equipos Temporada 2022/2023</h1><hr><div style="overflow: auto;"><table width="100%" border=0 id="tblRK" class="display" cellspacing="0"><thead><tr><td width=37%><b>Equipo</b></td><td width=37%><b>Club</b></td><td width=11%><b>Liga</b></td><td width=3%><b>EJ</b></td><td width=3%><b>EG</b></td><td width=3%><b>EE</b></td><td width=3%><b>EP</b></td><td width=3%><b>Ptos.</b></td></tr></thead><tbody><tr><td><b>ALICANTE TM</b></td><td>CLUB TENIS DE MESA UNASYR ALICANTE</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CLUB TENIS DE MESA VEGAS DEL GENIL</b></td><td>CLUB TENIS DE MESA VEGAS DEL GENIL</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>GIRBAU VIC T.T.</b></td><td>VIC TENNIS DE TAULA</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>HUJASE JAÉN PARAÍSO INTERIOR</b></td><td>CDTM HUJASE JAEN</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>IRUN LEKA ENEA T.M. CHEMA GEWO</b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>MUSEO DE LA ALMENDRA FRANCISCO MORALES</b></td><td>CD PRIEGO MUJER Y PROGRESO TENIS DE MESA</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>REUS GANXETS MIRÓ</b></td><td>TENNIS TAULA GANXETS DE REUS</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>SON CLADERA TTC</b></td><td>SON CLADERA TTC</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>TECNIGEN LINARES</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>TENNIS TAULA TRAMUNTANA FIGUERES</b></td><td>CLUB TENNIS TAULA TRAMUNTANA FIGUERES</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>UCAM CARTAGENA TM</b></td><td>CLUB UNIVERSIDAD CATOLICA SAN ANTONIO</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>22</td><td align=center>0</td><td align=center>0</td><td align=center><b>44</b></td></tr><tr><td><b>UE SANT CUGAT</b></td><td>UNIO ESPORTIVA SANT CUGAT</td><td><span style="display:none">01F00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F">
+	<b>SUF</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>ARTEAL SANTIAGO SD COMPOSTELA</b></td><td>ARTEAL TENIS DE MESA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>5</td><td align=center>2</td><td align=center><b>35</b></td></tr><tr><td><b>ASISA BORGES VALL</b></td><td>CLUB TENNIS DE TAULA BORGES</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>4</td><td align=center>5</td><td align=center><b>30</b></td></tr><tr><td><b>C.E.R. ROBIN PRISCO L´ESCALA</b></td><td>CLUB TENNIS DE TAULA C.E.R. L'ESCALA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>8</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>COLLADO MEDIANO TM (AGRUPACION DEPORTIVA</b></td><td>A.D. COLLADO MEDIANO</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>5</td><td align=center>12</td><td align=center><b>15</b></td></tr><tr><td><b>CTM MURCIA EL PALMAR</b></td><td>CLUB DEPORTIVO MURCIA TENIS DE MESA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>0</td><td align=center>5</td><td align=center>17</td><td align=center><b>5</b></td></tr><tr><td><b>HORTITEC ALZIRA TT</b></td><td>CLUB ALZIRA TENIS TAULA CAMARENA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>4</td><td align=center>11</td><td align=center><b>18</b></td></tr><tr><td><b>IRUN LEKA ENEA</b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>2</td><td align=center>11</td><td align=center><b>20</b></td></tr><tr><td><b>PODOMAT TM PARLA</b></td><td>CLUB DEPORTIVO ELEMENTAL TENIS DE MESA PARLA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>7</td><td align=center>11</td><td align=center><b>15</b></td></tr><tr><td><b>REAL CAJASUR PRIEGO TM</b></td><td>CLUB PRIEGO TENIS DE MESA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>1</td><td align=center>2</td><td align=center><b>39</b></td></tr><tr><td><b>SAN SEBASTIAN DE LOS REYES</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>4</td><td align=center>11</td><td align=center><b>18</b></td></tr><tr><td><b>UNIVERSIDAD DE BURGOS - TPF</b></td><td>CLUB BURGOS TENIS DE MESA</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>8</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>VISIT PONTEVEDRA</b></td><td>CLUB MONTE PORREIRO</td><td><span style="display:none">01M00</span>
+	<a href="view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=M">
+	<b>SUM</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>3</td><td align=center>8</td><td align=center><b>25</b></td></tr><tr><td><b>CIDADE DE NARON</b></td><td>CLUB TENIS DE MESA CIDADE DE NARON</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>16</td><td align=center>0</td><td align=center>2</td><td align=center><b>32</b></td></tr><tr><td><b>CINANIA TM</b></td><td>CINANIA TENIS DE MESA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>2</td><td align=center>0</td><td align=center>16</td><td align=center><b>4</b></td></tr><tr><td><b>CLUB DEL MAR DE SAN AMARO</b></td><td>CLUB DEL MAR DE SAN AMARO</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>5</td><td align=center>0</td><td align=center>13</td><td align=center><b>10</b></td></tr><tr><td><b>CLUB DEPORTIVO COYANZA</b></td><td>CLUB DEPORTIVO COYANZA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>3</td><td align=center>0</td><td align=center>15</td><td align=center><b>6</b></td></tr><tr><td><b>CORVERASTUR TM</b></td><td>CLUB TENIS DE MESA CORVERASTUR</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>5</td><td align=center>0</td><td align=center>13</td><td align=center><b>10</b></td></tr><tr><td><b>ETM TORRELAVEGA HOTEL MARQUES.S</b></td><td>ESCUELA TENIS MESA TORRELAVEGA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>12</td><td align=center>0</td><td align=center>6</td><td align=center><b>24</b></td></tr><tr><td><b>ILLAS CÍES TM</b></td><td>ILLAS CIES TENIS DE MESA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>11</td><td align=center>0</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>PONTEVEDRA T.M.HOSTEL CHARINO</b></td><td>TENIS DE MESA PONTEVEDRA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>11</td><td align=center>0</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>UNIVERSIDAD DE BURGOS - RM TERÁN</b></td><td>BURGOS FÉMINAS TENIS DE MESA</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>17</td><td align=center>0</td><td align=center>1</td><td align=center><b>34</b></td></tr><tr><td><b>VISIT PONTEVEDRA</b></td><td>CLUB MONTE PORREIRO</td><td><span style="display:none">02F01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-1</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>AD COLLADO MEDIANO  </b></td><td>A.D. COLLADO MEDIANO</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>12</td><td align=center>0</td><td align=center>6</td><td align=center><b>24</b></td></tr><tr><td><b>ATLÉTICO SAN SEBASTIAN</b></td><td>ATLETICO SAN SEBASTIAN</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>11</td><td align=center>0</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>AUTOESCOLA TATCHEPOL RIPOLLET</b></td><td>CLUB TENNIS DE TAULA RIPOLLET</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>3</td><td align=center>0</td><td align=center>15</td><td align=center><b>6</b></td></tr><tr><td><b>C.D.T.M. RIVAS</b></td><td>CLUB DEPORTIVO TENIS DE MESA RIVAS</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>15</td><td align=center>0</td><td align=center>3</td><td align=center><b>30</b></td></tr><tr><td><b>C.T.T. MEDITERRANEO-VALENCIA</b></td><td>CLUB TENNIS DE TAULA MEDITERRANEO</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>6</td><td align=center>0</td><td align=center>12</td><td align=center><b>12</b></td></tr><tr><td><b>CLUB TENIS DE MESA SAN S. DE LOS REYES</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>6</td><td align=center>0</td><td align=center>12</td><td align=center><b>12</b></td></tr><tr><td><b>COVICSA-CTT SANTA EULARIA</b></td><td>CLUB TENNIS TAULA SANTA EULARIA</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>9</td><td align=center>0</td><td align=center>9</td><td align=center><b>18</b></td></tr><tr><td><b>GIRBAU VIC T.T.</b></td><td>VIC TENNIS DE TAULA</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>15</td><td align=center>0</td><td align=center>3</td><td align=center><b>30</b></td></tr><tr><td><b>REUS GANXETS MIRÓ</b></td><td>TENNIS TAULA GANXETS DE REUS</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>5</td><td align=center>0</td><td align=center>13</td><td align=center><b>10</b></td></tr><tr><td><b>SON CLADERA TTC</b></td><td>SON CLADERA TTC</td><td><span style="display:none">02F02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-2</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>BOADILLA  TM CEIP TERESA BERGANZA</b></td><td>BOADILLA TENIS MESA TERESA BERGANZA</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>12</td><td align=center>0</td><td align=center>6</td><td align=center><b>24</b></td></tr><tr><td><b>C.T.M. JEREZ</b></td><td>CLUB TENIS DE MESA JEREZ</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>9</td><td align=center>0</td><td align=center>9</td><td align=center><b>18</b></td></tr><tr><td><b>CTM HUERCAL DE ALMERIA</b></td><td>CTM HUERCAL DE ALMERIA</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>2</td><td align=center>0</td><td align=center>16</td><td align=center><b>4</b></td></tr><tr><td><b>HORTALEZA TM</b></td><td>HORTALEZA TM</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>15</td><td align=center>0</td><td align=center>3</td><td align=center><b>30</b></td></tr><tr><td><b>HUJASE JAÉN AUTÉNTICA</b></td><td>CDTM HUJASE JAEN</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>9</td><td align=center>0</td><td align=center>9</td><td align=center><b>18</b></td></tr><tr><td><b>KARTING GRANADA - VEGAS DEL GENIL</b></td><td>CLUB TENIS DE MESA VEGAS DEL GENIL</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>7</td><td align=center>0</td><td align=center>11</td><td align=center><b>14</b></td></tr><tr><td><b>LEGA-RIVAS</b></td><td>AGRUPACION DEPORTIVA TENIS MESA LEGANES</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>11</td><td align=center>0</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>MUSEO DE LA ALMENDRA FRANCISCO MORALES</b></td><td>CD PRIEGO MUJER Y PROGRESO TENIS DE MESA</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>16</td><td align=center>0</td><td align=center>2</td><td align=center><b>32</b></td></tr><tr><td><b>REAL CIRCULO DE LABRADORES </b></td><td>REAL CIRCULO DE LABRADORES</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>1</td><td align=center>0</td><td align=center>17</td><td align=center><b>2</b></td></tr><tr><td><b>TECNIGEN LINARES</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">02F03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>DHF-3</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>CAJA RURAL - GALAXIA PHONE </b></td><td>CD VIRIATO TENIS MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CAMBADOS TENIS DE MESA</b></td><td>CAMBADOS TENIS DE MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>CLUB DEL MAR</b></td><td>CLUB DEL MAR DE SAN AMARO</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CTM MILAGROSA</b></td><td>AGRUPACION DEPORTIVA XUVENIL MILAGROSA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>ELMA GASTEIZ</b></td><td>AGRUPACION DEPORTIVA GASTEIZ</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>ETM HOTEL MARQUES DE SANTILLANA</b></td><td>ESCUELA TENIS MESA TORRELAVEGA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>IRUN LEKA ENEA</b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>MADRID CAPITAL TM</b></td><td>CDE MADRID CAPITAL DEL TENIS DE MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>MONTE PORREIRO PUB PATRIMONIO</b></td><td>CLUB MONTE PORREIRO</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>UNIVERSIDAD DE BURGOS - TPF</b></td><td>CLUB BURGOS TENIS DE MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>VAL MIÑOR TM / ROSQUILLAS CRISTALEIRO</b></td><td>AGRUPACION DEPORTIVA VINCIOS</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>VILAGARCIA  TENIS DE MESA</b></td><td>VILAGARCIA TENIS DE MESA</td><td><span style="display:none">02M01</span>
+	<a href="view.php?liga=Mg==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-1</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>BLANXART XALOC OLESA</b></td><td>CLUB TENNIS TAULA OLESA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>BORGES GENERAL D'OLIS</b></td><td>CLUB TENNIS DE TAULA BORGES</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>C.T.T. OLOT - GABINET PERMAR</b></td><td>CLUB TENNIS TAULA OLOT</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>20</td><td align=center>0</td><td align=center>2</td><td align=center><b>40</b></td></tr><tr><td><b>CENTRE NATACIO MATARO</b></td><td>CENTRE NATACIO MATARO</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>CETT ESPARREGUERA</b></td><td>CLUB ESPORTIU TENNIS DE TAULA DE ESPARREGUERA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB PALMA TENNIS TAULA</b></td><td>CLUB PALMA TENNIS DE TAULA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>CTT MOLLERUSSA PREFABRICATS PUJOL</b></td><td>CLUB TENNIS TAULA MOLLERUSSA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>GIRBAU VIC T.T.</b></td><td>VIC TENNIS DE TAULA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>PUBLIMAX CAI SANTIAGO T.M.</b></td><td>A.D.G. SANTIAGO TENIS DE MESA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>SANTJOSEP.NET -  SANT JORDI</b></td><td>CLUB TENNIS TAULA SANT JORDI</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>SOSMATIC BADALONA</b></td><td>CLUB TENNIS TAULA BADALONA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>TERMOTUR CALELLA</b></td><td>CLUB TENNIS DE TAULA CALELLA</td><td><span style="display:none">02M02</span>
+	<a href="view.php?liga=Mg==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-2</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>AGRUPACION DEPORTIVA TENIS MESA LEGANES</b></td><td>AGRUPACION DEPORTIVA TENIS MESA LEGANES</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>0</b></td><td align=center>0</td><td align=center>0</td><td align=center>0</td><td align=center><b>0</b></td></tr><tr><td><b>ALCOBENDAS TM</b></td><td>ALCOBENDAS TENIS DE MESA</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>ALICANTE TM</b></td><td>CLUB TENIS DE MESA UNASYR ALICANTE</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>17</td><td align=center>0</td><td align=center>3</td><td align=center><b>34</b></td></tr><tr><td><b>AQADEM.COM</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>15</td><td align=center>0</td><td align=center>5</td><td align=center><b>30</b></td></tr><tr><td><b>CONSERVAS LOLA</b></td><td>CLUB TENIS DE MESA AYAMONTE</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>COVIRÁN CD HUÉTOR VEGA TM</b></td><td>CLUB DEPORTIVO HUETOR VEGA TENIS DE MESA</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>10</td><td align=center>0</td><td align=center>10</td><td align=center><b>20</b></td></tr><tr><td><b>CTM ALCALÁ IMPORALIA</b></td><td>CLUB TENIS DE MESA ALCALA 2000</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>5</td><td align=center>0</td><td align=center>15</td><td align=center><b>10</b></td></tr><tr><td><b>FRANCISCO R. POMARES S.L. ELCHE</b></td><td>CLUB TENIS DE MESA DAMA DE ELCHE</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>11</td><td align=center>0</td><td align=center>9</td><td align=center><b>22</b></td></tr><tr><td><b>HORTALEZA TM</b></td><td>HORTALEZA TM</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>HORTITEC ALZIRA </b></td><td>CLUB ALZIRA TENIS TAULA CAMARENA</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>6</td><td align=center>0</td><td align=center>14</td><td align=center><b>12</b></td></tr><tr><td><b>PUNTO Y APARTE SL - VEGAS DEL GENIL</b></td><td>CLUB TENIS DE MESA VEGAS DEL GENIL</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>10</td><td align=center>0</td><td align=center>10</td><td align=center><b>20</b></td></tr><tr><td><b>SAN SEBASTIAN DE LOS REYES</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">02M03</span>
+	<a href="view.php?liga=Mg==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>DHM-3</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>C.T.M.CORUÑA</b></td><td>CLUB TENIS DE MESA CORUÑA</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>5</td><td align=center>0</td><td align=center>16</td><td align=center><b>10</b></td></tr><tr><td><b>CLUB DEL MAR DE SAN AMARO</b></td><td>CLUB DEL MAR DE SAN AMARO</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>11</td><td align=center>0</td><td align=center>10</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB DEPORTIVO HIDRA</b></td><td>CLUB DEPORTIVO HIDRA</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>11</b></td><td align=center>1</td><td align=center>0</td><td align=center>10</td><td align=center><b>2</b></td></tr><tr><td><b>CLUB TENIS DE MESA CIDADE DE NARON</b></td><td>CLUB TENIS DE MESA CIDADE DE NARON</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>1</td><td align=center>0</td><td align=center>20</td><td align=center><b>2</b></td></tr><tr><td><b>CLUB TENIS DE MESA MOS</b></td><td>CLUB TENIS DE MESA MOS</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>17</td><td align=center>0</td><td align=center>4</td><td align=center><b>34</b></td></tr><tr><td><b>COFERSA CIDADE DE NARÓN</b></td><td>CLUB TENIS DE MESA CIDADE DE NARON</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>19</td><td align=center>0</td><td align=center>2</td><td align=center><b>38</b></td></tr><tr><td><b>CTM GAM FEMENINO</b></td><td>CTM GAM</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>4</td><td align=center>0</td><td align=center>17</td><td align=center><b>8</b></td></tr><tr><td><b>MONTE PORREIRO CONFITERIA CAPRI</b></td><td>CLUB MONTE PORREIRO</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>10</td><td align=center>0</td><td align=center>11</td><td align=center><b>20</b></td></tr><tr><td><b>OROSO MALOV TM</b></td><td>CLUB TENIS DE MESA ESPEDREGADA</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>13</td><td align=center>0</td><td align=center>8</td><td align=center><b>26</b></td></tr><tr><td><b>TABOR- ARAFO SOMOSIDENTIDAD</b></td><td>CLUB TENIS DE MESA TABOR AÑAVINGO</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>15</td><td align=center>0</td><td align=center>6</td><td align=center><b>30</b></td></tr><tr><td><b>TEMESPIN LOS LLANOS DE ARIDANE</b></td><td>TEMESPIN</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>7</td><td align=center>0</td><td align=center>14</td><td align=center><b>14</b></td></tr><tr><td><b>TENIS DE MESA DEFENSE F LA PALMA</b></td><td>TENIS DE MESA DEFENSE LA PALMA</td><td><span style="display:none">03F01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-1</b></a></td><td align=center><b>21</b></td><td align=center>18</td><td align=center>0</td><td align=center>3</td><td align=center><b>36</b></td></tr><tr><td><b>ATLETICO SAN SEBASTIAN</b></td><td>ATLETICO SAN SEBASTIAN</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>6</td><td align=center>0</td><td align=center>12</td><td align=center><b>12</b></td></tr><tr><td><b>AVILÉS TENIS DE MESA</b></td><td>AVILES TENIS DE MESA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>18</td><td align=center>0</td><td align=center>0</td><td align=center><b>36</b></td></tr><tr><td><b>CENTRO NATACION HELIOS </b></td><td>CENTRO NATACION HELIOS</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>14</td><td align=center>0</td><td align=center>4</td><td align=center><b>28</b></td></tr><tr><td><b>CORVERASTUR TM</b></td><td>CLUB TENIS DE MESA CORVERASTUR</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>2</td><td align=center>0</td><td align=center>16</td><td align=center><b>4</b></td></tr><tr><td><b>CTM ABADIÑO-EKIN</b></td><td>CLUB TENIS DE MESA ABADIÑO</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>6</td><td align=center>0</td><td align=center>12</td><td align=center><b>12</b></td></tr><tr><td><b>ETM AMADIS PAPELERIA</b></td><td>ESCUELA TENIS MESA TORRELAVEGA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>IRUN LEKA ENEA</b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>10</td><td align=center>0</td><td align=center>8</td><td align=center><b>20</b></td></tr><tr><td><b>LA ATALAYA GIJON TENIS DE MESA</b></td><td>LA ATALAYA GIJON TENIS DE MESA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>16</td><td align=center>0</td><td align=center>2</td><td align=center><b>32</b></td></tr><tr><td><b>LUARCA TENIS DE MESA</b></td><td>LUARCA TENIS DE MESA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>2</td><td align=center>0</td><td align=center>16</td><td align=center><b>4</b></td></tr><tr><td><b>UNIVERSIDAD DE BURGOS - RM TERÁN</b></td><td>BURGOS FÉMINAS TENIS DE MESA</td><td><span style="display:none">03F02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-2</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>BORGES D.O.P LES GARRIGUES</b></td><td>CLUB TENNIS DE TAULA BORGES</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CAN MARIO'S BADALONA</b></td><td>CLUB TENNIS TAULA BADALONA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CENTRE NATACIO MATARO</b></td><td>CENTRE NATACIO MATARO</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>CLUB TENNIS TAULA  ATENEU 1882</b></td><td>CLUB TENNIS TAULA ATENEU 1882</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>CTT ELS AMICS TERRASSA</b></td><td>CLUB TENNIS TAULA ELS AMICS TERRASSA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CTT VILABLAREIX</b></td><td>CLUB TENNIS TAULA VILABLAREIX</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>GIRBAU VIC T.T</b></td><td>VIC TENNIS DE TAULA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>IMMOTÈCNICS TT ELS 8 LA GARRIGA</b></td><td>CLUB TENNIS TAULA ELS 8 LA GARRIGA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>REUS DEPORTIU</b></td><td>REUS DEPORTIU</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>REUS GANXETS MIRÓ</b></td><td>TENNIS TAULA GANXETS DE REUS</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>SURIS CALELLA</b></td><td>CLUB TENNIS DE TAULA CALELLA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>TENNIS TAULA CASSA</b></td><td>TENNIS TAULA CASSA</td><td><span style="display:none">03F03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-3</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>ALCOBENDAS-PEDREZUELA</b></td><td>ALCOBENDAS TENIS DE MESA</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>13</td><td align=center>0</td><td align=center>5</td><td align=center><b>26</b></td></tr><tr><td><b>ALUCHE TENIS DE MESA FEMENINO</b></td><td>ALUCHE TENIS DE MESA</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>4</td><td align=center>0</td><td align=center>14</td><td align=center><b>8</b></td></tr><tr><td><b>CDETM PROGRESO MOSTOLES</b></td><td>CLUB DEPORTIVO ELEMENTAL TM PROGRESO MOSTOLES</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>13</td><td align=center>0</td><td align=center>5</td><td align=center><b>26</b></td></tr><tr><td><b>CLUB DEPORTIVO YACAL</b></td><td>CLUB DEPORTIVO YACAL</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>2</td><td align=center>0</td><td align=center>16</td><td align=center><b>4</b></td></tr><tr><td><b>CUBES NORTE TT</b></td><td>CDE CUBES NORTE TT</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>17</td><td align=center>0</td><td align=center>1</td><td align=center><b>34</b></td></tr><tr><td><b>EIVISSA-CARMEN PELUQUEROS PATR.HUMANITAT</b></td><td>CLUB EIVISSA TENNIS TAULA</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>6</td><td align=center>0</td><td align=center>12</td><td align=center><b>12</b></td></tr><tr><td><b>FUENCARRAL - EL PARDO TM</b></td><td>FUENCARRAL - EL PARDO TM</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>4</td><td align=center>0</td><td align=center>14</td><td align=center><b>8</b></td></tr><tr><td><b>LA LLEDONERA APE CERÁMICA</b></td><td>CLUB TENIS DE MESA COSTA AZAHAR</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>15</td><td align=center>0</td><td align=center>3</td><td align=center><b>30</b></td></tr><tr><td><b>MADRID CTM</b></td><td>CLUB DEPORTIVO ELEMENTAL MADRID CIUDAD TM</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>9</td><td align=center>0</td><td align=center>9</td><td align=center><b>18</b></td></tr><tr><td><b>SSREYES-DOS DE MAYO</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">03F04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-4</b></a></td><td align=center><b>18</b></td><td align=center>7</td><td align=center>0</td><td align=center>11</td><td align=center><b>14</b></td></tr><tr><td><b>A.D.  TRES BALCONES </b></td><td>ASOCIACION DEPORTIVA LOS TRES BALCONES</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>A.D.  TRES BALCONES B</b></td><td>ASOCIACION DEPORTIVA LOS TRES BALCONES</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>5</td><td align=center>0</td><td align=center>15</td><td align=center><b>10</b></td></tr><tr><td><b>CD NERVION TENIS DE MESA CITY</b></td><td>CD NERVION TENIS DE MESA CITY</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>5</td><td align=center>0</td><td align=center>15</td><td align=center><b>10</b></td></tr><tr><td><b>CIRCULO MERCANTIL E INDUSTRIAL</b></td><td>CIRCULO MERCANTIL E INDUSTRIAL</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>CLUB DEPORTIVO ELEMENTAL ALCORCON TENIS DE MESA</b></td><td>CLUB DEPORTIVO ELEMENTAL ALCORCON TENIS DE MESA</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>2</td><td align=center>0</td><td align=center>18</td><td align=center><b>4</b></td></tr><tr><td><b>CLUB TENIS DE MESA SAN S. DE LOS REYES</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>16</td><td align=center>0</td><td align=center>4</td><td align=center><b>32</b></td></tr><tr><td><b>CLUB TENIS DE MESA TECNIK 87</b></td><td>CLUB TENIS DE MESA TECNIK '87</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>17</td><td align=center>0</td><td align=center>3</td><td align=center><b>34</b></td></tr><tr><td><b>ESCUELA TIERRA DE BARROS TENIS DE MESA</b></td><td>ESCUELA TIERRA DE BARROS TENIS DE MESA</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>2</td><td align=center>0</td><td align=center>18</td><td align=center><b>4</b></td></tr><tr><td><b>REAL CIRCULO DE LABRADORES </b></td><td>REAL CIRCULO DE LABRADORES</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>T.M. VILLAFRANCA-CATERING LA GRANFAMILIA</b></td><td>TENIS DE MESA VILLAFRANCA</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>15</td><td align=center>0</td><td align=center>5</td><td align=center><b>30</b></td></tr><tr><td><b>TENIS DE MESA FUENTE DE CANTOS</b></td><td>TENIS DE MESA FUENTE DE CANTOS</td><td><span style="display:none">03F05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-5</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>AQADEM.COM</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>4</td><td align=center>0</td><td align=center>12</td><td align=center><b>8</b></td></tr><tr><td><b>C.T.M. JEREZ</b></td><td>CLUB TENIS DE MESA JEREZ</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>10</td><td align=center>0</td><td align=center>6</td><td align=center><b>20</b></td></tr><tr><td><b>CLAN TECH2 TM CARTAGENA</b></td><td>CLUB DEPORTIVO TENIS DE MESA FEMINAS CARTAGENA</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>6</td><td align=center>0</td><td align=center>10</td><td align=center><b>12</b></td></tr><tr><td><b>CLUB TENIS DE MESA ALCAZAR</b></td><td>CLUB TENIS DE MESA ALCAZAR</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>6</td><td align=center>0</td><td align=center>10</td><td align=center><b>12</b></td></tr><tr><td><b>CLUB UNIVERSIDAD CATOLICA SAN ANTONIO</b></td><td>CLUB UNIVERSIDAD CATOLICA SAN ANTONIO</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>10</td><td align=center>0</td><td align=center>6</td><td align=center><b>20</b></td></tr><tr><td><b>CTM ALCALÁ TRÉBOL MODA</b></td><td>CLUB TENIS DE MESA ALCALA 2000</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>16</td><td align=center>0</td><td align=center>0</td><td align=center><b>32</b></td></tr><tr><td><b>NOVACARTAMA TM</b></td><td>NOVACARTAMA TM</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>3</td><td align=center>0</td><td align=center>13</td><td align=center><b>6</b></td></tr><tr><td><b>RESTAURANTE VENTUCCIO - CTM JAEN</b></td><td>CLUB TENIS DE MESA JAEN</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>7</td><td align=center>0</td><td align=center>9</td><td align=center><b>14</b></td></tr><tr><td><b>TECNIGEN LINARES</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">03F06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=F">
+	<b>PDF-6</b></a></td><td align=center><b>16</b></td><td align=center>10</td><td align=center>0</td><td align=center>6</td><td align=center><b>20</b></td></tr><tr><td><b>CLUB DEPORTIVO COYANZA</b></td><td>CLUB DEPORTIVO COYANZA</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB DEPORTIVO OBERENA</b></td><td>CLUB DEPORTIVO OBERENA</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CLUB TENIS DE MESA CIDADE DE NARÓN</b></td><td>CLUB TENIS DE MESA CIDADE DE NARON</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CTM ABADIÑO - L4UKO</b></td><td>CLUB TENIS DE MESA ABADIÑO</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CTM VIGO</b></td><td>CLUB TENIS DE MESA VIGO</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>ETM DESATASCOS REBOFER</b></td><td>ESCUELA TENIS MESA TORRELAVEGA</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>FONTANERIA IRURIETA BERAUN ERRENTERIA TM</b></td><td>CLUB DEPORTIVO MARPEX BERAUN-ERRENTERIA TENIS DE M</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>FUENCARRAL - EL PARDO TM</b></td><td>FUENCARRAL - EL PARDO TM</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>IRUN LEKA ENEA </b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>OROSO TM PELUQUERíA TIJE</b></td><td>CLUB OROSO TM</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>SAN SEBASTIAN DE LOS REYES </b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>SEGHOS ESCUELA TENIS DE MESA</b></td><td>CLUB DEPORTIVO SEGHOS</td><td><span style="display:none">03M01</span>
+	<a href="view.php?liga=Mw==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-1</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>ALUCHE T.M. - A</b></td><td>ALUCHE TENIS DE MESA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>BOADILLA  T.M. CEIP TERESA BERGANZA</b></td><td>BOADILLA TENIS MESA TERESA BERGANZA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CENTRO NATACION HELIOS </b></td><td>CENTRO NATACION HELIOS</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>CLUB NATACIÓ SABADELL</b></td><td>CLUB NATACIO SABADELL</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>CLUB TENNIS DE TAULA VILAFRANCA</b></td><td>CLUB TENNIS DE TAULA VILAFRANCA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>DARUMA LLUïSOS DE GRACIA</b></td><td>LLUISOS DE GRACIA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>FUENLABRADA TEAM TM</b></td><td>CLUB DEPORTIVO ELEMENTAL FUENLABRADA TEAM TM</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>GIRBAU VIC T.T</b></td><td>VIC TENNIS DE TAULA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>ONE VISION PARLA</b></td><td>CLUB DEPORTIVO ELEMENTAL TENIS DE MESA PARLA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>REUS GANXETS MIRÓ</b></td><td>TENNIS TAULA GANXETS DE REUS</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>SCHOOL ZARAGOZA GLOBAL SPEDITION </b></td><td>A.D. SCHOOL ZARAGOZA TENIS DE MESA</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>U.E. SANT CUGAT </b></td><td>UNIO ESPORTIVA SANT CUGAT</td><td><span style="display:none">03M02</span>
+	<a href="view.php?liga=Mw==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-2</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>C.T.T SALLENT.RESET</b></td><td>CLUB TENNIS DE TAULA SALLENT</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>C.T.T. OLOT - EIO</b></td><td>CLUB TENNIS TAULA OLOT</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>CETT ESPARREGUERA</b></td><td>CLUB ESPORTIU TENNIS DE TAULA DE ESPARREGUERA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>CHARLOTTE'S GRILL BADALONA</b></td><td>CLUB TENNIS TAULA BADALONA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>CLUB TENNIS TAULA TORELLÓ</b></td><td>TENNIS DE TAULA TORELLO</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CTT ELS AMICS TERRASSA</b></td><td>CLUB TENNIS TAULA ELS AMICS TERRASSA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>18</td><td align=center>0</td><td align=center>4</td><td align=center><b>36</b></td></tr><tr><td><b>CTT HOSPITALET GRUPO PREVING</b></td><td>CLUB TENNIS DE TAULA L'HOSPITALET</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>ICELAND TT ELS 8 LA GARRIGA</b></td><td>CLUB TENNIS TAULA ELS 8 LA GARRIGA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>SON CLADERA TTC </b></td><td>SON CLADERA TTC</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>TENNIS TAULA CASSÀ</b></td><td>TENNIS TAULA CASSA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>TENNIS TAULA TRAMUNTANA FIGUERES</b></td><td>CLUB TENNIS TAULA TRAMUNTANA FIGUERES</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>TERMOTUR CALELLA</b></td><td>CLUB TENNIS DE TAULA CALELLA</td><td><span style="display:none">03M03</span>
+	<a href="view.php?liga=Mw==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-3</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>ALSA CARTAGENA</b></td><td>CLUB DEPORTIVO DE TENIS DE MESA DE CARTAGENA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>AQADEM.COM</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>FRAMUSA TOTANA TM</b></td><td>CLUB TOTANA TENIS MESA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>KARTING GRANADA VEGAS DEL GENIL</b></td><td>CLUB TENIS DE MESA VEGAS DEL GENIL</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>LA TORRETA TENIS DE MESA</b></td><td>CD IES LA TORRETA ELDA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>21</b></td><td align=center>18</td><td align=center>0</td><td align=center>3</td><td align=center><b>36</b></td></tr><tr><td><b>NOVACÁRTAMA TM</b></td><td>NOVACARTAMA TM</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>T.M. DEFENSE-LA PALMA</b></td><td>TENIS DE MESA DEFENSE LA PALMA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>TEMESPIN LOS LLANOS DE ARIDANE</b></td><td>TEMESPIN</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>TENEGUIA FRUTAS OLIVAR</b></td><td>CTM TENEGUIA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>21</b></td><td align=center>9</td><td align=center>0</td><td align=center>12</td><td align=center><b>18</b></td></tr><tr><td><b>THE SOLAR WORLD STAIN ABTM</b></td><td>CLUB ALBACETE TENIS DE MESA</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>TM ROQUETAS</b></td><td>CLUB TENIS MESA ROQUETAS</td><td><span style="display:none">03M04</span>
+	<a href="view.php?liga=Mw==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-4</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>A.D. COVIRAN DON BENITO T.M.</b></td><td>A.D.T.M. 150 AÑOS CIUDAD DON BENITO</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>2</td><td align=center>0</td><td align=center>20</td><td align=center><b>4</b></td></tr><tr><td><b>AD COLLADO MEDIANO</b></td><td>A.D. COLLADO MEDIANO</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>ALCOBENDAS TENIS DE MESA</b></td><td>ALCOBENDAS TENIS DE MESA</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>ATLEET-SERMA TM TALAVERA</b></td><td>CLUB TENIS DE MESA TALAVERA</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>20</td><td align=center>0</td><td align=center>2</td><td align=center><b>40</b></td></tr><tr><td><b>C.D. TENIS DE MESA RIVAS</b></td><td>CLUB DEPORTIVO TENIS DE MESA RIVAS</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CLUB TENIS DE MESA COSLADA</b></td><td>CLUB TENIS DE MESA COSLADA</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>CTM POLAN-TOLEDO</b></td><td>CLUB TENIS DE MESA TOLEDO</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>EXTREMADURA TM ALMENDRALEJO</b></td><td>CLUB TENIS DE MESA ALMENDRALEJO</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>LEZAMA DEMOLICIONES TEMESA C.REAL</b></td><td>CLUB DEPORTIVO BASICO DE TENIS DE MESA CIUDAD REAL</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>MADRID C.T.M. </b></td><td>CLUB DEPORTIVO ELEMENTAL MADRID CIUDAD TM</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>T.M. FUENTE DEL MAESTRE</b></td><td>TENIS DE MESA VILLAFRANCA</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>TENIS DE MESA PUERTOLLANO</b></td><td>TENIS DE MESA PUERTOLLANO</td><td><span style="display:none">03M05</span>
+	<a href="view.php?liga=Mw==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-5</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>C.D. HIDRA LOS REALEJOS </b></td><td>CLUB DEPORTIVO HIDRA</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>0</td><td align=center>0</td><td align=center>22</td><td align=center><b>0</b></td></tr><tr><td><b>C.D. TENIS DE MESA TEMEGUESTE</b></td><td>C.D. TENIS DE MESA TEMEGUESTE</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>C.T.M BAHÍA DE CÁDIZ</b></td><td>CLUB TENIS DE MESA BAHIA DE CADIZ</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>C.T.M. PORTUENSE </b></td><td>CLUB TENIS DE MESA PORTUENSE</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CD DEDALOS TM SANTA CRUZ </b></td><td>DEDALOS TENIS DE MESA</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>CIRCULO DE AMISTAD-TENERIFE</b></td><td>CIRCULO AMISTAD XII DE ENERO</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA</b></td><td>CIRCULO MERCANTIL E INDUSTRIAL</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>20</td><td align=center>0</td><td align=center>2</td><td align=center><b>40</b></td></tr><tr><td><b>CLUB TENIS DE MESA TECNIK '87</b></td><td>CLUB TENIS DE MESA TECNIK '87</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CTM "PACO FLOR" JEREZ</b></td><td>CLUB TENIS DE MESA JEREZ</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>CTM TABOR AÑAVINGO</b></td><td>CLUB TENIS DE MESA TABOR AÑAVINGO</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>GUADALSEM AMIGOS TM LEBRIJA </b></td><td>AMIGOS DEL TENIS DE MESA LEBRIJA</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>REAL CIRCULO DE LABRADORES </b></td><td>REAL CIRCULO DE LABRADORES</td><td><span style="display:none">03M06</span>
+	<a href="view.php?liga=Mw==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>PDM-6</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>ARTEAL</b></td><td>ARTEAL TENIS DE MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CD DEZ PORTAS CAIXA RURAL GALEGA</b></td><td>CLUBE DEPORTIVO DEZPORTAS LUGO T.M.</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>CINANIA TENIS DE MESA</b></td><td>CINANIA TENIS DE MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>CLUB DEL MAR DE SAN AMARO</b></td><td>CLUB DEL MAR DE SAN AMARO</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CLUB TENIS DE MESA BREOGAN - OLEIROS</b></td><td>CLUB TENIS DE MESA BREOGAN - OLEIROS</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CONCELLO DE CAMBADOS</b></td><td>CAMBADOS TENIS DE MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>20</td><td align=center>0</td><td align=center>2</td><td align=center><b>40</b></td></tr><tr><td><b>CTM MILAGROSA</b></td><td>AGRUPACION DEPORTIVA XUVENIL MILAGROSA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>GALMÉDICA OURENSE T.M</b></td><td>ACADEMIA SAN MAMED OURENSE TENIS MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>OROSO TM MADEIRAS IRMÁNS CASTROS</b></td><td>CLUB OROSO TM</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>TIJERITAS LA PELU DE SIXTO</b></td><td>CLUB TENIS DE MESA CIDADE DE NARON</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>VILAGARCIA TENIS DE MESA</b></td><td>VILAGARCIA TENIS DE MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>ZOOLANDIA CONXO TM</b></td><td>CONXO TENIS DE MESA</td><td><span style="display:none">04M01</span>
+	<a href="view.php?liga=NA==&grupo=1&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-1</b></a></td><td align=center><b>22</b></td><td align=center>18</td><td align=center>0</td><td align=center>4</td><td align=center><b>36</b></td></tr><tr><td><b>AVILES TENIS DE MESA</b></td><td>AVILES TENIS DE MESA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>7</td><td align=center>0</td><td align=center>13</td><td align=center><b>14</b></td></tr><tr><td><b>C.D. PISUERGA T.M./ DRAGO TT</b></td><td>CLUB DEPORTIVO PISUERGA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>CD VALLADOLID TENIS DE MESA</b></td><td>CLUB VALLADOLID TENIS DE MESA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>13</td><td align=center>0</td><td align=center>7</td><td align=center><b>26</b></td></tr><tr><td><b>CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO</b></td><td>CLUB ATLETICO LEON</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>3</td><td align=center>0</td><td align=center>17</td><td align=center><b>6</b></td></tr><tr><td><b>CLUB PEÑARANDA DE BRACAMONTE</b></td><td>CLUB PEÑARANDA DE BRACAMONTE</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>9</td><td align=center>0</td><td align=center>11</td><td align=center><b>18</b></td></tr><tr><td><b>CTM ZAMORA-CAJA RURAL</b></td><td>CLUB TENIS DE MESA ZAMORA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>10</td><td align=center>0</td><td align=center>10</td><td align=center><b>20</b></td></tr><tr><td><b>ETM LA FINCA</b></td><td>ESCUELA TENIS MESA TORRELAVEGA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>11</td><td align=center>0</td><td align=center>9</td><td align=center><b>22</b></td></tr><tr><td><b>LA ATALAYA GIJON TENIS DE MESA "A"</b></td><td>LA ATALAYA GIJON TENIS DE MESA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>16</td><td align=center>0</td><td align=center>4</td><td align=center><b>32</b></td></tr><tr><td><b>LA ATALAYA GIJON TENIS DE MESA "B"</b></td><td>LA ATALAYA GIJON TENIS DE MESA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>2</td><td align=center>0</td><td align=center>18</td><td align=center><b>4</b></td></tr><tr><td><b>LUARCA TENIS DE MESA</b></td><td>LUARCA TENIS DE MESA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>13</td><td align=center>0</td><td align=center>7</td><td align=center><b>26</b></td></tr><tr><td><b>MANUFACTURAS DEPORTIVAS</b></td><td>CLUB DEPORTIVO ELEMENTAL ANTONIO MENDOZA</td><td><span style="display:none">04M02</span>
+	<a href="view.php?liga=NA==&grupo=2&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-2</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>ATLETICO SAN SEBASTIAN</b></td><td>ATLETICO SAN SEBASTIAN</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>C.D FORTUNA K.E - SUPER AMARA</b></td><td>C.D. FORTUNA K.E.</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CAFÉS LA BRASILEÑA-GAILAK</b></td><td>CLUB TENIS MESA GAILAK</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>CLUB DEPORTIVO TENIS DE MESA LAUTARO</b></td><td>CLUB DEPORTIVO LAUTARO</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>CLUB DEPORTIVO TENIS MESA PEÑASKAL</b></td><td>CLUB DEPORTIVO TENIS MESA PEÑASCAL</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>1</td><td align=center>0</td><td align=center>21</td><td align=center><b>2</b></td></tr><tr><td><b>CLUB TENIS DE MESA BASAURI</b></td><td>CLUB TENIS DE MESA BASAURI</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>FONTANERIA IRURIETA BERAUN-ERRENTERIA TM</b></td><td>CLUB DEPORTIVO MARPEX BERAUN-ERRENTERIA TENIS DE M</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>18</td><td align=center>0</td><td align=center>4</td><td align=center><b>36</b></td></tr><tr><td><b>GURE TALDE</b></td><td>GURE TALDE MAHAI TENIS</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>IRUN LEKA ENEA</b></td><td>CLUB LEKA ENEA TENIS DE MESA</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>PORTUGALETE ANGULO DELIKATESSEN</b></td><td>GURE TALDE MAHAI TENIS</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>RODAMIENTOS ARIZTI GASTEIZ</b></td><td>AGRUPACION DEPORTIVA GASTEIZ</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>UNIVERSIDAD DE BURGOS - TPF</b></td><td>CLUB BURGOS TENIS DE MESA</td><td><span style="display:none">04M03</span>
+	<a href="view.php?liga=NA==&grupo=3&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-3</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>ALUCHE TENIS DE MESA B</b></td><td>ALUCHE TENIS DE MESA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>16</td><td align=center>0</td><td align=center>2</td><td align=center><b>32</b></td></tr><tr><td><b>C.D. TENIS DE MESA RIVAS</b></td><td>CLUB DEPORTIVO TENIS DE MESA RIVAS</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>9</td><td align=center>0</td><td align=center>9</td><td align=center><b>18</b></td></tr><tr><td><b>CENTRO NATACIÓN HELIOS </b></td><td>CENTRO NATACION HELIOS</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>8</td><td align=center>0</td><td align=center>10</td><td align=center><b>16</b></td></tr><tr><td><b>CLUB DEPORTIVO OBERENA</b></td><td>CLUB DEPORTIVO OBERENA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>7</td><td align=center>0</td><td align=center>11</td><td align=center><b>14</b></td></tr><tr><td><b>CLUB NATACION PAMPLONA</b></td><td>CLUB NATACION PAMPLONA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>14</td><td align=center>0</td><td align=center>4</td><td align=center><b>28</b></td></tr><tr><td><b>HORTALEZA, TM</b></td><td>HORTALEZA TM</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>7</td><td align=center>0</td><td align=center>11</td><td align=center><b>14</b></td></tr><tr><td><b>MADRID C.T.M. </b></td><td>CLUB DEPORTIVO ELEMENTAL MADRID CIUDAD TM</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>10</td><td align=center>0</td><td align=center>8</td><td align=center><b>20</b></td></tr><tr><td><b>PUBLIMAX CAI SANTIAGO T.M.</b></td><td>A.D.G. SANTIAGO TENIS DE MESA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>11</td><td align=center>0</td><td align=center>7</td><td align=center><b>22</b></td></tr><tr><td><b>SCDR ANAITASUNA</b></td><td>SCDR ANAITASUNA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>1</td><td align=center>0</td><td align=center>17</td><td align=center><b>2</b></td></tr><tr><td><b>SCHOOL ZARAGOZA CONTAZARA</b></td><td>A.D. SCHOOL ZARAGOZA TENIS DE MESA</td><td><span style="display:none">04M04</span>
+	<a href="view.php?liga=NA==&grupo=4&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-4</b></a></td><td align=center><b>18</b></td><td align=center>7</td><td align=center>0</td><td align=center>11</td><td align=center><b>14</b></td></tr><tr><td><b>BORGES TT MUSEUM</b></td><td>CLUB TENNIS DE TAULA BORGES</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>C.T.T. SALLENT.RESET</b></td><td>CLUB TENNIS DE TAULA SALLENT</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CLUB GIMNASTIC DE TARRAGONA</b></td><td>CLUB GIMNASTIC DE TARRAGONA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>CLUB NATACIÓ SABADELL "A"</b></td><td>CLUB NATACIO SABADELL</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>CLUB TENNIS DE TAULA TONA</b></td><td>CLUB TENNIS DE TAULA TONA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>20</td><td align=center>0</td><td align=center>2</td><td align=center><b>40</b></td></tr><tr><td><b>CLUB TENNIS TAULA BARCELONA</b></td><td>CLUB TENNIS TAULA BARCELONA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CTT MOLLERUSSA ARCUSIN</b></td><td>CLUB TENNIS TAULA MOLLERUSSA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>CTT TORTOSA</b></td><td>CTT TORTOSA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CTT VILANOVA</b></td><td>CLUB TENNIS DE TAULA VILANOVA</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>PORTMANY - CARMEN PELUQUEROS</b></td><td>CLUB TENIS TAULA PORTMANY</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>TENNIS TAULA PARETS</b></td><td>TENNIS DE TAULA PARETS</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>UE SANT CUGAT </b></td><td>UNIO ESPORTIVA SANT CUGAT</td><td><span style="display:none">04M05</span>
+	<a href="view.php?liga=NA==&grupo=5&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-5</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>C.T.T. ATENEU 1882</b></td><td>CLUB TENNIS TAULA ATENEU 1882</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CENTRE NATACIO MATARO</b></td><td>CENTRE NATACIO MATARO</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>CLINICA DENTAL VIRGEN DEL PILAR RIPOLLET</b></td><td>CLUB TENNIS DE TAULA RIPOLLET</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB NATACIO SABADELL "B"</b></td><td>CLUB NATACIO SABADELL</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB PING PONG IGUALADA</b></td><td>CLUB PING PONG IGUALADA</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CLUB TENNIS TAULA LA BISBAL</b></td><td>CLUB TENNIS DE TAULA LA BISBAL</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>CTT ELS AMICS TERRASSA</b></td><td>CLUB TENNIS TAULA ELS AMICS TERRASSA</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>CTT HOSPITALET-GRUPO PREVING</b></td><td>CLUB TENNIS DE TAULA L'HOSPITALET</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>CTT OLOT - TRANSPORTS ESCAPA</b></td><td>CLUB TENNIS TAULA OLOT</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CTT VILABLAREIX</b></td><td>CLUB TENNIS TAULA VILABLAREIX</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>DARUMA LLUÏSOS DE GRÀCIA</b></td><td>LLUISOS DE GRACIA</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>FALCONS SABADELL - SMATSA AGORA GRUP</b></td><td>FALCONS SABADELL ASSOCIACIO ESPORTIVA</td><td><span style="display:none">04M06</span>
+	<a href="view.php?liga=NA==&grupo=6&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-6</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>A.D. VALENCIA TENIS DE MESA</b></td><td>A.D. VALENCIA TENIS DE MESA</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>1</td><td align=center>0</td><td align=center>19</td><td align=center><b>2</b></td></tr><tr><td><b>C.D. POBLA DE FARNALS-AGUA PURA</b></td><td>C.D. POBLA DE FARNALS</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>CASTELLÓ APE CERÁMICA</b></td><td>CLUB TENIS DE MESA COSTA AZAHAR</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>CLUB TENIS DE MESA ALCOY</b></td><td>CLUB TENIS DE MESA ALCOY</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>9</td><td align=center>0</td><td align=center>11</td><td align=center><b>18</b></td></tr><tr><td><b>CLUB TENIS DE MESA PATERNA</b></td><td>CLUB TENIS DE MESA PATERNA</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>13</td><td align=center>0</td><td align=center>7</td><td align=center><b>26</b></td></tr><tr><td><b>CLUB TENNIS TAULA ALGEMESI</b></td><td>CLUB TENNIS TAULA ALGEMESI</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>18</td><td align=center>0</td><td align=center>2</td><td align=center><b>36</b></td></tr><tr><td><b>CLUB TENNIS TAULA SANTISIMO SALVADOR</b></td><td>CLUB TENNIS TAULA SANTISIMO SALVADOR</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>7</td><td align=center>0</td><td align=center>13</td><td align=center><b>14</b></td></tr><tr><td><b>CTM ILICITANO</b></td><td>CLUB DE TENIS DE MESA ILICITANO</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>9</td><td align=center>0</td><td align=center>11</td><td align=center><b>18</b></td></tr><tr><td><b>CTT ALZIRA CAMARENA</b></td><td>CLUB ALZIRA TENIS TAULA CAMARENA</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>11</td><td align=center>0</td><td align=center>9</td><td align=center><b>22</b></td></tr><tr><td><b>JOVIRA TT XATIVA</b></td><td>TENNIS DE TAULA XATIVA CLUB</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>6</td><td align=center>0</td><td align=center>14</td><td align=center><b>12</b></td></tr><tr><td><b>TENNIS DE TAULA BURJASSOT VALENCIA</b></td><td>TENNIS DE TAULA BURJASSOT VALENCIA</td><td><span style="display:none">04M07</span>
+	<a href="view.php?liga=NA==&grupo=7&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-7</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>AGRUPACION DEPORTIVA TENIS MESA LEGANES</b></td><td>AGRUPACION DEPORTIVA TENIS MESA LEGANES</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>4</td><td align=center>0</td><td align=center>16</td><td align=center><b>8</b></td></tr><tr><td><b>ALUCHE TENIS DE MESA  A</b></td><td>ALUCHE TENIS DE MESA</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>7</td><td align=center>0</td><td align=center>13</td><td align=center><b>14</b></td></tr><tr><td><b>CLUB DEPORTIVO ELEMENTAL ALCORCÓN TENIS </b></td><td>CLUB DEPORTIVO ELEMENTAL ALCORCON TENIS DE MESA</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>8</td><td align=center>0</td><td align=center>12</td><td align=center><b>16</b></td></tr><tr><td><b>CLUB PALMA TENNIS TAULA</b></td><td>CLUB PALMA TENNIS DE TAULA</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>CLUB TENIS DE MESA VILLA DE VALDEMORO</b></td><td>CLUB TENIS DE MESA VILLA DE VALDEMORO</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>6</td><td align=center>0</td><td align=center>14</td><td align=center><b>12</b></td></tr><tr><td><b>CTT MANACOR GRUP ORELL</b></td><td>TENIS DE TAULA MANACOR</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>15</td><td align=center>0</td><td align=center>5</td><td align=center><b>30</b></td></tr><tr><td><b>FUENCARRAL - EL PARDO TM</b></td><td>FUENCARRAL - EL PARDO TM</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>NOROESTE - LAS ROZAS </b></td><td>CLUB NOROESTE - LAS ROZAS TENIS DE MESA</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>12</td><td align=center>0</td><td align=center>8</td><td align=center><b>24</b></td></tr><tr><td><b>SON CLADERA TTC</b></td><td>SON CLADERA TTC</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>10</td><td align=center>0</td><td align=center>10</td><td align=center><b>20</b></td></tr><tr><td><b>T.M. DAGANZO</b></td><td>T.M. DAGANZO</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>10</td><td align=center>0</td><td align=center>10</td><td align=center><b>20</b></td></tr><tr><td><b>TENIS DE MESA PARLA</b></td><td>CLUB DEPORTIVO ELEMENTAL TENIS DE MESA PARLA</td><td><span style="display:none">04M08</span>
+	<a href="view.php?liga=NA==&grupo=8&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-8</b></a></td><td align=center><b>20</b></td><td align=center>14</td><td align=center>0</td><td align=center>6</td><td align=center><b>28</b></td></tr><tr><td><b>A.D.  TRES BALCONES </b></td><td>ASOCIACION DEPORTIVA LOS TRES BALCONES</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>A.D. COVIRAN DON BENITO T.M.</b></td><td>A.D.T.M. 150 AÑOS CIUDAD DON BENITO</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>C.T.M. COSLADA</b></td><td>CLUB TENIS DE MESA COSLADA</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>CLÍNICA DENTAL SANTOS TM TARANCÓN</b></td><td>CDE TENIS DE MESA TARANCON</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>CTM ALMENDRALEJO EXTREMADURA</b></td><td>CLUB TENIS DE MESA ALMENDRALEJO</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>8</td><td align=center>0</td><td align=center>14</td><td align=center><b>16</b></td></tr><tr><td><b>CTM RODEO PETROGOLD DE CÁCERES</b></td><td>C.T.M. EL RODEO DE CÁCERES</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>ITV OCAÑA</b></td><td>CLUB TENIS DE MESA OCAÑA</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>9</td><td align=center>0</td><td align=center>13</td><td align=center><b>18</b></td></tr><tr><td><b>LEZAMA DEMOLICIONES TEMESA C.REAL</b></td><td>CLUB DEPORTIVO BASICO DE TENIS DE MESA CIUDAD REAL</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>MADRID CAPITAL TM</b></td><td>CDE MADRID CAPITAL DEL TENIS DE MESA</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>NAVALCAN TENIS DE MESA</b></td><td>NAVALCAN TENIS DE MESA</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>0</td><td align=center>0</td><td align=center>22</td><td align=center><b>0</b></td></tr><tr><td><b>NS SAN SEBASTIAN DE LOS REYES</b></td><td>CLUB TENIS DE MESA SAN S. DE LOS REYES</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>T.M. VILLAFRANCA-CATERING LA GRANFAMILIA</b></td><td>TENIS DE MESA VILLAFRANCA</td><td><span style="display:none">04M09</span>
+	<a href="view.php?liga=NA==&grupo=9&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-9</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>ALICANTE TM</b></td><td>CLUB TENIS DE MESA UNASYR ALICANTE</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>17</td><td align=center>0</td><td align=center>5</td><td align=center><b>34</b></td></tr><tr><td><b>ASOCIACION DEPORTIVA ELIOCROCA LLORCA TM</b></td><td>A.D.ELIOCROCA LORCA TM</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CLUB TENIS DE MESA VEGAS DEL GENIL</b></td><td>CLUB TENIS DE MESA VEGAS DEL GENIL</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB TENIS MESA ROQUETAS "A"</b></td><td>CLUB TENIS MESA ROQUETAS</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>18</td><td align=center>0</td><td align=center>4</td><td align=center><b>36</b></td></tr><tr><td><b>CLUB TENIS MESA ROQUETAS "B"</b></td><td>CLUB TENIS MESA ROQUETAS</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>CLUB TTENIS MESA  ALCOY</b></td><td>CLUB TENIS DE MESA ALCOY</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CTM EL PALMAR</b></td><td>CLUB DEPORTIVO MURCIA TENIS DE MESA</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>DAMA DE ELCHE OPTICA LOOK</b></td><td>CLUB TENIS DE MESA DAMA DE ELCHE</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>FRAMUSA TOTANA B</b></td><td>CLUB TOTANA TENIS MESA</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>GRANAPREMIUM.COM</b></td><td>CLUB BOLA DE PARTIDO LA ZUBIA</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>LA TORRETA TENIS DE MESA</b></td><td>CD IES LA TORRETA ELDA</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>UNIVERSIDAD POLITÉCNICA CARTAGENA TENIS </b></td><td>CLUB DEPORTIVO DE TENIS DE MESA DE CARTAGENA</td><td><span style="display:none">04M10</span>
+	<a href="view.php?liga=NA==&grupo=10&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-10</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>CARMONA TENIS DE MESA</b></td><td>CARMONA TENIS DE MESA</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>5</td><td align=center>0</td><td align=center>17</td><td align=center><b>10</b></td></tr><tr><td><b>CIRCULO MERCANTIL E INDUSTRIAL</b></td><td>CIRCULO MERCANTIL E INDUSTRIAL</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>CLUB CORIA T.M.</b></td><td>CLUB CORIA TENIS DE MESA</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>3</td><td align=center>0</td><td align=center>19</td><td align=center><b>6</b></td></tr><tr><td><b>CLUB MALAGA TENIS DE MESA</b></td><td>CLUB MALAGA TENIS DE MESA</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr><tr><td><b>CLUB TENIS DE MESA JAEN</b></td><td>CLUB TENIS DE MESA JAEN</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>CLUB TENIS DE MESA JEREZ</b></td><td>CLUB TENIS DE MESA JEREZ</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>2</td><td align=center>0</td><td align=center>20</td><td align=center><b>4</b></td></tr><tr><td><b>CLUB TENIS DE MESA MAZDA JEREZ</b></td><td>CLUB TENIS DE MESA JEREZ</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>13</td><td align=center>0</td><td align=center>9</td><td align=center><b>26</b></td></tr><tr><td><b>CONSERVAS LOLA</b></td><td>CLUB TENIS DE MESA AYAMONTE</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>12</td><td align=center>0</td><td align=center>10</td><td align=center><b>24</b></td></tr><tr><td><b>CORDOBA-81 FUNDACIÓN CABEZAS CARMONA</b></td><td>CLUB DEPORTIVO DE TENIS DE MESA CORDOBA-81</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>MARMOLEJO INSTALACIONES ELECTRICAS LOMAR</b></td><td>CTM MARMOLEJO</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>RC LABRADORES </b></td><td>REAL CIRCULO DE LABRADORES</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>TECNIGEN LINARES</b></td><td>REAL CLUB TENIS DE MESA LINARES</td><td><span style="display:none">04M11</span>
+	<a href="view.php?liga=NA==&grupo=11&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-11</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>ARUCAS TENIS DE MESA</b></td><td>CLUB DEPORTIVO FIRGONG</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>15</td><td align=center>0</td><td align=center>7</td><td align=center><b>30</b></td></tr><tr><td><b>C.D. PRAKAN DEL NORTE DE TENERIFE </b></td><td>C.D. PRAKAN DEL NORTE DE TENERIFE</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>10</td><td align=center>0</td><td align=center>12</td><td align=center><b>20</b></td></tr><tr><td><b>C.T.M. ACOROMA DE CANDELARIA</b></td><td>CLUB TENIS DE MESA ACOROMA</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>16</td><td align=center>0</td><td align=center>6</td><td align=center><b>32</b></td></tr><tr><td><b>CD PEÑA DE LA AMISTAD</b></td><td>CD PEÑA DE LA AMISTAD</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>7</td><td align=center>0</td><td align=center>15</td><td align=center><b>14</b></td></tr><tr><td><b>CIRCULO DE AMISTAD-TENERIFE</b></td><td>CIRCULO AMISTAD XII DE ENERO</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>22</td><td align=center>0</td><td align=center>0</td><td align=center><b>44</b></td></tr><tr><td><b>CLUB DEPORTIVO DE AJEDREZ HENAR Y SUS DRAGONES</b></td><td>CLUB DEPORTIVO DE AJEDREZ HENAR Y SUS DRAGONES</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>11</td><td align=center>0</td><td align=center>11</td><td align=center><b>22</b></td></tr><tr><td><b>CLUB DEPORTIVO YACAL</b></td><td>CLUB DEPORTIVO YACAL</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>CLUB TENIS DE MESA ACOROMA</b></td><td>CLUB TENIS DE MESA ACOROMA</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>CTM TABOR AÑAVINGO</b></td><td>CLUB TENIS DE MESA TABOR AÑAVINGO</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>14</td><td align=center>0</td><td align=center>8</td><td align=center><b>28</b></td></tr><tr><td><b>GRATEME OPTICA SEDANO </b></td><td>CLUB GRATEME T.M.</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>4</td><td align=center>0</td><td align=center>18</td><td align=center><b>8</b></td></tr><tr><td><b>TEMESPIN LOS LLANOS DE ARIDANE B</b></td><td>TEMESPIN</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>6</td><td align=center>0</td><td align=center>16</td><td align=center><b>12</b></td></tr><tr><td><b>TENIS DE MESA DEFENSE D BREÑA ALTA</b></td><td>TENIS DE MESA DEFENSE LA PALMA</td><td><span style="display:none">04M12</span>
+	<a href="view.php?liga=NA==&grupo=12&subgrupo=S&jornada=0&sexo=M">
+	<b>SDM-12</b></a></td><td align=center><b>22</b></td><td align=center>19</td><td align=center>0</td><td align=center>3</td><td align=center><b>38</b></td></tr></tbody></table></div>
+<script>
+$(document).ready(function() {
+
+/* Custom filtering function which will search data in column four between two values */
+
+    var table = $('#tblRK').DataTable({
+	  "order": [[2,'asc'], [0,'asc'], [1,'desc']],
+	  "lengthMenu": [[15, 25], [15, 25]],
+      "processing": true,
+      "searching": true,
+      "bPaginate": true,
+      "processing": true,
+      "ordering": true,
+      "info": false,
+      "responsive": true,
+      "language": {
+            "url": "//cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Spanish.json"
+        }
+    });
+
+
+
+} );
+</script>
+
+
+                                        <hr>
+
+                                        
+                                </div>
+
+                        </div>
+                        
+                        <div class="col-12 col-md-3 mt-4">
+                                <div class="row">    
+                                        <div class="col-12">           
+                                                <h4 class="text-decoration-none text-dark">Enlaces</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+                                        
+                                        <div class='col-6 col-md-12 py-2'><a href='https://tienda.rfetm.es/'><img src='/images/ganchos/promo_pelota2.jpg' class='w-100' title='TIENDA RFETM' /></a></div><div class='col-6 col-md-12 py-2'><a href='https://rfetm.es/resultados/2025-2026/view.php?liga=MQ==&grupo=0&subgrupo=S&jornada=0&sexo=F'><img src='/images/ganchos/iberdrola_LIGA.png' class='w-100' title='Iberdrola' /></a></div>                                </div> 
+
+                                <div class="pt-4"></div>
+
+                                <div class="row"> 
+                                        <div class="col-12">
+                                                <h4 class="text-decoration-none text-dark">Otros contenidos</h4>
+                                                <div class="section-title-separator secondary mb-4"></div>
+                                        </div>
+
+                                        <div class='col-12 col-xs-6 col-md-12 py-2'><a href='/contenido/17-pasos-caso-accidente' target='_self'><img src='/images/patrocinadores/parteaccidente.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://clubs.rfetm.es/' target=''><img src='/images/patrocinadores/inscripciones.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://licencias.rfetm.es' target='_blank'><img src='/images/patrocinadores/inscripciones2.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://resultados.rfetm.es/ctna/' target='_blank'><img src='/images/patrocinadores/intro-resultados.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circulares/0' target='_self'><img src='/images/patrocinadores/circulares.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/circularesynotasInteres' target='_self'><img src='/images/patrocinadores/circulares-int.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/notas-informativas' target='_self'><img src='/images/patrocinadores/notas.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/descargas-3' target='_self'><img src='/images/patrocinadores/d10.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/lista-fftt' target='_self'><img src='/images/patrocinadores/fftt.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='/noticia/4138-protocolo-para-la-prevencion-deteccion-y-actuacion-frente-el-acoso-y-el-abuso-sexual' target='_self'><img src='/images/patrocinadores/d9.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='https://www.csd.gob.es/sites/default/files/media/files/2018-09/manifiesto-mujer-y-deporte-def.pdf' target='_blank'><img src='/images/patrocinadores/d11.jpg' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ittf.com' target='_blank'><img src='/images/patrocinadores/ittf.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.ettu.org' target='_blank'><img src='/images/patrocinadores/ettu.png' class='w-100' /></a></div><div class='col-12 col-xs-6 col-md-12 py-2'><a href='http://www.fibetm.net' target='_blank'><img src='/images/patrocinadores/fibe.png' class='w-100' /></a></div>  
+                                </div>                      
+                        
+                        </div>
+                </div>
+        </div>
+
+        <footer>  
+    <div class="container">  
+        <div class="bg-light py-2 px-4 mx-n3">
+    <div class="row bg-white d-flex justify-content-center">
+     
+
+<div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.csd.gob.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/csd.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.csd.gob.es/es/promocion-del-deporte/universo-mujer-ii' target='_blank'><img src='http://rfetm.es/images/patrocinadores/universo-mujer-V-web.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.coe.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/coe.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.paralimpicos.es' target='_blank'><img src='http://rfetm.es/images/patrocinadores/cpe_colnew.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.joma-sport.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/joma.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://joola.com/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/JOOLA_v.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.iberdrola.es/' target='_blank'><img src='http://rfetm.es/images/patrocinadores/iberdrola.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='http://www.selae.es/es/web-corporativa/responsabilidad-social/con-el-deporte/con-el-deporte.info' target='_blank'><img src='http://rfetm.es/images/patrocinadores/loterias.jpg' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='' target='_blank'><img src='http://rfetm.es/images/patrocinadores/verallia.png' class='w-100' /></a></div></div><div class='col-4 col-md-1 p-2 bg-white'><div class='h-100 d-flex align-items-center justify-content-center'><a href='https://www.halconviajes.com' target='_blank'><img src='http://rfetm.es/images/patrocinadores/halcon.png' class='w-100' /></a></div></div>
