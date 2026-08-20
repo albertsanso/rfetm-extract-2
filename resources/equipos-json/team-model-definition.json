@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Modelo de equipos de la RFETM",
+  "description": "Definición descriptiva y de validación para los ficheros resources/equipos-json/*.json. Cada elemento representa la participación de un equipo en una categoría durante una temporada.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "$ref": "#/$defs/equipo"
+  },
+  "$defs": {
+    "equipo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "season",
+        "club_name",
+        "team_name",
+        "category"
+      ],
+      "properties": {
+        "season": {
+          "type": "string",
+          "description": "Temporada deportiva en formato YYYY-YYYY. En cada fichero observado coincide con el nombre del fichero.",
+          "pattern": "^[0-9]{4}-[0-9]{4}$",
+          "minLength": 9,
+          "maxLength": 9,
+          "examples": [
+            "2019-2020",
+            "2024-2025",
+            "2025-2026"
+          ]
+        },
+        "club_name": {
+          "type": "string",
+          "description": "Nombre del club o entidad deportiva asociado al equipo.",
+          "minLength": 1,
+          "examples": [
+            "CLUB TENNIS TAULA OLOT",
+            "CLUB DEPORTIVO INDIANA GAMES"
+          ]
+        },
+        "team_name": {
+          "type": "string",
+          "description": "Nombre del equipo participante. Puede coincidir con el nombre del club y puede incluir patrocinadores.",
+          "minLength": 1,
+          "examples": [
+            "C.T.T. OLOT - CAPDEVILA PERMAR",
+            "CLINIQAS.COM"
+          ]
+        },
+        "category": {
+          "type": "string",
+          "description": "Código de la categoría o fase competitiva. Se mantienen las variantes históricas observadas, como DHF-01, DHF-1A, FF-DHF-1/2, PA-DHF-1/2 y FA-DHF.",
+          "minLength": 1,
+          "pattern": "^(?:SUF|SUM|[A-Z0-9]+(?:-[A-Z0-9]+)+(?:/[A-Z0-9]+)?)$",
+          "examples": [
+            "SUF",
+            "SUM",
+            "DHF-1",
+            "DHF-01",
+            "DHF-1A",
+            "FF-DHF-1/2",
+            "PA-DHF-1/2",
+            "FA-DHF"
+          ]
+        }
+      }
+    }
+  },
+  "examples": [
+    [
+      {
+        "season": "2024-2025",
+        "club_name": "CLUB TENNIS TAULA OLOT",
+        "team_name": "C.T.T. OLOT - CAPDEVILA PERMAR",
+        "category": "SUM"
+      }
+    ]
+  ]
+}
+
