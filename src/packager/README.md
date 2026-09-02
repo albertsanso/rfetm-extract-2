@@ -2,8 +2,9 @@
 
 `package_teams.py` crea `equipos-json.zip` en `resources/`. Incluye
 todos los archivos `.json` de `resources/equipos-json/`, conservando sus rutas
-relativas, y añade `manifest.json` con la ruta y el tamaño en bytes de cada
-archivo incluido.
+relativas, y añade `manifest.json` con un array `files` de rutas relativas de
+los archivos JSON incluidos, además de la lista ordenada de temporadas
+detectadas.
 
 Desde la raíz del repositorio:
 
@@ -18,12 +19,13 @@ reemplazar un ZIP existente con `--force`:
 python src/packager/package_teams.py --input-dir resources/equipos-json --output-file equipos-json.zip --force
 ```
 
-Para empaquetar únicamente una temporada, el valor corresponde a la primera
-carpeta bajo el directorio de entrada. Si no se indica `--output-file`, el ZIP
-se llamará `equipos-json-<season>.zip`:
+Para empaquetar una o varias temporadas, se pueden indicar valores separados
+por comas. El valor corresponde a la primera carpeta bajo el directorio de
+entrada o al nombre `<season>.json` cuando el archivo está en la raíz. Si no se
+indica `--output-file`, el ZIP se llamará `equipos-json-<seasons>.zip`:
 
 ```powershell
-python src/packager/package_teams.py --season 2025-2026 --force
+python src/packager/package_teams.py --season 2023-2024,2024-2025 --force
 ```
 
 Un `--output-file` explícito tiene prioridad sobre el nombre automático:
@@ -36,7 +38,8 @@ python src/packager/package_teams.py --season 2025-2026 --output-file salida.zip
 
 `package_actas.py` crea `actas-json.zip` en `resources/`. Incluye todos los
 archivos `.json` de `resources/actas-json/`, conserva sus rutas relativas y
-añade `manifest.json` con la ruta y el tamaño en bytes de cada archivo.
+añade `manifest.json` con la lista ordenada de temporadas detectadas y un array
+`files` de rutas relativas de los archivos JSON incluidos.
 
 ```powershell
 python src/packager/package_actas.py
@@ -48,12 +51,13 @@ Para indicar otras rutas o reemplazar un ZIP existente:
 python src/packager/package_actas.py --input-dir resources/actas-json --output-file actas-json.zip --force
 ```
 
-También se puede empaquetar únicamente una temporada. El valor corresponde a
-la primera carpeta bajo el directorio de entrada. Si no se indica
-`--output-file`, el ZIP se llamará `actas-json-<season>.zip`:
+También se pueden empaquetar una o varias temporadas usando valores separados
+por comas. El valor corresponde a la primera carpeta bajo el directorio de
+entrada. Si no se indica `--output-file`, el ZIP se llamará
+`actas-json-<seasons>.zip`:
 
 ```powershell
-python src/packager/package_actas.py --season 2025-2026 --force
+python src/packager/package_actas.py --season 2023-2024,2024-2025 --force
 ```
 
 Cuando se especifica `--output-file`, ese nombre tiene prioridad:

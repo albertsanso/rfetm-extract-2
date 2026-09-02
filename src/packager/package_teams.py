@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import zipfile
 from pathlib import Path
 
@@ -11,20 +12,50 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 DEFAULT_INPUT_DIR = REPO_ROOT / "resources" / "equipos-json"
 DEFAULT_OUTPUT_FILE = REPO_ROOT / "resources" / "equipos-json.zip"
+SEASON_PATTERN = re.compile(r"^\d{4}-\d{4}$")
 
 
-def find_json_files(input_dir: Path, season: str | None = None) -> list[Path]:
-    """Devuelve los JSON ordenados, opcionalmente limitados a una temporada."""
+def parse_seasons(value: str) -> list[str]:
+    """Convierte una lista de temporadas separada por comas en valores únicos."""
+    seasons = [season.strip() for season in value.split(",")]
+    if not all(seasons):
+        raise argparse.ArgumentTypeError(
+            "--season debe contener temporadas no vacías separadas por comas."
+        )
+    invalid_seasons = [
+        season for season in seasons if not SEASON_PATTERN.fullmatch(season)
+    ]
+    if invalid_seasons:
+        raise argparse.ArgumentTypeError(
+            "Formato de temporada no válido: " + ", ".join(invalid_seasons)
+        )
+    return list(dict.fromkeys(seasons))
+
+
+def find_json_files(
+    input_dir: Path, seasons: list[str] | str | None = None
+) -> list[Path]:
+    """Devuelve los JSON ordenados, opcionalmente limitados a varias temporadas."""
+    selected_seasons = (
+        parse_seasons(seasons) if isinstance(seasons, str) else seasons
+    )
     return sorted(
         (
             path
             for path in input_dir.rglob("*.json")
             if path.is_file()
             and (
-                season is None
+                selected_seasons is None
                 or (
                     path.relative_to(input_dir).parts
-                    and path.relative_to(input_dir).parts[0] == season
+                    and (
+                        path.relative_to(input_dir).parts[0] in selected_seasons
+                        or (
+                            len(path.relative_to(input_dir).parts) == 1
+                            and Path(path.relative_to(input_dir).parts[0]).stem
+                            in selected_seasons
+                        )
+                    )
                 )
             )
         ),
@@ -32,17 +63,25 @@ def find_json_files(input_dir: Path, season: str | None = None) -> list[Path]:
     )
 
 
-def build_manifest(files: list[Path], input_dir: Path) -> dict[str, str | list[dict[str, str | int]]]:
-    """Construye el manifiesto con las rutas relativas y tamaños de los archivos."""
+def build_manifest(
+    files: list[Path], input_dir: Path
+) -> dict[str, str | list[str]]:
+    """Construye el manifiesto con archivos y temporadas detectadas."""
+    relative_paths = [path.relative_to(input_dir) for path in files]
+    seasons = sorted(
+        {
+            Path(part).stem
+            for relative_path in relative_paths
+            for part in relative_path.parts
+            if SEASON_PATTERN.fullmatch(Path(part).stem)
+        }
+    )
     return {
         "source": "RFETM",
+        "seasons": seasons,
         "files": [
-            {
-                "path": path.relative_to(input_dir).as_posix(),
-                "size": path.stat().st_size,
-            }
-            for path in files
-        ]
+            relative_path.as_posix() for relative_path in relative_paths
+        ],
     }
 
 
@@ -50,7 +89,7 @@ def package_teams(
     input_dir: Path,
     output_file: Path,
     force: bool = False,
-    season: str | None = None,
+    seasons: list[str] | str | None = None,
 ) -> int:
     """Crea el ZIP y devuelve el número de JSON empaquetados."""
     if not input_dir.is_dir():
@@ -60,7 +99,7 @@ def package_teams(
             f"El archivo de salida ya existe: {output_file}. Usa --force para reemplazarlo."
         )
 
-    files = find_json_files(input_dir, season)
+    files = find_json_files(input_dir, seasons)
     manifest = build_manifest(files, input_dir)
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
@@ -90,7 +129,7 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         help=(
             "ZIP de salida (por defecto: equipos-json.zip, o "
-            "equipos-json-<season>.zip si se indica --season)."
+            "equipos-json-<seasons>.zip si se indica --season)."
         ),
     )
     parser.add_argument(
@@ -100,7 +139,11 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--season",
-        help="Limita el paquete a una temporada, por ejemplo 2025-2026.",
+        type=parse_seasons,
+        help=(
+            "Limita el paquete a una o varias temporadas separadas por comas, "
+            "por ejemplo 2023-2024,2024-2025."
+        ),
     )
     return parser.parse_args()
 
@@ -110,7 +153,7 @@ def main() -> None:
     output_file = args.output_file
     if output_file is None:
         output_file = (
-            DEFAULT_OUTPUT_FILE.parent / f"equipos-json-{args.season}.zip"
+            DEFAULT_OUTPUT_FILE.parent / f"equipos-json-{','.join(args.season)}.zip"
             if args.season
             else DEFAULT_OUTPUT_FILE
         )
