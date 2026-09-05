@@ -22,6 +22,7 @@ El manifiesto debe tener exactamente esta estructura:
 ```json
 {
   "source": "RFETM",
+  "asset_type": "TEAMS",
   "seasons": [
     "2024-2025",
     "2025-2026"
@@ -36,6 +37,7 @@ El manifiesto debe tener exactamente esta estructura:
 Reglas del formato:
 
 - `source` es siempre la cadena `"RFETM"`.
+- `asset_type` es siempre la cadena `"TEAMS"`.
 - `seasons` es una lista ordenada alfabéticamente de las temporadas `YYYY-YYYY`
   presentes en las rutas o nombres de los JSON incluidos. Puede estar vacía si
   no hay temporadas.

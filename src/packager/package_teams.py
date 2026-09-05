@@ -78,6 +78,7 @@ def build_manifest(
     )
     return {
         "source": "RFETM",
+        "asset_type": "TEAMS",
         "seasons": seasons,
         "files": [
             relative_path.as_posix() for relative_path in relative_paths

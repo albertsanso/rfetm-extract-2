@@ -2,9 +2,9 @@
 
 `package_teams.py` crea `equipos-json.zip` en `resources/`. Incluye
 todos los archivos `.json` de `resources/equipos-json/`, conservando sus rutas
-relativas, y añade `manifest.json` con un array `files` de rutas relativas de
-los archivos JSON incluidos, además de la lista ordenada de temporadas
-detectadas.
+relativas, y añade `manifest.json` con `source` igual a `RFETM`, `asset_type`
+igual a `TEAMS`, un array `files` de rutas relativas de los archivos JSON
+incluidos y la lista ordenada de temporadas detectadas.
 
 Desde la raíz del repositorio:
 
@@ -38,8 +38,9 @@ python src/packager/package_teams.py --season 2025-2026 --output-file salida.zip
 
 `package_actas.py` crea `actas-json.zip` en `resources/`. Incluye todos los
 archivos `.json` de `resources/actas-json/`, conserva sus rutas relativas y
-añade `manifest.json` con la lista ordenada de temporadas detectadas y un array
-`files` de rutas relativas de los archivos JSON incluidos.
+añade `manifest.json` con `source` igual a `RFETM`, `asset_type` igual a
+`ACTAS`, la lista ordenada de temporadas detectadas y un array `files` de rutas
+relativas de los archivos JSON incluidos.
 
 ```powershell
 python src/packager/package_actas.py
