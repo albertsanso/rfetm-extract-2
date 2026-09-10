@@ -2,100 +2,173 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 6,
+  "grupo": 1,
   "jornada": 12,
-  "fecha": "2022-03-20",
-  "hora": "11:30",
+  "fecha": "2022-03-19",
+  "hora": "18:00",
   "lugar": {
-    "recinto": "PABELLON CUBIERTO MUNICIPAL",
-    "ciudad": "C/ CADIZ, 4 21400-Ayamonte(Huelva)"
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "C/ JUAN DE PADILLA, S N 9006-Burgos(Burgos)"
   },
   "equipos": {
     "local": {
-      "nombre": "CONSERVAS LOLA",
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "C.T.M BAHÍA DE CÁDIZ",
+      "nombre": "CLUB DEL MAR",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "ANTONIO MATEO PEREZ",
+      "nombre": "JOAQUIN MENDEZ RUBIO",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
+      "Y": {
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
       },
-      "B": {
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+      "X": {
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
       },
-      "C": {
-        "nombre": "DARIO ARCE REZA",
-        "licencia": "38463",
-        "id": "38463"
+      "Z": {
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "GUILLERMO PACHECO CORTES",
-        "licencia": "19212",
-        "id": "19212"
+      "A": {
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
       },
-      "X": {
-        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
-        "licencia": "2629",
-        "id": "2629"
+      "B": {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
       },
-      "Z": {
-        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
-        "licencia": "15864",
-        "id": "15864"
+      "C": {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      {
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
+        "letra": "Y",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "GUILLERMO PACHECO CORTES",
-        "licencia": "19212",
-        "id": "19212"
+        "letra": "A",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
-          "visitante": 11
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 2,
-          "local": 7,
+          "local": 5,
           "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
@@ -104,40 +177,83 @@
         },
         {
           "set": 4,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 6
+          "local": 12,
+          "visitante": 10
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
-        "visitante": 0
+        "visitante": 1
       }
     },
     {
-      "numero": 2,
+      "numero": 3,
       "tipo": "individual",
-      "cruce": "B vs X",
+      "cruce": "C vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+        "letra": "Z",
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
       },
       "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
         "letra": "X",
-        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
-        "licencia": "2629",
-        "id": "2629"
+        "nombre": "AITOR COLINA VARONA",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
       },
       "sets": [
         {
@@ -152,111 +268,15 @@
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 10
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "DARIO ARCE REZA",
-        "licencia": "38463",
-        "id": "38463"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
-        "licencia": "15864",
-        "id": "15864"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 4
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "A",
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "ANTONIO RODRIGUEZ CARDENAS",
-        "licencia": "2629",
-        "id": "2629"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 2,
           "local": 11,
           "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 7,
-          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 0
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
         "visitante": 1
@@ -267,42 +287,47 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "DARIO ARCE REZA",
-        "licencia": "38463",
-        "id": "38463"
+        "letra": "Y",
+        "nombre": "MARCOS SAN MIGUEL GARCIA",
+        "licencia": "19995",
+        "id": "19995"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "GUILLERMO PACHECO CORTES",
-        "licencia": "19212",
-        "id": "19212"
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 13
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 4
+          "local": 2,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 5
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
+        "local": 1,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 1
+        "local": 3,
+        "visitante": 2
       }
     },
     {
@@ -310,22 +335,22 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+        "letra": "Z",
+        "nombre": "DAVID BARRIUSO AUSIN",
+        "licencia": "2890",
+        "id": "2890"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "FRANCISCO ALEJANDRO GROSSO MORENO",
-        "licencia": "15864",
-        "id": "15864"
+        "letra": "B",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 12,
+          "visitante": 14
         },
         {
           "set": 2,
@@ -339,30 +364,91 @@
         },
         {
           "set": 4,
-          "local": 11,
-          "visitante": 4
+          "local": 8,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 1,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 5,
-        "visitante": 1
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AITOR COLINA VARONA",
+            "licencia": "19271",
+            "id": "19271"
+          },
+          {
+            "nombre": "DAVID BARRIUSO AUSIN",
+            "licencia": "2890",
+            "id": "2890"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DIEGO VARELA SUAREZ",
+            "licencia": "16657",
+            "id": "16657"
+          },
+          {
+            "nombre": "JAVIER DIZ CONDE",
+            "licencia": "17803",
+            "id": "17803"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CONSERVAS LOLA",
+    "ganador": "CLUB DEL MAR",
     "marcador_partidos": {
-      "local": 5,
-      "visitante": 1
+      "local": 3,
+      "visitante": 4
     },
     "marcador_juegos": {
-      "local": 17,
-      "visitante": 6
+      "local": 12,
+      "visitante": 14
     }
   },
   "acta_protestada": false

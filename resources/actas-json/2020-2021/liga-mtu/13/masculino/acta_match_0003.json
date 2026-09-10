@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 9,
+  "grupo": 1,
   "jornada": 13,
   "fecha": "2021-05-22",
-  "hora": "17:00",
+  "hora": "16:30",
   "lugar": {
-    "recinto": "SALA TENNIS TAULA CAN BALSACH C/MARIA DE BELL",
-    "ciudad": "LLOC, 35 - Sabadell (Barcelona)"
+    "recinto": "PABELLON VITE COLEGIO AVENIDA BURGO DAS NACIONS ,8",
+    "ciudad": "Santiago de Compostela (A Coruña)"
   },
   "equipos": {
     "local": {
-      "nombre": "FALCONS SABADELL - SMATSA AGORA GRUP",
+      "nombre": "ZOOLANDIA CONXO TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CLUB PALMA TENNIS TAULA",
+      "nombre": "VETERANOS EXPECTORANTES",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "CARLOS ZAPATA PAEZ",
+      "nombre": "ALEJANDRO SEOANE SEOANE",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "AGUSTI MARTIN CUCURELLA",
-        "licencia": "1768",
-        "id": "1768"
+      "A": {
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
       },
-      "X": {
-        "nombre": "DOMENEC CREUS PEDROL",
-        "licencia": "4894",
-        "id": "4894"
+      "B": {
+        "nombre": "ADRIANO CALDERONI FRANCES",
+        "licencia": "18683",
+        "id": "18683"
       },
-      "Z": {
-        "nombre": "CARLOS GARCIA MOMBLONA",
-        "licencia": "3993",
-        "id": "3993"
+      "C": {
+        "nombre": "SIMON RAÑA GUERRA",
+        "licencia": "7836",
+        "id": "7836"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "JUAN GARCÍA SALAMANCA",
-        "licencia": "21164",
-        "id": "21164"
+      "Y": {
+        "nombre": "VLADIMIR STUZNINSKIY",
+        "licencia": "14569",
+        "id": "14569"
       },
-      "B": {
-        "nombre": "JAUME OLIVER GONZALEZ",
-        "licencia": "9517",
-        "id": "9517"
+      "X": {
+        "nombre": "RODRIGO MARTINEZ DIAZ",
+        "licencia": "6165",
+        "id": "6165"
       },
-      "C": {
-        "nombre": "MANUEL MONTALVO AVALOS",
-        "licencia": "9298",
-        "id": "9298"
+      "Z": {
+        "nombre": "JAVIER FERNANDEZ ESTEVEZ",
+        "licencia": "6974",
+        "id": "6974"
       }
     }
   },
@@ -75,42 +75,37 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AGUSTI MARTIN CUCURELLA",
-        "licencia": "1768",
-        "id": "1768"
+        "letra": "A",
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "JUAN GARCÍA SALAMANCA",
-        "licencia": "21164",
-        "id": "21164"
+        "letra": "Y",
+        "nombre": "VLADIMIR STUZNINSKIY",
+        "licencia": "14569",
+        "id": "14569"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 14
+          "local": 11,
+          "visitante": 1
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 9
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 4,
           "local": 11,
           "visitante": 6
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -123,47 +118,47 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "DOMENEC CREUS PEDROL",
-        "licencia": "4894",
-        "id": "4894"
+        "letra": "B",
+        "nombre": "ADRIANO CALDERONI FRANCES",
+        "licencia": "18683",
+        "id": "18683"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "JAUME OLIVER GONZALEZ",
-        "licencia": "9517",
-        "id": "9517"
+        "letra": "X",
+        "nombre": "RODRIGO MARTINEZ DIAZ",
+        "licencia": "6165",
+        "id": "6165"
       },
       "sets": [
         {
           "set": 1,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 2,
           "local": 11,
           "visitante": 7
         },
         {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
           "set": 3,
-          "local": 9,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 4,
-          "local": 8,
-          "visitante": 11
+          "local": 12,
+          "visitante": 10
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
+        "local": 3,
         "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
       }
     },
     {
@@ -171,75 +166,22 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "CARLOS GARCIA MOMBLONA",
-        "licencia": "3993",
-        "id": "3993"
-      },
-      "visitante": {
         "letra": "C",
-        "nombre": "MANUEL MONTALVO AVALOS",
-        "licencia": "9298",
-        "id": "9298"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 8
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "DOMENEC CREUS PEDROL",
-        "licencia": "4894",
-        "id": "4894"
+        "nombre": "SIMON RAÑA GUERRA",
+        "licencia": "7836",
+        "id": "7836"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "JUAN GARCÍA SALAMANCA",
-        "licencia": "21164",
-        "id": "21164"
+        "letra": "Z",
+        "nombre": "JAVIER FERNANDEZ ESTEVEZ",
+        "licencia": "6974",
+        "id": "6974"
       },
       "sets": [
         {
           "set": 1,
-          "local": 13,
-          "visitante": 11
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
@@ -248,23 +190,71 @@
         },
         {
           "set": 3,
-          "local": 14,
-          "visitante": 12
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 4,
           "local": 11,
           "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
-        "visitante": 1
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EDUARDO QUINTELA PAZ",
+        "licencia": "8390",
+        "id": "8390"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGO MARTINEZ DIAZ",
+        "licencia": "6165",
+        "id": "6165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
       }
     },
     {
@@ -272,47 +262,52 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AGUSTI MARTIN CUCURELLA",
-        "licencia": "1768",
-        "id": "1768"
+        "letra": "C",
+        "nombre": "SIMON RAÑA GUERRA",
+        "licencia": "7836",
+        "id": "7836"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "MANUEL MONTALVO AVALOS",
-        "licencia": "9298",
-        "id": "9298"
+        "letra": "Y",
+        "nombre": "VLADIMIR STUZNINSKIY",
+        "licencia": "14569",
+        "id": "14569"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 7
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 5,
+          "local": 13,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 13
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 4,
-          "local": 5,
-          "visitante": 11
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
         "local": 3,
         "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
       }
     },
     {
@@ -320,59 +315,64 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "CARLOS GARCIA MOMBLONA",
-        "licencia": "3993",
-        "id": "3993"
+        "letra": "B",
+        "nombre": "CESAR GARCIA GOMEZ",
+        "licencia": "2017",
+        "id": "2017"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "JAUME OLIVER GONZALEZ",
-        "licencia": "9517",
-        "id": "9517"
+        "letra": "Z",
+        "nombre": "JAVIER FERNANDEZ ESTEVEZ",
+        "licencia": "6974",
+        "id": "6974"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 4
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 6
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 2,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 2
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": "FALCONS SABADELL - SMATSA AGORA GRUP",
+    "ganador": "ZOOLANDIA CONXO TM",
     "marcador_partidos": {
-      "local": 4,
-      "visitante": 2
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 14,
-      "visitante": 11
+      "local": 17,
+      "visitante": 8
     }
   },
   "acta_protestada": false

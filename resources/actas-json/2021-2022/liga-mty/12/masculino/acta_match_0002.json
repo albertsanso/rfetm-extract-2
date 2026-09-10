@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 12,
   "fecha": "2022-03-20",
   "hora": "11:00",
   "lugar": {
-    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
-    "ciudad": "AVDA. ROMEU ZARANDIETA, S N 3005-Alicante/Alacant(Alicante)"
+    "recinto": "PABELLON CASTELAO",
+    "ciudad": "CALLE CASTELAO Nº 13 36600-Vilagarcía de Arousa(Pontevedra)"
   },
   "equipos": {
     "local": {
-      "nombre": "ALICANTE TM",
+      "nombre": "VILAGARCIA TENIS DE MESA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "HORTALEZA TM",
+      "nombre": "ALCOBENDAS TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "LAURA ENGUIDANOS GUERRERO",
+      "nombre": "SERAFIN BARREIRO ALVAREZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+      "Y": {
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
       },
-      "B": {
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+      "X": {
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
       },
-      "C": {
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+      "Z": {
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+      "A": {
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
-      "X": {
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+      "B": {
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
-      "Z": {
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
+      "C": {
+        "nombre": "HECTOR FRANK SOLA SARDUY",
+        "licencia": "19990",
+        "id": "19990"
       }
     }
   },
@@ -75,37 +75,42 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+        "letra": "Y",
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+        "letra": "A",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 9
+          "visitante": 7
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 4
         },
         {
           "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
           "local": 11,
-          "visitante": 6
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -118,41 +123,46 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "B",
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+        "letra": "X",
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+        "letra": "B",
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 8
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 8
         },
         {
           "set": 3,
-          "local": 10,
-          "visitante": 12
+          "local": 6,
+          "visitante": 11
         },
         {
           "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
           "local": 7,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 1,
+        "local": 2,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -166,32 +176,32 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "C",
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+        "letra": "Z",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
+        "letra": "C",
+        "nombre": "HECTOR FRANK SOLA SARDUY",
+        "licencia": "19990",
+        "id": "19990"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 3
+          "visitante": 6
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 3
+          "visitante": 9
         },
         {
           "set": 3,
-          "local": 13,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
@@ -209,32 +219,32 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+        "letra": "X",
+        "nombre": "PEDRO CASTRO SALGADO",
+        "licencia": "16939",
+        "id": "16939"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+        "letra": "A",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 0,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 13
+          "local": 6,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
@@ -252,32 +262,32 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+        "letra": "Y",
+        "nombre": "SERGIY NIGERUK NIGERUK",
+        "licencia": "4037",
+        "id": "4037"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+        "letra": "C",
+        "nombre": "HECTOR FRANK SOLA SARDUY",
+        "licencia": "19990",
+        "id": "19990"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 3
+          "visitante": 9
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 7
+          "visitante": 2
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
@@ -295,37 +305,42 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+        "letra": "Z",
+        "nombre": "LAWAL ABIODUM GANIU",
+        "licencia": "24148",
+        "id": "24148"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
+        "letra": "B",
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 1
+          "visitante": 8
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 3
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 3
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -335,14 +350,14 @@
     }
   ],
   "resultado_final": {
-    "ganador": "ALICANTE TM",
+    "ganador": "VILAGARCIA TENIS DE MESA",
     "marcador_partidos": {
       "local": 4,
       "visitante": 2
     },
     "marcador_juegos": {
-      "local": 13,
-      "visitante": 6
+      "local": 14,
+      "visitante": 8
     }
   },
   "acta_protestada": false

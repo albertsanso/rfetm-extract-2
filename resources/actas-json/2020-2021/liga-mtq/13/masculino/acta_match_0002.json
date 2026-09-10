@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 9,
+  "grupo": 1,
   "jornada": 13,
   "fecha": "2021-05-22",
   "hora": "10:00",
   "lugar": {
-    "recinto": "ESCUELA NTRA. SRA. MONTSERRAT C/ COLON, ESQ. FERROCARRILES CATALANES",
-    "ciudad": "Olesa de Montserrat (Barcelona)"
+    "recinto": "PABELLON IES PUNTALARGA AVDA. LOS MENCEYES S/Nº",
+    "ciudad": "Candelaria (Santa Cruz de Tenerife)"
   },
   "equipos": {
     "local": {
-      "nombre": "C.T.T. OLOT",
+      "nombre": "T.M. DEFENSE-LA PALMA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "WBTRAVEL CLUB TENNIS TAULA RIPOLLET",
+      "nombre": "CTM TABOR AÑAVINGO",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "RICHARD GARCIA MOMBLONA",
+      "nombre": "JOSE MARIO PADILLA PEREZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
+      "Y": {
+        "nombre": "MATIAS TRIANA SANCHEZ",
+        "licencia": "33526",
+        "id": "33526"
       },
-      "B": {
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
+      "X": {
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
       },
-      "C": {
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
+      "Z": {
+        "nombre": "ADAN LORENZO VENTURA",
+        "licencia": "27111",
+        "id": "27111"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "IZANI MORA LEMUS",
-        "licencia": "25762",
-        "id": "25762"
+      "A": {
+        "nombre": "RAYCO REYES YANES",
+        "licencia": "1753",
+        "id": "1753"
       },
-      "X": {
-        "nombre": "ENRIC BARCELO MAS",
-        "licencia": "19263",
-        "id": "19263"
+      "B": {
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
       },
-      "Z": {
-        "nombre": "MARTI BERENGUER MIMO",
-        "licencia": "10302",
-        "id": "10302"
+      "C": {
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
       }
     }
   },
@@ -75,22 +75,22 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
+        "letra": "Y",
+        "nombre": "MATIAS TRIANA SANCHEZ",
+        "licencia": "33526",
+        "id": "33526"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "IZANI MORA LEMUS",
-        "licencia": "25762",
-        "id": "25762"
+        "letra": "A",
+        "nombre": "RAYCO REYES YANES",
+        "licencia": "1753",
+        "id": "1753"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 4
+          "local": 1,
+          "visitante": 11
         },
         {
           "set": 2,
@@ -99,12 +99,12 @@
         },
         {
           "set": 3,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 4,
-          "local": 7,
+          "local": 9,
           "visitante": 11
         }
       ],
@@ -123,175 +123,36 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
+        "letra": "X",
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "visitante": {
         "letra": "B",
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "ENRIC BARCELO MAS",
-        "licencia": "19263",
-        "id": "19263"
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 13
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "MARTI BERENGUER MIMO",
-        "licencia": "10302",
-        "id": "10302"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 1
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "A",
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "ENRIC BARCELO MAS",
-        "licencia": "19263",
-        "id": "19263"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "C",
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
-      },
-      "visitante": {
-        "letra": "Y",
-        "nombre": "IZANI MORA LEMUS",
-        "licencia": "25762",
-        "id": "25762"
-      },
-      "sets": [
-        {
-          "set": 1,
           "local": 11,
           "visitante": 9
         },
         {
-          "set": 2,
-          "local": 9,
-          "visitante": 11
-        },
-        {
           "set": 3,
-          "local": 4,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 4,
-          "local": 4,
+          "local": 9,
           "visitante": 11
         }
       ],
@@ -301,31 +162,117 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
+        "local": 0,
         "visitante": 2
       }
     },
     {
-      "numero": 6,
+      "numero": 3,
       "tipo": "individual",
-      "cruce": "B vs Z",
+      "cruce": "C vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
+        "letra": "Z",
+        "nombre": "ADAN LORENZO VENTURA",
+        "licencia": "27111",
+        "id": "27111"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "MARTI BERENGUER MIMO",
-        "licencia": "10302",
-        "id": "10302"
+        "letra": "C",
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANGEL GARRIDO MARTIN",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RAYCO REYES YANES",
+        "licencia": "1753",
+        "id": "1753"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MATIAS TRIANA SANCHEZ",
+        "licencia": "33526",
+        "id": "33526"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
         },
         {
           "set": 2,
@@ -334,40 +281,73 @@
         },
         {
           "set": 3,
-          "local": 7,
+          "local": 9,
           "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 8
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 2
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ADAN LORENZO VENTURA",
+        "licencia": "27111",
+        "id": "27111"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
       }
     }
   ],
   "resultado_final": {
-    "ganador": "C.T.T. OLOT",
+    "ganador": "CTM TABOR AÑAVINGO",
     "marcador_partidos": {
-      "local": 4,
-      "visitante": 2
+      "local": 1,
+      "visitante": 5
     },
     "marcador_juegos": {
-      "local": 14,
-      "visitante": 10
+      "local": 5,
+      "visitante": 15
     }
   },
   "acta_protestada": false

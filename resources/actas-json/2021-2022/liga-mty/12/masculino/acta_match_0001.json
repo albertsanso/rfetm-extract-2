@@ -2,94 +2,119 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 12,
   "fecha": "2022-03-20",
-  "hora": "10:30",
+  "hora": "10:00",
   "lugar": {
-    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL",
-    "ciudad": "AVDA. NAVARRONDAN, S N 28702-San Sebastián de los Reyes(Madrid)"
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "C/OLAKETA S N 20303-Irun(Guipúzcoa)"
   },
   "equipos": {
     "local": {
-      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "nombre": "IRUN LEKA ENEA ASCENSORES BIDASOA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "nombre": "CTM MILAGROSA",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "JOSE FRANCISCO CIFUENTES GARRIDO",
+      "nombre": "JOSE ANTONIO ECHEVERRIA URRETA",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
-        "licencia": "2829",
-        "id": "2829"
+      "Y": {
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       },
-      "B": {
-        "nombre": "CARLOS MARTIN VARGAS",
-        "licencia": "2576",
-        "id": "2576"
+      "X": {
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
-      "C": {
-        "nombre": "YOHAN RINOL MORA SANCHEZ",
-        "licencia": "29448",
-        "id": "29448"
+      "Z": {
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+      "A": {
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       },
-      "X": {
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
+      "B": {
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
-      "Z": {
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+      "C": {
+        "nombre": "MARTIN GONZALEZ MIGUEZ",
+        "licencia": "9188",
+        "id": "9188"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
+      },
+      {
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
+      },
+      {
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
-        "licencia": "2829",
-        "id": "2829"
+        "letra": "Y",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+        "letra": "A",
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
+          "local": 8,
           "visitante": 11
         },
         {
@@ -99,22 +124,17 @@
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 4,
-          "local": 8,
+          "local": 6,
           "visitante": 11
         },
         {
-          "set": 5,
-          "local": 7,
+          "set": 4,
+          "local": 4,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 1,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -128,37 +148,47 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "B",
-        "nombre": "CARLOS MARTIN VARGAS",
-        "licencia": "2576",
-        "id": "2576"
+        "letra": "X",
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
+        "letra": "B",
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
           "local": 11,
           "visitante": 5
         },
         {
-          "set": 3,
-          "local": 12,
-          "visitante": 10
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -171,32 +201,32 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "C",
-        "nombre": "YOHAN RINOL MORA SANCHEZ",
-        "licencia": "29448",
-        "id": "29448"
+        "letra": "Z",
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+        "letra": "C",
+        "nombre": "MARTIN GONZALEZ MIGUEZ",
+        "licencia": "9188",
+        "id": "9188"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 2
+          "visitante": 7
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 8
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
@@ -214,47 +244,42 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
-        "licencia": "2829",
-        "id": "2829"
+        "letra": "X",
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
+        "letra": "A",
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 13,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 4,
-          "local": 12,
-          "visitante": 10
+          "local": 8,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
+        "local": 2,
+        "visitante": 2
       }
     },
     {
@@ -262,42 +287,47 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "YOHAN RINOL MORA SANCHEZ",
-        "licencia": "29448",
-        "id": "29448"
+        "letra": "Y",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+        "letra": "C",
+        "nombre": "MARTIN GONZALEZ MIGUEZ",
+        "licencia": "9188",
+        "id": "9188"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 1
+          "visitante": 5
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 5
+          "visitante": 8
         },
         {
           "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
           "local": 11,
           "visitante": 9
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 1
+        "local": 3,
+        "visitante": 2
       }
     },
     {
@@ -305,54 +335,120 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "CARLOS MARTIN VARGAS",
-        "licencia": "2576",
-        "id": "2576"
+        "letra": "Z",
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+        "letra": "B",
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 0
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 0
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 0
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
+        "local": 1,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 5,
-        "visitante": 1
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "HODEI MANCHA MINGUEZ",
+            "licencia": "21752",
+            "id": "21752"
+          },
+          {
+            "nombre": "AIMAR CHAMORRO BLANCO",
+            "licencia": "21296",
+            "id": "21296"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+            "licencia": "36235",
+            "id": "36235"
+          },
+          {
+            "nombre": "JAVIER BENITO RODRIGUEZ",
+            "licencia": "2726",
+            "id": "2726"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "SAN SEBASTIAN DE LOS REYES",
+    "ganador": "CTM MILAGROSA",
     "marcador_partidos": {
-      "local": 5,
-      "visitante": 1
+      "local": 3,
+      "visitante": 4
     },
     "marcador_juegos": {
-      "local": 17,
-      "visitante": 4
+      "local": 11,
+      "visitante": 15
     }
   },
   "acta_protestada": false

@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 13,
   "fecha": "2022-04-02",
-  "hora": "17:30",
+  "hora": "17:00",
   "lugar": {
-    "recinto": "POLIDEPORTIVO MUNICIPAL EDUARDO GUILLEN",
-    "ciudad": "PASEO DE ROSALES, 61 28450-Collado Mediano(Madrid)"
+    "recinto": "PABELLON DE TENIS DE MESA PARQUE DE FRIGSA",
+    "ciudad": "PARQUE DE FRIGSA 27003-Lugo(Lugo)"
   },
   "equipos": {
     "local": {
-      "nombre": "AD COLLADO MEDIANO",
+      "nombre": "CTM MILAGROSA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "ALICANTE TM",
+      "nombre": "ETM HOTEL MARQUES DE SANTILLANA",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "TOMAS RUIZ QUESADA",
+      "nombre": "MAXIMO ANTONIO DUGO PATON",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "ANGEL AYUSO SERRA",
-        "licencia": "18334",
-        "id": "18334"
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
       "B": {
-        "nombre": "BORJA SANCHEZ LOPEZ",
-        "licencia": "7179",
-        "id": "7179"
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
       },
       "C": {
-        "nombre": "WEIDONG SHI TIAN",
-        "licencia": "1704",
-        "id": "1704"
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
       },
       "X": {
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
       },
       "Z": {
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+        "nombre": "ANDRES PEREZ GARCIA",
+        "licencia": "3701",
+        "id": "3701"
       }
     }
   },
@@ -76,36 +76,41 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "ANGEL AYUSO SERRA",
-        "licencia": "18334",
-        "id": "18334"
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 5
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
           "local": 12,
           "visitante": 10
         },
         {
-          "set": 3,
+          "set": 4,
           "local": 11,
-          "visitante": 9
+          "visitante": 3
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -119,45 +124,35 @@
       "cruce": "B vs X",
       "local": {
         "letra": "B",
-        "nombre": "BORJA SANCHEZ LOPEZ",
-        "licencia": "7179",
-        "id": "7179"
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 6
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 4,
-          "local": 12,
-          "visitante": 14
-        },
-        {
-          "set": 5,
-          "local": 3,
+          "local": 9,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -172,31 +167,31 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "C",
-        "nombre": "WEIDONG SHI TIAN",
-        "licencia": "1704",
-        "id": "1704"
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+        "nombre": "ANDRES PEREZ GARCIA",
+        "licencia": "3701",
+        "id": "3701"
       },
       "sets": [
         {
           "set": 1,
-          "local": 13,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 9
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
@@ -215,36 +210,36 @@
       "cruce": "A vs X",
       "local": {
         "letra": "A",
-        "nombre": "ANGEL AYUSO SERRA",
-        "licencia": "18334",
-        "id": "18334"
+        "nombre": "JAVIER BENITO RODRIGUEZ",
+        "licencia": "2726",
+        "id": "2726"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "DIEGO LILLO BORDAJANDI",
-        "licencia": "18376",
-        "id": "18376"
+        "nombre": "ALEXIS DAMIAN ORENCEL MELNICK",
+        "licencia": "33904",
+        "id": "33904"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 13
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 12,
-          "visitante": 10
+          "local": 4,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
+          "visitante": 9
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         }
       ],
       "resultado_juegos": {
@@ -263,36 +258,41 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "C",
-        "nombre": "WEIDONG SHI TIAN",
-        "licencia": "1704",
-        "id": "1704"
+        "nombre": "STANISLAV GOLOVANOV OLEGOVICH",
+        "licencia": "36235",
+        "id": "36235"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "RAÚL MORENO MERÍN",
-        "licencia": "21104",
-        "id": "21104"
+        "nombre": "ANGEL RODRIGUEZ SAN EMETERIO",
+        "licencia": "19868",
+        "id": "19868"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 4
+          "visitante": 7
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 4
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
           "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -306,21 +306,21 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "B",
-        "nombre": "BORJA SANCHEZ LOPEZ",
-        "licencia": "7179",
-        "id": "7179"
+        "nombre": "FRANCISCO JAVIER TORRES TOBIO",
+        "licencia": "7830",
+        "id": "7830"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "ARTEM ZIMARIN",
-        "licencia": "29868",
-        "id": "29868"
+        "nombre": "ANDRES PEREZ GARCIA",
+        "licencia": "3701",
+        "id": "3701"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 13
+          "local": 4,
+          "visitante": 11
         },
         {
           "set": 2,
@@ -329,12 +329,17 @@
         },
         {
           "set": 3,
-          "local": 6,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 3,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 0,
+        "local": 1,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -345,14 +350,14 @@
     }
   ],
   "resultado_final": {
-    "ganador": "AD COLLADO MEDIANO",
+    "ganador": "CTM MILAGROSA",
     "marcador_partidos": {
       "local": 4,
       "visitante": 2
     },
     "marcador_juegos": {
-      "local": 14,
-      "visitante": 7
+      "local": 13,
+      "visitante": 9
     }
   },
   "acta_protestada": false

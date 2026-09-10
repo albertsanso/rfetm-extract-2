@@ -2,135 +2,163 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 6,
+  "grupo": 1,
   "jornada": 16,
-  "fecha": "2022-04-30",
+  "fecha": "2022-05-01",
   "hora": "11:00",
   "lugar": {
-    "recinto": "CENTRO DE ADULTOS",
-    "ciudad": "C/ HURACáN 35 41740-Lebrija(Sevilla)"
+    "recinto": "POLIDEPORTIVO LA CUEVA (ANEXO)",
+    "ciudad": "CALLE CUBA, Nº12 28941-Fuenlabrada(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "GUADALSEM AMIGOS TM LEBRIJA",
+      "nombre": "FUENLABRADA TEAM TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CONSERVAS LOLA",
+      "nombre": "CLUB DEL MAR",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "VENANCIO ROMERO VIDAL",
+      "nombre": "DAVID GONZALEZ RUBIO",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
-        "licencia": "3019",
-        "id": "3019"
+      "Y": {
+        "nombre": "JORGE HIGUERA FOMBUENA",
+        "licencia": "5776",
+        "id": "5776"
       },
-      "B": {
-        "nombre": "JORGE RAMOS RODRIGUEZ",
-        "licencia": "21965",
-        "id": "21965"
+      "X": {
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
       },
-      "C": {
-        "nombre": "GABRIEL CABEZAS JIMENEZ",
-        "licencia": "28198",
-        "id": "28198"
+      "Z": {
+        "nombre": "JAVIER ROMAN BUITRAGO",
+        "licencia": "4207",
+        "id": "4207"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
+      "A": {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
       },
-      "X": {
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+      "B": {
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
       },
-      "Z": {
-        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
-        "licencia": "10808",
-        "id": "10808"
+      "C": {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
       }
     }
   },
-  "dobles": {
-    "local": [
-      {
-        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
-        "licencia": "3019",
-        "id": "3019"
-      },
-      {
-        "nombre": "GABRIEL CABEZAS JIMENEZ",
-        "licencia": "28198",
-        "id": "28198"
-      }
-    ],
-    "visitante": [
-      {
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
-      },
-      {
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
-      }
-    ]
-  },
+  "dobles": null,
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
-        "licencia": "3019",
-        "id": "3019"
+        "letra": "Y",
+        "nombre": "JORGE HIGUERA FOMBUENA",
+        "licencia": "5776",
+        "id": "5776"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
+        "letra": "A",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
       },
       "sets": [
         {
           "set": 1,
-          "local": 4,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
-          "local": 7,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 6
+          "visitante": 9
         },
         {
           "set": 4,
-          "local": 13,
-          "visitante": 15
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
@@ -139,25 +167,25 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 0,
+        "local": 1,
         "visitante": 1
       }
     },
     {
-      "numero": 2,
+      "numero": 3,
       "tipo": "individual",
-      "cruce": "B vs X",
+      "cruce": "C vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "JORGE RAMOS RODRIGUEZ",
-        "licencia": "21965",
-        "id": "21965"
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN BUITRAGO",
+        "licencia": "4207",
+        "id": "4207"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
       },
       "sets": [
         {
@@ -167,12 +195,12 @@
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 7,
+          "local": 6,
           "visitante": 11
         }
       ],
@@ -181,49 +209,6 @@
         "visitante": 3
       },
       "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "GABRIEL CABEZAS JIMENEZ",
-        "licencia": "28198",
-        "id": "28198"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
-        "licencia": "10808",
-        "id": "10808"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 4
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 2
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
         "visitante": 2
@@ -234,52 +219,47 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
-        "licencia": "3019",
-        "id": "3019"
+        "letra": "X",
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "JOSE MANUEL CABALLERO DIEZ",
-        "licencia": "7055",
-        "id": "7055"
+        "letra": "A",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 8
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 2,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 3,
           "local": 11,
           "visitante": 7
         },
         {
-          "set": 4,
-          "local": 6,
-          "visitante": 11
+          "set": 3,
+          "local": 10,
+          "visitante": 12
         },
         {
-          "set": 5,
-          "local": 11,
-          "visitante": 9
+          "set": 4,
+          "local": 10,
+          "visitante": 12
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
+        "local": 1,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 2
+        "local": 1,
+        "visitante": 3
       }
     },
     {
@@ -287,37 +267,37 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "GABRIEL CABEZAS JIMENEZ",
-        "licencia": "28198",
-        "id": "28198"
+        "letra": "Y",
+        "nombre": "JORGE HIGUERA FOMBUENA",
+        "licencia": "5776",
+        "id": "5776"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "LUDOVICO CRESPO LOPEZ",
-        "licencia": "22225",
-        "id": "22225"
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 2,
-          "local": 8,
+          "local": 13,
           "visitante": 11
         },
         {
-          "set": 3,
+          "set": 2,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 5
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
@@ -326,8 +306,8 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
+        "local": 2,
+        "visitante": 3
       }
     },
     {
@@ -335,31 +315,31 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "JORGE RAMOS RODRIGUEZ",
-        "licencia": "21965",
-        "id": "21965"
+        "letra": "Z",
+        "nombre": "JAVIER ROMAN BUITRAGO",
+        "licencia": "4207",
+        "id": "4207"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
-        "licencia": "10808",
-        "id": "10808"
+        "letra": "B",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
       },
       "sets": [
         {
           "set": 1,
-          "local": 9,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 7,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 8,
+          "local": 3,
           "visitante": 11
         }
       ],
@@ -369,90 +349,19 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 7,
-      "tipo": "dobles",
-      "cruce": "D vs D",
-      "local": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "ADOLFO ANTONIO TEJERO MARIN",
-            "licencia": "3019",
-            "id": "3019"
-          },
-          {
-            "nombre": "GABRIEL CABEZAS JIMENEZ",
-            "licencia": "28198",
-            "id": "28198"
-          }
-        ]
-      },
-      "visitante": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "JOSE MANUEL CABALLERO DIEZ",
-            "licencia": "7055",
-            "id": "7055"
-          },
-          {
-            "nombre": "LUDOVICO CRESPO LOPEZ",
-            "licencia": "22225",
-            "id": "22225"
-          }
-        ]
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 3
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 4,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 5,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
         "local": 2,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 3,
         "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CONSERVAS LOLA",
+    "ganador": "CLUB DEL MAR",
     "marcador_partidos": {
-      "local": 3,
+      "local": 2,
       "visitante": 4
     },
     "marcador_juegos": {
-      "local": 12,
+      "local": 8,
       "visitante": 15
     }
   },

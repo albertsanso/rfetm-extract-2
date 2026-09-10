@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 11,
   "fecha": "2022-02-27",
-  "hora": "11:00",
+  "hora": "10:00",
   "lugar": {
-    "recinto": "LOCAL MULTIUSOS",
-    "ciudad": "CRTA DEL PANTANO S/N 10182-Torreorgaz(Cáceres)"
+    "recinto": "CENTRO DE TECNIFICACION SONIA ETXAZARRETA",
+    "ciudad": "C/ OLAKETA S/N 20303-Irun(Guipúzcoa)"
   },
   "equipos": {
     "local": {
-      "nombre": "A.D. TRES BALCONES",
+      "nombre": "LEKA ENEA CHEMA T.M. GEWO",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CLUB UNIVERSIDAD CATOLICA SAN ANTONIO",
+      "nombre": "ILLAS CÍES TM",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "FERNANDO PRIOR MORENO",
+      "nombre": "JON MENDAZONA GARONA",
       "licencia": null
     },
     "asistente": null
@@ -35,40 +35,65 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "NURIA LARGO ROMAN",
-        "licencia": "21178",
-        "id": "21178"
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "id": "6506"
       },
       "B": {
-        "nombre": "LUCIA EXPOSITO HOLGADO",
-        "licencia": "22045",
-        "id": "22045"
+        "nombre": "JUNE GARCIA BELLO",
+        "licencia": "22447",
+        "id": "22447"
       },
       "C": {
-        "nombre": "SONIA ROMAN QUINTANILLA",
-        "licencia": "27207",
-        "id": "27207"
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "ANDREA MARIN BUIGUES",
-        "licencia": "21927",
-        "id": "21927"
+        "nombre": "VIKTORIIA LEBEDEVA",
+        "licencia": "27248",
+        "id": "27248"
       },
       "X": {
-        "nombre": "CARLA PAREDES BUIGUES",
-        "licencia": "21928",
-        "id": "21928"
+        "nombre": "ANA GARCIA MARTINEZ",
+        "licencia": "19460",
+        "id": "19460"
       },
       "Z": {
-        "nombre": "CARMEN LOZANO MIRÓN",
-        "licencia": "19183",
-        "id": "19183"
+        "nombre": "LUISA PINTOS BARREIRO",
+        "licencia": "18412",
+        "id": "18412"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "id": "6506"
+      },
+      {
+        "nombre": "JUNE GARCIA BELLO",
+        "licencia": "22447",
+        "id": "22447"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "VIKTORIIA LEBEDEVA",
+        "licencia": "27248",
+        "id": "27248"
+      },
+      {
+        "nombre": "LUISA PINTOS BARREIRO",
+        "licencia": "18412",
+        "id": "18412"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -76,15 +101,15 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "NURIA LARGO ROMAN",
-        "licencia": "21178",
-        "id": "21178"
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "id": "6506"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "ANDREA MARIN BUIGUES",
-        "licencia": "21927",
-        "id": "21927"
+        "nombre": "VIKTORIIA LEBEDEVA",
+        "licencia": "27248",
+        "id": "27248"
       },
       "sets": [
         {
@@ -94,70 +119,17 @@
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 4,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 5,
           "local": 13,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "B",
-        "nombre": "LUCIA EXPOSITO HOLGADO",
-        "licencia": "22045",
-        "id": "22045"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "CARLA PAREDES BUIGUES",
-        "licencia": "21928",
-        "id": "21928"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 4,
-          "visitante": 11
+          "visitante": 15
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 8
+          "visitante": 4
         },
         {
           "set": 4,
-          "local": 5,
+          "local": 9,
           "visitante": 11
         }
       ],
@@ -166,6 +138,54 @@
         "visitante": 3
       },
       "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JUNE GARCIA BELLO",
+        "licencia": "22447",
+        "id": "22447"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANA GARCIA MARTINEZ",
+        "licencia": "19460",
+        "id": "19460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
         "visitante": 1
@@ -177,31 +197,31 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "C",
-        "nombre": "SONIA ROMAN QUINTANILLA",
-        "licencia": "27207",
-        "id": "27207"
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "CARMEN LOZANO MIRÓN",
-        "licencia": "19183",
-        "id": "19183"
+        "nombre": "LUISA PINTOS BARREIRO",
+        "licencia": "18412",
+        "id": "18412"
       },
       "sets": [
         {
           "set": 1,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 2,
           "local": 6,
           "visitante": 11
         },
         {
-          "set": 3,
-          "local": 5,
+          "set": 2,
+          "local": 4,
           "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
         }
       ],
       "resultado_juegos": {
@@ -220,46 +240,36 @@
       "cruce": "A vs X",
       "local": {
         "letra": "A",
-        "nombre": "NURIA LARGO ROMAN",
-        "licencia": "21178",
-        "id": "21178"
+        "nombre": "JIN ZHANG",
+        "licencia": "6506",
+        "id": "6506"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "CARLA PAREDES BUIGUES",
-        "licencia": "21928",
-        "id": "21928"
+        "nombre": "ANA GARCIA MARTINEZ",
+        "licencia": "19460",
+        "id": "19460"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 2,
-          "local": 13,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 4,
           "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 4
+          "visitante": 3
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -273,21 +283,21 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "C",
-        "nombre": "SONIA ROMAN QUINTANILLA",
-        "licencia": "27207",
-        "id": "27207"
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "ANDREA MARIN BUIGUES",
-        "licencia": "21927",
-        "id": "21927"
+        "nombre": "VIKTORIIA LEBEDEVA",
+        "licencia": "27248",
+        "id": "27248"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 8
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 2,
@@ -296,17 +306,12 @@
         },
         {
           "set": 3,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 7,
+          "local": 6,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 1,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -321,15 +326,15 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "B",
-        "nombre": "LUCIA EXPOSITO HOLGADO",
-        "licencia": "22045",
-        "id": "22045"
+        "nombre": "JUNE GARCIA BELLO",
+        "licencia": "22447",
+        "id": "22447"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "CARMEN LOZANO MIRÓN",
-        "licencia": "19183",
-        "id": "19183"
+        "nombre": "LUISA PINTOS BARREIRO",
+        "licencia": "18412",
+        "id": "18412"
       },
       "sets": [
         {
@@ -339,35 +344,116 @@
         },
         {
           "set": 2,
-          "local": 5,
+          "local": 9,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 5,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JIN ZHANG",
+            "licencia": "6506",
+            "id": "6506"
+          },
+          {
+            "nombre": "JUNE GARCIA BELLO",
+            "licencia": "22447",
+            "id": "22447"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VIKTORIIA LEBEDEVA",
+            "licencia": "27248",
+            "id": "27248"
+          },
+          {
+            "nombre": "LUISA PINTOS BARREIRO",
+            "licencia": "18412",
+            "id": "18412"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 0,
+        "local": 2,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 2,
+        "local": 3,
         "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CLUB UNIVERSIDAD CATOLICA SAN ANTONIO",
+    "ganador": "ILLAS CÍES TM",
     "marcador_partidos": {
-      "local": 2,
+      "local": 3,
       "visitante": 4
     },
     "marcador_juegos": {
-      "local": 8,
-      "visitante": 16
+      "local": 12,
+      "visitante": 15
     }
   },
   "acta_protestada": false

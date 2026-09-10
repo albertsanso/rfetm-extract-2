@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 9,
+  "grupo": 1,
   "jornada": 14,
   "fecha": "2021-05-22",
   "hora": "18:30",
   "lugar": {
-    "recinto": "ESCUELA NTRA. SRA. MONTSERRAT C/ COLON, ESQ. FERROCARRILES CATALANES",
-    "ciudad": "Olesa de Montserrat (Barcelona)"
+    "recinto": "PABELLON IES PUNTALARGA AVDA. LOS MENCEYES S/Nº",
+    "ciudad": "Candelaria (Santa Cruz de Tenerife)"
   },
   "equipos": {
     "local": {
-      "nombre": "BLANXART XALOC OLESA",
+      "nombre": "CIRCULO DE AMISTAD-TENERIFE",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "C.T.T. OLOT",
+      "nombre": "CTM TABOR AÑAVINGO",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "PABLO PEREZ ROMANI",
+      "nombre": "NURIA ESTHER GOMEZ RODRIGUEZ",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "JAUME JOFRE BOTEY",
-        "licencia": "730",
-        "id": "730"
+        "nombre": "BERNABÉ ESPINOSA SÁNCHEZ",
+        "licencia": "17140",
+        "id": "17140"
       },
       "B": {
-        "nombre": "MANEL SUÑE ANDRES",
-        "licencia": "1293",
-        "id": "1293"
+        "nombre": "PABLO SOSA SOSA",
+        "licencia": "10469",
+        "id": "10469"
       },
       "C": {
-        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
-        "licencia": "7412",
-        "id": "7412"
+        "nombre": "ISRAEL DELGADO ROSA",
+        "licencia": "17169",
+        "id": "17169"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
       },
       "X": {
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
+        "nombre": "IVAN ARVELO DIAZ",
+        "licencia": "2644",
+        "id": "2644"
       },
       "Z": {
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
       }
     }
   },
@@ -76,31 +76,31 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "JAUME JOFRE BOTEY",
-        "licencia": "730",
-        "id": "730"
+        "nombre": "BERNABÉ ESPINOSA SÁNCHEZ",
+        "licencia": "17140",
+        "id": "17140"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 2
+          "visitante": 7
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 6
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
@@ -119,15 +119,58 @@
       "cruce": "B vs X",
       "local": {
         "letra": "B",
-        "nombre": "MANEL SUÑE ANDRES",
-        "licencia": "1293",
-        "id": "1293"
+        "nombre": "PABLO SOSA SOSA",
+        "licencia": "10469",
+        "id": "10469"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
+        "nombre": "IVAN ARVELO DIAZ",
+        "licencia": "2644",
+        "id": "2644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ISRAEL DELGADO ROSA",
+        "licencia": "17169",
+        "id": "17169"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
       },
       "sets": [
         {
@@ -142,66 +185,28 @@
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
-        "licencia": "7412",
-        "id": "7412"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
-      },
-      "sets": [
-        {
-          "set": 1,
           "local": 11,
           "visitante": 8
         },
         {
-          "set": 2,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 15,
-          "visitante": 13
-        },
-        {
           "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
           "local": 11,
-          "visitante": 4
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
+        "local": 3,
+        "visitante": 0
       }
     },
     {
@@ -210,15 +215,15 @@
       "cruce": "A vs X",
       "local": {
         "letra": "A",
-        "nombre": "JAUME JOFRE BOTEY",
-        "licencia": "730",
-        "id": "730"
+        "nombre": "BERNABÉ ESPINOSA SÁNCHEZ",
+        "licencia": "17140",
+        "id": "17140"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "ORIOL PUIGMAL POLIT",
-        "licencia": "15227",
-        "id": "15227"
+        "nombre": "IVAN ARVELO DIAZ",
+        "licencia": "2644",
+        "id": "2644"
       },
       "sets": [
         {
@@ -229,12 +234,12 @@
         {
           "set": 2,
           "local": 11,
-          "visitante": 9
+          "visitante": 4
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 9
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
@@ -243,8 +248,8 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
+        "local": 4,
+        "visitante": 0
       }
     },
     {
@@ -253,35 +258,35 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "C",
-        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
-        "licencia": "7412",
-        "id": "7412"
+        "nombre": "ISRAEL DELGADO ROSA",
+        "licencia": "17169",
+        "id": "17169"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "VICTOR FLORES BARRANCO",
-        "licencia": "18930",
-        "id": "18930"
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 5,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 4,
-          "local": 9,
+          "local": 5,
           "visitante": 11
         }
       ],
@@ -291,8 +296,8 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
+        "local": 4,
+        "visitante": 1
       }
     },
     {
@@ -301,58 +306,58 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "B",
-        "nombre": "MANEL SUÑE ANDRES",
-        "licencia": "1293",
-        "id": "1293"
+        "nombre": "VICENTE PÉREZ BARRIOS",
+        "licencia": "17034",
+        "id": "17034"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "SERGI BAHI RAMISA",
-        "licencia": "19549",
-        "id": "19549"
+        "nombre": "NAUZET JEREZ DE LEÓN",
+        "licencia": "18694",
+        "id": "18694"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 13
+          "local": 14,
+          "visitante": 12
         },
         {
           "set": 2,
-          "local": 15,
-          "visitante": 13
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 7,
+          "local": 13,
           "visitante": 11
         },
         {
           "set": 4,
-          "local": 12,
-          "visitante": 14
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
         "local": 3,
-        "visitante": 3
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": null,
+    "ganador": "CIRCULO DE AMISTAD-TENERIFE",
     "marcador_partidos": {
-      "local": 3,
-      "visitante": 3
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 11,
-      "visitante": 10
+      "local": 16,
+      "visitante": 6
     }
   },
   "acta_protestada": false

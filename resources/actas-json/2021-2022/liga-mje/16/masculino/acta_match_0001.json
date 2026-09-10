@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 9,
+  "grupo": 1,
   "jornada": 16,
   "fecha": "2022-04-30",
-  "hora": "18:00",
+  "hora": "17:00",
   "lugar": {
-    "recinto": "IES MANUEL FRAGA IRIBARNE",
-    "ciudad": "AV. ISABEL DE VALOIS, S/N FRENTE AL Nº 80 28050-Madrid(Madrid)"
+    "recinto": "ALWAYS TM",
+    "ciudad": "ESTRADA DE REDONDELA 42 36419-Porriño (O)(Pontevedra)"
   },
   "equipos": {
     "local": {
-      "nombre": "HORTALEZA, TM",
+      "nombre": "CTM CALVARIO",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "NOROESTE - LAS ROZAS \"B\"",
+      "nombre": "CLUB TENIS DE MESA BREOGAN - OLEIROS",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "ARACELY ARELY MORALES GUARDADO",
+      "nombre": "SARA FERNANDEZ PEREZ",
       "licencia": null
     },
     "asistente": null
@@ -35,40 +35,65 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "JOSE MIGUEL MORENO VERDEJO",
-        "licencia": "14777",
-        "id": "14777"
+        "nombre": "SAMUEL RODRIGUEZ REY",
+        "licencia": "23242",
+        "id": "23242"
       },
       "B": {
-        "nombre": "RUBEN BURGOS PEREZ",
-        "licencia": "22929",
-        "id": "22929"
+        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
+        "licencia": "9197",
+        "id": "9197"
       },
       "C": {
-        "nombre": "HECTOR GRANDA PEREZ",
-        "licencia": "22922",
-        "id": "22922"
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "RAUL CACERES PEREZ",
-        "licencia": "22240",
-        "id": "22240"
+        "nombre": "LUIS VECINO BILBAO",
+        "licencia": "2554",
+        "id": "2554"
       },
       "X": {
-        "nombre": "MARTIN ALONSO GOMZALEZ",
-        "licencia": "30510",
-        "id": "30510"
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
       },
       "Z": {
-        "nombre": "JORGE FERNANDEZ CRUCETA",
-        "licencia": "24177",
-        "id": "24177"
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      {
+        "nombre": "SAMUEL RODRIGUEZ REY",
+        "licencia": "23242",
+        "id": "23242"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      {
+        "nombre": "LUIS VECINO BILBAO",
+        "licencia": "2554",
+        "id": "2554"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -76,46 +101,36 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "JOSE MIGUEL MORENO VERDEJO",
-        "licencia": "14777",
-        "id": "14777"
+        "nombre": "SAMUEL RODRIGUEZ REY",
+        "licencia": "23242",
+        "id": "23242"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "RAUL CACERES PEREZ",
-        "licencia": "22240",
-        "id": "22240"
+        "nombre": "LUIS VECINO BILBAO",
+        "licencia": "2554",
+        "id": "2554"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 4,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 8
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -129,15 +144,58 @@
       "cruce": "B vs X",
       "local": {
         "letra": "B",
-        "nombre": "RUBEN BURGOS PEREZ",
-        "licencia": "22929",
-        "id": "22929"
+        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
+        "licencia": "9197",
+        "id": "9197"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "MARTIN ALONSO GOMZALEZ",
-        "licencia": "30510",
-        "id": "30510"
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
       },
       "sets": [
         {
@@ -147,71 +205,28 @@
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 9
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 4,
-          "local": 11,
-          "visitante": 8
+          "local": 7,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 1,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "HECTOR GRANDA PEREZ",
-        "licencia": "22922",
-        "id": "22922"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "JORGE FERNANDEZ CRUCETA",
-        "licencia": "24177",
-        "id": "24177"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 12,
-          "visitante": 10
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 0
+        "local": 1,
+        "visitante": 2
       }
     },
     {
@@ -220,101 +235,15 @@
       "cruce": "A vs X",
       "local": {
         "letra": "A",
-        "nombre": "JOSE MIGUEL MORENO VERDEJO",
-        "licencia": "14777",
-        "id": "14777"
+        "nombre": "SAMUEL RODRIGUEZ REY",
+        "licencia": "23242",
+        "id": "23242"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "MARTIN ALONSO GOMZALEZ",
-        "licencia": "30510",
-        "id": "30510"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 2
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 4,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "C",
-        "nombre": "HECTOR GRANDA PEREZ",
-        "licencia": "22922",
-        "id": "22922"
-      },
-      "visitante": {
-        "letra": "Y",
-        "nombre": "RAUL CACERES PEREZ",
-        "licencia": "22240",
-        "id": "22240"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 5,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "B",
-        "nombre": "RUBEN BURGOS PEREZ",
-        "licencia": "22929",
-        "id": "22929"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "JORGE FERNANDEZ CRUCETA",
-        "licencia": "24177",
-        "id": "24177"
+        "nombre": "JUAN ANGEL FERREIRO LAGE",
+        "licencia": "9978",
+        "id": "9978"
       },
       "sets": [
         {
@@ -324,45 +253,202 @@
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 14
+          "local": 11,
+          "visitante": 4
         },
         {
           "set": 4,
-          "local": 14,
-          "visitante": 12
+          "local": 11,
+          "visitante": 2
         },
         {
           "set": 5,
-          "local": 6,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LUIS VECINO BILBAO",
+        "licencia": "2554",
+        "id": "2554"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
+        "licencia": "9197",
+        "id": "9197"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JAVIER CANZOBRE PEREIRA",
+        "licencia": "9189",
+        "id": "9189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 5,
-        "visitante": 1
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JOSE RAMON FERNANDEZ CORA",
+            "licencia": "827",
+            "id": "827"
+          },
+          {
+            "nombre": "SAMUEL RODRIGUEZ REY",
+            "licencia": "23242",
+            "id": "23242"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JAVIER CANZOBRE PEREIRA",
+            "licencia": "9189",
+            "id": "9189"
+          },
+          {
+            "nombre": "LUIS VECINO BILBAO",
+            "licencia": "2554",
+            "id": "2554"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "HORTALEZA, TM",
+    "ganador": "CLUB TENIS DE MESA BREOGAN - OLEIROS",
     "marcador_partidos": {
-      "local": 5,
-      "visitante": 1
+      "local": 3,
+      "visitante": 4
     },
     "marcador_juegos": {
-      "local": 17,
-      "visitante": 6
+      "local": 11,
+      "visitante": 15
     }
   },
   "acta_protestada": false

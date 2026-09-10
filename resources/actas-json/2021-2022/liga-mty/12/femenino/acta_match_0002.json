@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 12,
-  "fecha": "2022-03-20",
-  "hora": "11:30",
+  "fecha": "2022-03-19",
+  "hora": "17:00",
   "lugar": {
-    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
-    "ciudad": "AV. DE LA JUVENTUD, 3 - CIUDAD DEPORTIVA 14800-Priego de Córdoba(Córdoba)"
+    "recinto": "PABELLON PRINCIPE FELIPE DE PONTEVEDRA",
+    "ciudad": "AVDA. MONTECELO, S N 36162-Pontevedra(Pontevedra)"
   },
   "equipos": {
     "local": {
-      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "nombre": "VISIT PONTEVEDRA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CTM HUERCAL DE ALMERIA",
+      "nombre": "HORTALEZA TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "RAFAEL GARCIA COBO",
+      "nombre": "ANTONIO VIZOSO TOURIÑO",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "JULIA MACHADO MOLINA",
-        "licencia": "37799",
-        "id": "37799"
+      "Y": {
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
       },
-      "B": {
-        "nombre": "LUCIA LOPEZ CUENCA",
-        "licencia": "19107",
-        "id": "19107"
+      "X": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
       },
-      "C": {
-        "nombre": "PAULA RUIZ ROMERO",
-        "licencia": "24124",
-        "id": "24124"
+      "Z": {
+        "nombre": "CLAUDIA MARIA CANAY CHAPARRO",
+        "licencia": "17434",
+        "id": "17434"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "LUCIA VIDAL DIAZ",
-        "licencia": "27924",
-        "id": "27924"
+      "A": {
+        "nombre": "JENNY ESTEFANIA RAMIRIOS LEMUS",
+        "licencia": "26952",
+        "id": "26952"
       },
-      "X": {
-        "nombre": "JULIA VIDAL DIAZ",
-        "licencia": "29133",
-        "id": "29133"
+      "B": {
+        "nombre": "ANDREA BENITEZ DE LA FUENTE",
+        "licencia": "26324",
+        "id": "26324"
       },
-      "Z": {
-        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
-        "licencia": "21095",
-        "id": "21095"
+      "C": {
+        "nombre": "LETY LEYDIS GONZALEZ ATRIO",
+        "licencia": "34941",
+        "id": "34941"
       }
     }
   },
@@ -75,42 +75,47 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "JULIA MACHADO MOLINA",
-        "licencia": "37799",
-        "id": "37799"
+        "letra": "Y",
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "LUCIA VIDAL DIAZ",
-        "licencia": "27924",
-        "id": "27924"
+        "letra": "A",
+        "nombre": "JENNY ESTEFANIA RAMIRIOS LEMUS",
+        "licencia": "26952",
+        "id": "26952"
       },
       "sets": [
         {
           "set": 1,
-          "local": 0,
+          "local": 9,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 0,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 0,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
+        "local": 3,
         "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
       }
     },
     {
@@ -118,193 +123,16 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "B",
-        "nombre": "LUCIA LOPEZ CUENCA",
-        "licencia": "19107",
-        "id": "19107"
-      },
-      "visitante": {
         "letra": "X",
-        "nombre": "JULIA VIDAL DIAZ",
-        "licencia": "29133",
-        "id": "29133"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 3
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 3
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "PAULA RUIZ ROMERO",
-        "licencia": "24124",
-        "id": "24124"
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
-        "licencia": "21095",
-        "id": "21095"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 3,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 5,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "A",
-        "nombre": "JULIA MACHADO MOLINA",
-        "licencia": "37799",
-        "id": "37799"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "JULIA VIDAL DIAZ",
-        "licencia": "29133",
-        "id": "29133"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 0,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 0,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 0,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "C",
-        "nombre": "PAULA RUIZ ROMERO",
-        "licencia": "24124",
-        "id": "24124"
-      },
-      "visitante": {
-        "letra": "Y",
-        "nombre": "LUCIA VIDAL DIAZ",
-        "licencia": "27924",
-        "id": "27924"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 13
-        },
-        {
-          "set": 2,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 4,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 4
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
         "letra": "B",
-        "nombre": "LUCIA LOPEZ CUENCA",
-        "licencia": "19107",
-        "id": "19107"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
-        "licencia": "21095",
-        "id": "21095"
+        "nombre": "ANDREA BENITEZ DE LA FUENTE",
+        "licencia": "26324",
+        "id": "26324"
       },
       "sets": [
         {
@@ -314,8 +142,99 @@
         },
         {
           "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CLAUDIA MARIA CANAY CHAPARRO",
+        "licencia": "17434",
+        "id": "17434"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LETY LEYDIS GONZALEZ ATRIO",
+        "licencia": "34941",
+        "id": "34941"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
           "local": 7,
           "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JENNY ESTEFANIA RAMIRIOS LEMUS",
+        "licencia": "26952",
+        "id": "26952"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
         },
         {
           "set": 3,
@@ -325,12 +244,12 @@
         {
           "set": 4,
           "local": 11,
-          "visitante": 2
+          "visitante": 5
         },
         {
           "set": 5,
-          "local": 11,
-          "visitante": 6
+          "local": 12,
+          "visitante": 10
         }
       ],
       "resultado_juegos": {
@@ -339,20 +258,111 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 4
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LETY LEYDIS GONZALEZ ATRIO",
+        "licencia": "34941",
+        "id": "34941"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CLAUDIA MARIA CANAY CHAPARRO",
+        "licencia": "17434",
+        "id": "17434"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANDREA BENITEZ DE LA FUENTE",
+        "licencia": "26324",
+        "id": "26324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CTM HUERCAL DE ALMERIA",
+    "ganador": "VISIT PONTEVEDRA",
     "marcador_partidos": {
-      "local": 2,
-      "visitante": 4
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 7,
-      "visitante": 14
+      "local": 13,
+      "visitante": 10
     }
   },
   "acta_protestada": false

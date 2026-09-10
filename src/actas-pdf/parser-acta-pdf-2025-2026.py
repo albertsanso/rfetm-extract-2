@@ -385,6 +385,10 @@ def parse_acta(pdf_path):
                     "letra": letra_xyz,
                     "nombre": players_xyz[0]["nombre"] if players_xyz else None,
                 }
+                if players_abc:
+                    abc_info["licencia"] = players_abc[0]["licencia"]
+                if players_xyz:
+                    xyz_info["licencia"] = players_xyz[0]["licencia"]
 
             # Mapear abc/xyz a local/visitante
             if abc_es_local:

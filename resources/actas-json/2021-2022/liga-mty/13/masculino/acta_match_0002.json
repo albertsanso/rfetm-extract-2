@@ -2,135 +2,110 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 3,
+  "grupo": 1,
   "jornada": 13,
   "fecha": "2022-04-02",
-  "hora": "18:00",
+  "hora": "18:30",
   "lugar": {
-    "recinto": "IES MANUEL FRAGA IRIBARNE",
-    "ciudad": "AV. ISABEL DE VALOIS, 0 S/N ENFRENTE DEL Nº 80 28050-Madrid(Madrid)"
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "C/OLAKETA S N 20303-Irun(Guipúzcoa)"
   },
   "equipos": {
     "local": {
-      "nombre": "HORTALEZA TM",
+      "nombre": "IRUN LEKA ENEA ASCENSORES BIDASOA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "nombre": "ALCOBENDAS TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "PEDRO ALVAREZ SOLA",
+      "nombre": "PABLO VICENTE VICENTE",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+      "Y": {
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       },
-      "B": {
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
+      "X": {
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
-      "C": {
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+      "Z": {
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+      "A": {
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
-      "X": {
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+      "B": {
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
-      "Z": {
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
+      "C": {
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
       }
     }
   },
-  "dobles": {
-    "local": [
-      {
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
-      },
-      {
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
-      }
-    ],
-    "visitante": [
-      {
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
-      },
-      {
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
-      }
-    ]
-  },
+  "dobles": null,
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+        "letra": "Y",
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+        "letra": "A",
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 2,
-          "local": 11,
           "visitante": 7
         },
         {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
           "set": 3,
-          "local": 11,
-          "visitante": 13
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 3
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
@@ -148,31 +123,31 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "B",
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
+        "letra": "X",
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+        "letra": "B",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
       "sets": [
         {
           "set": 1,
-          "local": 1,
+          "local": 5,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 2,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 2,
+          "local": 6,
           "visitante": 11
         }
       ],
@@ -191,37 +166,37 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "C",
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+        "letra": "Z",
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
+        "letra": "C",
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 6
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
@@ -239,42 +214,37 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-        "licencia": "36533",
-        "id": "36533"
+        "letra": "X",
+        "nombre": "AIMAR CHAMORRO BLANCO",
+        "licencia": "21296",
+        "id": "21296"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "ANTONIO CHAVES BENJUMEA",
-        "licencia": "7057",
-        "id": "7057"
+        "letra": "A",
+        "nombre": "NELSON JOSE VILLANUEVA MORALES",
+        "licencia": "19719",
+        "id": "19719"
       },
       "sets": [
         {
           "set": 1,
-          "local": 13,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
         },
         {
           "set": 3,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 6
+          "local": 12,
+          "visitante": 10
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -287,42 +257,42 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "ALVARO BENITEZ DE LA FUENTE",
-        "licencia": "21943",
-        "id": "21943"
+        "letra": "Y",
+        "nombre": "HODEI MANCHA MINGUEZ",
+        "licencia": "21752",
+        "id": "21752"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "JOSE MANUEL RUIZ REYES",
-        "licencia": "1856",
-        "id": "1856"
+        "letra": "C",
+        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
+        "licencia": "14763",
+        "id": "14763"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 5,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
       }
     },
     {
@@ -330,115 +300,59 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "JULIO ALEJANDRO MUÑOZ SEVILLA",
-        "licencia": "20960",
-        "id": "20960"
-      },
-      "visitante": {
         "letra": "Z",
-        "nombre": "RAUL FLORES MARTINEZ",
-        "licencia": "20769",
-        "id": "20769"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 2,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 2,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 9,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 7,
-      "tipo": "dobles",
-      "cruce": "D vs D",
-      "local": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "ALVARO BENITEZ DE LA FUENTE",
-            "licencia": "21943",
-            "id": "21943"
-          },
-          {
-            "nombre": "JON ANDER GUERRICABEITIA ECHEVERRIA",
-            "licencia": "36533",
-            "id": "36533"
-          }
-        ]
+        "nombre": "MIKEL ANGULO OCIO",
+        "licencia": "21733",
+        "id": "21733"
       },
       "visitante": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "ANTONIO CHAVES BENJUMEA",
-            "licencia": "7057",
-            "id": "7057"
-          },
-          {
-            "nombre": "JOSE MANUEL RUIZ REYES",
-            "licencia": "1856",
-            "id": "1856"
-          }
-        ]
+        "letra": "B",
+        "nombre": "DRAGOS ANTIMIR",
+        "licencia": "9414",
+        "id": "9414"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 14
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 9,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 13,
-          "visitante": 15
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 0,
+        "local": 1,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 4
+        "local": 4,
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+    "ganador": "IRUN LEKA ENEA ASCENSORES BIDASOA",
     "marcador_partidos": {
-      "local": 3,
-      "visitante": 4
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 9,
-      "visitante": 15
+      "local": 13,
+      "visitante": 8
     }
   },
   "acta_protestada": false
