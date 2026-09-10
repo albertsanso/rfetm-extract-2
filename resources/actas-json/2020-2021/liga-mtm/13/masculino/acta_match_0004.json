@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 1,
+  "grupo": 5,
   "jornada": 13,
-  "fecha": "2021-05-23",
-  "hora": "11:00",
+  "fecha": "2021-05-22",
+  "hora": "17:00",
   "lugar": {
-    "recinto": "CIUDAD INFANTIL PRINCIPE FELIPE",
-    "ciudad": "AVDA. MONTECELO, S N - Pontevedra"
+    "recinto": "POLIGONO NAVISA QUEJIO 35",
+    "ciudad": "Sevilla (Sevilla)"
   },
   "equipos": {
     "local": {
-      "nombre": "PUB PATRIMONIO PONTEVEDRA",
+      "nombre": "PINTURAS ANDALUCIA SEVILLA 2015",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "VASA ARROYO-CDO",
+      "nombre": "TWINNER-SERMA TM TALAVERA",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "RAMON PADIN OUBIÑA",
+      "nombre": "ANTONIO CHAVES RAMIREZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+      "Y": {
+        "nombre": "JOSE LUIS VILLALBA MERCHAN",
+        "licencia": "17103",
+        "id": "17103"
       },
-      "B": {
-        "nombre": "PEDRO FERNANDEZ MATEO",
-        "licencia": "7583",
-        "id": "7583"
+      "X": {
+        "nombre": "GONZALO RODRIGUEZ GONZALEZ",
+        "licencia": "20114",
+        "id": "20114"
       },
-      "C": {
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+      "Z": {
+        "nombre": "HUGO LUIS PEREZ AGOSTO",
+        "licencia": "36617",
+        "id": "36617"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "RAUL GOMEZ DEL OLMO",
-        "licencia": "18566",
-        "id": "18566"
+      "A": {
+        "nombre": "ALVARO GAINZA RODRIGUEZ",
+        "licencia": "19150",
+        "id": "19150"
       },
-      "X": {
-        "nombre": "MIKEL IZKUE URDÁNIZ",
-        "licencia": "18538",
-        "id": "18538"
+      "B": {
+        "nombre": "GONZALO HERRANZ DE FRANCISCO",
+        "licencia": "17881",
+        "id": "17881"
       },
-      "Z": {
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
+      "C": {
+        "nombre": "JOSE GARCIA MANTIÑAN",
+        "licencia": "8368",
+        "id": "8368"
       }
     }
   },
@@ -75,128 +75,32 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
-      },
-      "visitante": {
         "letra": "Y",
-        "nombre": "RAUL GOMEZ DEL OLMO",
-        "licencia": "18566",
-        "id": "18566"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "B",
-        "nombre": "PEDRO FERNANDEZ MATEO",
-        "licencia": "7583",
-        "id": "7583"
+        "nombre": "JOSE LUIS VILLALBA MERCHAN",
+        "licencia": "17103",
+        "id": "17103"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "MIKEL IZKUE URDÁNIZ",
-        "licencia": "18538",
-        "id": "18538"
+        "letra": "A",
+        "nombre": "ALVARO GAINZA RODRIGUEZ",
+        "licencia": "19150",
+        "id": "19150"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 2,
-          "local": 13,
-          "visitante": 15
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 4,
           "local": 8,
           "visitante": 11
         },
         {
-          "set": 5,
-          "local": 11,
-          "visitante": 9
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
           "set": 2,
-          "local": 9,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 10,
-          "visitante": 12
+          "local": 7,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
@@ -205,8 +109,94 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 2,
+        "local": 0,
         "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALO RODRIGUEZ GONZALEZ",
+        "licencia": "20114",
+        "id": "20114"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALO HERRANZ DE FRANCISCO",
+        "licencia": "17881",
+        "id": "17881"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "HUGO LUIS PEREZ AGOSTO",
+        "licencia": "36617",
+        "id": "36617"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOSE GARCIA MANTIÑAN",
+        "licencia": "8368",
+        "id": "8368"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
       }
     },
     {
@@ -214,47 +204,42 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+        "letra": "X",
+        "nombre": "GONZALO RODRIGUEZ GONZALEZ",
+        "licencia": "20114",
+        "id": "20114"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "MIKEL IZKUE URDÁNIZ",
-        "licencia": "18538",
-        "id": "18538"
+        "letra": "A",
+        "nombre": "ALVARO GAINZA RODRIGUEZ",
+        "licencia": "19150",
+        "id": "19150"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 14
+          "local": 4,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
+          "local": 4,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 9
+          "local": 3,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
+        "local": 0,
+        "visitante": 4
       }
     },
     {
@@ -262,16 +247,16 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "C",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+        "letra": "Y",
+        "nombre": "JOSE LUIS VILLALBA MERCHAN",
+        "licencia": "17103",
+        "id": "17103"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "RAUL GOMEZ DEL OLMO",
-        "licencia": "18566",
-        "id": "18566"
+        "letra": "C",
+        "nombre": "JOSE GARCIA MANTIÑAN",
+        "licencia": "8368",
+        "id": "8368"
       },
       "sets": [
         {
@@ -281,33 +266,23 @@
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 6
+          "local": 3,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 5
+          "local": 5,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 1
+        "local": 0,
+        "visitante": 5
       }
     },
     {
@@ -315,64 +290,54 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "B",
-        "nombre": "PEDRO FERNANDEZ MATEO",
-        "licencia": "7583",
-        "id": "7583"
+        "letra": "Z",
+        "nombre": "HUGO LUIS PEREZ AGOSTO",
+        "licencia": "36617",
+        "id": "36617"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
+        "letra": "B",
+        "nombre": "GONZALO HERRANZ DE FRANCISCO",
+        "licencia": "17881",
+        "id": "17881"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 9,
+          "local": 6,
           "visitante": 11
         },
         {
-          "set": 4,
-          "local": 11,
-          "visitante": 13
+          "set": 2,
+          "local": 10,
+          "visitante": 12
         },
         {
-          "set": 5,
-          "local": 2,
+          "set": 3,
+          "local": 8,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 2
+        "local": 0,
+        "visitante": 6
       }
     }
   ],
   "resultado_final": {
-    "ganador": "PUB PATRIMONIO PONTEVEDRA",
+    "ganador": "TWINNER-SERMA TM TALAVERA",
     "marcador_partidos": {
-      "local": 4,
-      "visitante": 2
+      "local": 0,
+      "visitante": 6
     },
     "marcador_juegos": {
-      "local": 14,
-      "visitante": 11
+      "local": 0,
+      "visitante": 18
     }
   },
   "acta_protestada": false

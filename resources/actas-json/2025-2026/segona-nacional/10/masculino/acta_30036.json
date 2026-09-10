@@ -43,11 +43,321 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "A": {
+        "nombre": "ESPINOSA ARANDA, JAVIER ALEJANDRO",
+        "licencia": "42543"
+      },
+      "B": {
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      },
+      "C": {
+        "nombre": "CUENCA MARTINEZ, IVÁN",
+        "licencia": "42548"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARTÍN MORALES, ALVARO",
+        "licencia": "40544"
+      },
+      "X": {
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      },
+      "Z": {
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ESPINOSA ARANDA, JAVIER ALEJANDRO",
+        "licencia": "42543"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTÍN MORALES, ALVARO",
+        "licencia": "40544"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CUENCA MARTINEZ, IVÁN",
+        "licencia": "42548"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ESPINOSA ARANDA, JAVIER ALEJANDRO",
+        "licencia": "42543"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CUENCA MARTINEZ, IVÁN",
+        "licencia": "42548"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTÍN MORALES, ALVARO",
+        "licencia": "40544"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TORTOSA RUEDA, MIGUEL ANGEL",
+        "licencia": "2685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-6)"
+    }
+  ],
   "resultado_final": {
     "ganador": "INPRE ALSINA",
     "marcador_partidos": {

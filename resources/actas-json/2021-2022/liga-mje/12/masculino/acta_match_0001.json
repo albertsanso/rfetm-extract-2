@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 12,
   "fecha": "2022-03-19",
   "hora": "17:00",
   "lugar": {
-    "recinto": "PABELLON TENIS DE MESA PARQUE DE FRIGSA",
-    "ciudad": "PARQUE DE FRIGSA LUGO 27003-Lugo(Lugo)"
+    "recinto": "PABELLÓN GALA",
+    "ciudad": "AVENIDA PUNTO ES S/N 28810-Alcalá de Henares(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "CTM MILAGROSA",
+      "nombre": "TENIS DE MESA ALCALA-VILLALBILLA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "VILAGARCIA CRAFTIUM",
+      "nombre": "NOROESTE - LAS ROZAS \"B\"",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "JOSE MIGUEL LOPEZ RAIMONDEZ",
+      "nombre": "IÑIGO VILLACIEROS Y MANSO DE ZUÑIGA",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "ALEJANDRO ANSEDE MORENO",
-        "licencia": "23306",
-        "id": "23306"
+      "A": {
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
       },
-      "X": {
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
+      "B": {
+        "nombre": "ÁLVARO LUQUE PLAZA",
+        "licencia": "14607",
+        "id": "14607"
       },
-      "Z": {
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
+      "C": {
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "GONZALO RECUNA CUIÑA",
-        "licencia": "7949",
-        "id": "7949"
+      "Y": {
+        "nombre": "ROSTISLAV KULAK",
+        "licencia": "32426",
+        "id": "32426"
       },
-      "B": {
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
+      "X": {
+        "nombre": "MARTIN ALONSO GOMZALEZ",
+        "licencia": "30510",
+        "id": "30510"
       },
-      "C": {
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+      "Z": {
+        "nombre": "JORGE FERNANDEZ CRUCETA",
+        "licencia": "24177",
+        "id": "24177"
       }
     }
   },
@@ -75,42 +75,85 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "ALEJANDRO ANSEDE MORENO",
-        "licencia": "23306",
-        "id": "23306"
+        "letra": "A",
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "GONZALO RECUNA CUIÑA",
-        "licencia": "7949",
-        "id": "7949"
+        "letra": "Y",
+        "nombre": "ROSTISLAV KULAK",
+        "licencia": "32426",
+        "id": "32426"
       },
       "sets": [
         {
           "set": 1,
-          "local": 9,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 13,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ÁLVARO LUQUE PLAZA",
+        "licencia": "14607",
+        "id": "14607"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTIN ALONSO GOMZALEZ",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 9
+          "visitante": 8
         },
         {
           "set": 4,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 13
         },
         {
           "set": 5,
           "local": 11,
-          "visitante": 1
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
@@ -120,60 +163,7 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 12,
-          "visitante": 14
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 3,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 0
+        "visitante": 1
       }
     },
     {
@@ -181,31 +171,132 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
+        "letra": "C",
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+        "letra": "Z",
+        "nombre": "JORGE FERNANDEZ CRUCETA",
+        "licencia": "24177",
+        "id": "24177"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
-          "visitante": 11
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
-          "local": 3,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIAN STANUS",
+        "licencia": "22629",
+        "id": "22629"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTIN ALONSO GOMZALEZ",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DANIEL LEYVA GONZALEZ",
+        "licencia": "20027",
+        "id": "20027"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROSTISLAV KULAK",
+        "licencia": "32426",
+        "id": "32426"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
           "visitante": 11
         }
       ],
@@ -216,82 +307,39 @@
       "ganador": "visitante",
       "marcador_acumulado": {
         "local": 2,
-        "visitante": 1
+        "visitante": 3
       }
     },
     {
-      "numero": 4,
+      "numero": 6,
       "tipo": "individual",
-      "cruce": "A vs X",
+      "cruce": "B vs Z",
       "local": {
-        "letra": "X",
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
+        "letra": "B",
+        "nombre": "ÁLVARO LUQUE PLAZA",
+        "licencia": "14607",
+        "id": "14607"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "GONZALO RECUNA CUIÑA",
-        "licencia": "7949",
-        "id": "7949"
+        "letra": "Z",
+        "nombre": "JORGE FERNANDEZ CRUCETA",
+        "licencia": "24177",
+        "id": "24177"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 9
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "ALEJANDRO ANSEDE MORENO",
-        "licencia": "23306",
-        "id": "23306"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 5,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 16,
-          "visitante": 18
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 7,
+          "local": 9,
           "visitante": 11
         }
       ],
@@ -301,63 +349,20 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 16,
-          "visitante": 14
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 4,
-        "visitante": 2
+        "local": 2,
+        "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CTM MILAGROSA",
+    "ganador": "NOROESTE - LAS ROZAS \"B\"",
     "marcador_partidos": {
-      "local": 4,
-      "visitante": 2
+      "local": 2,
+      "visitante": 4
     },
     "marcador_juegos": {
-      "local": 12,
-      "visitante": 10
+      "local": 8,
+      "visitante": 15
     }
   },
   "acta_protestada": false

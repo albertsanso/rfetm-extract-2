@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 3,
   "jornada": 14,
-  "fecha": "2022-04-09",
-  "hora": "17:00",
+  "fecha": "2022-03-30",
+  "hora": "19:30",
   "lugar": {
-    "recinto": "PABELLON COLEGIO SANTO TOME",
-    "ciudad": "C/ OS OLMOS, S N 36630-Cambados(Pontevedra)"
+    "recinto": "CAR DE MURCIA",
+    "ciudad": "AV. MARIANO BALLESTER, 2, 30710 LOS ALCÁZARES, MURCIA"
   },
   "equipos": {
     "local": {
-      "nombre": "CAMBADOS TENIS DE MESA",
+      "nombre": "FRANCISCO R. POMARES S.L. ELCHE",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "MONTE PORREIRO PUB PATRIMONIO",
+      "nombre": "CTM ALCALÁ IMPORALIA",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": true,
+  "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "ANTONIO VIZOSO TOURIÑO",
+      "nombre": "JOSE ANTONIO GARCIA GARCIA",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "A": {
-        "nombre": "LUCAS EDUARDO BAYONA",
-        "licencia": "21825",
-        "id": "21825"
+      "Y": {
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
       },
-      "B": {
-        "nombre": "DANIEL CASALDERREY DIAZ",
-        "licencia": "4411",
-        "id": "4411"
+      "X": {
+        "nombre": "HECTOR SAAVEDRA GARCIA",
+        "licencia": "24053",
+        "id": "24053"
       },
-      "C": {
-        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
-        "licencia": "5678",
-        "id": "5678"
+      "Z": {
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
       }
     },
     "visitante": {
-      "Y": {
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
+      "A": {
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "id": "9582"
       },
-      "X": {
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+      "B": {
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
       },
-      "Z": {
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+      "C": {
+        "nombre": "ENRIQUE RODRIGUEZ SALAS",
+        "licencia": "22575",
+        "id": "22575"
       }
     }
   },
@@ -75,37 +75,47 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "A",
-        "nombre": "LUCAS EDUARDO BAYONA",
-        "licencia": "21825",
-        "id": "21825"
+        "letra": "Y",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
+        "letra": "A",
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "id": "9582"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 4
+          "visitante": 7
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 4
+          "local": 13,
+          "visitante": 11
         },
         {
           "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
           "local": 11,
-          "visitante": 4
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -118,70 +128,27 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "B",
-        "nombre": "DANIEL CASALDERREY DIAZ",
-        "licencia": "4411",
-        "id": "4411"
-      },
-      "visitante": {
         "letra": "X",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 2,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 5,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
-        "licencia": "5678",
-        "id": "5678"
+        "nombre": "HECTOR SAAVEDRA GARCIA",
+        "licencia": "24053",
+        "id": "24053"
       },
       "visitante": {
-        "letra": "Z",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+        "letra": "B",
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 5
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 4
         },
         {
           "set": 3,
@@ -196,6 +163,49 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE RODRIGUEZ SALAS",
+        "licencia": "22575",
+        "id": "22575"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
         "visitante": 1
       }
     },
@@ -204,32 +214,75 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "A",
-        "nombre": "LUCAS EDUARDO BAYONA",
-        "licencia": "21825",
-        "id": "21825"
+        "letra": "X",
+        "nombre": "HECTOR SAAVEDRA GARCIA",
+        "licencia": "24053",
+        "id": "24053"
       },
       "visitante": {
-        "letra": "X",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+        "letra": "A",
+        "nombre": "RAFAEL CASARES CASTELLANO",
+        "licencia": "9582",
+        "id": "9582"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE RODRIGUEZ SALAS",
+        "licencia": "22575",
+        "id": "22575"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 9
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
+          "visitante": 6
         }
       ],
       "resultado_juegos": {
@@ -239,45 +292,45 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
-        "visitante": 1
+        "visitante": 2
       }
     },
     {
-      "numero": 5,
+      "numero": 6,
       "tipo": "individual",
-      "cruce": "C vs Y",
+      "cruce": "B vs Z",
       "local": {
-        "letra": "C",
-        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
-        "licencia": "5678",
-        "id": "5678"
+        "letra": "Z",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
       },
       "visitante": {
-        "letra": "Y",
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
+        "letra": "B",
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
           "local": 9,
           "visitante": 11
         },
         {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
           "set": 4,
           "local": 11,
-          "visitante": 5
+          "visitante": 3
         }
       ],
       "resultado_juegos": {
@@ -287,67 +340,19 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 4,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "B",
-        "nombre": "DANIEL CASALDERREY DIAZ",
-        "licencia": "4411",
-        "id": "4411"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 4,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 4,
         "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CAMBADOS TENIS DE MESA",
+    "ganador": "FRANCISCO R. POMARES S.L. ELCHE",
     "marcador_partidos": {
       "local": 4,
       "visitante": 2
     },
     "marcador_juegos": {
-      "local": 13,
-      "visitante": 7
+      "local": 12,
+      "visitante": 9
     }
   },
   "acta_protestada": false

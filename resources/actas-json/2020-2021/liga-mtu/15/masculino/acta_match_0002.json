@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 15,
-  "fecha": "2021-05-22",
-  "hora": "18:30",
+  "fecha": "2021-05-23",
+  "hora": "11:00",
   "lugar": {
-    "recinto": "ALWAYS TM ESTRADA DE REDONDELA 42",
-    "ciudad": "Porriño (O) (Pontevedra)"
+    "recinto": "MESTRE RECASENS CALLE JOSEP MESTRE RECASENS Nº 10",
+    "ciudad": "12 - Vilafranca del Penedès (Barcelona)"
   },
   "equipos": {
     "local": {
-      "nombre": "CTM EL CALVARIO",
+      "nombre": "GIRBAU VIC T.T",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "ARTEAL",
+      "nombre": "SOCIEDAD CORAL RECREATIVA EL CIERVO",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "MELISSA PIÑON RIAL",
+      "nombre": "AGUSTI MASIP ESTRUCH",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "AVELINO CASTRO FERNANDEZ",
-        "licencia": "4937",
-        "id": "4937"
+      "A": {
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
       },
-      "X": {
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+      "B": {
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
       },
-      "Z": {
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+      "C": {
+        "nombre": "ARNAU MIARONS JORDA",
+        "licencia": "27336",
+        "id": "27336"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+      "Y": {
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
       },
-      "B": {
-        "nombre": "MARCELINO BAHAMONDE PÉREZ",
-        "licencia": "18254",
-        "id": "18254"
+      "X": {
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
       },
-      "C": {
-        "nombre": "XAVI SOUTO LOPEZ",
-        "licencia": "30059",
-        "id": "30059"
+      "Z": {
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
       }
     }
   },
@@ -75,42 +75,47 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AVELINO CASTRO FERNANDEZ",
-        "licencia": "4937",
-        "id": "4937"
+        "letra": "A",
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+        "letra": "Y",
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 5
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
           "local": 8,
           "visitante": 11
         },
         {
-          "set": 3,
-          "local": 11,
-          "visitante": 8
-        },
-        {
           "set": 4,
           "local": 11,
-          "visitante": 7
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -123,42 +128,42 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+        "letra": "B",
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "MARCELINO BAHAMONDE PÉREZ",
-        "licencia": "18254",
-        "id": "18254"
+        "letra": "X",
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
       },
       "sets": [
         {
           "set": 1,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 2,
-          "local": 5,
+          "local": 13,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
+        "local": 3,
+        "visitante": 0
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
+        "local": 2,
+        "visitante": 0
       }
     },
     {
@@ -166,52 +171,47 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+        "letra": "C",
+        "nombre": "ARNAU MIARONS JORDA",
+        "licencia": "27336",
+        "id": "27336"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "XAVI SOUTO LOPEZ",
-        "licencia": "30059",
-        "id": "30059"
+        "letra": "Z",
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 4
+          "visitante": 6
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 6
+          "visitante": 9
         },
         {
           "set": 4,
-          "local": 12,
-          "visitante": 14
-        },
-        {
-          "set": 5,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 2
+        "local": 3,
+        "visitante": 0
       }
     },
     {
@@ -219,22 +219,22 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+        "letra": "A",
+        "nombre": "BIEL GIMENO FONT",
+        "licencia": "23509",
+        "id": "23509"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+        "letra": "X",
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
       },
       "sets": [
         {
           "set": 1,
-          "local": 5,
-          "visitante": 11
+          "local": 12,
+          "visitante": 14
         },
         {
           "set": 2,
@@ -243,18 +243,23 @@
         },
         {
           "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
           "local": 6,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 0,
+        "local": 1,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       }
     },
     {
@@ -262,47 +267,47 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AVELINO CASTRO FERNANDEZ",
-        "licencia": "4937",
-        "id": "4937"
+        "letra": "C",
+        "nombre": "ARNAU MIARONS JORDA",
+        "licencia": "27336",
+        "id": "27336"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "XAVI SOUTO LOPEZ",
-        "licencia": "30059",
-        "id": "30059"
+        "letra": "Y",
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 6
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 12,
-          "visitante": 14
+          "local": 11,
+          "visitante": 1
         },
         {
           "set": 3,
-          "local": 2,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 4,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 6
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 4
+        "local": 4,
+        "visitante": 1
       }
     },
     {
@@ -310,54 +315,59 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+        "letra": "B",
+        "nombre": "EDGAR VENEGAS GALLARDO",
+        "licencia": "25572",
+        "id": "25572"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "MARCELINO BAHAMONDE PÉREZ",
-        "licencia": "18254",
-        "id": "18254"
+        "letra": "Z",
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
       },
       "sets": [
         {
           "set": 1,
-          "local": 5,
+          "local": 2,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 8,
-          "visitante": 11
+          "local": 14,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 5
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": "ARTEAL",
+    "ganador": "GIRBAU VIC T.T",
     "marcador_partidos": {
-      "local": 1,
-      "visitante": 5
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 6,
-      "visitante": 16
+      "local": 16,
+      "visitante": 8
     }
   },
   "acta_protestada": false

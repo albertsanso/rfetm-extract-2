@@ -37,11 +37,331 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "Y": {
+        "nombre": "TOR GUITART, JORDI",
+        "licencia": "1795"
+      },
+      "X": {
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "Z": {
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902"
+      },
+      "B": {
+        "nombre": "OÑA PEREZ, ANTONIO",
+        "licencia": "1250"
+      },
+      "C": {
+        "nombre": "MARTÍNEZ FIGUERAS, ROGER",
+        "licencia": "36704"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TOR GUITART, JORDI",
+        "licencia": "1795"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OÑA PEREZ, ANTONIO",
+        "licencia": "1250"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTÍNEZ FIGUERAS, ROGER",
+        "licencia": "36704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TOR GUITART, JORDI",
+        "licencia": "1795"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTÍNEZ FIGUERAS, ROGER",
+        "licencia": "36704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OÑA PEREZ, ANTONIO",
+        "licencia": "1250"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
   "resultado_final": {
     "ganador": "GIRBAU VIC T.T",
     "marcador_partidos": {

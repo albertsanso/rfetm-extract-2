@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 3,
   "jornada": 13,
   "fecha": "2022-04-03",
-  "hora": "11:00",
+  "hora": "10:30",
   "lugar": {
-    "recinto": "PABELLON CASTELAO",
-    "ciudad": "CALLE CASTELAO Nº 13 36600-Vilagarcía de Arousa(Pontevedra)"
+    "recinto": "PABELLON TM COMPLEJO DEP. DEHESA BOYAL",
+    "ciudad": "AVDA. NAVARRONDAN, S N 28702-San Sebastián de los Reyes(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "VILAGARCIA TENIS DE MESA",
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "ONE VISION PARLA",
+      "nombre": "AQADEM.COM",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "ANTONIO VIZOSO TOURIÑO",
+      "nombre": "RUBEN CUMPLIDO BERMEJO",
       "licencia": null
     },
     "asistente": null
@@ -35,65 +35,40 @@
   "alineaciones": {
     "local": {
       "Y": {
-        "nombre": "SERGIY NIGERUK NIGERUK",
-        "licencia": "4037",
-        "id": "4037"
+        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
+        "licencia": "2829",
+        "id": "2829"
       },
       "X": {
-        "nombre": "PEDRO CASTRO SALGADO",
-        "licencia": "16939",
-        "id": "16939"
+        "nombre": "YOHAN RINOL MORA SANCHEZ",
+        "licencia": "29448",
+        "id": "29448"
       },
       "Z": {
-        "nombre": "LAWAL ABIODUM GANIU",
-        "licencia": "24148",
-        "id": "24148"
+        "nombre": "CARLOS MARTIN VARGAS",
+        "licencia": "2576",
+        "id": "2576"
       }
     },
     "visitante": {
       "A": {
-        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
-        "licencia": "18012",
-        "id": "18012"
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
       },
       "B": {
-        "nombre": "MARKO JEVTOVIC",
-        "licencia": "38401",
-        "id": "38401"
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
       },
       "C": {
-        "nombre": "XAVIER PERAL PARENT",
-        "licencia": "3969",
-        "id": "3969"
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
       }
     }
   },
-  "dobles": {
-    "local": [
-      {
-        "nombre": "SERGIY NIGERUK NIGERUK",
-        "licencia": "4037",
-        "id": "4037"
-      },
-      {
-        "nombre": "LAWAL ABIODUM GANIU",
-        "licencia": "24148",
-        "id": "24148"
-      }
-    ],
-    "visitante": [
-      {
-        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
-        "licencia": "18012",
-        "id": "18012"
-      },
-      {
-        "nombre": "MARKO JEVTOVIC",
-        "licencia": "38401",
-        "id": "38401"
-      }
-    ]
-  },
+  "dobles": null,
   "partidos": [
     {
       "numero": 1,
@@ -101,311 +76,15 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "SERGIY NIGERUK NIGERUK",
-        "licencia": "4037",
-        "id": "4037"
+        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
+        "licencia": "2829",
+        "id": "2829"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
-        "licencia": "18012",
-        "id": "18012"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 2,
-          "local": 13,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 5
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "PEDRO CASTRO SALGADO",
-        "licencia": "16939",
-        "id": "16939"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "MARKO JEVTOVIC",
-        "licencia": "38401",
-        "id": "38401"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 4,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LAWAL ABIODUM GANIU",
-        "licencia": "24148",
-        "id": "24148"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "XAVIER PERAL PARENT",
-        "licencia": "3969",
-        "id": "3969"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 8
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "PEDRO CASTRO SALGADO",
-        "licencia": "16939",
-        "id": "16939"
-      },
-      "visitante": {
-        "letra": "A",
-        "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
-        "licencia": "18012",
-        "id": "18012"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 9,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "SERGIY NIGERUK NIGERUK",
-        "licencia": "4037",
-        "id": "4037"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "XAVIER PERAL PARENT",
-        "licencia": "3969",
-        "id": "3969"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 9
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LAWAL ABIODUM GANIU",
-        "licencia": "24148",
-        "id": "24148"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "MARKO JEVTOVIC",
-        "licencia": "38401",
-        "id": "38401"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 4,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 8,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 7,
-      "tipo": "dobles",
-      "cruce": "D vs D",
-      "local": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "SERGIY NIGERUK NIGERUK",
-            "licencia": "4037",
-            "id": "4037"
-          },
-          {
-            "nombre": "LAWAL ABIODUM GANIU",
-            "licencia": "24148",
-            "id": "24148"
-          }
-        ]
-      },
-      "visitante": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "MIGUEL ANGEL PANTOJA ANDRADE",
-            "licencia": "18012",
-            "id": "18012"
-          },
-          {
-            "nombre": "MARKO JEVTOVIC",
-            "licencia": "38401",
-            "id": "38401"
-          }
-        ]
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
       },
       "sets": [
         {
@@ -415,45 +94,255 @@
         },
         {
           "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YOHAN RINOL MORA SANCHEZ",
+        "licencia": "29448",
+        "id": "29448"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
           "local": 9,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 5,
-          "local": 4,
-          "visitante": 11
+          "local": 10,
+          "visitante": 12
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS MARTIN VARGAS",
+        "licencia": "2576",
+        "id": "2576"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YOHAN RINOL MORA SANCHEZ",
+        "licencia": "29448",
+        "id": "29448"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JEAN KARIM LAURIC",
+        "licencia": "29507",
+        "id": "29507"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
         "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANTONIO EMILIO GARCIA JIMENEZ",
+        "licencia": "2829",
+        "id": "2829"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS MARTIN VARGAS",
+        "licencia": "2576",
+        "id": "2576"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ISRAEL RODRIGUEZ TORRES",
+        "licencia": "8407",
+        "id": "8407"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
       }
     }
   ],
   "resultado_final": {
-    "ganador": "ONE VISION PARLA",
+    "ganador": "AQADEM.COM",
     "marcador_partidos": {
-      "local": 3,
-      "visitante": 4
+      "local": 0,
+      "visitante": 6
     },
     "marcador_juegos": {
-      "local": 13,
-      "visitante": 14
+      "local": 1,
+      "visitante": 18
     }
   },
   "acta_protestada": false

@@ -40,11 +40,304 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "Y": {
+        "nombre": "SANS LOPEZ, MARTINA",
+        "licencia": "29027"
+      },
+      "X": {
+        "nombre": "FEHER , GABRIELA",
+        "licencia": "8480"
+      },
+      "Z": {
+        "nombre": "KAWAKITA , HONOKA",
+        "licencia": "40924"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CHASSELIN , PAULINE",
+        "licencia": "44185"
+      },
+      "B": {
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294"
+      },
+      "C": {
+        "nombre": "SASTRE PEREZ, EUGENIA",
+        "licencia": "18659"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANS LOPEZ, MARTINA",
+        "licencia": "29027"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHASSELIN , PAULINE",
+        "licencia": "44185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FEHER , GABRIELA",
+        "licencia": "8480"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "KAWAKITA , HONOKA",
+        "licencia": "40924"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SASTRE PEREZ, EUGENIA",
+        "licencia": "18659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FEHER , GABRIELA",
+        "licencia": "8480"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CHASSELIN , PAULINE",
+        "licencia": "44185"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SANS LOPEZ, MARTINA",
+        "licencia": "29027"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SASTRE PEREZ, EUGENIA",
+        "licencia": "18659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "KAWAKITA , HONOKA",
+        "licencia": "40924"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BILENKO , TETYANA",
+        "licencia": "27294"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
   "resultado_final": {
     "ganador": null,
     "marcador_partidos": {

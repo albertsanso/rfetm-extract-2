@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 3,
   "jornada": 13,
   "fecha": "2022-04-02",
-  "hora": "16:00",
+  "hora": "17:00",
   "lugar": {
-    "recinto": "CEIP LAS CIGÜEÑAS GIMNASIO",
-    "ciudad": "AVDA. DE LAS NACIONES S/N ESQUINA AVDA. FRANCIA 28521-RIVAS-VACIAMADRID(MADRID)"
+    "recinto": "GIMNASIO CUBIERTO DEL COMPLEJO DEPORTIVO MUNICIPAL LA SALOBREJA",
+    "ciudad": "AVDA. GRANADA S/N 23003-Jaén(Jaén)"
   },
   "equipos": {
     "local": {
-      "nombre": "LEGANES-RIVAS",
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CIDADE DE NARON",
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "IÑIGO VILLACIEROS Y MANSO DE ZUÑIGA",
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "Y": {
-        "nombre": "ALEJANDRA CERVANTES GUZMAN",
-        "licencia": "29446",
-        "id": "29446"
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
       },
       "X": {
-        "nombre": "MARIA LOPÉZ BERNAL",
-        "licencia": "17866",
-        "id": "17866"
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
       },
       "Z": {
-        "nombre": "LAURA GARCIA GARCIA",
-        "licencia": "21982",
-        "id": "21982"
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
       }
     },
     "visitante": {
       "A": {
-        "nombre": "LOLA BACELO VIÑAS",
-        "licencia": "33491",
-        "id": "33491"
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
       },
       "B": {
-        "nombre": "JULIA GUERRA FERNANDEZ",
-        "licencia": "20530",
-        "id": "20530"
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
       },
       "C": {
-        "nombre": "LUCIA SAURA GOMEZ",
-        "licencia": "27808",
-        "id": "27808"
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
       }
     }
   },
@@ -76,31 +76,79 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "ALEJANDRA CERVANTES GUZMAN",
-        "licencia": "29446",
-        "id": "29446"
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "LOLA BACELO VIÑAS",
-        "licencia": "33491",
-        "id": "33491"
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 4
+          "visitante": 1
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 4
+          "visitante": 2
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 5
+          "visitante": 2
         }
       ],
       "resultado_juegos": {
@@ -110,55 +158,7 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "MARIA LOPÉZ BERNAL",
-        "licencia": "17866",
-        "id": "17866"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "JULIA GUERRA FERNANDEZ",
-        "licencia": "20530",
-        "id": "20530"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
         "visitante": 1
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 0
       }
     },
     {
@@ -167,31 +167,117 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": "LAURA GARCIA GARCIA",
-        "licencia": "21982",
-        "id": "21982"
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
       },
       "visitante": {
         "letra": "C",
-        "nombre": "LUCIA SAURA GOMEZ",
-        "licencia": "27808",
-        "id": "27808"
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 1
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 1
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 8
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CELIA VALPUESTA RUIZ",
+        "licencia": "36644",
+        "id": "36644"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JULIA IZQUIERDO SAEZ",
+        "licencia": "22990",
+        "id": "22990"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MONICA RODRIGUEZ ESPINAR",
+        "licencia": "38875",
+        "id": "38875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
         }
       ],
       "resultado_juegos": {
@@ -201,40 +287,40 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
-        "visitante": 0
+        "visitante": 2
       }
     },
     {
-      "numero": 4,
+      "numero": 6,
       "tipo": "individual",
-      "cruce": "A vs X",
+      "cruce": "B vs Z",
       "local": {
-        "letra": "X",
-        "nombre": "MARIA LOPÉZ BERNAL",
-        "licencia": "17866",
-        "id": "17866"
+        "letra": "Z",
+        "nombre": "NAIRA TORRES FERNANDEZ",
+        "licencia": "35443",
+        "id": "35443"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "LOLA BACELO VIÑAS",
-        "licencia": "33491",
-        "id": "33491"
+        "letra": "B",
+        "nombre": "JULIA MACHADO MOLINA",
+        "licencia": "37799",
+        "id": "37799"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 10
+          "local": 11,
+          "visitante": 2
         }
       ],
       "resultado_juegos": {
@@ -244,105 +330,19 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 4,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "ALEJANDRA CERVANTES GUZMAN",
-        "licencia": "29446",
-        "id": "29446"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "LUCIA SAURA GOMEZ",
-        "licencia": "27808",
-        "id": "27808"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 4
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 5,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LAURA GARCIA GARCIA",
-        "licencia": "21982",
-        "id": "21982"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "JULIA GUERRA FERNANDEZ",
-        "licencia": "20530",
-        "id": "20530"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 6,
-        "visitante": 0
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "LEGANES-RIVAS",
+    "ganador": "HUJASE JAÉN AUTÉNTICA",
     "marcador_partidos": {
-      "local": 6,
-      "visitante": 0
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 18,
-      "visitante": 1
+      "local": 13,
+      "visitante": 6
     }
   },
   "acta_protestada": false

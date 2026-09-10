@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 1,
+  "grupo": 5,
   "jornada": 15,
   "fecha": "2021-05-23",
   "hora": "11:00",
   "lugar": {
-    "recinto": "LOCAL SOCIAL A SOLAINA RUA MERCEDES FREIRE LAGO Nº4 BAIXO",
-    "ciudad": "Narón (A Coruña)"
+    "recinto": "PABELLÓN DE DEPORTES C/ REVERENDO JOSÉ APARICIO, 3",
+    "ciudad": "Priego de Córdoba (Córdoba)"
   },
   "equipos": {
     "local": {
-      "nombre": "AD COLLADO MEDIANO",
+      "nombre": "VIDRIO SERVICE TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "VISIT PONTEVEDRA",
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "ANTON MARTIN GONZALEZ",
+      "nombre": "FRANCISCO BAENA REDONDO",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "ANGELA RODRÍGUEZ GARCIA",
-        "licencia": "19691",
-        "id": "19691"
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "id": "9165"
       },
       "B": {
-        "nombre": "ANA DE LA MATA HERREROS",
-        "licencia": "20091",
-        "id": "20091"
+        "nombre": "LORENA GIL GOMEZ",
+        "licencia": "16148",
+        "id": "16148"
       },
       "C": {
-        "nombre": "MIREIA CIFUENTES FERNANDEZ",
-        "licencia": "8643",
-        "id": "8643"
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "id": "19107"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "MURIEL LUCIA RAJMIL",
-        "licencia": "36591",
-        "id": "36591"
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "id": "11199"
       },
       "X": {
-        "nombre": "JUDITH COBAS PENA",
-        "licencia": "9186",
-        "id": "9186"
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
       },
       "Z": {
-        "nombre": "NOELIA SANTIAGO BARREIRO",
-        "licencia": "10552",
-        "id": "10552"
+        "nombre": "EVA VEGA CAÑETE",
+        "licencia": "20757",
+        "id": "20757"
       }
     }
   },
@@ -76,21 +76,21 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "ANGELA RODRÍGUEZ GARCIA",
-        "licencia": "19691",
-        "id": "19691"
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "id": "9165"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "MURIEL LUCIA RAJMIL",
-        "licencia": "36591",
-        "id": "36591"
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "id": "11199"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         },
         {
           "set": 2,
@@ -99,13 +99,13 @@
         },
         {
           "set": 3,
-          "local": 9,
+          "local": 3,
           "visitante": 11
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 3
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
@@ -124,15 +124,106 @@
       "cruce": "B vs X",
       "local": {
         "letra": "B",
-        "nombre": "ANA DE LA MATA HERREROS",
-        "licencia": "20091",
-        "id": "20091"
+        "nombre": "LORENA GIL GOMEZ",
+        "licencia": "16148",
+        "id": "16148"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "JUDITH COBAS PENA",
-        "licencia": "9186",
-        "id": "9186"
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "id": "19107"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "EVA VEGA CAÑETE",
+        "licencia": "20757",
+        "id": "20757"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "id": "9165"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NEREA GARCIA MORENO",
+        "licencia": "17877",
+        "id": "17877"
       },
       "sets": [
         {
@@ -142,119 +233,33 @@
         },
         {
           "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 8,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "C",
-        "nombre": "MIREIA CIFUENTES FERNANDEZ",
-        "licencia": "8643",
-        "id": "8643"
-      },
-      "visitante": {
-        "letra": "Z",
-        "nombre": "NOELIA SANTIAGO BARREIRO",
-        "licencia": "10552",
-        "id": "10552"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "A",
-        "nombre": "ANGELA RODRÍGUEZ GARCIA",
-        "licencia": "19691",
-        "id": "19691"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "JUDITH COBAS PENA",
-        "licencia": "9186",
-        "id": "9186"
-      },
-      "sets": [
-        {
-          "set": 1,
           "local": 11,
           "visitante": 8
         },
         {
-          "set": 2,
-          "local": 11,
-          "visitante": 2
+          "set": 3,
+          "local": 7,
+          "visitante": 11
         },
         {
-          "set": 3,
-          "local": 11,
-          "visitante": 4
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
         "local": 2,
-        "visitante": 2
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
       }
     },
     {
@@ -263,38 +268,38 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "C",
-        "nombre": "MIREIA CIFUENTES FERNANDEZ",
-        "licencia": "8643",
-        "id": "8643"
+        "nombre": "LUCIA LOPEZ CUENCA",
+        "licencia": "19107",
+        "id": "19107"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "MURIEL LUCIA RAJMIL",
-        "licencia": "36591",
-        "id": "36591"
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "id": "11199"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 8
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 5
+          "local": 9,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
         "local": 3,
         "visitante": 2
@@ -306,35 +311,45 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "B",
-        "nombre": "ANA DE LA MATA HERREROS",
-        "licencia": "20091",
-        "id": "20091"
+        "nombre": "LORENA GIL GOMEZ",
+        "licencia": "16148",
+        "id": "16148"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "NOELIA SANTIAGO BARREIRO",
-        "licencia": "10552",
-        "id": "10552"
+        "nombre": "EVA VEGA CAÑETE",
+        "licencia": "20757",
+        "id": "20757"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 4
         },
         {
           "set": 2,
-          "local": 7,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 3,
-          "local": 5,
+          "local": 9,
           "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
         }
       ],
       "resultado_juegos": {
-        "local": 0,
+        "local": 2,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -351,8 +366,8 @@
       "visitante": 3
     },
     "marcador_juegos": {
-      "local": 11,
-      "visitante": 10
+      "local": 13,
+      "visitante": 11
     }
   },
   "acta_protestada": false

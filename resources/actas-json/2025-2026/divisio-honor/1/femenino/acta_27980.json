@@ -31,7 +31,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "MARTINEZ IMMELN, LEIRE",
+        "licencia": "36883"
+      },
+      "X": {
+        "nombre": "LOPEZ ESCUDERO, PAULA",
+        "licencia": "36162"
+      },
+      "Z": {
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "COBAS PENA, JUDITH",
@@ -47,7 +60,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
+      },
+      {
+        "nombre": "MARTINEZ IMMELN, LEIRE",
+        "licencia": "36883"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "COBAS PENA, JUDITH",
+        "licencia": "9186"
+      },
+      {
+        "nombre": "BERNARDEZ MACEIRA, NOA",
+        "licencia": "18409"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -55,7 +89,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "MARTINEZ IMMELN, LEIRE",
+        "licencia": "36883"
       },
       "visitante": {
         "letra": "A",
@@ -95,7 +130,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "LOPEZ ESCUDERO, PAULA",
+        "licencia": "36162"
       },
       "visitante": {
         "letra": "B",
@@ -140,7 +176,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
       },
       "visitante": {
         "letra": "C",
@@ -180,7 +217,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "LOPEZ ESCUDERO, PAULA",
+        "licencia": "36162"
       },
       "visitante": {
         "letra": "A",
@@ -230,7 +268,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "MARTINEZ IMMELN, LEIRE",
+        "licencia": "36883"
       },
       "visitante": {
         "letra": "C",
@@ -275,7 +314,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "TECLA GHEMES, IOANA",
+        "licencia": "17118"
       },
       "visitante": {
         "letra": "B",
@@ -315,7 +355,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "TECLA GHEMES, IOANA",
+            "licencia": "17118"
+          },
+          {
+            "nombre": "MARTINEZ IMMELN, LEIRE",
+            "licencia": "36883"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

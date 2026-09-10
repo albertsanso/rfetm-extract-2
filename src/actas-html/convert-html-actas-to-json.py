@@ -589,6 +589,7 @@ def parse_match_outer_table(table):
     lugar_raw = None
     arbitro = None
     inner_result = None
+    incidencia = None
 
     if len(rows) > 1:
         inner_td = rows[1].find("td", recursive=False)
@@ -599,6 +600,22 @@ def parse_match_outer_table(table):
 
             for font in inner_td.find_all("font"):
                 font_text = font.get_text(separator="\n")
+
+                # Incidencia / resolución (p.ej. "Resultado por decisión de la
+                # Juez Único. Descalificado XXX." o textos de incomparecencia).
+                # Estos partidos suelen no tener tabla de encuentros individual
+                # porque la propia acta de la RFETM no la publica.
+                if not incidencia:
+                    incidencia_m = re.search(
+                        r"(resultado por decisi[oó]n|incomparecencia|"
+                        r"descalificad[oa]|no\s+presentad|walkover|w\.?o\.?)",
+                        font_text,
+                        re.IGNORECASE,
+                    )
+                    if incidencia_m:
+                        val = clean(font_text.split("\n")[0])
+                        if val:
+                            incidencia = val
 
                 m = re.search(
                     r"^(.+?)\s*[-–]\s*(.+?)(?:\n|$)", font_text.strip(), re.MULTILINE
@@ -681,6 +698,7 @@ def parse_match_outer_table(table):
         "dobles":        dobles,
         "partidos":      encuentros,
         "totales":       totales,
+        "incidencia":    incidencia,
         "resultado_final": {
             "ganador": ganador_final,
             "marcador_partidos": {
@@ -854,6 +872,10 @@ def parse_html_file(html_path: Path):
         # Eliminar campos internos no necesarios en el JSON final
         partido.pop("link_acta", None)
         partido.pop("totales", None)
+        # "incidencia" solo se conserva cuando aporta información real, para
+        # no ensuciar con `null` las actas normales que sí tienen encuentros.
+        if not partido.get("incidencia"):
+            partido.pop("incidencia", None)
 
         partidos.append(partido)
 
@@ -902,7 +924,7 @@ def _order_partido_fields(partido):
     field_order = [
         "federacion", "temporada", "competicion", "grupo", "jornada",
         "fecha", "hora", "lugar", "equipos", "abc_es_local", "arbitros",
-        "alineaciones", "dobles", "partidos", "resultado_final",
+        "alineaciones", "dobles", "partidos", "incidencia", "resultado_final",
         "acta_protestada",
     ]
     ordered = {}

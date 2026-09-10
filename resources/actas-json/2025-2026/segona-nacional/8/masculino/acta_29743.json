@@ -31,7 +31,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768"
+      },
+      "X": {
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420"
+      },
+      "Z": {
+        "nombre": "MOREL PILLAUDIN, CYRIL",
+        "licencia": "1904"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "OLTRA ALONSO, ANGEL",
@@ -47,7 +60,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768"
+      },
+      {
+        "nombre": "MOREL PILLAUDIN, CYRIL",
+        "licencia": "1904"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      },
+      {
+        "nombre": "CELDRAN ROMERO, FERNANDO",
+        "licencia": "19749"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -55,7 +89,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768"
       },
       "visitante": {
         "letra": "A",
@@ -95,7 +130,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420"
       },
       "visitante": {
         "letra": "B",
@@ -145,7 +181,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "MOREL PILLAUDIN, CYRIL",
+        "licencia": "1904"
       },
       "visitante": {
         "letra": "C",
@@ -185,7 +222,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420"
       },
       "visitante": {
         "letra": "A",
@@ -225,7 +263,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768"
       },
       "visitante": {
         "letra": "C",
@@ -265,7 +304,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "MOREL PILLAUDIN, CYRIL",
+        "licencia": "1904"
       },
       "visitante": {
         "letra": "B",
@@ -305,7 +345,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "MENDEZ GARCIA, JULIAN",
+            "licencia": "14768"
+          },
+          {
+            "nombre": "MOREL PILLAUDIN, CYRIL",
+            "licencia": "1904"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

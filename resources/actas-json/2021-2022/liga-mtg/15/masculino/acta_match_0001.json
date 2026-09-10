@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 6,
   "jornada": 15,
-  "fecha": "2022-04-23",
-  "hora": "17:00",
+  "fecha": "2022-04-24",
+  "hora": "11:00",
   "lugar": {
-    "recinto": "CLUB DEL MAR DE SAN AMARO",
-    "ciudad": "PASEO CLUB DEL MAR 1 15002-Coruña (A)(A Coruña)"
+    "recinto": "CEIP PIO XII",
+    "ciudad": "CALLE DIEGO GOMEZ SALIDO, S/N, 11401-Jerez de la Frontera(Cádiz)"
   },
   "equipos": {
     "local": {
-      "nombre": "CLUB DEL MAR",
+      "nombre": "CTM TODODISCA JEREZ",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "FUENLABRADA TEAM TM",
+      "nombre": "CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "CONCEPCION LOPEZ VAZQUEZ",
+      "nombre": "JUAN MANUEL SAÑUDO JIMENEZ",
       "licencia": null
     },
     "asistente": null
@@ -35,40 +35,65 @@
   "alineaciones": {
     "local": {
       "Y": {
-        "nombre": "DIEGO VARELA SUAREZ",
-        "licencia": "16657",
-        "id": "16657"
+        "nombre": "DAVID CRISTIAN MURIEL BLANCO",
+        "licencia": "2875",
+        "id": "2875"
       },
       "X": {
-        "nombre": "JAVIER OBELLEIRO RIVEIRO",
-        "licencia": "6074",
-        "id": "6074"
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
       },
       "Z": {
-        "nombre": "JAVIER DIZ CONDE",
-        "licencia": "17803",
-        "id": "17803"
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
       }
     },
     "visitante": {
       "A": {
-        "nombre": "JORGE HIGUERA FOMBUENA",
-        "licencia": "5776",
-        "id": "5776"
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
       },
       "B": {
-        "nombre": "MARCOS PIMENTEL SERRA",
-        "licencia": "19707",
-        "id": "19707"
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
       },
       "C": {
-        "nombre": "JON URIBARRI CRIADO",
-        "licencia": "1266",
-        "id": "1266"
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
+      },
+      {
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      {
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -76,26 +101,26 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "DIEGO VARELA SUAREZ",
-        "licencia": "16657",
-        "id": "16657"
+        "nombre": "DAVID CRISTIAN MURIEL BLANCO",
+        "licencia": "2875",
+        "id": "2875"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "JORGE HIGUERA FOMBUENA",
-        "licencia": "5776",
-        "id": "5776"
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 9
+          "visitante": 1
         },
         {
           "set": 3,
@@ -119,36 +144,36 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": "JAVIER OBELLEIRO RIVEIRO",
-        "licencia": "6074",
-        "id": "6074"
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
       },
       "visitante": {
         "letra": "B",
-        "nombre": "MARCOS PIMENTEL SERRA",
-        "licencia": "19707",
-        "id": "19707"
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 4
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 5
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
@@ -167,15 +192,15 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": "JAVIER DIZ CONDE",
-        "licencia": "17803",
-        "id": "17803"
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
       },
       "visitante": {
         "letra": "C",
-        "nombre": "JON URIBARRI CRIADO",
-        "licencia": "1266",
-        "id": "1266"
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
       },
       "sets": [
         {
@@ -185,28 +210,23 @@
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 4
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 1
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 6
+          "local": 5,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 0
+        "local": 2,
+        "visitante": 1
       }
     },
     {
@@ -215,43 +235,48 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": "JAVIER OBELLEIRO RIVEIRO",
-        "licencia": "6074",
-        "id": "6074"
+        "nombre": "JOAO PEDRO SILVA VIEIRA",
+        "licencia": "22755",
+        "id": "22755"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "JORGE HIGUERA FOMBUENA",
-        "licencia": "5776",
-        "id": "5776"
+        "nombre": "JOSE LUIS OÑA MURILLO",
+        "licencia": "6779",
+        "id": "6779"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 10
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 3,
-          "local": 7,
+          "local": 5,
           "visitante": 11
         },
         {
           "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
           "local": 11,
-          "visitante": 13
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 2
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
         "visitante": 1
@@ -263,45 +288,35 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "DIEGO VARELA SUAREZ",
-        "licencia": "16657",
-        "id": "16657"
+        "nombre": "DAVID CRISTIAN MURIEL BLANCO",
+        "licencia": "2875",
+        "id": "2875"
       },
       "visitante": {
         "letra": "C",
-        "nombre": "JON URIBARRI CRIADO",
-        "licencia": "1266",
-        "id": "1266"
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 14
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 13,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
           "local": 7,
           "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 5,
-          "local": 3,
-          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -316,58 +331,114 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": "JAVIER DIZ CONDE",
-        "licencia": "17803",
-        "id": "17803"
+        "nombre": "JOSE MANUEL ZEA GAVIRA",
+        "licencia": "14864",
+        "id": "14864"
       },
       "visitante": {
         "letra": "B",
-        "nombre": "MARCOS PIMENTEL SERRA",
-        "licencia": "19707",
-        "id": "19707"
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
       },
       "sets": [
         {
           "set": 1,
-          "local": 9,
+          "local": 5,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 12,
-          "visitante": 10
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 13,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 13,
+          "local": 7,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
         "local": 3,
-        "visitante": 1
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JOSE MANUEL ZEA GAVIRA",
+            "licencia": "14864",
+            "id": "14864"
+          },
+          {
+            "nombre": "JOAO PEDRO SILVA VIEIRA",
+            "licencia": "22755",
+            "id": "22755"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARLOS ROMAN POZO",
+            "licencia": "17934",
+            "id": "17934"
+          },
+          {
+            "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+            "licencia": "28047",
+            "id": "28047"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
         "local": 4,
-        "visitante": 2
+        "visitante": 3
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CLUB DEL MAR",
+    "ganador": "CTM TODODISCA JEREZ",
     "marcador_partidos": {
       "local": 4,
-      "visitante": 2
+      "visitante": 3
     },
     "marcador_juegos": {
-      "local": 15,
-      "visitante": 9
+      "local": 12,
+      "visitante": 12
     }
   },
   "acta_protestada": false

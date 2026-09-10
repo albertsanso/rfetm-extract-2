@@ -2,115 +2,145 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 6,
   "jornada": 15,
   "fecha": "2022-04-24",
-  "hora": "11:00",
+  "hora": "11:30",
   "lugar": {
-    "recinto": "COLEGIO PUBLICO DE CHANS BEMBRIVE",
-    "ciudad": "CAMINO DE AREA DO LECER 36313-Vigo(Pontevedra)"
+    "recinto": "PABELLON CUBIERTO MUNICIPAL",
+    "ciudad": "C/ CADIZ, 4 21400-Ayamonte(Huelva)"
   },
   "equipos": {
     "local": {
-      "nombre": "HELIOS ASESORIA SERINTE",
+      "nombre": "CONSERVAS LOLA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CAJA RURAL - GALAXIA PHONE",
+      "nombre": "GUADALSEM AMIGOS TM LEBRIJA",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "SAMUEL GARCIA BALLESTEROS",
+      "nombre": "ANTONIO MATEO PEREZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "LUCAS RODRIGUEZ CHAO",
-        "licencia": "6625",
-        "id": "6625"
+      "A": {
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
       },
-      "X": {
-        "nombre": "ALBERTO PEREZ PENEDO",
-        "licencia": "15909",
-        "id": "15909"
+      "B": {
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
       },
-      "Z": {
-        "nombre": "JUAN LOIS FUENTES",
-        "licencia": "8006",
-        "id": "8006"
+      "C": {
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
-        "licencia": "29353",
-        "id": "29353"
+      "Y": {
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
       },
-      "B": {
-        "nombre": "DANIEL ILLAN RICO",
-        "licencia": "19809",
-        "id": "19809"
+      "X": {
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
       },
-      "C": {
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
+      "Z": {
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      {
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      {
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "LUCAS RODRIGUEZ CHAO",
-        "licencia": "6625",
-        "id": "6625"
+        "letra": "A",
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
-        "licencia": "29353",
-        "id": "29353"
+        "letra": "Y",
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 3,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 3,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
+        "local": 3,
         "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
       }
     },
     {
@@ -118,102 +148,16 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "ALBERTO PEREZ PENEDO",
-        "licencia": "15909",
-        "id": "15909"
-      },
-      "visitante": {
         "letra": "B",
-        "nombre": "DANIEL ILLAN RICO",
-        "licencia": "19809",
-        "id": "19809"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 13
-        },
-        {
-          "set": 2,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 10,
-          "visitante": 12
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "JUAN LOIS FUENTES",
-        "licencia": "8006",
-        "id": "8006"
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 13
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
         "letra": "X",
-        "nombre": "ALBERTO PEREZ PENEDO",
-        "licencia": "15909",
-        "id": "15909"
-      },
-      "visitante": {
-        "letra": "A",
-        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
-        "licencia": "29353",
-        "id": "29353"
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
       },
       "sets": [
         {
@@ -228,7 +172,103 @@
         },
         {
           "set": 3,
-          "local": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LUDOVICO CRESPO LOPEZ",
+        "licencia": "22225",
+        "id": "22225"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
           "visitante": 11
         }
       ],
@@ -238,8 +278,8 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 4
+        "local": 2,
+        "visitante": 2
       }
     },
     {
@@ -247,22 +287,65 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "LUCAS RODRIGUEZ CHAO",
-        "licencia": "6625",
-        "id": "6625"
+        "letra": "C",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "DANIEL GOMEZ SANDONIS",
-        "licencia": "10198",
-        "id": "10198"
+        "letra": "Y",
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
           "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
         },
         {
           "set": 2,
@@ -271,93 +354,96 @@
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 4
-        },
-        {
-          "set": 5,
-          "local": 14,
-          "visitante": 12
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 4
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "JUAN LOIS FUENTES",
-        "licencia": "8006",
-        "id": "8006"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "DANIEL ILLAN RICO",
-        "licencia": "19809",
-        "id": "19809"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 4,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 5,
           "local": 9,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 5
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JOSE MANUEL CABALLERO DIEZ",
+            "licencia": "7055",
+            "id": "7055"
+          },
+          {
+            "nombre": "LUDOVICO CRESPO LOPEZ",
+            "licencia": "22225",
+            "id": "22225"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JORGE RAMOS RODRIGUEZ",
+            "licencia": "21965",
+            "id": "21965"
+          },
+          {
+            "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+            "licencia": "3019",
+            "id": "3019"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CAJA RURAL - GALAXIA PHONE",
+    "ganador": "CONSERVAS LOLA",
     "marcador_partidos": {
-      "local": 1,
-      "visitante": 5
+      "local": 4,
+      "visitante": 3
     },
     "marcador_juegos": {
-      "local": 5,
-      "visitante": 17
+      "local": 13,
+      "visitante": 12
     }
   },
   "acta_protestada": false

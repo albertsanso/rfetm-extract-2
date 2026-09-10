@@ -31,7 +31,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408"
+      },
+      "X": {
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320"
+      },
+      "Z": {
+        "nombre": "BORRELL SERRA, BIEL",
+        "licencia": "25056"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "OÑA PEREZ, ANTONIO",
@@ -47,7 +60,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320"
+      },
+      {
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "OÑA PEREZ, ANTONIO",
+        "licencia": "1250"
+      },
+      {
+        "nombre": "MUNTADA GINER, JAUME",
+        "licencia": "8902"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -55,7 +89,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408"
       },
       "visitante": {
         "letra": "A",
@@ -105,7 +140,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320"
       },
       "visitante": {
         "letra": "B",
@@ -150,7 +186,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "BORRELL SERRA, BIEL",
+        "licencia": "25056"
       },
       "visitante": {
         "letra": "C",
@@ -195,7 +232,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "RUIZ PUEYO, ELOI",
+        "licencia": "24320"
       },
       "visitante": {
         "letra": "A",
@@ -235,7 +273,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "COLL CICRES, ARNAU",
+        "licencia": "28408"
       },
       "visitante": {
         "letra": "C",
@@ -280,7 +319,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "BORRELL SERRA, BIEL",
+        "licencia": "25056"
       },
       "visitante": {
         "letra": "B",
@@ -325,7 +365,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "RUIZ PUEYO, ELOI",
+            "licencia": "24320"
+          },
+          {
+            "nombre": "COLL CICRES, ARNAU",
+            "licencia": "28408"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

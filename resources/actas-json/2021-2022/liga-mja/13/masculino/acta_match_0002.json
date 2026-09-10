@@ -2,104 +2,177 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 13,
   "fecha": "2022-04-02",
   "hora": "17:00",
   "lugar": {
-    "recinto": "CAMPO DE FUTBOL DE SAN LAZARO",
-    "ciudad": "SAN LAZARO, S N 15890-Santiago de Compostela(A Coruña)"
+    "recinto": "PABELLON TM DEHESA BOYAL",
+    "ciudad": "AVENIDA DE NAVARRONDAN S/N 28702-San Sebastián de los Reyes(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "ARTEAL",
+      "nombre": "NS SAN SEBASTIAN DE LOS REYES",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CARNES Y EMBUTIDOS LUIS SANESTEBAN CAO",
+      "nombre": "AD COLLADO MEDIANO",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "RICARDO FERNANDEZ VAZQUEZ",
+      "nombre": "DANIEL LEYVA GONZALEZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+      "A": {
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
-      "X": {
-        "nombre": "RICARDO CARRACEDO ALVAREZ",
-        "licencia": "8005",
-        "id": "8005"
+      "B": {
+        "nombre": "RAMON ECHANOVE RIVERO DE AGUILAR",
+        "licencia": "15496",
+        "id": "15496"
       },
-      "Z": {
-        "nombre": "XURXO RODRIGUEZ SANCHEZ",
-        "licencia": "6479",
-        "id": "6479"
+      "C": {
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "SANTIAGO OTERO RODRIGUEZ",
-        "licencia": "10331",
-        "id": "10331"
+      "Y": {
+        "nombre": "JAIME MORATA FERNÁNDEZ",
+        "licencia": "15569",
+        "id": "15569"
       },
-      "B": {
-        "nombre": "JOSE PIÑEIRO SEIJIDO",
-        "licencia": "927",
-        "id": "927"
+      "X": {
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
       },
-      "C": {
-        "nombre": "ADRIAN VIDAL FERNANDEZ",
-        "licencia": "3243",
-        "id": "3243"
+      "Z": {
+        "nombre": "JORGE DE LA MATA HERREROS",
+        "licencia": "16630",
+        "id": "16630"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      {
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "JAIME MORATA FERNÁNDEZ",
+        "licencia": "15569",
+        "id": "15569"
+      },
+      {
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+        "letra": "A",
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "SANTIAGO OTERO RODRIGUEZ",
-        "licencia": "10331",
-        "id": "10331"
+        "letra": "Y",
+        "nombre": "JAIME MORATA FERNÁNDEZ",
+        "licencia": "15569",
+        "id": "15569"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RAMON ECHANOVE RIVERO DE AGUILAR",
+        "licencia": "15496",
+        "id": "15496"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 13
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 5,
+          "local": 7,
           "visitante": 11
         }
       ],
@@ -108,49 +181,6 @@
         "visitante": 3
       },
       "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "RICARDO CARRACEDO ALVAREZ",
-        "licencia": "8005",
-        "id": "8005"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "JOSE PIÑEIRO SEIJIDO",
-        "licencia": "927",
-        "id": "927"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 4
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
         "visitante": 1
@@ -161,42 +191,52 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "XURXO RODRIGUEZ SANCHEZ",
-        "licencia": "6479",
-        "id": "6479"
+        "letra": "C",
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "ADRIAN VIDAL FERNANDEZ",
-        "licencia": "3243",
-        "id": "3243"
+        "letra": "Z",
+        "nombre": "JORGE DE LA MATA HERREROS",
+        "licencia": "16630",
+        "id": "16630"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 2,
-          "local": 4,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
+        "local": 3,
         "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
       }
     },
     {
@@ -204,112 +244,16 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "RICARDO CARRACEDO ALVAREZ",
-        "licencia": "8005",
-        "id": "8005"
-      },
-      "visitante": {
         "letra": "A",
-        "nombre": "SANTIAGO OTERO RODRIGUEZ",
-        "licencia": "10331",
-        "id": "10331"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 19,
-          "visitante": 17
-        },
-        {
-          "set": 4,
-          "local": 7,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "PABLO PROL ROMERO",
-        "licencia": "5878",
-        "id": "5878"
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "ADRIAN VIDAL FERNANDEZ",
-        "licencia": "3243",
-        "id": "3243"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 3,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 4,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 4
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "XURXO RODRIGUEZ SANCHEZ",
-        "licencia": "6479",
-        "id": "6479"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "JOSE PIÑEIRO SEIJIDO",
-        "licencia": "927",
-        "id": "927"
+        "letra": "X",
+        "nombre": "EDUARDO CUESTA MARTINEZ",
+        "licencia": "2642",
+        "id": "2642"
       },
       "sets": [
         {
@@ -319,7 +263,7 @@
         },
         {
           "set": 2,
-          "local": 9,
+          "local": 4,
           "visitante": 11
         },
         {
@@ -329,13 +273,61 @@
         },
         {
           "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JAIME MORATA FERNÁNDEZ",
+        "licencia": "15569",
+        "id": "15569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
           "local": 8,
           "visitante": 11
         },
         {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
           "set": 5,
-          "local": 10,
-          "visitante": 12
+          "local": 4,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
@@ -344,20 +336,134 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 5
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RAMON ECHANOVE RIVERO DE AGUILAR",
+        "licencia": "15496",
+        "id": "15496"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JORGE DE LA MATA HERREROS",
+        "licencia": "16630",
+        "id": "16630"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JULIAN DAVID MURIEL URIBE",
+            "licencia": "33728",
+            "id": "33728"
+          },
+          {
+            "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+            "licencia": "18668",
+            "id": "18668"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JAIME MORATA FERNÁNDEZ",
+            "licencia": "15569",
+            "id": "15569"
+          },
+          {
+            "nombre": "EDUARDO CUESTA MARTINEZ",
+            "licencia": "2642",
+            "id": "2642"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CARNES Y EMBUTIDOS LUIS SANESTEBAN CAO",
+    "ganador": "AD COLLADO MEDIANO",
     "marcador_partidos": {
-      "local": 1,
-      "visitante": 5
+      "local": 3,
+      "visitante": 4
     },
     "marcador_juegos": {
-      "local": 7,
-      "visitante": 15
+      "local": 13,
+      "visitante": 16
     }
   },
   "acta_protestada": false

@@ -2,119 +2,139 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 3,
   "jornada": 14,
   "fecha": "2022-04-10",
   "hora": "11:00",
   "lugar": {
-    "recinto": "COLEGIO EMILIO CASADO",
-    "ciudad": "C / DOCTOR CASIMIRO MORCILLO, 51 28100-Alcobendas(Madrid)"
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "AVDA. ROMEU ZARANDIETA, S N 3005-Alicante/Alacant(Alicante)"
   },
   "equipos": {
     "local": {
-      "nombre": "ALCOBENDAS TM",
+      "nombre": "ALICANTE TM",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "IRUN LEKA ENEA ASCENSORES BIDASOA",
+      "nombre": "AD COLLADO MEDIANO",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "IÑIGO VILLACIEROS Y MANSO DE ZUÑIGA",
+      "nombre": "DAVID REDONDO GARCIA",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "NELSON JOSE VILLANUEVA MORALES",
-        "licencia": "19719",
-        "id": "19719"
+      "A": {
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "id": "29868"
       },
-      "X": {
-        "nombre": "DRAGOS ANTIMIR",
-        "licencia": "9414",
-        "id": "9414"
+      "B": {
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "id": "18376"
       },
-      "Z": {
-        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
-        "licencia": "14763",
-        "id": "14763"
+      "C": {
+        "nombre": "RAÚL MORENO MERÍN",
+        "licencia": "21104",
+        "id": "21104"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "HODEI MANCHA MINGUEZ",
-        "licencia": "21752",
-        "id": "21752"
+      "Y": {
+        "nombre": "WEIDONG SHI TIAN",
+        "licencia": "1704",
+        "id": "1704"
       },
-      "B": {
-        "nombre": "AIMAR CHAMORRO BLANCO",
-        "licencia": "21296",
-        "id": "21296"
+      "X": {
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
       },
-      "C": {
-        "nombre": "MIKEL ANGULO OCIO",
-        "licencia": "21733",
-        "id": "21733"
+      "Z": {
+        "nombre": "DANIEL BAILON CERRADILLO",
+        "licencia": "18487",
+        "id": "18487"
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "id": "18376"
+      },
+      {
+        "nombre": "RAÚL MORENO MERÍN",
+        "licencia": "21104",
+        "id": "21104"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
+      },
+      {
+        "nombre": "DANIEL BAILON CERRADILLO",
+        "licencia": "18487",
+        "id": "18487"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "NELSON JOSE VILLANUEVA MORALES",
-        "licencia": "19719",
-        "id": "19719"
+        "letra": "A",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "id": "29868"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "HODEI MANCHA MINGUEZ",
-        "licencia": "21752",
-        "id": "21752"
+        "letra": "Y",
+        "nombre": "WEIDONG SHI TIAN",
+        "licencia": "1704",
+        "id": "1704"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 9
+          "visitante": 7
         },
         {
           "set": 2,
-          "local": 7,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 9
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 4,
-          "local": 2,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 9,
-          "visitante": 11
+          "local": 13,
+          "visitante": 15
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 1,
         "visitante": 3
       },
       "ganador": "visitante",
@@ -128,37 +148,47 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "DRAGOS ANTIMIR",
-        "licencia": "9414",
-        "id": "9414"
+        "letra": "B",
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "id": "18376"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "AIMAR CHAMORRO BLANCO",
-        "licencia": "21296",
-        "id": "21296"
+        "letra": "X",
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 3
+          "local": 6,
+          "visitante": 11
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 6
+          "visitante": 7
         },
         {
           "set": 3,
           "local": 11,
           "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 2
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -171,47 +201,37 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
-        "licencia": "14763",
-        "id": "14763"
+        "letra": "C",
+        "nombre": "RAÚL MORENO MERÍN",
+        "licencia": "21104",
+        "id": "21104"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "MIKEL ANGULO OCIO",
-        "licencia": "21733",
-        "id": "21733"
+        "letra": "Z",
+        "nombre": "DANIEL BAILON CERRADILLO",
+        "licencia": "18487",
+        "id": "18487"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 8
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 3,
           "local": 11,
           "visitante": 9
         },
         {
-          "set": 4,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 5,
+          "set": 3,
           "local": 11,
           "visitante": 8
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -224,21 +244,64 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "DRAGOS ANTIMIR",
-        "licencia": "9414",
-        "id": "9414"
+        "letra": "A",
+        "nombre": "ARTEM ZIMARIN",
+        "licencia": "29868",
+        "id": "29868"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "HODEI MANCHA MINGUEZ",
-        "licencia": "21752",
-        "id": "21752"
+        "letra": "X",
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
       },
       "sets": [
         {
           "set": 1,
-          "local": 13,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RAÚL MORENO MERÍN",
+        "licencia": "21104",
+        "id": "21104"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WEIDONG SHI TIAN",
+        "licencia": "1704",
+        "id": "1704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
           "visitante": 11
         },
         {
@@ -248,81 +311,18 @@
         },
         {
           "set": 3,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 5,
-          "local": 14,
-          "visitante": 12
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "NELSON JOSE VILLANUEVA MORALES",
-        "licencia": "19719",
-        "id": "19719"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "MIKEL ANGULO OCIO",
-        "licencia": "21733",
-        "id": "21733"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 4,
-          "local": 3,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 9,
+          "local": 4,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
+        "local": 2,
+        "visitante": 3
       }
     },
     {
@@ -330,59 +330,125 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "GUILLERMO MADROÑAL FERNÁNDEZ",
-        "licencia": "14763",
-        "id": "14763"
+        "letra": "B",
+        "nombre": "DIEGO LILLO BORDAJANDI",
+        "licencia": "18376",
+        "id": "18376"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "AIMAR CHAMORRO BLANCO",
-        "licencia": "21296",
-        "id": "21296"
+        "letra": "Z",
+        "nombre": "DANIEL BAILON CERRADILLO",
+        "licencia": "18487",
+        "id": "18487"
       },
       "sets": [
         {
           "set": 1,
-          "local": 3,
-          "visitante": 11
+          "local": 11,
+          "visitante": 4
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 9
+          "visitante": 13
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 7
+          "local": 15,
+          "visitante": 13
         },
         {
           "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
           "local": 11,
-          "visitante": 8
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 1
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DIEGO LILLO BORDAJANDI",
+            "licencia": "18376",
+            "id": "18376"
+          },
+          {
+            "nombre": "RAÚL MORENO MERÍN",
+            "licencia": "21104",
+            "id": "21104"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANGEL AYUSO SERRA",
+            "licencia": "18334",
+            "id": "18334"
+          },
+          {
+            "nombre": "DANIEL BAILON CERRADILLO",
+            "licencia": "18487",
+            "id": "18487"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
         "local": 4,
-        "visitante": 2
+        "visitante": 3
       }
     }
   ],
   "resultado_final": {
-    "ganador": "ALCOBENDAS TM",
+    "ganador": "ALICANTE TM",
     "marcador_partidos": {
       "local": 4,
-      "visitante": 2
+      "visitante": 3
     },
     "marcador_juegos": {
-      "local": 16,
-      "visitante": 11
+      "local": 13,
+      "visitante": 13
     }
   },
   "acta_protestada": false

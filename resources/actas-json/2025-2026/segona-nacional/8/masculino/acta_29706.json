@@ -31,7 +31,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      },
+      "X": {
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
+      },
+      "Z": {
+        "nombre": "HERRERA MORUECO, ALBERTO",
+        "licencia": "2374"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "DEL POZO SANTACRUZ, DANIEL",
@@ -47,7 +60,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
+      },
+      {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GROSU , ROBERT",
+        "licencia": "33681"
+      },
+      {
+        "nombre": "CHEN JI, XIAO YI",
+        "licencia": "6724"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -55,7 +89,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
       },
       "visitante": {
         "letra": "A",
@@ -100,7 +135,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
       },
       "visitante": {
         "letra": "B",
@@ -140,7 +176,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "HERRERA MORUECO, ALBERTO",
+        "licencia": "2374"
       },
       "visitante": {
         "letra": "C",
@@ -185,7 +222,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
       },
       "visitante": {
         "letra": "A",
@@ -235,7 +273,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
       },
       "visitante": {
         "letra": "C",
@@ -285,7 +324,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "HERRERA MORUECO, ALBERTO",
+        "licencia": "2374"
       },
       "visitante": {
         "letra": "B",
@@ -335,7 +375,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "AVILES CABRERA, FELIX",
+            "licencia": "2001"
+          },
+          {
+            "nombre": "OLTRA ALONSO, ANGEL",
+            "licencia": "18486"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

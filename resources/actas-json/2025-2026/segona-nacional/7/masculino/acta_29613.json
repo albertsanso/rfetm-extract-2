@@ -37,7 +37,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "BARRENO GIMENO, HUGO",
+        "licencia": "35699"
+      },
+      "X": {
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028"
+      },
+      "Z": {
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "ABANADES BALDOMINIOS, JUAN SANTIAGO",
@@ -53,7 +66,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019"
+      },
+      {
+        "nombre": "BARRENO GIMENO, HUGO",
+        "licencia": "35699"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "BURGOS PEREZ, RUBEN",
+        "licencia": "22929"
+      },
+      {
+        "nombre": "GRANDA PEREZ, HECTOR",
+        "licencia": "22922"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -61,7 +95,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "BARRENO GIMENO, HUGO",
+        "licencia": "35699"
       },
       "visitante": {
         "letra": "A",
@@ -106,7 +141,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028"
       },
       "visitante": {
         "letra": "B",
@@ -146,7 +182,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019"
       },
       "visitante": {
         "letra": "C",
@@ -196,7 +233,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "CABRERA CUSTODIO, FERNANDO",
+        "licencia": "23028"
       },
       "visitante": {
         "letra": "A",
@@ -241,7 +279,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "BARRENO GIMENO, HUGO",
+        "licencia": "35699"
       },
       "visitante": {
         "letra": "C",
@@ -286,7 +325,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "BAUTISTA ATANES, DANIEL",
+        "licencia": "23019"
       },
       "visitante": {
         "letra": "B",
@@ -326,7 +366,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "BAUTISTA ATANES, DANIEL",
+            "licencia": "23019"
+          },
+          {
+            "nombre": "BARRENO GIMENO, HUGO",
+            "licencia": "35699"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

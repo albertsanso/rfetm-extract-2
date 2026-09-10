@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 6,
   "jornada": 14,
-  "fecha": "2022-04-09",
-  "hora": "17:00",
+  "fecha": "2022-04-10",
+  "hora": "11:00",
   "lugar": {
-    "recinto": "ALWAYS TM",
-    "ciudad": "ESTRADA DE REDONDELA 42 36419-Porriño (O)(Pontevedra)"
+    "recinto": "PABELLON MUNICIPAL DE LA RAMBLA DEL CELLER",
+    "ciudad": "RAMBLA JAUME SABAT S/N 8172-Sant Cugat del Vallès(Barcelona)"
   },
   "equipos": {
     "local": {
-      "nombre": "CTM CALVARIO",
+      "nombre": "UE SANT CUGAT",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CTM MILAGROSA",
+      "nombre": "CLUB NATACIO SABADELL",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "MANUEL PEREIRO PEREZ",
+      "nombre": "ROBERTO CARLOS DURAN SALGUEIRO",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "SAMUEL RODRIGUEZ REY",
-        "licencia": "23242",
-        "id": "23242"
+      "A": {
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
       },
-      "X": {
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+      "B": {
+        "nombre": "BRUNO HUERTAS ARTO",
+        "licencia": "28004",
+        "id": "28004"
       },
-      "Z": {
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+      "C": {
+        "nombre": "JOSEP ANTON VELAZQUEZ",
+        "licencia": "2032",
+        "id": "2032"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
+      "Y": {
+        "nombre": "JORDI DINARES LLADO",
+        "licencia": "31289",
+        "id": "31289"
       },
-      "B": {
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
+      "X": {
+        "nombre": "JORDI WEISZ FONT",
+        "licencia": "16033",
+        "id": "16033"
       },
-      "C": {
-        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
-        "licencia": "21822",
-        "id": "21822"
+      "Z": {
+        "nombre": "ADRIA MARCOS PEREZ LAJAS",
+        "licencia": "33779",
+        "id": "33779"
       }
     }
   },
@@ -75,42 +75,47 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "SAMUEL RODRIGUEZ REY",
-        "licencia": "23242",
-        "id": "23242"
+        "letra": "A",
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
+        "letra": "Y",
+        "nombre": "JORDI DINARES LLADO",
+        "licencia": "31289",
+        "id": "31289"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
+          "local": 8,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 4
         },
         {
           "set": 3,
-          "local": 4,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
+        "local": 3,
         "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
       }
     },
     {
@@ -118,16 +123,16 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+        "letra": "B",
+        "nombre": "BRUNO HUERTAS ARTO",
+        "licencia": "28004",
+        "id": "28004"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
+        "letra": "X",
+        "nombre": "JORDI WEISZ FONT",
+        "licencia": "16033",
+        "id": "16033"
       },
       "sets": [
         {
@@ -137,28 +142,28 @@
         },
         {
           "set": 2,
-          "local": 8,
+          "local": 9,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 2
         },
         {
           "set": 4,
-          "local": 5,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 2
+        "local": 2,
+        "visitante": 0
       }
     },
     {
@@ -166,52 +171,42 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+        "letra": "C",
+        "nombre": "JOSEP ANTON VELAZQUEZ",
+        "licencia": "2032",
+        "id": "2032"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
-        "licencia": "21822",
-        "id": "21822"
+        "letra": "Z",
+        "nombre": "ADRIA MARCOS PEREZ LAJAS",
+        "licencia": "33779",
+        "id": "33779"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 4,
           "local": 14,
           "visitante": 12
         },
         {
-          "set": 5,
-          "local": 6,
-          "visitante": 11
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 0
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 3
+        "local": 3,
+        "visitante": 0
       }
     },
     {
@@ -219,16 +214,16 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "JOSE RAMON FERNANDEZ CORA",
-        "licencia": "827",
-        "id": "827"
+        "letra": "A",
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
-        "licencia": "7951",
-        "id": "7951"
+        "letra": "X",
+        "nombre": "JORDI WEISZ FONT",
+        "licencia": "16033",
+        "id": "16033"
       },
       "sets": [
         {
@@ -248,23 +243,18 @@
         },
         {
           "set": 4,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 2
         }
       ],
       "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 4
+        "local": 4,
+        "visitante": 0
       }
     },
     {
@@ -272,52 +262,42 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "SAMUEL RODRIGUEZ REY",
-        "licencia": "23242",
-        "id": "23242"
+        "letra": "C",
+        "nombre": "JOSEP ANTON VELAZQUEZ",
+        "licencia": "2032",
+        "id": "2032"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "IGNACIO ANDRES CABEZAS GUERRERO",
-        "licencia": "21822",
-        "id": "21822"
+        "letra": "Y",
+        "nombre": "JORDI DINARES LLADO",
+        "licencia": "31289",
+        "id": "31289"
       },
       "sets": [
         {
           "set": 1,
-          "local": 2,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 2
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 6
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 2
+        "visitante": 0
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 4
+        "local": 5,
+        "visitante": 0
       }
     },
     {
@@ -325,64 +305,54 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "JUAN FERNANDO LOIS GONZALEZ",
-        "licencia": "9197",
-        "id": "9197"
+        "letra": "B",
+        "nombre": "BRUNO HUERTAS ARTO",
+        "licencia": "28004",
+        "id": "28004"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "GUILLERMO MANEIRO CURRÁS",
-        "licencia": "10016",
-        "id": "10016"
+        "letra": "Z",
+        "nombre": "ADRIA MARCOS PEREZ LAJAS",
+        "licencia": "33779",
+        "id": "33779"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 8
+          "local": 3,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 6,
+          "local": 0,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 4,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 7,
+          "local": 0,
           "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 2,
+        "local": 0,
         "visitante": 3
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 5
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CTM MILAGROSA",
+    "ganador": "UE SANT CUGAT",
     "marcador_partidos": {
-      "local": 1,
-      "visitante": 5
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 10,
-      "visitante": 17
+      "local": 15,
+      "visitante": 6
     }
   },
   "acta_protestada": false

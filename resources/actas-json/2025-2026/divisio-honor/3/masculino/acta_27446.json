@@ -43,11 +43,311 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "Y": {
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED",
+        "licencia": "44606"
+      },
+      "X": {
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905"
+      },
+      "Z": {
+        "nombre": "CABEZAS JIMENEZ, GABRIEL",
+        "licencia": "28198"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "B": {
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "C": {
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED",
+        "licencia": "44606"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CABEZAS JIMENEZ, GABRIEL",
+        "licencia": "28198"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "METWALLY ALI ABDALLA, HAMZA KHALED",
+        "licencia": "44606"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CABEZAS JIMENEZ, GABRIEL",
+        "licencia": "28198"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
   "resultado_final": {
     "ganador": "C.T.M. JEREZ",
     "marcador_partidos": {

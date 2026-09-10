@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 12,
   "fecha": "2022-03-19",
   "hora": "17:00",
   "lugar": {
-    "recinto": "PABELLON DE FRIGSA",
-    "ciudad": "MONTE FARO S N 27003-Lugo(Lugo)"
+    "recinto": "PABELLON TM DEHESA BOYAL",
+    "ciudad": "AVENIDA DE NAVARRONDAN S/N 28702-San Sebastián de los Reyes(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "nombre": "NS SAN SEBASTIAN DE LOS REYES",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CINANIA TENIS DE MESA",
+      "nombre": "ALUCHE TENIS DE MESA",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "ANGELINO DA SILVA DIAZ",
+      "nombre": "MIGUEL ANGEL PIÑERO DEL REAL",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "Y": {
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
       },
       "X": {
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
       "Z": {
-        "nombre": "ANDRES MARTIN REIJA",
-        "licencia": "23024",
-        "id": "23024"
+        "nombre": "PABLO BELLOSO FERNANDEZ",
+        "licencia": "1069",
+        "id": "1069"
       }
     },
     "visitante": {
       "A": {
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "B": {
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
       },
       "C": {
-        "nombre": "MATIAS JOAQUIN BIDEGAIN VICCI",
-        "licencia": "35432",
-        "id": "35432"
+        "nombre": "CESAR ALONSO ESCUDERO",
+        "licencia": "31831",
+        "id": "31831"
       }
     }
   },
@@ -76,46 +76,51 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "sets": [
         {
           "set": 1,
-          "local": 7,
+          "local": 4,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 10
+          "local": 6,
+          "visitante": 11
         },
         {
           "set": 4,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 2
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 1
+        "local": 1,
+        "visitante": 0
       }
     },
     {
@@ -124,58 +129,15 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
       "visitante": {
         "letra": "B",
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 4
-        },
-        {
-          "set": 2,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 4
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "ANDRES MARTIN REIJA",
-        "licencia": "23024",
-        "id": "23024"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "MATIAS JOAQUIN BIDEGAIN VICCI",
-        "licencia": "35432",
-        "id": "35432"
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
       },
       "sets": [
         {
@@ -185,13 +147,61 @@
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 2
+          "local": 5,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 5
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO BELLOSO FERNANDEZ",
+        "licencia": "1069",
+        "id": "1069"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CESAR ALONSO ESCUDERO",
+        "licencia": "31831",
+        "id": "31831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
@@ -200,8 +210,8 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
+        "local": 3,
+        "visitante": 0
       }
     },
     {
@@ -210,15 +220,15 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "JULIAN DAVID MURIEL URIBE",
+        "licencia": "33728",
+        "id": "33728"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "sets": [
         {
@@ -229,55 +239,12 @@
         {
           "set": 2,
           "local": 11,
-          "visitante": 7
+          "visitante": 8
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "MATIAS JOAQUIN BIDEGAIN VICCI",
-        "licencia": "35432",
-        "id": "35432"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 2
-        },
-        {
-          "set": 2,
           "local": 11,
           "visitante": 3
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 2
         }
       ],
       "resultado_juegos": {
@@ -287,45 +254,45 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 4,
-        "visitante": 1
+        "visitante": 0
       }
     },
     {
-      "numero": 6,
+      "numero": 5,
       "tipo": "individual",
-      "cruce": "B vs Z",
+      "cruce": "C vs Y",
       "local": {
-        "letra": "Z",
-        "nombre": "ANDRES MARTIN REIJA",
-        "licencia": "23024",
-        "id": "23024"
+        "letra": "Y",
+        "nombre": "JOSÉ JULIÁN RODRÍGUEZ ÁLVAREZ",
+        "licencia": "18668",
+        "id": "18668"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
+        "letra": "C",
+        "nombre": "CESAR ALONSO ESCUDERO",
+        "licencia": "31831",
+        "id": "31831"
       },
       "sets": [
         {
           "set": 1,
-          "local": 14,
-          "visitante": 12
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 5
+          "local": 10,
+          "visitante": 12
         },
         {
           "set": 3,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 6
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
@@ -335,19 +302,72 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 5,
-        "visitante": 1
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO BELLOSO FERNANDEZ",
+        "licencia": "1069",
+        "id": "1069"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL RAMIREZ GIL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+    "ganador": "NS SAN SEBASTIAN DE LOS REYES",
     "marcador_partidos": {
-      "local": 5,
-      "visitante": 1
+      "local": 6,
+      "visitante": 0
     },
     "marcador_juegos": {
-      "local": 16,
-      "visitante": 4
+      "local": 18,
+      "visitante": 6
     }
   },
   "acta_protestada": false

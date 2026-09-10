@@ -112,6 +112,17 @@ def detect_set_columns(header_row):
     return cols
 
 
+def detect_player_column(rows, start_idx: int, end_idx: int, default_idx: int) -> int:
+    """Detecta la columna de jugadores dentro de un bloque ABC/XYZ."""
+    for row in rows:
+        if not row:
+            continue
+        for idx in range(start_idx, min(end_idx, len(row))):
+            if extract_players(row[idx]):
+                return idx
+    return default_idx
+
+
 # ══════════════════════════════════════════
 #  Parser principal
 # ══════════════════════════════════════════
@@ -255,10 +266,14 @@ def parse_acta(pdf_path):
 
     # Detectar qué equipo es ABC y cuál XYZ desde la cabecera de la tabla
     equipo_abc = equipo_xyz = None
+    abc_label_idx = xyz_label_idx = None
     if header_idx is not None:
         hdr = table[header_idx]
-        # col[2] = nombre equipo ABC
-        equipo_abc = clean(hdr[2])
+        abc_label_idx = next(
+            (i for i, c in enumerate(hdr) if c and str(c).strip() == "ABC"), None
+        )
+        if abc_label_idx is not None and abc_label_idx + 1 < len(hdr):
+            equipo_abc = clean(hdr[abc_label_idx + 1])
         # Buscar equipo XYZ: primera celda no vacía tras el marcador 'XYZ'
         # (la columna puede variar según el PDF)
         xyz_label_idx = next(
@@ -294,19 +309,35 @@ def parse_acta(pdf_path):
 
     if header_idx is not None:
         data_rows = table[header_idx + 1:]
+        first_set_idx = min(col_map.values(), default=len(table[header_idx]))
+        abc_player_col = detect_player_column(
+            data_rows,
+            (abc_label_idx + 1) if abc_label_idx is not None else 2,
+            xyz_label_idx if xyz_label_idx is not None else 3,
+            2,
+        )
+        xyz_player_col = detect_player_column(
+            data_rows,
+            (xyz_label_idx + 1) if xyz_label_idx is not None else 4,
+            first_set_idx,
+            4,
+        )
+
+        abc_letra_col = abc_label_idx if abc_label_idx is not None else 1
+        xyz_letra_col = xyz_label_idx if xyz_label_idx is not None else 3
 
         for i, row in enumerate(data_rows):
             if not row or len(row) < 6:
                 continue
 
-            letra_abc = clean(row[1])
-            jugadores_abc_raw = str(row[2]) if row[2] else ""
-            letra_xyz = clean(row[3])
-            jugadores_xyz_raw = str(row[4]) if row[4] else ""
+            letra_abc = clean(row[abc_letra_col]) if abc_letra_col < len(row) else None
+            jugadores_abc_raw = str(row[abc_player_col]) if row[abc_player_col] else ""
+            letra_xyz = clean(row[xyz_letra_col]) if xyz_letra_col < len(row) else None
+            jugadores_xyz_raw = str(row[xyz_player_col]) if row[xyz_player_col] else ""
 
             if not letra_abc or not letra_xyz:
                 continue
-            if "GANADOR" in str(row[1] or ""):
+            if "GANADOR" in str(row[abc_letra_col] or ""):
                 break
 
             es_dobles = letra_abc.upper() == "DB"

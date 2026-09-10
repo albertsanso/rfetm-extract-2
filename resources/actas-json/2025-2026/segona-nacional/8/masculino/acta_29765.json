@@ -31,7 +31,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
+      },
+      "X": {
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709"
+      },
+      "Z": {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "ESTEPA ROMERO, OSCAR",
@@ -47,7 +60,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
+      },
+      {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      {
+        "nombre": "ESTEPA ROMERO, OSCAR",
+        "licencia": "5142"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -55,7 +89,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
       },
       "visitante": {
         "letra": "A",
@@ -95,7 +130,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709"
       },
       "visitante": {
         "letra": "B",
@@ -135,7 +171,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
       },
       "visitante": {
         "letra": "C",
@@ -185,7 +222,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709"
       },
       "visitante": {
         "letra": "A",
@@ -230,7 +268,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
       },
       "visitante": {
         "letra": "C",
@@ -280,7 +319,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
       },
       "visitante": {
         "letra": "B",
@@ -320,7 +360,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "PETER TINI, DANIEL",
+            "licencia": "7116"
+          },
+          {
+            "nombre": "OLTRA ALONSO, ANGEL",
+            "licencia": "18486"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

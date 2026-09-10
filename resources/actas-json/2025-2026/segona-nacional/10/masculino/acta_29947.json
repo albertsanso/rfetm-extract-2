@@ -40,11 +40,382 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "A": {
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288"
+      },
+      "B": {
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632"
+      },
+      "C": {
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS",
+        "licencia": "18530"
+      },
+      "X": {
+        "nombre": "MAKAROV , DENIS",
+        "licencia": "46529"
+      },
+      "Z": {
+        "nombre": "RIVERA ORELLANA, CARLOS",
+        "licencia": "4282"
+      }
+    }
   },
-  "dobles": null,
-  "partidos": [],
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288"
+      },
+      {
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MAKAROV , DENIS",
+        "licencia": "46529"
+      },
+      {
+        "nombre": "RIVERA ORELLANA, CARLOS",
+        "licencia": "4282"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS",
+        "licencia": "18530"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAKAROV , DENIS",
+        "licencia": "46529"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RIVERA ORELLANA, CARLOS",
+        "licencia": "4282"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+        "licencia": "40288"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAKAROV , DENIS",
+        "licencia": "46529"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PUPINS , BENJAMINS EMANUELS",
+        "licencia": "43266"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BOUTELLIER MUÑOZ, JUAN CARLOS",
+        "licencia": "18530"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RIVERA ORELLANA, CARLOS",
+        "licencia": "4282"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PARDO CLAROS, ALEJANDRO BERNARDO",
+            "licencia": "40288"
+          },
+          {
+            "nombre": "PUPINS , BENJAMINS EMANUELS",
+            "licencia": "43266"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MAKAROV , DENIS",
+            "licencia": "46529"
+          },
+          {
+            "nombre": "RIVERA ORELLANA, CARLOS",
+            "licencia": "4282"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
   "resultado_final": {
     "ganador": "INPRE ALSINA",
     "marcador_partidos": {

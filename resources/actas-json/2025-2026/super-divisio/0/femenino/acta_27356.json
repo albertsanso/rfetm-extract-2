@@ -37,11 +37,176 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "A": {
+        "nombre": "ROBBES , JEANNE",
+        "licencia": "46838"
+      },
+      "B": {
+        "nombre": "PERETO MARTINEZ, MIREIA",
+        "licencia": "18415"
+      },
+      "C": {
+        "nombre": "RIERA MOLONS, JANA",
+        "licencia": "16388"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PINEU SANTA COMBA , MARIANA",
+        "licencia": "39675"
+      },
+      "X": {
+        "nombre": "TAGUCHI XXX, EMIKO",
+        "licencia": "48382"
+      },
+      "Z": {
+        "nombre": "MAROTO VIUDED, MIRYAN",
+        "licencia": "23807"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ROBBES , JEANNE",
+        "licencia": "46838"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PINEU SANTA COMBA , MARIANA",
+        "licencia": "39675"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PERETO MARTINEZ, MIREIA",
+        "licencia": "18415"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TAGUCHI XXX, EMIKO",
+        "licencia": "48382"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RIERA MOLONS, JANA",
+        "licencia": "16388"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MAROTO VIUDED, MIRYAN",
+        "licencia": "23807"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    }
+  ],
   "resultado_final": {
     "ganador": null,
     "marcador_partidos": {

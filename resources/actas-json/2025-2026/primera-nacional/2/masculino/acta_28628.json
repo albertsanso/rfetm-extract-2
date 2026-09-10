@@ -43,11 +43,198 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "A": {
+        "nombre": "CABRERA GARCIA, JULEN",
+        "licencia": "27103"
+      },
+      "B": {
+        "nombre": "VIÑA RODRIGUEZ, FRANCISCO JAVIER",
+        "licencia": "18009"
+      },
+      "C": {
+        "nombre": "PEREZ GONZALEZ, NESTOR LUIS",
+        "licencia": "18389"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VESELINOVIC , BOJAN",
+        "licencia": "44435"
+      },
+      "X": {
+        "nombre": "MANCHA MINGUEZ, HODEI",
+        "licencia": "21752"
+      },
+      "Z": {
+        "nombre": "PARDO BELTRAN, ALEXANDER",
+        "licencia": "21760"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CABRERA GARCIA, JULEN",
+        "licencia": "27103"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VESELINOVIC , BOJAN",
+        "licencia": "44435"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VIÑA RODRIGUEZ, FRANCISCO JAVIER",
+        "licencia": "18009"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANCHA MINGUEZ, HODEI",
+        "licencia": "21752"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PEREZ GONZALEZ, NESTOR LUIS",
+        "licencia": "18389"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PARDO BELTRAN, ALEXANDER",
+        "licencia": "21760"
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-0)"
+    }
+  ],
   "resultado_final": {
     "ganador": null,
     "marcador_partidos": {

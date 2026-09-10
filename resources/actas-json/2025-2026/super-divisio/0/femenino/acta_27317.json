@@ -43,11 +43,289 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "Y": {
+        "nombre": "TRIANA SANCHEZ, AMALIA",
+        "licencia": "29258"
+      },
+      "X": {
+        "nombre": "ISTRATE , ROXANA ANA MARIA",
+        "licencia": "22026"
+      },
+      "Z": {
+        "nombre": "OJIO , HARUNA",
+        "licencia": "45768"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MEDINA BERMUDEZ, PAULA ANDREA",
+        "licencia": "31697"
+      },
+      "B": {
+        "nombre": "GOMEZ RODRIGUEZ, NURIA ESTHER",
+        "licencia": "17818"
+      },
+      "C": {
+        "nombre": "PERDOMO RAMIREZ, MARIA FERNANDA",
+        "licencia": "31857"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TRIANA SANCHEZ, AMALIA",
+        "licencia": "29258"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MEDINA BERMUDEZ, PAULA ANDREA",
+        "licencia": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ISTRATE , ROXANA ANA MARIA",
+        "licencia": "22026"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ RODRIGUEZ, NURIA ESTHER",
+        "licencia": "17818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OJIO , HARUNA",
+        "licencia": "45768"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PERDOMO RAMIREZ, MARIA FERNANDA",
+        "licencia": "31857"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ISTRATE , ROXANA ANA MARIA",
+        "licencia": "22026"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MEDINA BERMUDEZ, PAULA ANDREA",
+        "licencia": "31697"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TRIANA SANCHEZ, AMALIA",
+        "licencia": "29258"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PERDOMO RAMIREZ, MARIA FERNANDA",
+        "licencia": "31857"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OJIO , HARUNA",
+        "licencia": "45768"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GOMEZ RODRIGUEZ, NURIA ESTHER",
+        "licencia": "17818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
   "resultado_final": {
     "ganador": "CLINIQAS.COM",
     "marcador_partidos": {

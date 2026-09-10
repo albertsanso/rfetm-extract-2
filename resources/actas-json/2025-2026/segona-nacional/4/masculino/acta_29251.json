@@ -43,7 +43,20 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
+    "local": {
+      "Y": {
+        "nombre": "DOBATO FERRER, VICTOR MANUEL",
+        "licencia": "2009"
+      },
+      "X": {
+        "nombre": "GARCIA GARCIA, RODRIGO",
+        "licencia": "33576"
+      },
+      "Z": {
+        "nombre": "ALONSO ARNAS, ALEJANDRO",
+        "licencia": "28435"
+      }
+    },
     "visitante": {
       "A": {
         "nombre": "ORCERA FERNANDEZ, GABRIEL",
@@ -59,7 +72,28 @@
       }
     }
   },
-  "dobles": null,
+  "dobles": {
+    "local": [
+      {
+        "nombre": "GARCIA GARCIA, RODRIGO",
+        "licencia": "33576"
+      },
+      {
+        "nombre": "ALONSO ARNAS, ALEJANDRO",
+        "licencia": "28435"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ORCERA FERNANDEZ, GABRIEL",
+        "licencia": "25044"
+      },
+      {
+        "nombre": "RULL BORONAT, ALBERT",
+        "licencia": "37068"
+      }
+    ]
+  },
   "partidos": [
     {
       "numero": 1,
@@ -67,7 +101,8 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "DOBATO FERRER, VICTOR MANUEL",
+        "licencia": "2009"
       },
       "visitante": {
         "letra": "A",
@@ -117,7 +152,8 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "GARCIA GARCIA, RODRIGO",
+        "licencia": "33576"
       },
       "visitante": {
         "letra": "B",
@@ -157,7 +193,8 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "ALONSO ARNAS, ALEJANDRO",
+        "licencia": "28435"
       },
       "visitante": {
         "letra": "C",
@@ -207,7 +244,8 @@
       "cruce": "A vs X",
       "local": {
         "letra": "X",
-        "nombre": null
+        "nombre": "GARCIA GARCIA, RODRIGO",
+        "licencia": "33576"
       },
       "visitante": {
         "letra": "A",
@@ -252,7 +290,8 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "Y",
-        "nombre": null
+        "nombre": "DOBATO FERRER, VICTOR MANUEL",
+        "licencia": "2009"
       },
       "visitante": {
         "letra": "C",
@@ -297,7 +336,8 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "Z",
-        "nombre": null
+        "nombre": "ALONSO ARNAS, ALEJANDRO",
+        "licencia": "28435"
       },
       "visitante": {
         "letra": "B",
@@ -337,7 +377,16 @@
       "cruce": "Db vs Db",
       "local": {
         "letra": "Db",
-        "jugadores": []
+        "jugadores": [
+          {
+            "nombre": "GARCIA GARCIA, RODRIGO",
+            "licencia": "33576"
+          },
+          {
+            "nombre": "ALONSO ARNAS, ALEJANDRO",
+            "licencia": "28435"
+          }
+        ]
       },
       "visitante": {
         "letra": "Db",

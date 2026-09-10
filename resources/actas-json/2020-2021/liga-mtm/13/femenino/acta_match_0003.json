@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2020/2021",
   "competicion": "Temporada 2020-2021",
-  "grupo": 1,
+  "grupo": 5,
   "jornada": 13,
   "fecha": "2021-05-22",
-  "hora": "17:00",
+  "hora": "16:00",
   "lugar": {
-    "recinto": "PABELLON MUNICIPAL DE ROMARIGO AVENIDA DE LUGO, 1ª TRAVESIA S/N",
-    "ciudad": "Cangas (Pontevedra)"
+    "recinto": "POLIGONO NAVISA QUEJIO 35",
+    "ciudad": "Sevilla (Sevilla)"
   },
   "equipos": {
     "local": {
-      "nombre": "AUTOESCUELA CINANIA",
+      "nombre": "CIRCULO MERCANTIL E INDUSTRIAL",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "LEGANES-RIVAS",
+      "nombre": "TENIS DE MESA ALCALA-VILLALBILLA",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "JOSE LUIS CABALEIRO FERNANDEZ",
+      "nombre": "RICARDO ESPINO GOMEZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "AXAPOBA ZAKHAROVA",
-        "licencia": "35640",
-        "id": "35640"
+      "A": {
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
       },
-      "X": {
-        "nombre": "MARÍA PENA CALVAR",
-        "licencia": "10784",
-        "id": "10784"
+      "B": {
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
       },
-      "Z": {
-        "nombre": "LAURA RODRIGUEZ BARREIRO",
-        "licencia": "19714",
-        "id": "19714"
+      "C": {
+        "nombre": "MARIA BENITEZ GONZALEZ",
+        "licencia": "24123",
+        "id": "24123"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "SILVIA ESCALANTE TORRES",
-        "licencia": "3507",
-        "id": "3507"
+      "Y": {
+        "nombre": "ESTHER AREVALO ALVES",
+        "licencia": "22786",
+        "id": "22786"
       },
-      "B": {
-        "nombre": "FANG NING CHEN CHEN",
-        "licencia": "4855",
-        "id": "4855"
+      "X": {
+        "nombre": "BEATRIZ AREVALO ALVES",
+        "licencia": "22800",
+        "id": "22800"
       },
-      "C": {
-        "nombre": "RUTH OLEA MUÑOZ",
-        "licencia": "7248",
-        "id": "7248"
+      "Z": {
+        "nombre": "LETICIA LAGUNA GONZALEZ",
+        "licencia": "19116",
+        "id": "19116"
       }
     }
   },
@@ -75,37 +75,37 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AXAPOBA ZAKHAROVA",
-        "licencia": "35640",
-        "id": "35640"
+        "letra": "A",
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "SILVIA ESCALANTE TORRES",
-        "licencia": "3507",
-        "id": "3507"
+        "letra": "Y",
+        "nombre": "ESTHER AREVALO ALVES",
+        "licencia": "22786",
+        "id": "22786"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
         },
         {
           "set": 2,
-          "local": 3,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         },
         {
           "set": 4,
           "local": 11,
-          "visitante": 7
+          "visitante": 5
         }
       ],
       "resultado_juegos": {
@@ -123,31 +123,84 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "MARÍA PENA CALVAR",
-        "licencia": "10784",
-        "id": "10784"
+        "letra": "B",
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "FANG NING CHEN CHEN",
-        "licencia": "4855",
-        "id": "4855"
+        "letra": "X",
+        "nombre": "BEATRIZ AREVALO ALVES",
+        "licencia": "22800",
+        "id": "22800"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 3,
-          "local": 8,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA BENITEZ GONZALEZ",
+        "licencia": "24123",
+        "id": "24123"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "LETICIA LAGUNA GONZALEZ",
+        "licencia": "19116",
+        "id": "19116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 2,
           "visitante": 11
         }
       ],
@@ -156,59 +209,6 @@
         "visitante": 3
       },
       "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LAURA RODRIGUEZ BARREIRO",
-        "licencia": "19714",
-        "id": "19714"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "RUTH OLEA MUÑOZ",
-        "licencia": "7248",
-        "id": "7248"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 2,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 3
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
       "marcador_acumulado": {
         "local": 2,
         "visitante": 1
@@ -219,47 +219,47 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "MARÍA PENA CALVAR",
-        "licencia": "10784",
-        "id": "10784"
+        "letra": "A",
+        "nombre": "MARIA EUGENIA BLINOV VALDES",
+        "licencia": "15518",
+        "id": "15518"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "SILVIA ESCALANTE TORRES",
-        "licencia": "3507",
-        "id": "3507"
+        "letra": "X",
+        "nombre": "BEATRIZ AREVALO ALVES",
+        "licencia": "22800",
+        "id": "22800"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 9
+          "local": 13,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 3,
-          "local": 2,
+          "local": 6,
           "visitante": 11
         },
         {
           "set": 4,
-          "local": 4,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 2
+        "local": 3,
+        "visitante": 1
       }
     },
     {
@@ -267,16 +267,16 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "AXAPOBA ZAKHAROVA",
-        "licencia": "35640",
-        "id": "35640"
+        "letra": "C",
+        "nombre": "MARIA BENITEZ GONZALEZ",
+        "licencia": "24123",
+        "id": "24123"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "RUTH OLEA MUÑOZ",
-        "licencia": "7248",
-        "id": "7248"
+        "letra": "Y",
+        "nombre": "ESTHER AREVALO ALVES",
+        "licencia": "22786",
+        "id": "22786"
       },
       "sets": [
         {
@@ -287,7 +287,50 @@
         {
           "set": 2,
           "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PAULA RUIZ ROMERO",
+        "licencia": "24124",
+        "id": "24124"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ESTHER AREVALO ALVES",
+        "licencia": "22786",
+        "id": "22786"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
           "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 3,
@@ -301,63 +344,20 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LAURA RODRIGUEZ BARREIRO",
-        "licencia": "19714",
-        "id": "19714"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "FANG NING CHEN CHEN",
-        "licencia": "4855",
-        "id": "4855"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 9,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 7,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 3
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": null,
+    "ganador": "CIRCULO MERCANTIL E INDUSTRIAL",
     "marcador_partidos": {
-      "local": 3,
-      "visitante": 3
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 10,
-      "visitante": 12
+      "local": 15,
+      "visitante": 7
     }
   },
   "acta_protestada": false

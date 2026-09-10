@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 13,
   "fecha": "2022-04-02",
   "hora": "17:00",
   "lugar": {
-    "recinto": "PABELLON DE FRIGSA",
-    "ciudad": "MONTE FARO S N 27003-Lugo(Lugo)"
+    "recinto": "COLEGIO VEDRUNA",
+    "ciudad": "C/ DEL ESPINAR , Nº41 , ACCESO POR C/ FRANCOLIN 28025-Madrid(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "nombre": "ALUCHE TENIS DE MESA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CTM VIGO",
+      "nombre": "BOADILLA CEIP TERESA BERGANZA",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "ANGELINO DA SILVA DIAZ",
+      "nombre": "RUBEN CUMPLIDO BERMEJO",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "A": {
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "B": {
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
       },
       "C": {
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+        "nombre": "RICARDO FERNANDEZ ZAMORANO",
+        "licencia": "24074",
+        "id": "24074"
       }
     },
     "visitante": {
       "Y": {
-        "nombre": "RAUL CENDON FERNANDEZ",
-        "licencia": "21995",
-        "id": "21995"
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
       },
       "X": {
-        "nombre": "DAVID GONZALEZ MARTINEZ",
-        "licencia": "9976",
-        "id": "9976"
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
       },
       "Z": {
-        "nombre": "JUAN JOSE ALONSO GOMEZ",
-        "licencia": "957",
-        "id": "957"
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
       }
     }
   },
@@ -76,58 +76,15 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "A",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "RAUL CENDON FERNANDEZ",
-        "licencia": "21995",
-        "id": "21995"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 4
-        },
-        {
-          "set": 2,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "B",
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
-      },
-      "visitante": {
-        "letra": "X",
-        "nombre": "DAVID GONZALEZ MARTINEZ",
-        "licencia": "9976",
-        "id": "9976"
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
       },
       "sets": [
         {
@@ -137,7 +94,60 @@
         },
         {
           "set": 2,
-          "local": 6,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
           "visitante": 11
         },
         {
@@ -152,8 +162,8 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
+        "local": 0,
+        "visitante": 2
       }
     },
     {
@@ -162,41 +172,41 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "C",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+        "nombre": "RICARDO FERNANDEZ ZAMORANO",
+        "licencia": "24074",
+        "id": "24074"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "JUAN JOSE ALONSO GOMEZ",
-        "licencia": "957",
-        "id": "957"
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 6
+          "local": 3,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 7
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 6
+          "local": 8,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
+        "local": 0,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
+        "local": 0,
+        "visitante": 3
       }
     },
     {
@@ -205,41 +215,41 @@
       "cruce": "A vs X",
       "local": {
         "letra": "A",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "DANIEL IORDANECHE SANCHEZ",
+        "licencia": "23748",
+        "id": "23748"
       },
       "visitante": {
         "letra": "X",
-        "nombre": "DAVID GONZALEZ MARTINEZ",
-        "licencia": "9976",
-        "id": "9976"
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
       },
       "sets": [
         {
           "set": 1,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 9
         },
         {
           "set": 2,
-          "local": 14,
-          "visitante": 12
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 7
-        },
-        {
-          "set": 4,
-          "local": 6,
+          "local": 4,
           "visitante": 11
         },
         {
-          "set": 5,
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
           "local": 11,
-          "visitante": 1
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 19,
+          "visitante": 17
         }
       ],
       "resultado_juegos": {
@@ -248,8 +258,8 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 3,
-        "visitante": 1
+        "local": 1,
+        "visitante": 3
       }
     },
     {
@@ -258,26 +268,26 @@
       "cruce": "C vs Y",
       "local": {
         "letra": "C",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+        "nombre": "RICARDO FERNANDEZ ZAMORANO",
+        "licencia": "24074",
+        "id": "24074"
       },
       "visitante": {
         "letra": "Y",
-        "nombre": "RAUL CENDON FERNANDEZ",
-        "licencia": "21995",
-        "id": "21995"
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 6
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 6,
-          "visitante": 11
+          "local": 12,
+          "visitante": 14
         },
         {
           "set": 3,
@@ -287,17 +297,22 @@
         {
           "set": 4,
           "local": 11,
-          "visitante": 7
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 1
+        "local": 2,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 1
+        "local": 1,
+        "visitante": 4
       }
     },
     {
@@ -306,31 +321,31 @@
       "cruce": "B vs Z",
       "local": {
         "letra": "B",
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
+        "nombre": "TITO ROGGER CABEZAS PEÑA",
+        "licencia": "1427",
+        "id": "1427"
       },
       "visitante": {
         "letra": "Z",
-        "nombre": "JUAN JOSE ALONSO GOMEZ",
-        "licencia": "957",
-        "id": "957"
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
       },
       "sets": [
         {
           "set": 1,
-          "local": 12,
-          "visitante": 10
+          "local": 8,
+          "visitante": 11
         },
         {
           "set": 2,
-          "local": 9,
+          "local": 4,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 8,
-          "visitante": 11
+          "local": 20,
+          "visitante": 18
         },
         {
           "set": 4,
@@ -344,20 +359,20 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 2
+        "local": 1,
+        "visitante": 5
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+    "ganador": "BOADILLA CEIP TERESA BERGANZA",
     "marcador_partidos": {
-      "local": 4,
-      "visitante": 2
+      "local": 1,
+      "visitante": 5
     },
     "marcador_juegos": {
-      "local": 13,
-      "visitante": 9
+      "local": 8,
+      "visitante": 17
     }
   },
   "acta_protestada": false

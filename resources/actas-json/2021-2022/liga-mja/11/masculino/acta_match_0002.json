@@ -2,269 +2,110 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 9,
   "jornada": 11,
-  "fecha": "2022-02-26",
-  "hora": "17:00",
+  "fecha": "2022-02-27",
+  "hora": "11:00",
   "lugar": {
-    "recinto": "PABELLON MUNICIPAL DE ROMARIGO",
-    "ciudad": "AVENIDA DE LUGO, 1ª TRAVESIA S/N 36940-Cangas(Pontevedra)"
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "TOMAS BRETON, 4 28660-Boadilla del Monte(Madrid)"
   },
   "equipos": {
     "local": {
-      "nombre": "CINANIA TENIS DE MESA",
+      "nombre": "BOADILLA CEIP TERESA BERGANZA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+      "nombre": "T.M. DAGANZO",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "MANUEL PEREIRO PEREZ",
+      "nombre": "ARACELY ARELY MORALES GUARDADO",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
+      "A": {
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
       },
-      "X": {
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
+      "B": {
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
       },
-      "Z": {
-        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
-        "licencia": "36100",
-        "id": "36100"
+      "C": {
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+      "Y": {
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
       },
-      "B": {
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
+      "X": {
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
       },
-      "C": {
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
+      "Z": {
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
       }
     }
   },
-  "dobles": {
-    "local": [
-      {
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
-      },
-      {
-        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
-        "licencia": "36100",
-        "id": "36100"
-      }
-    ],
-    "visitante": [
-      {
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
-      },
-      {
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
-      }
-    ]
-  },
+  "dobles": null,
   "partidos": [
     {
       "numero": 1,
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
+        "letra": "A",
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
         "letra": "Y",
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
-      },
-      "visitante": {
-        "letra": "A",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
       },
       "sets": [
         {
           "set": 1,
-          "local": 5,
+          "local": 9,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 3,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 5,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 2,
-      "tipo": "individual",
-      "cruce": "B vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 1
-        },
-        {
-          "set": 3,
-          "local": 13,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
-        "licencia": "36100",
-        "id": "36100"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 10,
-          "visitante": 12
-        },
-        {
-          "set": 2,
-          "local": 13,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 4,
-          "local": 6,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 1,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "JAVIER NUÑEZ RODAL",
-        "licencia": "6813",
-        "id": "6813"
-      },
-      "visitante": {
-        "letra": "A",
-        "nombre": "MORUFO OLADELE AHMED .",
-        "licencia": "23025",
-        "id": "23025"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 3,
-          "local": 7,
-          "visitante": 11
-        },
-        {
-          "set": 4,
           "local": 8,
           "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 5,
@@ -278,129 +119,25 @@
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 2,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "CARLOS VAZQUEZ CABRAL",
-        "licencia": "22665",
-        "id": "22665"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "RAMON BECERRA MELO",
-        "licencia": "1501",
-        "id": "1501"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 2,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 1,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
-        "licencia": "36100",
-        "id": "36100"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "PABLO FERNANDEZ ALVAREZ",
-        "licencia": "18458",
-        "id": "18458"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 9
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 8
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
+        "local": 1,
         "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 3
       }
     },
     {
-      "numero": 7,
-      "tipo": "dobles",
-      "cruce": "D vs D",
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
       "local": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "JAVIER NUÑEZ RODAL",
-            "licencia": "6813",
-            "id": "6813"
-          },
-          {
-            "nombre": "RUI MIGUEL FERREIRA DE LIMA",
-            "licencia": "36100",
-            "id": "36100"
-          }
-        ]
+        "letra": "B",
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
       },
       "visitante": {
-        "letra": "Db",
-        "jugadores": [
-          {
-            "nombre": "MORUFO OLADELE AHMED .",
-            "licencia": "23025",
-            "id": "23025"
-          },
-          {
-            "nombre": "RAMON BECERRA MELO",
-            "licencia": "1501",
-            "id": "1501"
-          }
-        ]
+        "letra": "X",
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
       },
       "sets": [
         {
@@ -411,16 +148,69 @@
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 2
         },
         {
           "set": 4,
           "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
           "visitante": 11
         }
       ],
@@ -430,20 +220,164 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MIGUEL ZABALLOS GALAN",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS ALBERTO VALDIVIELSO GONZALEZ",
+        "licencia": "2531",
+        "id": "2531"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
         "local": 3,
-        "visitante": 4
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROBERTO GONZALEZ AGUADO",
+        "licencia": "5779",
+        "id": "5779"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DIEGO CANALEJO GOMEZ",
+        "licencia": "26965",
+        "id": "26965"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HELMUT WOLFGANG REINECKE",
+        "licencia": "20873",
+        "id": "20873"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "CD DEZ PORTAS CAIXA RURAL GALEGA",
+    "ganador": "BOADILLA CEIP TERESA BERGANZA",
     "marcador_partidos": {
-      "local": 3,
-      "visitante": 4
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 11,
-      "visitante": 14
+      "local": 13,
+      "visitante": 13
     }
   },
   "acta_protestada": false

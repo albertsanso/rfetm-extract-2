@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 6,
   "jornada": 14,
   "fecha": "2022-04-09",
   "hora": "17:00",
   "lugar": {
-    "recinto": "COMPLEJO DEPORTIVO JUANITO AMIGO SIGUEIRO (OROSO)",
-    "ciudad": "RUA DO DEPORTE S N 15888-Oroso(A Coruña)"
+    "recinto": "PABELLON MUNICIPAL JESUS GIL MANZANO",
+    "ciudad": "C/ JOSE RAMIREZ DE ARELLANO Y ORELLANA, 1 6400-Don Benito(Badajoz)"
   },
   "equipos": {
     "local": {
-      "nombre": "OROSO TM PELUQUERíA TIJE",
+      "nombre": "A.D. COVIRAN DON BENITO T.M.",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "VILAGARCIA TENIS DE MESA",
+      "nombre": "GEREVI HISPALIS",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "OLAYA CEA FONTENLA",
+      "nombre": "BLAS NUÑEZ GONZALEZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "UXIO PAMPIN EIRAS",
-        "licencia": "18783",
-        "id": "18783"
+      "A": {
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
       },
-      "X": {
-        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
-        "licencia": "22036",
-        "id": "22036"
+      "B": {
+        "nombre": "PABLO MERINO DELGADO",
+        "licencia": "2762",
+        "id": "2762"
       },
-      "Z": {
-        "nombre": "VALERI MALOV MALOV",
-        "licencia": "1812",
-        "id": "1812"
+      "C": {
+        "nombre": "FERNANDO HORRILLO CABANILLAS",
+        "licencia": "14495",
+        "id": "14495"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
+      "Y": {
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
       },
-      "B": {
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+      "X": {
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
       },
-      "C": {
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
+      "Z": {
+        "nombre": "ALEJANDRO GOMEZ MARINO",
+        "licencia": "19962",
+        "id": "19962"
       }
     }
   },
@@ -75,16 +75,59 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "UXIO PAMPIN EIRAS",
-        "licencia": "18783",
-        "id": "18783"
+        "letra": "A",
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
+        "letra": "Y",
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO MERINO DELGADO",
+        "licencia": "2762",
+        "id": "2762"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
       },
       "sets": [
         {
@@ -95,12 +138,12 @@
         {
           "set": 2,
           "local": 11,
-          "visitante": 5
+          "visitante": 8
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 6
+          "visitante": 2
         }
       ],
       "resultado_juegos": {
@@ -110,45 +153,45 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 1,
-        "visitante": 0
+        "visitante": 1
       }
     },
     {
-      "numero": 2,
+      "numero": 3,
       "tipo": "individual",
-      "cruce": "B vs X",
+      "cruce": "C vs Z",
       "local": {
-        "letra": "X",
-        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
-        "licencia": "22036",
-        "id": "22036"
+        "letra": "C",
+        "nombre": "FERNANDO HORRILLO CABANILLAS",
+        "licencia": "14495",
+        "id": "14495"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+        "letra": "Z",
+        "nombre": "ALEJANDRO GOMEZ MARINO",
+        "licencia": "19962",
+        "id": "19962"
       },
       "sets": [
         {
           "set": 1,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 6
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 8
+          "visitante": 9
         },
         {
           "set": 3,
-          "local": 12,
-          "visitante": 10
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 4,
-          "local": 12,
-          "visitante": 10
+          "local": 11,
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
@@ -158,50 +201,7 @@
       "ganador": "local",
       "marcador_acumulado": {
         "local": 2,
-        "visitante": 0
-      }
-    },
-    {
-      "numero": 3,
-      "tipo": "individual",
-      "cruce": "C vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "VALERI MALOV MALOV",
-        "licencia": "1812",
-        "id": "1812"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 1
-        },
-        {
-          "set": 2,
-          "local": 11,
-          "visitante": 6
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 5
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 0
+        "visitante": 1
       }
     },
     {
@@ -209,49 +209,44 @@
       "tipo": "individual",
       "cruce": "A vs X",
       "local": {
-        "letra": "X",
-        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
-        "licencia": "22036",
-        "id": "22036"
+        "letra": "A",
+        "nombre": "ANTONIO GONZALEZ PASTOR",
+        "licencia": "6850",
+        "id": "6850"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
+        "letra": "X",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 7
+          "local": 3,
+          "visitante": 11
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 5
+          "visitante": 1
         },
         {
           "set": 3,
-          "local": 9,
-          "visitante": 11
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 4,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 5,
-          "local": 7,
-          "visitante": 11
+          "local": 14,
+          "visitante": 12
         }
       ],
       "resultado_juegos": {
-        "local": 2,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
         "local": 3,
         "visitante": 1
@@ -262,42 +257,52 @@
       "tipo": "individual",
       "cruce": "C vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "UXIO PAMPIN EIRAS",
-        "licencia": "18783",
-        "id": "18783"
+        "letra": "C",
+        "nombre": "FERNANDO HORRILLO CABANILLAS",
+        "licencia": "14495",
+        "id": "14495"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "ANDRES CASTRO OREIRO",
-        "licencia": "27993",
-        "id": "27993"
+        "letra": "Y",
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
       },
       "sets": [
         {
           "set": 1,
           "local": 11,
-          "visitante": 5
+          "visitante": 4
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 6
+          "visitante": 8
         },
         {
           "set": 3,
-          "local": 11,
-          "visitante": 3
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
         }
       ],
       "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
+        "local": 2,
+        "visitante": 3
       },
-      "ganador": "local",
+      "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 4,
-        "visitante": 1
+        "local": 3,
+        "visitante": 2
       }
     },
     {
@@ -305,16 +310,16 @@
       "tipo": "individual",
       "cruce": "B vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "VALERI MALOV MALOV",
-        "licencia": "1812",
-        "id": "1812"
+        "letra": "B",
+        "nombre": "PABLO MERINO DELGADO",
+        "licencia": "2762",
+        "id": "2762"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+        "letra": "Z",
+        "nombre": "ALEJANDRO GOMEZ MARINO",
+        "licencia": "19962",
+        "id": "19962"
       },
       "sets": [
         {
@@ -324,35 +329,40 @@
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 4
+          "local": 6,
+          "visitante": 11
         },
         {
           "set": 3,
           "local": 11,
-          "visitante": 5
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
-        "local": 5,
-        "visitante": 1
+        "local": 4,
+        "visitante": 2
       }
     }
   ],
   "resultado_final": {
-    "ganador": "OROSO TM PELUQUERíA TIJE",
+    "ganador": "A.D. COVIRAN DON BENITO T.M.",
     "marcador_partidos": {
-      "local": 5,
-      "visitante": 1
+      "local": 4,
+      "visitante": 2
     },
     "marcador_juegos": {
-      "local": 17,
-      "visitante": 4
+      "local": 14,
+      "visitante": 9
     }
   },
   "acta_protestada": false

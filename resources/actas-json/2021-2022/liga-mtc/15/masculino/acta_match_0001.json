@@ -2,23 +2,23 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 2,
   "jornada": 15,
-  "fecha": "2022-04-24",
-  "hora": "11:00",
+  "fecha": "2022-04-23",
+  "hora": "16:00",
   "lugar": {
-    "recinto": "PABELLON PRINCIPE FELIPE DE PONTEVEDRA",
-    "ciudad": "AVDA. MONTECELO, S N 36162-Pontevedra(Pontevedra)"
+    "recinto": "ESCUELA NTRA. SRA. MONTSERRAT",
+    "ciudad": "C/ COLON, ESQ. FERROCARRILES CATALANES 8640-Olesa de Montserrat(Barcelona)"
   },
   "equipos": {
     "local": {
-      "nombre": "MONTE PORREIRO PUB PATRIMONIO",
+      "nombre": "BLANXART XALOC OLESA",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "ATLETICO SAN SEBASTIAN",
+      "nombre": "SON CLADERA TTC",
       "id": null,
       "delegado": null,
       "entrenador": null
@@ -27,7 +27,7 @@
   "abc_es_local": false,
   "arbitros": {
     "principal": {
-      "nombre": "MIGUEL ANGEL CABALEIRO FERNANDEZ",
+      "nombre": "PAU BARCELO MAS",
       "licencia": null
     },
     "asistente": null
@@ -35,36 +35,36 @@
   "alineaciones": {
     "local": {
       "Y": {
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
       },
       "X": {
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
       },
       "Z": {
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
       }
     },
     "visitante": {
       "A": {
-        "nombre": "AITOR MICHELENA VICENTE",
-        "licencia": "2628",
-        "id": "2628"
+        "nombre": "ALFONSO ALCAÑIZ SALGADO",
+        "licencia": "5285",
+        "id": "5285"
       },
       "B": {
-        "nombre": "ANDER CEPAS ZAPICO",
-        "licencia": "22596",
-        "id": "22596"
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
       },
       "C": {
-        "nombre": "XABIER IGLESIAS BUCETA",
-        "licencia": "22685",
-        "id": "22685"
+        "nombre": "ALEKSANDER IVANOV ILIEV",
+        "licencia": "7938",
+        "id": "7938"
       }
     }
   },
@@ -76,36 +76,41 @@
       "cruce": "A vs Y",
       "local": {
         "letra": "Y",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
       },
       "visitante": {
         "letra": "A",
-        "nombre": "AITOR MICHELENA VICENTE",
-        "licencia": "2628",
-        "id": "2628"
+        "nombre": "ALFONSO ALCAÑIZ SALGADO",
+        "licencia": "5285",
+        "id": "5285"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 5
+          "local": 9,
+          "visitante": 11
         },
         {
           "set": 2,
           "local": 11,
-          "visitante": 6
+          "visitante": 7
         },
         {
           "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
           "local": 11,
-          "visitante": 3
+          "visitante": 4
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
       "marcador_acumulado": {
@@ -119,41 +124,51 @@
       "cruce": "B vs X",
       "local": {
         "letra": "X",
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
       },
       "visitante": {
         "letra": "B",
-        "nombre": "ANDER CEPAS ZAPICO",
-        "licencia": "22596",
-        "id": "22596"
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
       },
       "sets": [
         {
           "set": 1,
-          "local": 2,
-          "visitante": 11
+          "local": 11,
+          "visitante": 5
         },
         {
           "set": 2,
-          "local": 2,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 4,
+          "local": 7,
           "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
+        "local": 3,
+        "visitante": 2
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 1,
-        "visitante": 1
+        "local": 2,
+        "visitante": 0
       }
     },
     {
@@ -162,73 +177,30 @@
       "cruce": "C vs Z",
       "local": {
         "letra": "Z",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
       },
       "visitante": {
         "letra": "C",
-        "nombre": "XABIER IGLESIAS BUCETA",
-        "licencia": "22685",
-        "id": "22685"
+        "nombre": "ALEKSANDER IVANOV ILIEV",
+        "licencia": "7938",
+        "id": "7938"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 3
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
-          "local": 11,
-          "visitante": 2
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 2
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 0
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 2,
-        "visitante": 1
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "CRISTOFER SANTIAGO BARREIRO",
-        "licencia": "5716",
-        "id": "5716"
-      },
-      "visitante": {
-        "letra": "A",
-        "nombre": "AITOR MICHELENA VICENTE",
-        "licencia": "2628",
-        "id": "2628"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 8,
+          "local": 4,
           "visitante": 11
         },
         {
-          "set": 2,
-          "local": 11,
-          "visitante": 5
-        },
-        {
           "set": 3,
-          "local": 4,
+          "local": 8,
           "visitante": 11
         },
         {
@@ -244,83 +216,30 @@
       "ganador": "visitante",
       "marcador_acumulado": {
         "local": 2,
-        "visitante": 2
+        "visitante": 1
       }
     },
     {
-      "numero": 5,
+      "numero": 4,
       "tipo": "individual",
-      "cruce": "C vs Y",
+      "cruce": "A vs X",
       "local": {
-        "letra": "Y",
-        "nombre": "IGNACIO FERNANDEZ PEDROS",
-        "licencia": "5013",
-        "id": "5013"
+        "letra": "X",
+        "nombre": "ALVARO BARRENECHE TOMAS",
+        "licencia": "3937",
+        "id": "3937"
       },
       "visitante": {
-        "letra": "C",
-        "nombre": "XABIER IGLESIAS BUCETA",
-        "licencia": "22685",
-        "id": "22685"
+        "letra": "A",
+        "nombre": "ALFONSO ALCAÑIZ SALGADO",
+        "licencia": "5285",
+        "id": "5285"
       },
       "sets": [
         {
           "set": 1,
-          "local": 5,
+          "local": 7,
           "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 11,
-          "visitante": 8
-        },
-        {
-          "set": 4,
-          "local": 11,
-          "visitante": 5
-        },
-        {
-          "set": 5,
-          "local": 11,
-          "visitante": 6
-        }
-      ],
-      "resultado_juegos": {
-        "local": 3,
-        "visitante": 2
-      },
-      "ganador": "local",
-      "marcador_acumulado": {
-        "local": 3,
-        "visitante": 2
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
-        "letra": "Z",
-        "nombre": "LEANDRO NAHUEL FUENTES",
-        "licencia": "34230",
-        "id": "34230"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "ANDER CEPAS ZAPICO",
-        "licencia": "22596",
-        "id": "22596"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 11,
-          "visitante": 7
         },
         {
           "set": 2,
@@ -331,13 +250,114 @@
           "set": 3,
           "local": 11,
           "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
         "local": 3,
-        "visitante": 0
+        "visitante": 1
       },
       "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEKSANDER IVANOV ILIEV",
+        "licencia": "7938",
+        "id": "7938"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
       "marcador_acumulado": {
         "local": 4,
         "visitante": 2
@@ -345,14 +365,14 @@
     }
   ],
   "resultado_final": {
-    "ganador": "MONTE PORREIRO PUB PATRIMONIO",
+    "ganador": "BLANXART XALOC OLESA",
     "marcador_partidos": {
       "local": 4,
       "visitante": 2
     },
     "marcador_juegos": {
-      "local": 13,
-      "visitante": 8
+      "local": 14,
+      "visitante": 11
     }
   },
   "acta_protestada": false

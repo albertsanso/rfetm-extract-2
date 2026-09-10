@@ -31,11 +31,351 @@
     "asistente": null
   },
   "alineaciones": {
-    "local": {},
-    "visitante": {}
+    "local": {
+      "Y": {
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148"
+      },
+      "X": {
+        "nombre": "PINTO SEDUVEM, JOÃO GUILHERME",
+        "licencia": "41898"
+      },
+      "Z": {
+        "nombre": "CORREA PICCONE, ANDRES GUILLERMO",
+        "licencia": "5678"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353"
+      },
+      "B": {
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719"
+      },
+      "C": {
+        "nombre": "TORANZOS MOLINAS, DARIO ALEJANDRO",
+        "licencia": "29622"
+      }
+    }
   },
   "dobles": null,
-  "partidos": [],
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PINTO SEDUVEM, JOÃO GUILHERME",
+        "licencia": "41898"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CORREA PICCONE, ANDRES GUILLERMO",
+        "licencia": "5678"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TORANZOS MOLINAS, DARIO ALEJANDRO",
+        "licencia": "29622"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PINTO SEDUVEM, JOÃO GUILHERME",
+        "licencia": "41898"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GRAMCKO MARQUEZ, PEDRO DAVID",
+        "licencia": "29353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TORANZOS MOLINAS, DARIO ALEJANDRO",
+        "licencia": "29622"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CORREA PICCONE, ANDRES GUILLERMO",
+        "licencia": "5678"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VILLANUEVA MORALES, NELSON JOSE",
+        "licencia": "19719"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
   "resultado_final": {
     "ganador": "ARTEAL",
     "marcador_partidos": {

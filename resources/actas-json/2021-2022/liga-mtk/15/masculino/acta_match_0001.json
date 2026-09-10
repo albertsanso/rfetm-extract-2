@@ -2,69 +2,69 @@
   "federacion": "Real Federación Española de Tenis de Mesa",
   "temporada": "2021/2022",
   "competicion": "Temporada 2021-2022",
-  "grupo": 1,
+  "grupo": 6,
   "jornada": 15,
   "fecha": "2022-04-24",
   "hora": "11:00",
   "lugar": {
-    "recinto": "PABELLON COLEGIO AREALONGA",
-    "ciudad": "A XUNQUEIRA S/N 36600-Vilagarcía de Arousa(Pontevedra)"
+    "recinto": "MIKI JUARBE",
+    "ciudad": "QUEJIO35 41006-Sevilla(Sevilla)"
   },
   "equipos": {
     "local": {
-      "nombre": "VILAGARCIA TENIS DE MESA",
+      "nombre": "GEREVI HISPALIS",
       "id": null,
       "delegado": null,
       "entrenador": null
     },
     "visitante": {
-      "nombre": "SEGHOS ESCUELA TENIS DE MESA",
+      "nombre": "WWW.TENIMESISTAS.COM",
       "id": null,
       "delegado": null,
       "entrenador": null
     }
   },
-  "abc_es_local": false,
+  "abc_es_local": true,
   "arbitros": {
     "principal": {
-      "nombre": "MONICA GARCIA LOBATO",
+      "nombre": "ANTONIO CHAVES RAMIREZ",
       "licencia": null
     },
     "asistente": null
   },
   "alineaciones": {
     "local": {
-      "Y": {
-        "nombre": "ANTONIO CASTRO MONTENEGRO",
-        "licencia": "995",
-        "id": "995"
+      "A": {
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
       },
-      "X": {
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+      "B": {
+        "nombre": "ALVARO LAMA BEJARANO",
+        "licencia": "7454",
+        "id": "7454"
       },
-      "Z": {
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
+      "C": {
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
       }
     },
     "visitante": {
-      "A": {
-        "nombre": "FERNANDO GARCIA TERRON",
-        "licencia": "5110",
-        "id": "5110"
+      "Y": {
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
       },
-      "B": {
-        "nombre": "DANIEL SANZ CUESTA",
-        "licencia": "10674",
-        "id": "10674"
+      "X": {
+        "nombre": "MANUEL PARRIZAS MARTÍN",
+        "licencia": "23467",
+        "id": "23467"
       },
-      "C": {
-        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
-        "licencia": "34947",
-        "id": "34947"
+      "Z": {
+        "nombre": "CRISTIAN SANCHEZ NECHYPORENKO",
+        "licencia": "22301",
+        "id": "22301"
       }
     }
   },
@@ -75,47 +75,47 @@
       "tipo": "individual",
       "cruce": "A vs Y",
       "local": {
-        "letra": "Y",
-        "nombre": "ANTONIO CASTRO MONTENEGRO",
-        "licencia": "995",
-        "id": "995"
+        "letra": "A",
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "FERNANDO GARCIA TERRON",
-        "licencia": "5110",
-        "id": "5110"
+        "letra": "Y",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
       },
       "sets": [
         {
           "set": 1,
-          "local": 11,
-          "visitante": 7
+          "local": 12,
+          "visitante": 10
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 7,
+          "visitante": 11
         },
         {
           "set": 3,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 3
         },
         {
           "set": 4,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
         }
       ],
       "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
+        "local": 3,
         "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
       }
     },
     {
@@ -123,42 +123,47 @@
       "tipo": "individual",
       "cruce": "B vs X",
       "local": {
-        "letra": "X",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+        "letra": "B",
+        "nombre": "ALVARO LAMA BEJARANO",
+        "licencia": "7454",
+        "id": "7454"
       },
       "visitante": {
-        "letra": "B",
-        "nombre": "DANIEL SANZ CUESTA",
-        "licencia": "10674",
-        "id": "10674"
+        "letra": "X",
+        "nombre": "MANUEL PARRIZAS MARTÍN",
+        "licencia": "23467",
+        "id": "23467"
       },
       "sets": [
         {
           "set": 1,
-          "local": 8,
+          "local": 7,
           "visitante": 11
         },
         {
           "set": 2,
-          "local": 10,
-          "visitante": 12
+          "local": 11,
+          "visitante": 7
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
         }
       ],
       "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
+        "local": 3,
+        "visitante": 1
       },
-      "ganador": "visitante",
+      "ganador": "local",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 2
+        "local": 2,
+        "visitante": 0
       }
     },
     {
@@ -166,150 +171,16 @@
       "tipo": "individual",
       "cruce": "C vs Z",
       "local": {
-        "letra": "Z",
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
-      },
-      "visitante": {
         "letra": "C",
-        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
-        "licencia": "34947",
-        "id": "34947"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 8,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 3
-      }
-    },
-    {
-      "numero": 4,
-      "tipo": "individual",
-      "cruce": "A vs X",
-      "local": {
-        "letra": "X",
-        "nombre": "BRAIS CHAVES MIGUENS",
-        "licencia": "32716",
-        "id": "32716"
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
       },
       "visitante": {
-        "letra": "A",
-        "nombre": "FERNANDO GARCIA TERRON",
-        "licencia": "5110",
-        "id": "5110"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 8,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 5,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 3,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 0,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 4
-      }
-    },
-    {
-      "numero": 5,
-      "tipo": "individual",
-      "cruce": "C vs Y",
-      "local": {
-        "letra": "Y",
-        "nombre": "ANTONIO CASTRO MONTENEGRO",
-        "licencia": "995",
-        "id": "995"
-      },
-      "visitante": {
-        "letra": "C",
-        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
-        "licencia": "34947",
-        "id": "34947"
-      },
-      "sets": [
-        {
-          "set": 1,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 2,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 3,
-          "local": 12,
-          "visitante": 10
-        },
-        {
-          "set": 4,
-          "local": 4,
-          "visitante": 11
-        }
-      ],
-      "resultado_juegos": {
-        "local": 1,
-        "visitante": 3
-      },
-      "ganador": "visitante",
-      "marcador_acumulado": {
-        "local": 0,
-        "visitante": 5
-      }
-    },
-    {
-      "numero": 6,
-      "tipo": "individual",
-      "cruce": "B vs Z",
-      "local": {
         "letra": "Z",
-        "nombre": "PABLO CASTRO SALGADO",
-        "licencia": "22955",
-        "id": "22955"
-      },
-      "visitante": {
-        "letra": "B",
-        "nombre": "DANIEL SANZ CUESTA",
-        "licencia": "10674",
-        "id": "10674"
+        "nombre": "CRISTIAN SANCHEZ NECHYPORENKO",
+        "licencia": "22301",
+        "id": "22301"
       },
       "sets": [
         {
@@ -319,23 +190,66 @@
         },
         {
           "set": 2,
-          "local": 5,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALFREDO SANCHEZ RETANA",
+        "licencia": "37792",
+        "id": "37792"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANUEL PARRIZAS MARTÍN",
+        "licencia": "23467",
+        "id": "23467"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
           "visitante": 11
         },
         {
           "set": 3,
-          "local": 6,
-          "visitante": 11
-        },
-        {
-          "set": 4,
           "local": 11,
           "visitante": 7
         },
         {
-          "set": 5,
-          "local": 9,
+          "set": 4,
+          "local": 6,
           "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
         }
       ],
       "resultado_juegos": {
@@ -344,20 +258,126 @@
       },
       "ganador": "visitante",
       "marcador_acumulado": {
-        "local": 0,
-        "visitante": 6
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALVARO LAMA BEJARANO",
+        "licencia": "7454",
+        "id": "7454"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CRISTIAN SANCHEZ NECHYPORENKO",
+        "licencia": "22301",
+        "id": "22301"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
       }
     }
   ],
   "resultado_final": {
-    "ganador": "SEGHOS ESCUELA TENIS DE MESA",
+    "ganador": "GEREVI HISPALIS",
     "marcador_partidos": {
-      "local": 0,
-      "visitante": 6
+      "local": 5,
+      "visitante": 1
     },
     "marcador_juegos": {
-      "local": 4,
-      "visitante": 18
+      "local": 17,
+      "visitante": 9
     }
   },
   "acta_protestada": false
