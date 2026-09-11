@@ -608,7 +608,8 @@ def parse_match_outer_table(table):
                 if not incidencia:
                     incidencia_m = re.search(
                         r"(resultado por decisi[oó]n|incomparecencia|"
-                        r"descalificad[oa]|no\s+presentad|walkover|w\.?o\.?)",
+                        r"descalificad[oa]|no\s+presentad|walkover|w\.?o\.?|"
+                        r"resoluci[oó]n\s|\btad\s*\d)",
                         font_text,
                         re.IGNORECASE,
                     )
@@ -669,6 +670,15 @@ def parse_match_outer_table(table):
                 total_local += rj.get("local", 0)
                 total_visitante += rj.get("visitante", 0)
         marcador_juegos = {"local": total_local, "visitante": total_visitante}
+
+    if not encuentros and not incidencia:
+        if score_local is not None and score_visitante is not None:
+            incidencia = (
+                f"Resultado {score_local}-{score_visitante} sin detalle de "
+                f"encuentros individuales (no publicado por la RFETM)"
+            )
+        else:
+            incidencia = "Sin detalle de encuentros individuales (no publicado por la RFETM)"
 
     return {
         "fecha":  fecha,

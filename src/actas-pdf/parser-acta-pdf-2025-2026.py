@@ -251,10 +251,25 @@ def parse_acta(pdf_path):
     #  Tabla de partidos
     # ══════════════════════════════════════════
 
+    # pdfplumber a veces separa la primera letra de "ABC"/"XYZ" en una celda
+    # y el resto en la siguiente (p.ej. "A" + "BC"), igual que ocurre con las
+    # lineas de cabecera. Probamos tanto la celda exacta como la
+    # concatenacion de celdas adyacentes antes de descartar la fila.
+    def find_label_idx(row, label):
+        for i, c in enumerate(row):
+            if c and str(c).strip() == label:
+                return i
+        for i in range(len(row) - 1):
+            a = str(row[i]).strip() if row[i] else ""
+            b = str(row[i + 1]).strip() if row[i + 1] else ""
+            if a and b and (a + b) == label:
+                return i + 1
+        return None
+
     # Encontrar fila cabecera (la que contiene "ABC")
     header_idx = None
     for i, row in enumerate(table):
-        if row and any(str(c).strip() == "ABC" for c in row if c):
+        if row and find_label_idx(row, "ABC") is not None:
             header_idx = i
             break
 
@@ -269,16 +284,12 @@ def parse_acta(pdf_path):
     abc_label_idx = xyz_label_idx = None
     if header_idx is not None:
         hdr = table[header_idx]
-        abc_label_idx = next(
-            (i for i, c in enumerate(hdr) if c and str(c).strip() == "ABC"), None
-        )
+        abc_label_idx = find_label_idx(hdr, "ABC")
         if abc_label_idx is not None and abc_label_idx + 1 < len(hdr):
             equipo_abc = clean(hdr[abc_label_idx + 1])
         # Buscar equipo XYZ: primera celda no vacía tras el marcador 'XYZ'
         # (la columna puede variar según el PDF)
-        xyz_label_idx = next(
-            (i for i, c in enumerate(hdr) if c and str(c).strip() == "XYZ"), None
-        )
+        xyz_label_idx = find_label_idx(hdr, "XYZ")
         if xyz_label_idx is not None:
             for c in hdr[xyz_label_idx + 1:]:
                 v = clean(c)
