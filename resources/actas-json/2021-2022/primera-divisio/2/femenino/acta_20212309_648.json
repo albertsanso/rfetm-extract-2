@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 1,
+  "jornada": 2,
+  "fecha": "2021-12-11",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE ROMARIGO",
+    "ciudad": "AVENIDA DE LUGO, 1ª TRAVESIA S/N 36940-Cangas (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MOS",
+      "id": "20212309",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OROSO KUOKKA TM",
+      "id": "648",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANGEL FERNANDEZ NORES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "B": {
+        "nombre": "LAURA AMOEDO RODRIGUEZ",
+        "licencia": "33755",
+        "id": "33755"
+      },
+      "C": {
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SONIA EIRAS PENAS",
+        "licencia": "27267",
+        "id": "27267"
+      },
+      "X": {
+        "nombre": "OLAYA CEA FONTENLA",
+        "licencia": "5085",
+        "id": "5085"
+      },
+      "Z": {
+        "nombre": "RAQUEL PEREZ BONILLA",
+        "licencia": "26812",
+        "id": "26812"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      {
+        "nombre": "LAURA AMOEDO RODRIGUEZ",
+        "licencia": "33755",
+        "id": "33755"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "RAQUEL PEREZ BONILLA",
+        "licencia": "26812",
+        "id": "26812"
+      },
+      {
+        "nombre": "SONIA EIRAS PENAS",
+        "licencia": "27267",
+        "id": "27267"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SONIA EIRAS PENAS",
+        "licencia": "27267",
+        "id": "27267"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LAURA AMOEDO RODRIGUEZ",
+        "licencia": "33755",
+        "id": "33755"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "OLAYA CEA FONTENLA",
+        "licencia": "5085",
+        "id": "5085"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RAQUEL PEREZ BONILLA",
+        "licencia": "26812",
+        "id": "26812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMELA SANMARTIN PEÑA",
+        "licencia": "19658",
+        "id": "19658"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "OLAYA CEA FONTENLA",
+        "licencia": "5085",
+        "id": "5085"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA LOPEZ RAMIREZ",
+        "licencia": "27871",
+        "id": "27871"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SONIA EIRAS PENAS",
+        "licencia": "27267",
+        "id": "27267"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LAURA AMOEDO RODRIGUEZ",
+        "licencia": "33755",
+        "id": "33755"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RAQUEL PEREZ BONILLA",
+        "licencia": "26812",
+        "id": "26812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARMELA SANMARTIN PEÑA",
+            "licencia": "19658",
+            "id": "19658"
+          },
+          {
+            "nombre": "LAURA AMOEDO RODRIGUEZ",
+            "licencia": "33755",
+            "id": "33755"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RAQUEL PEREZ BONILLA",
+            "licencia": "26812",
+            "id": "26812"
+          },
+          {
+            "nombre": "SONIA EIRAS PENAS",
+            "licencia": "27267",
+            "id": "27267"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

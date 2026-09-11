@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 20,
+  "fecha": "2024-04-20",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ZUBI ALDE",
+    "ciudad": "Portugalete (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PORTUGALETE ANGULO DELIKATESSEN",
+      "id": "20191288",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "20191583",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "AITOR INTXAURRAGA BLESA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "X": {
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "Z": {
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MENDEZ ALONSO, SERGIO",
+        "licencia": "30901",
+        "id": "30901"
+      },
+      "B": {
+        "nombre": "MENDEZ ALONSO, MARCOS",
+        "licencia": "35573",
+        "id": "35573"
+      },
+      "C": {
+        "nombre": "MENDEZ RUBIO, JOAQUIN",
+        "licencia": "29432",
+        "id": "29432"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENDEZ ALONSO, SERGIO",
+        "licencia": "30901",
+        "id": "30901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MENDEZ ALONSO, MARCOS",
+        "licencia": "35573",
+        "id": "35573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MENDEZ RUBIO, JOAQUIN",
+        "licencia": "29432",
+        "id": "29432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MENDEZ ALONSO, SERGIO",
+        "licencia": "30901",
+        "id": "30901"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MENDEZ RUBIO, JOAQUIN",
+        "licencia": "29432",
+        "id": "29432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MENDEZ ALONSO, MARCOS",
+        "licencia": "35573",
+        "id": "35573"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "PORTUGALETE ANGULO DELIKATESSEN",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

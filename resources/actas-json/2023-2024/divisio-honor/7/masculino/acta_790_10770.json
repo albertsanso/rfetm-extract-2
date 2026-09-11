@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 7,
+  "fecha": "2023-11-18",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA DE BURGOS",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "790",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ONE VISION PARLA",
+      "id": "10770",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "NOELIA NUÑEZ TAPIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "COLINA VARONA, AITOR",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "X": {
+        "nombre": "HASEK ., KAROL",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "Z": {
+        "nombre": "AUSIN BRIONGOS, JORGE",
+        "licencia": "3775",
+        "id": "3775"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTÍNEZ ARRIAGADA, ANDRÉS BENJAMÍN",
+        "licencia": "41766",
+        "id": "41766"
+      },
+      "B": {
+        "nombre": "LÓPEZ GAVILÁN, ALBERTO",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "C": {
+        "nombre": "HERRERO CERCADILLO, HUGO",
+        "licencia": "21784",
+        "id": "21784"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "HASEK ., KAROL",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      {
+        "nombre": "AUSIN BRIONGOS, JORGE",
+        "licencia": "3775",
+        "id": "3775"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MARTÍNEZ ARRIAGADA, ANDRÉS BENJAMÍN",
+        "licencia": "41766",
+        "id": "41766"
+      },
+      {
+        "nombre": "HERRERO CERCADILLO, HUGO",
+        "licencia": "21784",
+        "id": "21784"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COLINA VARONA, AITOR",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTÍNEZ ARRIAGADA, ANDRÉS BENJAMÍN",
+        "licencia": "41766",
+        "id": "41766"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HASEK ., KAROL",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LÓPEZ GAVILÁN, ALBERTO",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AUSIN BRIONGOS, JORGE",
+        "licencia": "3775",
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HERRERO CERCADILLO, HUGO",
+        "licencia": "21784",
+        "id": "21784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HASEK ., KAROL",
+        "licencia": "6511",
+        "id": "6511"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTÍNEZ ARRIAGADA, ANDRÉS BENJAMÍN",
+        "licencia": "41766",
+        "id": "41766"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "COLINA VARONA, AITOR",
+        "licencia": "19271",
+        "id": "19271"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HERRERO CERCADILLO, HUGO",
+        "licencia": "21784",
+        "id": "21784"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AUSIN BRIONGOS, JORGE",
+        "licencia": "3775",
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LÓPEZ GAVILÁN, ALBERTO",
+        "licencia": "19866",
+        "id": "19866"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "HASEK ., KAROL",
+            "licencia": "6511",
+            "id": "6511"
+          },
+          {
+            "nombre": "AUSIN BRIONGOS, JORGE",
+            "licencia": "3775",
+            "id": "3775"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARTÍNEZ ARRIAGADA, ANDRÉS BENJAMÍN",
+            "licencia": "41766",
+            "id": "41766"
+          },
+          {
+            "nombre": "HERRERO CERCADILLO, HUGO",
+            "licencia": "21784",
+            "id": "21784"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

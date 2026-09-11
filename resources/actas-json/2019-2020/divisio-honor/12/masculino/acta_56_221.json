@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 1,
+  "jornada": 12,
+  "fecha": "2020-01-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL EDUARDO GUILLEN",
+    "ciudad": "Collado Mediano (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AD COLLADO MEDIANO",
+      "id": "56",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAMBADOS TENIS DE MESA",
+      "id": "221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIA SANCHA GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
+      },
+      "X": {
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "Z": {
+        "nombre": "JORGE JIMENEZ MONTES",
+        "licencia": "14656",
+        "id": "14656"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "B": {
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "C": {
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORGE JIMENEZ MONTES",
+        "licencia": "14656",
+        "id": "14656"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO SÁNCHEZ LÓPEZ",
+        "licencia": "7180",
+        "id": "7180"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LUCAS EDUARDO BAYONA",
+        "licencia": "21825",
+        "id": "21825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANGEL AYUSO SERRA",
+        "licencia": "18334",
+        "id": "18334"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRES GUILLERMO CORREA PICCONE",
+        "licencia": "5678",
+        "id": "5678"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JORGE JIMENEZ MONTES",
+        "licencia": "14656",
+        "id": "14656"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DANIEL CASALDERREY DIAZ",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AD COLLADO MEDIANO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

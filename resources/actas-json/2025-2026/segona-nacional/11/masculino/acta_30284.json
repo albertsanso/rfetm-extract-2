@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 19,
+  "fecha": "2026-04-19",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Tomelloso (Ciudad Real)",
+    "recinto": "Pabellón San José Sala de tenis de mesa"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB VIVE TOMELLOSO BODEGAS DINASTÍA",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALSA CARTAGENA",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CRUZ LEVA, JONATHAN",
+      "licencia": "32136"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VALVERDE ZARCO, ÁNGEL",
+        "licencia": "40708"
+      },
+      "X": {
+        "nombre": "HERRERA RAMIREZ, CARLOS ALBERTO",
+        "licencia": "2525"
+      },
+      "Z": {
+        "nombre": "GALLEGO RAMIREZ, FELIX",
+        "licencia": "3165"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CONESA MARTíNEZ, MARIO",
+        "licencia": "40765"
+      },
+      "B": {
+        "nombre": "MACIAN MARTINEZ, SANTIAGO",
+        "licencia": "41342"
+      },
+      "C": {
+        "nombre": "REDONDO LóPEZ, JOSE MANUEL",
+        "licencia": "38168"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VALVERDE ZARCO, ÁNGEL",
+        "licencia": "40708"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CONESA MARTíNEZ, MARIO",
+        "licencia": "40765"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HERRERA RAMIREZ, CARLOS ALBERTO",
+        "licencia": "2525"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MACIAN MARTINEZ, SANTIAGO",
+        "licencia": "41342"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GALLEGO RAMIREZ, FELIX",
+        "licencia": "3165"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "REDONDO LóPEZ, JOSE MANUEL",
+        "licencia": "38168"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HERRERA RAMIREZ, CARLOS ALBERTO",
+        "licencia": "2525"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CONESA MARTíNEZ, MARIO",
+        "licencia": "40765"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VALVERDE ZARCO, ÁNGEL",
+        "licencia": "40708"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "REDONDO LóPEZ, JOSE MANUEL",
+        "licencia": "38168"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GALLEGO RAMIREZ, FELIX",
+        "licencia": "3165"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MACIAN MARTINEZ, SANTIAGO",
+        "licencia": "41342"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALSA CARTAGENA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

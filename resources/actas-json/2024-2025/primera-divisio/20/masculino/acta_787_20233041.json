@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 20,
+  "fecha": "2025-04-06",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA PUERTOLLANO",
+      "id": "787",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "INPRE ALSINA",
+      "id": "20233041",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FERNANDEZ FERNANDEZ, JOSE RAMON",
+        "licencia": "35668",
+        "id": "35668"
+      },
+      "B": {
+        "nombre": "SERRANO HIDALGO, ALVARO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "C": {
+        "nombre": "TORRICO FERNANDEZ, ALEX",
+        "licencia": "31202",
+        "id": "31202"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CRUZ APONTE, DANIEL ESTEBAN",
+        "licencia": "44299",
+        "id": "44299"
+      },
+      "X": {
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "Z": {
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632",
+        "id": "40632"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ FERNANDEZ, JOSE RAMON",
+        "licencia": "35668",
+        "id": "35668"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CRUZ APONTE, DANIEL ESTEBAN",
+        "licencia": "44299",
+        "id": "44299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SERRANO HIDALGO, ALVARO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "TORRICO FERNANDEZ, ALEX",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632",
+        "id": "40632"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FERNANDEZ FERNANDEZ, JOSE RAMON",
+        "licencia": "35668",
+        "id": "35668"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GIL CANO, ALBERTO",
+        "licencia": "19163",
+        "id": "19163"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "TORRICO FERNANDEZ, ALEX",
+        "licencia": "31202",
+        "id": "31202"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CRUZ APONTE, DANIEL ESTEBAN",
+        "licencia": "44299",
+        "id": "44299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SERRANO HIDALGO, ALVARO",
+        "licencia": "31201",
+        "id": "31201"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BERMúDEZ RUíZ, ALEJANDRO",
+        "licencia": "40632",
+        "id": "40632"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "INPRE ALSINA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

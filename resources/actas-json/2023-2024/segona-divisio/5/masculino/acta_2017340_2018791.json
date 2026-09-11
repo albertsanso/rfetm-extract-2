@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2023-10-28",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D´ESPORTS",
+    "ciudad": "Vilanova i la Geltrú (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT VILANOVA",
+      "id": "2017340",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIO SABADELL",
+      "id": "2018791",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "XAVIER CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GARROTE FERRE, BIEL",
+        "licencia": "20350",
+        "id": "20350"
+      },
+      "B": {
+        "nombre": "RUIZ GARCIA, JOAN",
+        "licencia": "23507",
+        "id": "23507"
+      },
+      "C": {
+        "nombre": "CARMONA DE LA ROSA, ALBERT",
+        "licencia": "20291",
+        "id": "20291"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "WEISZ ROMERO, IGNASI",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "X": {
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      },
+      "Z": {
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GARROTE FERRE, BIEL",
+        "licencia": "20350",
+        "id": "20350"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WEISZ ROMERO, IGNASI",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RUIZ GARCIA, JOAN",
+        "licencia": "23507",
+        "id": "23507"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 18
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARMONA DE LA ROSA, ALBERT",
+        "licencia": "20291",
+        "id": "20291"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GARROTE FERRE, BIEL",
+        "licencia": "20350",
+        "id": "20350"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292",
+        "id": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARMONA DE LA ROSA, ALBERT",
+        "licencia": "20291",
+        "id": "20291"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "WEISZ ROMERO, IGNASI",
+        "licencia": "20272",
+        "id": "20272"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RUIZ GARCIA, JOAN",
+        "licencia": "23507",
+        "id": "23507"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289",
+        "id": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT VILANOVA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

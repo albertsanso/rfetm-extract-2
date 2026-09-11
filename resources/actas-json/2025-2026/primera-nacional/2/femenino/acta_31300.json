@@ -1,0 +1,375 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 2,
+  "jornada": 5,
+  "fecha": "2026-03-07",
+  "hora": "19:00",
+  "lugar": {
+    "ciudad": "SALA DE TENIS DE MESA DE BURGOS",
+    "recinto": "C/ LA BUREBA S/N NAVES RIO PICO nº 7 9007-BURGOS (BURGOS)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "SAMPEDRO ZUBIZARRETA, JUAN JOSE",
+        "licencia": "1144"
+      }
+    },
+    "visitante": {
+      "nombre": "UBU RM TERAN BURGOS 2031",
+      "delegado": {
+        "nombre": "MARTINEZ MEDIAVILLA, RAUL",
+        "licencia": "2085"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: SAMPEDRO ZUBIZARRETA, JUAN JOSE",
+        "licencia": "1144"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "PéREZ HERNáNDEZ, GABRIEL",
+      "licencia": "39813"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CRESPO ACEREDA, ROCIO",
+        "licencia": "30374"
+      },
+      "B": {
+        "nombre": "FERNANDEZ ALONSO, ALICIA",
+        "licencia": "39731"
+      },
+      "C": {
+        "nombre": "PALLAS ALAEZ, IRIA",
+        "licencia": "43348"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "X": {
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      },
+      "Z": {
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CRESPO ACEREDA, ROCIO",
+        "licencia": "30374"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ ALONSO, ALICIA",
+        "licencia": "39731"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PALLAS ALAEZ, IRIA",
+        "licencia": "43348"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CRESPO ACEREDA, ROCIO",
+        "licencia": "30374"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PALLAS ALAEZ, IRIA",
+        "licencia": "43348"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ ALONSO, ALICIA",
+        "licencia": "39731"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UBU RM TERAN BURGOS 2031",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 5,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

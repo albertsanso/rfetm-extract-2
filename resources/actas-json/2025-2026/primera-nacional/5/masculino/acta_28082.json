@@ -1,0 +1,383 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2025-10-04",
+  "hora": "18:00",
+  "lugar": {
+    "ciudad": "Alcobendas (Madrid)",
+    "recinto": "COLEGIO EMILIO CASADO"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MURPROTEC ALCOBENDAS TM",
+      "delegado": {
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990"
+      },
+      "entrenador": {
+        "nombre": "MATAMOROS GIL, JOSE",
+        "licencia": "15504"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS TAULA ALGEMESI",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: MATAMOROS GIL, JOSE",
+        "licencia": "15504"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANCHA GONZALEZ, JOSE MARIA",
+      "licencia": "764"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990"
+      },
+      "X": {
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160"
+      },
+      "Z": {
+        "nombre": "POZA RIVERA, LEO",
+        "licencia": "35555"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BELENGUER NAVARRO, SERGIO",
+        "licencia": "16475"
+      },
+      "B": {
+        "nombre": "BELENGUER NAVARRO, JAVIER",
+        "licencia": "16474"
+      },
+      "C": {
+        "nombre": "GARCIA-ROMEU PALOMARES, MANUEL JOSE",
+        "licencia": "35755"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SOLA SARDUY, HECTOR FRANK",
+        "licencia": "19990"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BELENGUER NAVARRO, SERGIO",
+        "licencia": "16475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BELENGUER NAVARRO, JAVIER",
+        "licencia": "16474"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "POZA RIVERA, LEO",
+        "licencia": "35555"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA-ROMEU PALOMARES, MANUEL JOSE",
+        "licencia": "35755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ , LEONCIO",
+        "licencia": "42160"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BELENGUER NAVARRO, SERGIO",
+        "licencia": "16475"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VELASQUEZ PEÑA, MIGUEL ANGEL JESUS",
+        "licencia": "34432"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA-ROMEU PALOMARES, MANUEL JOSE",
+        "licencia": "35755"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "POZA RIVERA, LEO",
+        "licencia": "35555"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BELENGUER NAVARRO, JAVIER",
+        "licencia": "16474"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (6-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MURPROTEC ALCOBENDAS TM",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Femenina",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2020-01-25",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PUBLIMAX CAI SANTIAGO PROM.",
+      "id": "887",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRO NATACION HELIOS \"A\"",
+      "id": "2017545",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO SUBIRON MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "YARA GRIMAL TEJERO",
+        "licencia": "2822",
+        "id": "2822"
+      },
+      "X": {
+        "nombre": "OLATZ ZUAZUA ARANZASTI",
+        "licencia": "8512",
+        "id": "8512"
+      },
+      "Z": {
+        "nombre": "SARA ESCOTA FAURE",
+        "licencia": "20058",
+        "id": "20058"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JANINA SOFIA NIETO HERRERA",
+        "licencia": "33709",
+        "id": "33709"
+      },
+      "B": {
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      },
+      "C": {
+        "nombre": "PAULA BORRA BADÍA",
+        "licencia": "20766",
+        "id": "20766"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "YARA GRIMAL TEJERO",
+        "licencia": "2822",
+        "id": "2822"
+      },
+      {
+        "nombre": "SARA ESCOTA FAURE",
+        "licencia": "20058",
+        "id": "20058"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "PAULA BORRA BADÍA",
+        "licencia": "20766",
+        "id": "20766"
+      },
+      {
+        "nombre": "JANINA SOFIA NIETO HERRERA",
+        "licencia": "33709",
+        "id": "33709"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "YARA GRIMAL TEJERO",
+        "licencia": "2822",
+        "id": "2822"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JANINA SOFIA NIETO HERRERA",
+        "licencia": "33709",
+        "id": "33709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "OLATZ ZUAZUA ARANZASTI",
+        "licencia": "8512",
+        "id": "8512"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARA ESCOTA FAURE",
+        "licencia": "20058",
+        "id": "20058"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PAULA BORRA BADÍA",
+        "licencia": "20766",
+        "id": "20766"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "OLATZ ZUAZUA ARANZASTI",
+        "licencia": "8512",
+        "id": "8512"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JANINA SOFIA NIETO HERRERA",
+        "licencia": "33709",
+        "id": "33709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "YARA GRIMAL TEJERO",
+        "licencia": "2822",
+        "id": "2822"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PAULA BORRA BADÍA",
+        "licencia": "20766",
+        "id": "20766"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARA ESCOTA FAURE",
+        "licencia": "20058",
+        "id": "20058"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARIA TERESA MAZA LUENGO",
+        "licencia": "23378",
+        "id": "23378"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "YARA GRIMAL TEJERO",
+            "licencia": "2822",
+            "id": "2822"
+          },
+          {
+            "nombre": "SARA ESCOTA FAURE",
+            "licencia": "20058",
+            "id": "20058"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PAULA BORRA BADÍA",
+            "licencia": "20766",
+            "id": "20766"
+          },
+          {
+            "nombre": "JANINA SOFIA NIETO HERRERA",
+            "licencia": "33709",
+            "id": "33709"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACION HELIOS \"A\"",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

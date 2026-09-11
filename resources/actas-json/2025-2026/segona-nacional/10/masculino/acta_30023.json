@@ -1,0 +1,393 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 17,
+  "fecha": "2026-03-22",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Vícar (Almería)",
+    "recinto": "Palacio deportes de Vícar"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VICAR",
+      "delegado": {
+        "nombre": "LOPEZ MANZANO, DANIEL",
+        "licencia": "2172"
+      },
+      "entrenador": {
+        "nombre": "VIDAL BECERRA, JUAN CARLOS",
+        "licencia": "8411"
+      }
+    },
+    "visitante": {
+      "nombre": "FARMACIA EL ROMERAL - EMBASUR",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: LOPEZ MANZANO, DANIEL",
+        "licencia": "2172"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: VIDAL BECERRA, JUAN CARLOS",
+        "licencia": "8411"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SAEZ CAPEL, LUIS",
+      "licencia": "1189"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RINCON RODRIGUEZ, ALONSO",
+        "licencia": "19973"
+      },
+      "X": {
+        "nombre": "MOYA CORDERO, FRANCISCO",
+        "licencia": "21357"
+      },
+      "Z": {
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MUÑOZ SANCHEZ, SERGIO",
+        "licencia": "40532"
+      },
+      "B": {
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS",
+        "licencia": "21135"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES",
+        "licencia": "43155"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RINCON RODRIGUEZ, ALONSO",
+        "licencia": "19973"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUÑOZ SANCHEZ, SERGIO",
+        "licencia": "40532"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOYA CORDERO, FRANCISCO",
+        "licencia": "21357"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS",
+        "licencia": "21135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES",
+        "licencia": "43155"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOYA CORDERO, FRANCISCO",
+        "licencia": "21357"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MUÑOZ SANCHEZ, SERGIO",
+        "licencia": "40532"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RINCON RODRIGUEZ, ALONSO",
+        "licencia": "19973"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ BARRERA, EDISON ANDRES",
+        "licencia": "43155"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LÓPEZ LÓPEZ, AITOR SIMÓN",
+        "licencia": "42541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MENDEZ-TRELLES ACUÑA, CARLOS",
+        "licencia": "21135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA VICAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,464 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 16,
+  "fecha": "2026-03-01",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Oliva (Valencia)",
+    "recinto": "SALA PIERRE GUITART(IES GABRIEL CISCAR)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTT CORRIOL OLIVA",
+      "delegado": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "entrenador": {
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA BARCELONA",
+      "delegado": {
+        "nombre": "MUÑOZ LLURBA, JORDI",
+        "licencia": "25284"
+      },
+      "entrenador": {
+        "nombre": "CLIVILLE BERDUN, RAMON",
+        "licencia": "3252"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LANDETE BIXQUERT, DANIEL",
+      "licencia": "33747"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "X": {
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      },
+      "Z": {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      "B": {
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      },
+      "C": {
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      {
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PARRA ESTEVE, VICTOR",
+        "licencia": "6841"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANYA VILLALTA, NIL",
+        "licencia": "20512"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PELLICER CLIMENT, VICTOR",
+        "licencia": "10363"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PELLICER CLIMENT, VICTOR",
+            "licencia": "10363"
+          },
+          {
+            "nombre": "MALONDA CLIMENT, ENRIC",
+            "licencia": "37254"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MANYA VILLALTA, NIL",
+            "licencia": "20512"
+          },
+          {
+            "nombre": "GUARDIOLA CASALS, FERRAN",
+            "licencia": "28139"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA BARCELONA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

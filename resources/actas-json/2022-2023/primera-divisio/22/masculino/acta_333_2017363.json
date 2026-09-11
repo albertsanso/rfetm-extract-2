@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CLUB DEPORTIVO CIRCULO DE AMISTAD XII DE ENERO",
+    "ciudad": "Candelaria (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO DE AMISTAD-TENERIFE",
+      "id": "333",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. HIDRA LOS REALEJOS",
+      "id": "2017363",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIQUE GOMEZ DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VICENTE PÉREZ BARRIOS",
+        "licencia": "17034",
+        "id": "17034"
+      },
+      "X": {
+        "nombre": "JUAN EMILIO HILARIO DELGADO",
+        "licencia": "1715",
+        "id": "1715"
+      },
+      "Z": {
+        "nombre": "CARLOS JAVIER SUAREZ RODRIGUEZ",
+        "licencia": "3808",
+        "id": "3808"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "B": {
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "C": {
+        "nombre": "ENRIQUE RODRÍGUEZ SANFIEL",
+        "licencia": "20157",
+        "id": "20157"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VICENTE PÉREZ BARRIOS",
+        "licencia": "17034",
+        "id": "17034"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN EMILIO HILARIO DELGADO",
+        "licencia": "1715",
+        "id": "1715"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS JAVIER SUAREZ RODRIGUEZ",
+        "licencia": "3808",
+        "id": "3808"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE RODRÍGUEZ SANFIEL",
+        "licencia": "20157",
+        "id": "20157"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN EMILIO HILARIO DELGADO",
+        "licencia": "1715",
+        "id": "1715"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VICENTE PÉREZ BARRIOS",
+        "licencia": "17034",
+        "id": "17034"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE RODRÍGUEZ SANFIEL",
+        "licencia": "20157",
+        "id": "20157"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS JAVIER SUAREZ RODRIGUEZ",
+        "licencia": "3808",
+        "id": "3808"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO DE AMISTAD-TENERIFE",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

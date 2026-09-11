@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 14,
+  "fecha": "2024-02-03",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CEIP PÍO XII",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "id": "20201928",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. CORDOBA-81 T.M.",
+      "id": "10604",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN MANUEL SAÑUDO JIMENEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "NOBUTA , OSUKE",
+        "licencia": "43204",
+        "id": "43204"
+      },
+      "X": {
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "Z": {
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "B": {
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "C": {
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NOBUTA , OSUKE",
+        "licencia": "43204",
+        "id": "43204"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FABRA FORJÁN, JESÚS JULIÁN",
+        "licencia": "20836",
+        "id": "20836"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "OÑA MURILLO, JOSE LUIS",
+        "licencia": "6779",
+        "id": "6779"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NOBUTA , OSUKE",
+        "licencia": "43204",
+        "id": "43204"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FRANCO TARDAGUILA, CESAR MOISES",
+        "licencia": "22182",
+        "id": "22182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CAPARROS ZAMORA, JOSE",
+        "licencia": "22183",
+        "id": "22183"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA MAZDA JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

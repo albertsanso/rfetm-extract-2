@@ -1,0 +1,392 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 6,
+  "fecha": "2022-01-09",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON PRINCIPE FELIPE DE PONTEVEDRA",
+    "ciudad": "Pontevedra (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ARTEAL SD COMPOSTELA",
+      "id": "21",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL ANGEL CABALEIRO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2190.0,
+        "id": "22257"
+      },
+      "X": {
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2277.0,
+        "id": "32709"
+      },
+      "Z": {
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 2292.0,
+        "id": "36245"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2594.0,
+        "id": "18618"
+      },
+      "B": {
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2768.0,
+        "id": "31328"
+      },
+      "C": {
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2699.0,
+        "id": "22020"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2190.0,
+        "id": "22257"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2594.0,
+        "id": "18618"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2277.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2768.0,
+        "id": "31328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 2292.0,
+        "id": "36245"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2699.0,
+        "id": "22020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTIN SEBASTIAN BENTANCOR FERNANDEZ",
+        "licencia": "32709",
+        "ranking": 2277.0,
+        "id": "32709"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2594.0,
+        "id": "18618"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "NICOLAS DANIEL GALVANO",
+        "licencia": "22257",
+        "ranking": 2190.0,
+        "id": "22257"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2699.0,
+        "id": "22020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 2292.0,
+        "id": "36245"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2768.0,
+        "id": "31328"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,467 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2024-09-28",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM AMADIS",
+      "id": "10140",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "id": "2018819",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SANZ REY, IBAI",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "B": {
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      },
+      "C": {
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336",
+        "id": "38336"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PALAZUELOS SAN FERMÍN, DANIEL",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "X": {
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "Z": {
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SANZ REY, IBAI",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      {
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GONZALEZ BORES, FRANCISCO",
+        "licencia": "3760",
+        "id": "3760"
+      },
+      {
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SANZ REY, IBAI",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PALAZUELOS SAN FERMÍN, DANIEL",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336",
+        "id": "38336"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SANZ REY, IBAI",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RECIO BARZANA, JAVIER",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336",
+        "id": "38336"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PALAZUELOS SAN FERMÍN, DANIEL",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469",
+        "id": "32469"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ODUNLAMI OMOTARA, TITUS",
+        "licencia": "533",
+        "id": "533"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SANZ REY, IBAI",
+            "licencia": "29280",
+            "id": "29280"
+          },
+          {
+            "nombre": "BARREDA SALAS, SANTIAGO",
+            "licencia": "32469",
+            "id": "32469"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GONZALEZ BORES, FRANCISCO",
+            "licencia": "3760",
+            "id": "3760"
+          },
+          {
+            "nombre": "ODUNLAMI OMOTARA, TITUS",
+            "licencia": "533",
+            "id": "533"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MANUFACTURAS DEPORTIVAS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

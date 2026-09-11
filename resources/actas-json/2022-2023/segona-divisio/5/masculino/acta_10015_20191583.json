@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 5,
+  "fecha": "2022-11-05",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "P.M PIO BAROJA U.K",
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D FORTUNA K.E - SUPER AMARA",
+      "id": "10015",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "20191583",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS VIADAS AIZPURUA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DANEL GARCIA CAMARERO",
+        "licencia": "33716",
+        "id": "33716"
+      },
+      "X": {
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "Z": {
+        "nombre": "SERGIO BEA MONTES",
+        "licencia": "33684",
+        "id": "33684"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "B": {
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "C": {
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANEL GARCIA CAMARERO",
+        "licencia": "33716",
+        "id": "33716"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO BEA MONTES",
+        "licencia": "33684",
+        "id": "33684"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIQUE GARCIA NIETO",
+        "licencia": "27699",
+        "id": "27699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANEL GARCIA CAMARERO",
+        "licencia": "33716",
+        "id": "33716"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IBAI SANZ REY",
+        "licencia": "29280",
+        "id": "29280"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO BEA MONTES",
+        "licencia": "33684",
+        "id": "33684"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ARITZ SANZ REY",
+        "licencia": "29279",
+        "id": "29279"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 5,
+  "jornada": 5,
+  "fecha": "2022-03-19",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "SALA MULTIUSOS PABELLóN VICENTE PANIAGUA",
+    "ciudad": "AVENIDA PABLO IGLESIAS, S/N 13600-Alcázar de San Juan (Ciudad Real)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PINTURAS RUS LINARES",
+      "id": "20191605",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
+      "id": "20212221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE EUFRASIO MORENO SORIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTA PERALES GONZALEZ",
+        "licencia": "34526",
+        "id": "34526"
+      },
+      "X": {
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "Z": {
+        "nombre": "ADRIANA GUERRERO GARCIA",
+        "licencia": "37759",
+        "id": "37759"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JESICA FERNANDEZ ORTEGA",
+        "licencia": "2985",
+        "id": "2985"
+      },
+      "B": {
+        "nombre": "NAZARET POZA MARCOS",
+        "licencia": "33806",
+        "id": "33806"
+      },
+      "C": {
+        "nombre": "LORENA GONZALEZ MURO",
+        "licencia": "3373",
+        "id": "3373"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTA PERALES GONZALEZ",
+        "licencia": "34526",
+        "id": "34526"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JESICA FERNANDEZ ORTEGA",
+        "licencia": "2985",
+        "id": "2985"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAZARET POZA MARCOS",
+        "licencia": "33806",
+        "id": "33806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ADRIANA GUERRERO GARCIA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LORENA GONZALEZ MURO",
+        "licencia": "3373",
+        "id": "3373"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARMEN TORRES LEON",
+        "licencia": "23743",
+        "id": "23743"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JESICA FERNANDEZ ORTEGA",
+        "licencia": "2985",
+        "id": "2985"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTA PERALES GONZALEZ",
+        "licencia": "34526",
+        "id": "34526"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LORENA GONZALEZ MURO",
+        "licencia": "3373",
+        "id": "3373"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ADRIANA GUERRERO GARCIA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NAZARET POZA MARCOS",
+        "licencia": "33806",
+        "id": "33806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "PINTURAS RUS LINARES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

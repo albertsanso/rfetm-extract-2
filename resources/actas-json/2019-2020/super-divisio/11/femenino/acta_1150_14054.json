@@ -1,0 +1,408 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2020-01-11",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO DEL IES QUARTO DEL REI",
+    "ciudad": "Santa Eulalia del Río (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOAQUIN PANIELLO AROLAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "X": {
+        "nombre": "IZABELA LUPULESKU",
+        "licencia": "31761",
+        "ranking": 2891.0,
+        "id": "31761"
+      },
+      "Z": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "ranking": 1508.0,
+        "id": "11199"
+      },
+      "B": {
+        "nombre": "SVETLANA SKOBKINA SKOBKINA",
+        "licencia": "26120",
+        "ranking": 1038.0,
+        "id": "26120"
+      },
+      "C": {
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "ranking": 2095.0,
+        "id": "31925"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "id": "33821"
+      },
+      {
+        "nombre": "IZABELA LUPULESKU",
+        "licencia": "31761",
+        "id": "31761"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "id": "11199"
+      },
+      {
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "id": "31925"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "ranking": 1508.0,
+        "id": "11199"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 19,
+          "visitante": 17
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZABELA LUPULESKU",
+        "licencia": "31761",
+        "ranking": 2891.0,
+        "id": "31761"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SVETLANA SKOBKINA SKOBKINA",
+        "licencia": "26120",
+        "ranking": 1038.0,
+        "id": "26120"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1412.0,
+        "id": "16527"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "ranking": 2095.0,
+        "id": "31925"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "TIJANA JOKIC",
+            "licencia": "33821",
+            "id": "33821"
+          },
+          {
+            "nombre": "IZABELA LUPULESKU",
+            "licencia": "31761",
+            "id": "31761"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANDREA PÉREZ RAMÍREZ",
+            "licencia": "11199",
+            "id": "11199"
+          },
+          {
+            "nombre": "ANETA OLENDZKA",
+            "licencia": "31925",
+            "id": "31925"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZABELA LUPULESKU",
+        "licencia": "31761",
+        "ranking": 2891.0,
+        "id": "31761"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "ranking": 1508.0,
+        "id": "11199"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2800.0,
+        "id": "33821"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "ranking": 2095.0,
+        "id": "31925"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "COVICSA-CTT SANTA EULARIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

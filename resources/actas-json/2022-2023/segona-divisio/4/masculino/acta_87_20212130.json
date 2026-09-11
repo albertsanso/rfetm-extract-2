@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 4,
+  "fecha": "2022-10-29",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "REAL CÍRCULO DE LABRADORES",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "RC LABRADORES",
+      "id": "87",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB MALAGA TENIS DE MESA",
+      "id": "20212130",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GONZALEZ MUÑOZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "X": {
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "Z": {
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RAMON RUIZ RUIZ",
+        "licencia": "22778",
+        "id": "22778"
+      },
+      "B": {
+        "nombre": "ANTONIO GARRIDO ROPERO",
+        "licencia": "9248",
+        "id": "9248"
+      },
+      "C": {
+        "nombre": "MARCO SALIS",
+        "licencia": "27734",
+        "id": "27734"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      {
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MARCO SALIS",
+        "licencia": "27734",
+        "id": "27734"
+      },
+      {
+        "nombre": "ANTONIO GARRIDO ROPERO",
+        "licencia": "9248",
+        "id": "9248"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RAMON RUIZ RUIZ",
+        "licencia": "22778",
+        "id": "22778"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO GARRIDO ROPERO",
+        "licencia": "9248",
+        "id": "9248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO SALIS",
+        "licencia": "27734",
+        "id": "27734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RAMON RUIZ RUIZ",
+        "licencia": "22778",
+        "id": "22778"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCO SALIS",
+        "licencia": "27734",
+        "id": "27734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO GARRIDO ROPERO",
+        "licencia": "9248",
+        "id": "9248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "JUAN LUIS GERVAS DIAZ",
+            "licencia": "18562",
+            "id": "18562"
+          },
+          {
+            "nombre": "JULIO COVEÑAS PEREZ",
+            "licencia": "19216",
+            "id": "19216"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARCO SALIS",
+            "licencia": "27734",
+            "id": "27734"
+          },
+          {
+            "nombre": "ANTONIO GARRIDO ROPERO",
+            "licencia": "9248",
+            "id": "9248"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB MALAGA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

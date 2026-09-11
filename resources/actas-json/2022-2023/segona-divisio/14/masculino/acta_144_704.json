@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 14,
+  "fecha": "2023-02-11",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRO NATACION HELIOS",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. TENIS DE MESA RIVAS",
+      "id": "704",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DANIEL ALONSO ARNAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "B": {
+        "nombre": "PABLO GARCIA DE PEDRO",
+        "licencia": "32693",
+        "id": "32693"
+      },
+      "C": {
+        "nombre": "EDUARDO RUIZ FUERTES",
+        "licencia": "879",
+        "id": "879"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DARIO SALCEDO POLO",
+        "licencia": "28138",
+        "id": "28138"
+      },
+      "X": {
+        "nombre": "IGNACIO JAINOVICH",
+        "licencia": "40927",
+        "id": "40927"
+      },
+      "Z": {
+        "nombre": "GUILLERMO DE LAURENTIS ZALDIVAR",
+        "licencia": "21973",
+        "id": "21973"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DARIO SALCEDO POLO",
+        "licencia": "28138",
+        "id": "28138"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO GARCIA DE PEDRO",
+        "licencia": "32693",
+        "id": "32693"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IGNACIO JAINOVICH",
+        "licencia": "40927",
+        "id": "40927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "EDUARDO RUIZ FUERTES",
+        "licencia": "879",
+        "id": "879"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLERMO DE LAURENTIS ZALDIVAR",
+        "licencia": "21973",
+        "id": "21973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JORGE PEREZ CARMONA",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IGNACIO JAINOVICH",
+        "licencia": "40927",
+        "id": "40927"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "EDUARDO RUIZ FUERTES",
+        "licencia": "879",
+        "id": "879"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DARIO SALCEDO POLO",
+        "licencia": "28138",
+        "id": "28138"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PABLO GARCIA DE PEDRO",
+        "licencia": "32693",
+        "id": "32693"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLERMO DE LAURENTIS ZALDIVAR",
+        "licencia": "21973",
+        "id": "21973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. TENIS DE MESA RIVAS",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

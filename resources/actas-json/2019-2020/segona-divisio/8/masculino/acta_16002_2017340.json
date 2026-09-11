@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 5,
+  "jornada": 8,
+  "fecha": "2019-11-23",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PISCINES MUNICIPALS LA GARRIGA",
+    "ciudad": "Garriga (La) (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ICELAND TT ELS 8 LA GARRIGA",
+      "id": "16002",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT VILANOVA",
+      "id": "2017340",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAUME JOFRE BOTEY",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "X": {
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "Z": {
+        "nombre": "BIEL NAVIO CASADESUS",
+        "licencia": "18288",
+        "id": "18288"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALBERT CARMONA DE LA ROSA",
+        "licencia": "20291",
+        "id": "20291"
+      },
+      "B": {
+        "nombre": "FRANCESC XAVIER CONDE LORENTE",
+        "licencia": "15130",
+        "id": "15130"
+      },
+      "C": {
+        "nombre": "FELIX AVILA GORDILLO",
+        "licencia": "16309",
+        "id": "16309"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERT CARMONA DE LA ROSA",
+        "licencia": "20291",
+        "id": "20291"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCESC XAVIER CONDE LORENTE",
+        "licencia": "15130",
+        "id": "15130"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BIEL NAVIO CASADESUS",
+        "licencia": "18288",
+        "id": "18288"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FELIX AVILA GORDILLO",
+        "licencia": "16309",
+        "id": "16309"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORDI EDO PUIG",
+        "licencia": "25609",
+        "id": "25609"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERT CARMONA DE LA ROSA",
+        "licencia": "20291",
+        "id": "20291"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI GAVIN MOLINS",
+        "licencia": "3153",
+        "id": "3153"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FELIX AVILA GORDILLO",
+        "licencia": "16309",
+        "id": "16309"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BIEL NAVIO CASADESUS",
+        "licencia": "18288",
+        "id": "18288"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FRANCESC XAVIER CONDE LORENTE",
+        "licencia": "15130",
+        "id": "15130"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ICELAND TT ELS 8 LA GARRIGA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

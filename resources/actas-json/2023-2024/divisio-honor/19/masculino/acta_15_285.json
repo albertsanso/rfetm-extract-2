@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA VEGAS DEL GENIL",
+    "ciudad": "Vegas del Genil (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM VEGAS DEL GENIL",
+      "id": "15",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "285",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EMILIO MANUEL GARCIA ARROYO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RIVAS RUIZ, JOAQUIN",
+        "licencia": "20768",
+        "id": "20768"
+      },
+      "X": {
+        "nombre": "FLORES MARTINEZ, RAUL",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "Z": {
+        "nombre": "PUERTAS MARTINEZ, DAVID",
+        "licencia": "23399",
+        "id": "23399"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTIN VARGAS, CARLOS",
+        "licencia": "2576",
+        "id": "2576"
+      },
+      "B": {
+        "nombre": "LOPEZ BERNAL, JUAN",
+        "licencia": "17865",
+        "id": "17865"
+      },
+      "C": {
+        "nombre": "SEBASTIAN ESCOLANO, RAUL",
+        "licencia": "22728",
+        "id": "22728"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RIVAS RUIZ, JOAQUIN",
+        "licencia": "20768",
+        "id": "20768"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTIN VARGAS, CARLOS",
+        "licencia": "2576",
+        "id": "2576"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FLORES MARTINEZ, RAUL",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LOPEZ BERNAL, JUAN",
+        "licencia": "17865",
+        "id": "17865"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PUERTAS MARTINEZ, DAVID",
+        "licencia": "23399",
+        "id": "23399"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIAN ESCOLANO, RAUL",
+        "licencia": "22728",
+        "id": "22728"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FLORES MARTINEZ, RAUL",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTIN VARGAS, CARLOS",
+        "licencia": "2576",
+        "id": "2576"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RIVAS RUIZ, JOAQUIN",
+        "licencia": "20768",
+        "id": "20768"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIAN ESCOLANO, RAUL",
+        "licencia": "22728",
+        "id": "22728"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PUERTAS MARTINEZ, DAVID",
+        "licencia": "23399",
+        "id": "23399"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LOPEZ BERNAL, JUAN",
+        "licencia": "17865",
+        "id": "17865"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM VEGAS DEL GENIL",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

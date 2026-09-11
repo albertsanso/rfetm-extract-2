@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 12,
+  "fecha": "2025-01-18",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "id": "333",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SAN SEBASTIAN DE LOS REYES",
+      "id": "285",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "X": {
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "Z": {
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055",
+        "id": "2055"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ASENSIO TEIXEIRA, OBED",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "B": {
+        "nombre": "SANCHEZ ESPINOSA, MARCO ANTONIO",
+        "licencia": "42110",
+        "id": "42110"
+      },
+      "C": {
+        "nombre": "PEREZ LAPRESTA, ALVARO",
+        "licencia": "2831",
+        "id": "2831"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ASENSIO TEIXEIRA, OBED",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ ESPINOSA, MARCO ANTONIO",
+        "licencia": "42110",
+        "id": "42110"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055",
+        "id": "2055"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ LAPRESTA, ALVARO",
+        "licencia": "2831",
+        "id": "2831"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ ALONSO, DAVID",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ASENSIO TEIXEIRA, OBED",
+        "licencia": "31496",
+        "id": "31496"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086",
+        "id": "2086"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SEBASTIAN ESCOLANO, RAUL",
+        "licencia": "22728",
+        "id": "22728"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055",
+        "id": "2055"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ ESPINOSA, MARCO ANTONIO",
+        "licencia": "42110",
+        "id": "42110"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SAN SEBASTIAN DE LOS REYES",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

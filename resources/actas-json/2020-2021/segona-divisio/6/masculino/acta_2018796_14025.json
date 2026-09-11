@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 6,
+  "fecha": "2021-03-20",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "ALWAYS TM ESTRADA DE REDONDELA 42",
+    "ciudad": "Porriño (O) (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM VIGO WWW.PESCADODEGALICIA.COM",
+      "id": "2018796",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM EL CALVARIO",
+      "id": "14025",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARCOS SOUSA GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DAVID GONZALEZ MARTINEZ",
+        "licencia": "9976",
+        "id": "9976"
+      },
+      "X": {
+        "nombre": "RAUL CENDON FERNANDEZ",
+        "licencia": "21995",
+        "id": "21995"
+      },
+      "Z": {
+        "nombre": "JUAN JOSE ALONSO GOMEZ",
+        "licencia": "957",
+        "id": "957"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "B": {
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "C": {
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID GONZALEZ MARTINEZ",
+        "licencia": "9976",
+        "id": "9976"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAUL CENDON FERNANDEZ",
+        "licencia": "21995",
+        "id": "21995"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN JOSE ALONSO GOMEZ",
+        "licencia": "957",
+        "id": "957"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAUL CENDON FERNANDEZ",
+        "licencia": "21995",
+        "id": "21995"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANDRES GREGORIO ALVAREZ",
+        "licencia": "17432",
+        "id": "17432"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DAVID GONZALEZ MARTINEZ",
+        "licencia": "9976",
+        "id": "9976"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AVELINO CASTRO FERNANDEZ",
+        "licencia": "4937",
+        "id": "4937"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN JOSE ALONSO GOMEZ",
+        "licencia": "957",
+        "id": "957"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE RAMON FERNANDEZ CORA",
+        "licencia": "827",
+        "id": "827"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM VIGO WWW.PESCADODEGALICIA.COM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

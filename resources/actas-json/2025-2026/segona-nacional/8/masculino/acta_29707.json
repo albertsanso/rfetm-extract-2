@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 8,
+  "jornada": 2,
+  "fecha": "2025-10-04",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Madrid (Madrid)",
+    "recinto": "POLIDEPORTIVO ORCASUR"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MADRID C.T.M.",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AVENIDAS TM",
+      "delegado": {
+        "nombre": "DIAZ ROLDAN, ANGEL",
+        "licencia": "709"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DRAGO MILANTI, FEDERICO PIERO",
+      "licencia": "8618"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822"
+      },
+      "X": {
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "Z": {
+        "nombre": "ZAMORANO GARCIA, SERGIO",
+        "licencia": "20874"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
+      },
+      "B": {
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      },
+      "C": {
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZAMORANO GARCIA, SERGIO",
+        "licencia": "20874"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PETER TINI, DANIEL",
+        "licencia": "7116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "AVILES CABRERA, FELIX",
+        "licencia": "2001"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZAMORANO GARCIA, SERGIO",
+        "licencia": "20874"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OLTRA ALONSO, ANGEL",
+        "licencia": "18486"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AVENIDAS TM",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 8,
+  "fecha": "2023-11-26",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA TENIS MESA TERESA BERGANZA",
+      "id": "20233037",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB FUENLABRADA EL TRIGAL T.M.",
+      "id": "20191285",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "TOMAS RUIZ QUESADA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "B": {
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "C": {
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "X": {
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      },
+      "Z": {
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ-MECO LOPEZ, CARLOS",
+        "licencia": "27822",
+        "id": "27822"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162",
+        "id": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LEON GARCIA, ROBERTO",
+        "licencia": "10656",
+        "id": "10656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057",
+        "id": "23057"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PLUGARU , ALEXANDRU-CONSTANTIN",
+        "licencia": "8620",
+        "id": "8620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA TENIS MESA TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

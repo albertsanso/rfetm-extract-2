@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 21,
+  "fecha": "2024-04-27",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Casal jove d`onda",
+    "ciudad": "Onda (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA SANTISIMO SALVADOR",
+      "id": "20233039",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RUJAMAR TENIS DE MESA CUENCA",
+      "id": "20233052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ADRIANA BREVA ZARAGOZA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "B": {
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "C": {
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "X": {
+        "nombre": "CAñADA GONZALEZ, DIEGO",
+        "licencia": "41955",
+        "id": "41955"
+      },
+      "Z": {
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAñADA GONZALEZ, DIEGO",
+        "licencia": "41955",
+        "id": "41955"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "VIDAL GARI, VICENTE PEDRO",
+        "licencia": "17927",
+        "id": "17927"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CAñADA GONZALEZ, DIEGO",
+        "licencia": "41955",
+        "id": "41955"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BUZAEANU , ALEXANDRU NICHOLAS",
+        "licencia": "36930",
+        "id": "36930"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALMAGRO GOMEZ, FRANCISCO",
+        "licencia": "21010",
+        "id": "21010"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "VIDAL GARCIA, VICENT",
+        "licencia": "10362",
+        "id": "10362"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SORIANO REDONDO, ANTONIO",
+        "licencia": "38457",
+        "id": "38457"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA SANTISIMO SALVADOR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

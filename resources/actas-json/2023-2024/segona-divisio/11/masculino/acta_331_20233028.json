@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 12,
+  "jornada": 11,
+  "fecha": "2024-01-13",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "PABELLON SEVERO RODRIGUEZ",
+    "ciudad": "Llanos de Aridane (Los) (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "id": "331",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "JUVENTUD TENIS DE MESA",
+      "id": "20233028",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS HISAI MARTIN DIAZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "KAKNANI MELWANI, AKASH",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "X": {
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "Z": {
+        "nombre": "MONTESDEOCA AFONSO, ALEJANDRO",
+        "licencia": "7710",
+        "id": "7710"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "B": {
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "C": {
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KAKNANI MELWANI, AKASH",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MONTESDEOCA AFONSO, ALEJANDRO",
+        "licencia": "7710",
+        "id": "7710"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443",
+        "id": "2443"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022",
+        "id": "4022"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "KAKNANI MELWANI, AKASH",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCÍA GONZÁLEZ, ARTURO",
+        "licencia": "15799",
+        "id": "15799"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MONTESDEOCA AFONSO, ALEJANDRO",
+        "licencia": "7710",
+        "id": "7710"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DIAZ QUINTEIRO, AGUSTIN JOSE",
+        "licencia": "2540",
+        "id": "2540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "JUVENTUD TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

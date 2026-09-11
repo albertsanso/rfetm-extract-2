@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 13,
+  "fecha": "2023-02-03",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "Reus (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "XAVIER CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "B": {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "C": {
+        "nombre": "NIKOLETA STEFANOVA",
+        "licencia": "39131",
+        "ranking": 2572.0,
+        "id": "39131"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2820.0,
+        "id": "8195"
+      },
+      "X": {
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2416.0,
+        "id": "37049"
+      },
+      "Z": {
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1797.0,
+        "id": "21634"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "id": "19272"
+      },
+      {
+        "nombre": "NIKOLETA STEFANOVA",
+        "licencia": "39131",
+        "id": "39131"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "id": "8195"
+      },
+      {
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "id": "37049"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2820.0,
+        "id": "8195"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2416.0,
+        "id": "37049"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NIKOLETA STEFANOVA",
+        "licencia": "39131",
+        "ranking": 2572.0,
+        "id": "39131"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SILVIA COLL SOLA",
+        "licencia": "21634",
+        "ranking": 1797.0,
+        "id": "21634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ELVIRA FIONA RAD HIND",
+            "licencia": "19272",
+            "id": "19272"
+          },
+          {
+            "nombre": "NIKOLETA STEFANOVA",
+            "licencia": "39131",
+            "id": "39131"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SOFIA-XUAN ZHANG XU",
+            "licencia": "8195",
+            "id": "8195"
+          },
+          {
+            "nombre": "MISS TAMOLWAN KHETKHUAN",
+            "licencia": "37049",
+            "id": "37049"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "AIKATERINI TOLIOU",
+        "licencia": "36834",
+        "ranking": 2792.0,
+        "id": "36834"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MISS TAMOLWAN KHETKHUAN",
+        "licencia": "37049",
+        "ranking": 2416.0,
+        "id": "37049"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NIKOLETA STEFANOVA",
+        "licencia": "39131",
+        "ranking": 2572.0,
+        "id": "39131"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SOFIA-XUAN ZHANG XU",
+        "licencia": "8195",
+        "ranking": 2820.0,
+        "id": "8195"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

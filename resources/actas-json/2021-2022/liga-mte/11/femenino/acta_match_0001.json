@@ -1,0 +1,316 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2022-02-23",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "SALA MUNICIPAL TENIS DE MESA",
+    "ciudad": "ANEXO PABELLON CUATRO SANTOS - C/ LUGO, S N - BDA. CUATRO SANTOS 30204-Cartagena(Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UCAM CARTAGENA TM",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS BETETA BELMAR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "id": "31669"
+      },
+      "X": {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "id": "9486"
+      },
+      "Z": {
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "id": "34298"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "id": "36084"
+      },
+      "B": {
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "id": "1647"
+      },
+      "C": {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "id": "3006"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "id": "34298"
+      },
+      {
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "id": "9486"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "id": "3006"
+      },
+      {
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "id": "36084"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SILVIA ASIS DE SOUZA ERDELJI",
+        "licencia": "31669",
+        "id": "31669"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "id": "36084"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARIA XIAO YAO",
+        "licencia": "9486",
+        "id": "9486"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SVETLANA BAKHTINA GAIDUKOVA",
+        "licencia": "1647",
+        "id": "1647"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FEN LI",
+        "licencia": "34298",
+        "id": "34298"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "id": "3006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FEN LI",
+            "licencia": "34298",
+            "id": "34298"
+          },
+          {
+            "nombre": "MARIA XIAO YAO",
+            "licencia": "9486",
+            "id": "9486"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SARA RAMIREZ BERMUDEZ",
+            "licencia": "3006",
+            "id": "3006"
+          },
+          {
+            "nombre": "JESSICA YAMADA",
+            "licencia": "36084",
+            "id": "36084"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UCAM CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

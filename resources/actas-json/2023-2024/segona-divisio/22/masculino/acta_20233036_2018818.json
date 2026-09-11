@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 8,
+  "jornada": 22,
+  "fecha": "2024-05-05",
+  "hora": "09:00",
+  "lugar": {
+    "recinto": "TM USERA",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA USERA",
+      "id": "20233036",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCÓN TM",
+      "id": "2018818",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER ZAPATA MARROQUIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ZHOU XU, XUAN",
+        "licencia": "21294",
+        "id": "21294"
+      },
+      "B": {
+        "nombre": "FLORIN NEG, MARIUS",
+        "licencia": "28348",
+        "id": "28348"
+      },
+      "C": {
+        "nombre": "LOPERA CENTENO, ALBERTO",
+        "licencia": "7178",
+        "id": "7178"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "X": {
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "Z": {
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ZHOU XU, XUAN",
+        "licencia": "21294",
+        "id": "21294"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FLORIN NEG, MARIUS",
+        "licencia": "28348",
+        "id": "28348"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPERA CENTENO, ALBERTO",
+        "licencia": "7178",
+        "id": "7178"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ZHOU XU, XUAN",
+        "licencia": "21294",
+        "id": "21294"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VALERO HUETE, MARTIN",
+        "licencia": "29845",
+        "id": "29845"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LOPERA CENTENO, ALBERTO",
+        "licencia": "7178",
+        "id": "7178"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177",
+        "id": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FLORIN NEG, MARIUS",
+        "licencia": "28348",
+        "id": "28348"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALONSO GOMZALEZ, MARTIN",
+        "licencia": "30510",
+        "id": "30510"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDE ALCORCÓN TM",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

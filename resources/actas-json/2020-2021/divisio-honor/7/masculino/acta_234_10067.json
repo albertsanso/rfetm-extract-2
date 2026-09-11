@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 6,
+  "jornada": 7,
+  "fecha": "2021-04-24",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE DOLORES CALLE ALAMEDA S/N",
+    "ciudad": "Dolores (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FRANCISCO R. POMARES S.L. ELCHE",
+      "id": "234",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GEREVI HISPALIS",
+      "id": "10067",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "X": {
+        "nombre": "DENYS KALACHEVSKYI",
+        "licencia": "29403",
+        "id": "29403"
+      },
+      "Z": {
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FIDEL SURAVAJJULA",
+        "licencia": "36255",
+        "id": "36255"
+      },
+      "B": {
+        "nombre": "RAMON JOSE BORREGUERO CARRION",
+        "licencia": "30203",
+        "id": "30203"
+      },
+      "C": {
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FIDEL SURAVAJJULA",
+        "licencia": "36255",
+        "id": "36255"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DENYS KALACHEVSKYI",
+        "licencia": "29403",
+        "id": "29403"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAMON JOSE BORREGUERO CARRION",
+        "licencia": "30203",
+        "id": "30203"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DENYS KALACHEVSKYI",
+        "licencia": "29403",
+        "id": "29403"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FIDEL SURAVAJJULA",
+        "licencia": "36255",
+        "id": "36255"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO POMARES GALLARDO",
+        "licencia": "19780",
+        "id": "19780"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN BORREGUERO RIVAS",
+        "licencia": "24125",
+        "id": "24125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JUAN CARLOS POMARES GALLARDO",
+        "licencia": "19777",
+        "id": "19777"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAMON JOSE BORREGUERO CARRION",
+        "licencia": "30203",
+        "id": "30203"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FRANCISCO R. POMARES S.L. ELCHE",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

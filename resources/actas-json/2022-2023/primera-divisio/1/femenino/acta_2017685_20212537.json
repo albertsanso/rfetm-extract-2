@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 1,
+  "fecha": "2022-10-29",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL PABELLON EXTREMADURA",
+    "ciudad": "CARRETERA DE RIBERA S/N 6220 Villafranca de los Barros Badajoz"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+      "id": "2017685",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REAL CIRCULO DE LABRADORES",
+      "id": "20212537",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "BLANCA ALVAREZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "X": {
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "Z": {
+        "nombre": "ESTHER NAVARRO LEON",
+        "licencia": "6749",
+        "id": "6749"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "B": {
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "C": {
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ESTHER NAVARRO LEON",
+        "licencia": "6749",
+        "id": "6749"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BEATRIZ DIEZ APOLO",
+        "licencia": "14795",
+        "id": "14795"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "REYES MEZQUITA CRUZ",
+        "licencia": "32568",
+        "id": "32568"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROCIO LOPEZ JERONIMO",
+        "licencia": "29088",
+        "id": "29088"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ESTHER NAVARRO LEON",
+        "licencia": "6749",
+        "id": "6749"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA DIAZ EXPOSITO",
+        "licencia": "32569",
+        "id": "32569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

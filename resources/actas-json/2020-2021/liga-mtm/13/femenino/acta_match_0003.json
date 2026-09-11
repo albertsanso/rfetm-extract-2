@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2021-05-22",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE ROMARIGO AVENIDA DE LUGO, 1ª TRAVESIA S/N",
+    "ciudad": "Cangas (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AUTOESCUELA CINANIA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LEGANES-RIVAS",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE LUIS CABALEIRO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AXAPOBA ZAKHAROVA",
+        "licencia": "35640",
+        "id": "35640"
+      },
+      "X": {
+        "nombre": "MARÍA PENA CALVAR",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "Z": {
+        "nombre": "LAURA RODRIGUEZ BARREIRO",
+        "licencia": "19714",
+        "id": "19714"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SILVIA ESCALANTE TORRES",
+        "licencia": "3507",
+        "id": "3507"
+      },
+      "B": {
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "C": {
+        "nombre": "RUTH OLEA MUÑOZ",
+        "licencia": "7248",
+        "id": "7248"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AXAPOBA ZAKHAROVA",
+        "licencia": "35640",
+        "id": "35640"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SILVIA ESCALANTE TORRES",
+        "licencia": "3507",
+        "id": "3507"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARÍA PENA CALVAR",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LAURA RODRIGUEZ BARREIRO",
+        "licencia": "19714",
+        "id": "19714"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUTH OLEA MUÑOZ",
+        "licencia": "7248",
+        "id": "7248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARÍA PENA CALVAR",
+        "licencia": "10784",
+        "id": "10784"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SILVIA ESCALANTE TORRES",
+        "licencia": "3507",
+        "id": "3507"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AXAPOBA ZAKHAROVA",
+        "licencia": "35640",
+        "id": "35640"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUTH OLEA MUÑOZ",
+        "licencia": "7248",
+        "id": "7248"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LAURA RODRIGUEZ BARREIRO",
+        "licencia": "19714",
+        "id": "19714"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

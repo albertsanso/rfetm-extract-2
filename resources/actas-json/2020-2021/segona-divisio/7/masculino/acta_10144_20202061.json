@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 13,
+  "jornada": 7,
+  "fecha": "2021-05-01",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "PABELLON CIUDAD DEPORTIVA CAMINO CUADRA COLOMER, S/N, 12004 CASTELLON DE LA PLANA (CASTELLON)",
+    "ciudad": "Castellón de la Plana/Castelló de la Plana (Castellón)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CASTELLÓ APE CERÁMICA",
+      "id": "10144",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDEFUENLABRADA TEAM TM",
+      "id": "20202061",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARÍA BREVA MIGUEL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PABLO GARCIA FELIPE",
+        "licencia": "28113",
+        "id": "28113"
+      },
+      "X": {
+        "nombre": "JORGE BOSCA NAVARRO",
+        "licencia": "1196",
+        "id": "1196"
+      },
+      "Z": {
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SERGIO VALERO PERAL",
+        "licencia": "19218",
+        "id": "19218"
+      },
+      "B": {
+        "nombre": "EFRAIN RICARDO CAÑIZALES ALVAREZ",
+        "licencia": "27840",
+        "id": "27840"
+      },
+      "C": {
+        "nombre": "JORGE RODRIGUEZ CORRALES",
+        "licencia": "28481",
+        "id": "28481"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PABLO GARCIA FELIPE",
+        "licencia": "28113",
+        "id": "28113"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO VALERO PERAL",
+        "licencia": "19218",
+        "id": "19218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE BOSCA NAVARRO",
+        "licencia": "1196",
+        "id": "1196"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EFRAIN RICARDO CAÑIZALES ALVAREZ",
+        "licencia": "27840",
+        "id": "27840"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE RODRIGUEZ CORRALES",
+        "licencia": "28481",
+        "id": "28481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JORGE BOSCA NAVARRO",
+        "licencia": "1196",
+        "id": "1196"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO VALERO PERAL",
+        "licencia": "19218",
+        "id": "19218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PABLO GARCIA FELIPE",
+        "licencia": "28113",
+        "id": "28113"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JORGE RODRIGUEZ CORRALES",
+        "licencia": "28481",
+        "id": "28481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ERNEST RODRIGO MORENO",
+        "licencia": "19105",
+        "id": "19105"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EFRAIN RICARDO CAÑIZALES ALVAREZ",
+        "licencia": "27840",
+        "id": "27840"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CASTELLÓ APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

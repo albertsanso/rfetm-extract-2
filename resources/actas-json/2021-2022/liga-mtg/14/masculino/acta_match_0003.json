@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2022-04-10",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLÓN SOCIAL",
+    "ciudad": "C/ CUESTA DEL BOLON S/N 49025-Zamora(Zamora)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CAJA RURAL - GALAXIA PHONE",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CRISTIAN CARRASCAL SANTIAGO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "X": {
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "Z": {
+        "nombre": "DANIEL ILLAN RICO",
+        "licencia": "19809",
+        "id": "19809"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "B": {
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "C": {
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DANIEL ILLAN RICO",
+        "licencia": "19809",
+        "id": "19809"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DIEGO VARELA SUAREZ",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEDRO DAVID GRAMCKO MARQUEZ",
+        "licencia": "29353",
+        "id": "29353"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAVIER DIZ CONDE",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DANIEL ILLAN RICO",
+        "licencia": "19809",
+        "id": "19809"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JAVIER OBELLEIRO RIVEIRO",
+        "licencia": "6074",
+        "id": "6074"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CAJA RURAL - GALAXIA PHONE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,475 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 2,
+  "fecha": "2022-10-15",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MANOLO IBAÑEZ",
+    "ciudad": "Totana (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FRAMUSA TOTANA TM",
+      "id": "16338",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AQADEM.COM",
+      "id": "22",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MORENO MIÑARRO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PEDRO MIGUEL RUÍZ MARTÍNEZ",
+        "licencia": "14527",
+        "id": "14527"
+      },
+      "B": {
+        "nombre": "SANTIAGO MENDEZ GARCIA",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "C": {
+        "nombre": "DOMINGO MENDEZ GARCIA",
+        "licencia": "17430",
+        "id": "17430"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "X": {
+        "nombre": "ANTONIO MATEO CIBANTOS SALAS",
+        "licencia": "867",
+        "id": "867"
+      },
+      "Z": {
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "DOMINGO MENDEZ GARCIA",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      {
+        "nombre": "SANTIAGO MENDEZ GARCIA",
+        "licencia": "17431",
+        "id": "17431"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANTONIO MATEO CIBANTOS SALAS",
+        "licencia": "867",
+        "id": "867"
+      },
+      {
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO MIGUEL RUÍZ MARTÍNEZ",
+        "licencia": "14527",
+        "id": "14527"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SANTIAGO MENDEZ GARCIA",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANTONIO MATEO CIBANTOS SALAS",
+        "licencia": "867",
+        "id": "867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DOMINGO MENDEZ GARCIA",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PEDRO MIGUEL RUÍZ MARTÍNEZ",
+        "licencia": "14527",
+        "id": "14527"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANTONIO MATEO CIBANTOS SALAS",
+        "licencia": "867",
+        "id": "867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DOMINGO MENDEZ GARCIA",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SANTIAGO MENDEZ GARCIA",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DOMINGO MENDEZ GARCIA",
+            "licencia": "17430",
+            "id": "17430"
+          },
+          {
+            "nombre": "SANTIAGO MENDEZ GARCIA",
+            "licencia": "17431",
+            "id": "17431"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANTONIO MATEO CIBANTOS SALAS",
+            "licencia": "867",
+            "id": "867"
+          },
+          {
+            "nombre": "HUGO URQUIZAR GUARDIA",
+            "licencia": "20748",
+            "id": "20748"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AQADEM.COM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

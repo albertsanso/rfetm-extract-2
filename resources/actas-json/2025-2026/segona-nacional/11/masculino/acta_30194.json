@@ -1,0 +1,388 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 2,
+  "fecha": "2025-10-05",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Totana (Murcia)",
+    "recinto": "PABELLON MANOLO IBAÑEZ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FRAMUSA TOTANA",
+      "delegado": {
+        "nombre": "CERÓN MÉNDEZ, JULIÁN TRINIDAD",
+        "licencia": "5453"
+      },
+      "entrenador": {
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454"
+      }
+    },
+    "visitante": {
+      "nombre": "ALSA CARTAGENA",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: CERÓN MÉNDEZ, JULIÁN TRINIDAD",
+        "licencia": "5453"
+      },
+      "entrenador": {
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GOMEZ-VAZQUEZ ALVAREZ, LORENA",
+      "licencia": "21095"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTINEZ HERNANDEZ, JOSE",
+        "licencia": "34923"
+      },
+      "X": {
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431"
+      },
+      "Z": {
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833"
+      },
+      "B": {
+        "nombre": "VILLAESCUSA ZAPATA, ANTONIO",
+        "licencia": "9243"
+      },
+      "C": {
+        "nombre": "CHAVEZ , PEDRO JOAQUIN",
+        "licencia": "36180"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ HERNANDEZ, JOSE",
+        "licencia": "34923"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VILLAESCUSA ZAPATA, ANTONIO",
+        "licencia": "9243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHAVEZ , PEDRO JOAQUIN",
+        "licencia": "36180"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MONTALBAN TORRES, JOSE ANTONIO",
+        "licencia": "2833"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINEZ HERNANDEZ, JOSE",
+        "licencia": "34923"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CHAVEZ , PEDRO JOAQUIN",
+        "licencia": "36180"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VILLAESCUSA ZAPATA, ANTONIO",
+        "licencia": "9243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FRAMUSA TOTANA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

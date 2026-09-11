@@ -1,0 +1,442 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 19,
+  "fecha": "2025-03-30",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "14019",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "22",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "X": {
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      "Z": {
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "B": {
+        "nombre": "RODRIGUEZ BELTRAN, ESTEBAN",
+        "licencia": "27021",
+        "id": "27021"
+      },
+      "C": {
+        "nombre": "MOLINA CARTAS, ALEJANDRO",
+        "licencia": "32640",
+        "id": "32640"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      {
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MOLINA CARTAS, ALEJANDRO",
+        "licencia": "32640",
+        "id": "32640"
+      },
+      {
+        "nombre": "RODRIGUEZ BELTRAN, ESTEBAN",
+        "licencia": "27021",
+        "id": "27021"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ BELTRAN, ESTEBAN",
+        "licencia": "27021",
+        "id": "27021"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOLINA CARTAS, ALEJANDRO",
+        "licencia": "32640",
+        "id": "32640"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BELLO , AHMED",
+        "licencia": "43905",
+        "id": "43905"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SAN EMETERIO, ANGEL",
+        "licencia": "19868",
+        "id": "19868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875",
+        "id": "26875"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MOLINA CARTAS, ALEJANDRO",
+        "licencia": "32640",
+        "id": "32640"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RODRIGUEZ BELTRAN, ESTEBAN",
+        "licencia": "27021",
+        "id": "27021"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BELLO , AHMED",
+            "licencia": "43905",
+            "id": "43905"
+          },
+          {
+            "nombre": "SABUGAL MORGADO, NICOLAS",
+            "licencia": "26875",
+            "id": "26875"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MOLINA CARTAS, ALEJANDRO",
+            "licencia": "32640",
+            "id": "32640"
+          },
+          {
+            "nombre": "RODRIGUEZ BELTRAN, ESTEBAN",
+            "licencia": "27021",
+            "id": "27021"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

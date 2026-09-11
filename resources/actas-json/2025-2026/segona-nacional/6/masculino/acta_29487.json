@@ -1,0 +1,429 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2025-11-02",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Xàtiva (Valencia)",
+    "recinto": "Pabellón Francisco Ballester"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BALKANICA MANCINI TT XATIVA",
+      "delegado": {
+        "nombre": "LANGA PASCUAL, ALFREDO",
+        "licencia": "6457"
+      },
+      "entrenador": {
+        "nombre": "LLUCH LEONARDO, FELIX BENJAMIN",
+        "licencia": "973"
+      }
+    },
+    "visitante": {
+      "nombre": "CTM DAMA DE ELCHE VEGA BAJA",
+      "delegado": {
+        "nombre": "ABELLÁN MARTÍNEZ, JOSÉ RAMÓN",
+        "licencia": "18626"
+      },
+      "entrenador": {
+        "nombre": "ABELLÁN MARTÍNEZ, JOSÉ RAMÓN",
+        "licencia": "18626"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LANDETE BIXQUERT, DANIEL",
+      "licencia": "33747"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SISTERNES BENAVENT, JOSE JAVIER",
+        "licencia": "29108"
+      },
+      "X": {
+        "nombre": "FERNANDEZ FERNANDEZ, JAIME",
+        "licencia": "1485"
+      },
+      "Z": {
+        "nombre": "ZALDIBAR BERNABEU, RAFEL",
+        "licencia": "33984"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CANO DÓLERA, JOSÉ",
+        "licencia": "40189"
+      },
+      "B": {
+        "nombre": "MARCO BARBERA, ABEL",
+        "licencia": "38884"
+      },
+      "C": {
+        "nombre": "JOHANSSON , BENGT OVE",
+        "licencia": "44235"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SISTERNES BENAVENT, JOSE JAVIER",
+        "licencia": "29108"
+      },
+      {
+        "nombre": "FERNANDEZ FERNANDEZ, JAIME",
+        "licencia": "1485"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MARCO BARBERA, ABEL",
+        "licencia": "38884"
+      },
+      {
+        "nombre": "JOHANSSON , BENGT OVE",
+        "licencia": "44235"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SISTERNES BENAVENT, JOSE JAVIER",
+        "licencia": "29108"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CANO DÓLERA, JOSÉ",
+        "licencia": "40189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ FERNANDEZ, JAIME",
+        "licencia": "1485"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCO BARBERA, ABEL",
+        "licencia": "38884"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZALDIBAR BERNABEU, RAFEL",
+        "licencia": "33984"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOHANSSON , BENGT OVE",
+        "licencia": "44235"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ FERNANDEZ, JAIME",
+        "licencia": "1485"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CANO DÓLERA, JOSÉ",
+        "licencia": "40189"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SISTERNES BENAVENT, JOSE JAVIER",
+        "licencia": "29108"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JOHANSSON , BENGT OVE",
+        "licencia": "44235"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ZALDIBAR BERNABEU, RAFEL",
+        "licencia": "33984"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARCO BARBERA, ABEL",
+        "licencia": "38884"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SISTERNES BENAVENT, JOSE JAVIER",
+            "licencia": "29108"
+          },
+          {
+            "nombre": "FERNANDEZ FERNANDEZ, JAIME",
+            "licencia": "1485"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARCO BARBERA, ABEL",
+            "licencia": "38884"
+          },
+          {
+            "nombre": "JOHANSSON , BENGT OVE",
+            "licencia": "44235"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BALKANICA MANCINI TT XATIVA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

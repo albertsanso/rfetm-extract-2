@@ -1,0 +1,361 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 22,
+  "fecha": "2025-05-04",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM HOTEL MARQUES DE SANTILLANA",
+      "id": "1351",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ATLÉTICO SAN SEBASTIÁN",
+      "id": "10759",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      },
+      "X": {
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "Z": {
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "INCHAUSTI ALVAREZ, DANEL",
+        "licencia": "35449",
+        "id": "35449"
+      },
+      "B": {
+        "nombre": "INSAUSTI ECHALUCE, AIMAR",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "C": {
+        "nombre": "SHI TIAN, WEIDONG",
+        "licencia": "1704",
+        "id": "1704"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "INCHAUSTI ALVAREZ, DANEL",
+        "licencia": "35449",
+        "id": "35449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "INSAUSTI ECHALUCE, AIMAR",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SHI TIAN, WEIDONG",
+        "licencia": "1704",
+        "id": "1704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "INCHAUSTI ALVAREZ, DANEL",
+        "licencia": "35449",
+        "id": "35449"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SHI TIAN, WEIDONG",
+        "licencia": "1704",
+        "id": "1704"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "INSAUSTI ECHALUCE, AIMAR",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM HOTEL MARQUES DE SANTILLANA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

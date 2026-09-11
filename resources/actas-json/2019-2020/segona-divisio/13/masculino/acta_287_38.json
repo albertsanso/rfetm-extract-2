@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 6,
+  "jornada": 13,
+  "fecha": "2020-01-18",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ORCASUR",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MADRID CIUDAD TENIS DE MESA",
+      "id": "287",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA GLOBAL SPEDITION",
+      "id": "38",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RICARDO CASTROVIEJO CUMPLIDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ABIT RONALDO TEJADA JIMENEZ",
+        "licencia": "34111",
+        "id": "34111"
+      },
+      "X": {
+        "nombre": "FRANCISCO FERNÁNDEZ RUANO",
+        "licencia": "2181",
+        "id": "2181"
+      },
+      "Z": {
+        "nombre": "ISAAC DIAZ CABALLERO",
+        "licencia": "16664",
+        "id": "16664"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MAURICIO ANTONIO LA ROSA SUAREZ",
+        "licencia": "23940",
+        "id": "23940"
+      },
+      "B": {
+        "nombre": "DIEGO FRAGO FLETA",
+        "licencia": "23489",
+        "id": "23489"
+      },
+      "C": {
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ABIT RONALDO TEJADA JIMENEZ",
+        "licencia": "34111",
+        "id": "34111"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAURICIO ANTONIO LA ROSA SUAREZ",
+        "licencia": "23940",
+        "id": "23940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FRANCISCO FERNÁNDEZ RUANO",
+        "licencia": "2181",
+        "id": "2181"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DIEGO FRAGO FLETA",
+        "licencia": "23489",
+        "id": "23489"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ISAAC DIAZ CABALLERO",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FRANCISCO FERNÁNDEZ RUANO",
+        "licencia": "2181",
+        "id": "2181"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MAURICIO ANTONIO LA ROSA SUAREZ",
+        "licencia": "23940",
+        "id": "23940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ABIT RONALDO TEJADA JIMENEZ",
+        "licencia": "34111",
+        "id": "34111"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALEJANDRO VIVO SANCHEZ",
+        "licencia": "23487",
+        "id": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ISAAC DIAZ CABALLERO",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DIEGO FRAGO FLETA",
+        "licencia": "23489",
+        "id": "23489"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MADRID CIUDAD TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,346 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 5,
+  "jornada": 1,
+  "fecha": "2024-10-19",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MURPROTEC ALCOBENDAS TM",
+      "id": "20243564",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NOROESTE - LAS ROZAS TM",
+      "id": "16213",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GARCIA GIL, SOFIA",
+        "licencia": "28367",
+        "id": "28367"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ GALLARDO, CELIA",
+        "licencia": "37874",
+        "id": "37874"
+      },
+      "Z": {
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL",
+        "licencia": "39321",
+        "id": "39321"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDEZ MARTINEZ, BLANCA",
+        "licencia": "2776",
+        "id": "2776"
+      },
+      "B": {
+        "nombre": "GAETE SOTO, PATRICIA",
+        "licencia": "7995",
+        "id": "7995"
+      },
+      "C": {
+        "nombre": "BOUGOUIN FILGUEIRA, AMELIE",
+        "licencia": "37940",
+        "id": "37940"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA GIL, SOFIA",
+        "licencia": "28367",
+        "id": "28367"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ MARTINEZ, BLANCA",
+        "licencia": "2776",
+        "id": "2776"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ GALLARDO, CELIA",
+        "licencia": "37874",
+        "id": "37874"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GAETE SOTO, PATRICIA",
+        "licencia": "7995",
+        "id": "7995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL",
+        "licencia": "39321",
+        "id": "39321"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOUGOUIN FILGUEIRA, AMELIE",
+        "licencia": "37940",
+        "id": "37940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ GALLARDO, CELIA",
+        "licencia": "37874",
+        "id": "37874"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ MARTINEZ, BLANCA",
+        "licencia": "2776",
+        "id": "2776"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA GIL, SOFIA",
+        "licencia": "28367",
+        "id": "28367"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BOUGOUIN FILGUEIRA, AMELIE",
+        "licencia": "37940",
+        "id": "37940"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LLORENTE RODRIGUEZ, ISABEL",
+        "licencia": "39321",
+        "id": "39321"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GAETE SOTO, PATRICIA",
+        "licencia": "7995",
+        "id": "7995"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MURPROTEC ALCOBENDAS TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

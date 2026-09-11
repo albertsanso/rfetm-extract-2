@@ -1,0 +1,327 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2019-10-11",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "Gondomar (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EVA MARIA MOLINA CHAVEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2462.0,
+        "id": "27212"
+      },
+      "X": {
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "Z": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1643.0,
+        "id": "9975"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "B": {
+        "nombre": "CARLOS CABALLERO CUELLAR",
+        "licencia": "6788",
+        "ranking": 2505.0,
+        "id": "6788"
+      },
+      "C": {
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1775.0,
+        "id": "14625"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2462.0,
+        "id": "27212"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CARLOS CABALLERO CUELLAR",
+        "licencia": "6788",
+        "ranking": 2505.0,
+        "id": "6788"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1643.0,
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1775.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2462.0,
+        "id": "27212"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIGUEL NUÑEZ TAPIA",
+        "licencia": "14625",
+        "ranking": 1775.0,
+        "id": "14625"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D.VINCIOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

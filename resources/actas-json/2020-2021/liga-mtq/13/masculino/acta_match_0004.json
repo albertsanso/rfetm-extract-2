@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2021-05-22",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO CULTURAL EL PORTEZUELO CTRA. PORTEZUELO",
+    "ciudad": "LAS TOSCAS, 273 - Tegueste (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. TENIS DE MESA TEMEGUESTE",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CD DEZ PORTAS CAFÉ BAR KARLOS",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CALIXTO SOSA PACHECO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "B": {
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "C": {
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RAMON BECERRA MELO",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "X": {
+        "nombre": "MORUFO OLADELE AHMED .",
+        "licencia": "23025",
+        "id": "23025"
+      },
+      "Z": {
+        "nombre": "ANDRES MARTIN REIJA",
+        "licencia": "23024",
+        "id": "23024"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAMON BECERRA MELO",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORUFO OLADELE AHMED .",
+        "licencia": "23025",
+        "id": "23025"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRES MARTIN REIJA",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORUFO OLADELE AHMED .",
+        "licencia": "23025",
+        "id": "23025"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RAMON BECERRA MELO",
+        "licencia": "1501",
+        "id": "1501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDRES MARTIN REIJA",
+        "licencia": "23024",
+        "id": "23024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. TENIS DE MESA TEMEGUESTE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

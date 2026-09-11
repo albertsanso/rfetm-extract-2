@@ -1,0 +1,327 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 4,
+  "fecha": "2021-04-10",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLÓN DE DEPORTES C/REVERENDO JOSÉ APARICIO, 3",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.E.R. L ESCALA",
+      "id": "23",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO BAENA REDONDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RAMIL MUTYGULLIN",
+        "licencia": "34209",
+        "ranking": 2460.0,
+        "id": "34209"
+      },
+      "B": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1532.0,
+        "id": "9975"
+      },
+      "C": {
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 0.0,
+        "id": "36245"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 0.0,
+        "id": "36182"
+      },
+      "X": {
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1707.0,
+        "id": "16808"
+      },
+      "Z": {
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1491.0,
+        "id": "18284"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RAMIL MUTYGULLIN",
+        "licencia": "34209",
+        "ranking": 2460.0,
+        "id": "34209"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 0.0,
+        "id": "36182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1532.0,
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1707.0,
+        "id": "16808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 0.0,
+        "id": "36245"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NORBERT TAULER ALSINA",
+        "licencia": "18284",
+        "ranking": 1491.0,
+        "id": "18284"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RAMIL MUTYGULLIN",
+        "licencia": "34209",
+        "ranking": 2460.0,
+        "id": "34209"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IKER GONZALEZ H. HERNANDEZ",
+        "licencia": "16808",
+        "ranking": 1707.0,
+        "id": "16808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ILIA ISAKOV",
+        "licencia": "36245",
+        "ranking": 0.0,
+        "id": "36245"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VADIM YARASHENKA",
+        "licencia": "36182",
+        "ranking": 0.0,
+        "id": "36182"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D.VINCIOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

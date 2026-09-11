@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 10,
+  "jornada": 3,
+  "fecha": "2021-03-06",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "POLIESPORTIU MUNICIPAL DE RIPOLLET C/ MAGALLANES, 22",
+    "ciudad": "24 - Ripollet (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BLANXART XALOC OLESA",
+      "id": "816",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "WBTRAVEL CTT RIPOLLET",
+      "id": "48",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM CAIRO PONT",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "B": {
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "C": {
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "X": {
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "Z": {
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAUME JOFRE BOTEY",
+        "licencia": "730",
+        "id": "730"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RENATO VICTOR MOSCOSO SERRANO",
+        "licencia": "7412",
+        "id": "7412"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MANEL SUÑE ANDRES",
+        "licencia": "1293",
+        "id": "1293"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

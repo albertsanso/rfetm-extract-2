@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 9,
+  "jornada": 14,
+  "fecha": "2024-02-03",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA ALMENDRALEJO",
+      "id": "20233049",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA ALCAZAR",
+      "id": "2017362",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "BLAS NUÑEZ GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "X": {
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "Z": {
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARNERO CARTAS, ALEJANDRO",
+        "licencia": "29693",
+        "id": "29693"
+      },
+      "B": {
+        "nombre": "BENAVENT MARTíN, RAFAEL",
+        "licencia": "35947",
+        "id": "35947"
+      },
+      "C": {
+        "nombre": "BLAZQUEZ GOMEZ, JESUS",
+        "licencia": "30836",
+        "id": "30836"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARNERO CARTAS, ALEJANDRO",
+        "licencia": "29693",
+        "id": "29693"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BENAVENT MARTíN, RAFAEL",
+        "licencia": "35947",
+        "id": "35947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BLAZQUEZ GOMEZ, JESUS",
+        "licencia": "30836",
+        "id": "30836"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARNERO CARTAS, ALEJANDRO",
+        "licencia": "29693",
+        "id": "29693"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BLAZQUEZ GOMEZ, JESUS",
+        "licencia": "30836",
+        "id": "30836"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BENAVENT MARTíN, RAFAEL",
+        "licencia": "35947",
+        "id": "35947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

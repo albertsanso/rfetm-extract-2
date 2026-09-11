@@ -1,0 +1,337 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 12,
+  "fecha": "2020-01-18",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON MULTIUSOS FONTES DO SAR",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL TM",
+      "id": "21",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D.VINCIOS",
+      "id": "934",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE LUIS CABALEIRO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "X": {
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "Z": {
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "ranking": 2628.0,
+        "id": "3954"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2474.0,
+        "id": "27212"
+      },
+      "B": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1655.0,
+        "id": "9975"
+      },
+      "C": {
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2474.0,
+        "id": "27212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 19,
+          "visitante": 17
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "ranking": 1655.0,
+        "id": "9975"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "ranking": 2628.0,
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ZHAO TIANMING",
+        "licencia": "27212",
+        "ranking": 2474.0,
+        "id": "27212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDRE FILIPE COELHO DA SILVA",
+        "licencia": "22020",
+        "ranking": 2863.0,
+        "id": "22020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ARTEAL TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

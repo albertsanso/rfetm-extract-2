@@ -1,0 +1,390 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "División de Honor Femenina",
+  "grupo": 2,
+  "jornada": 6,
+  "fecha": "2025-11-09",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Santa Eulalia del Río (Baleares (Illes))",
+    "recinto": "POLIESPORTIU MUNICIPAL SANTA EULARIA (SALA ANEXA TENNIS TAULA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "delegado": {
+        "nombre": "RAMIREZ BERMUDEZ, JOSE",
+        "licencia": "2782"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: RAMIREZ BERMUDEZ, JOSE",
+        "licencia": "2782"
+      },
+      "entrenador": {
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GARCÍA SALAMANCA, JOAN",
+      "licencia": "21164"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MIRAMONTES MORCILO, NATALIA",
+        "licencia": "16527"
+      },
+      "B": {
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747"
+      },
+      "C": {
+        "nombre": "FERNANDEZ MARTINEZ, ALBA",
+        "licencia": "17582"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ESCODA LOPEZ, ABRIL",
+        "licencia": "32176"
+      },
+      "X": {
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848"
+      },
+      "Z": {
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MIRAMONTES MORCILO, NATALIA",
+        "licencia": "16527"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ESCODA LOPEZ, ABRIL",
+        "licencia": "32176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNANDEZ MARTINEZ, ALBA",
+        "licencia": "17582"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MIRAMONTES MORCILO, NATALIA",
+        "licencia": "16527"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARRO DOMINGO, SOFIA",
+        "licencia": "32848"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FERNANDEZ MARTINEZ, ALBA",
+        "licencia": "17582"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ESCODA LOPEZ, ABRIL",
+        "licencia": "32176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "COVICSA-CTT SANTA EULARIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

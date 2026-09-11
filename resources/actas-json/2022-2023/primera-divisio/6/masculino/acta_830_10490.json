@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 6,
+  "fecha": "2022-11-19",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "830",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA CIDADE DE NARÓN",
+      "id": "10490",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL ANGEL BAEZ ARRONDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BEÑAT GARCIA MELENDO",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "X": {
+        "nombre": "AIMAR MIKELAJAUREGI IRIGOIEN",
+        "licencia": "28077",
+        "id": "28077"
+      },
+      "Z": {
+        "nombre": "IKER PLAZA AMUTXASTEGI",
+        "licencia": "32168",
+        "id": "32168"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "B": {
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "C": {
+        "nombre": "BRAIS RODRIGUEZ SIXTO",
+        "licencia": "23571",
+        "id": "23571"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BEÑAT GARCIA MELENDO",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AIMAR MIKELAJAUREGI IRIGOIEN",
+        "licencia": "28077",
+        "id": "28077"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IKER PLAZA AMUTXASTEGI",
+        "licencia": "32168",
+        "id": "32168"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BRAIS RODRIGUEZ SIXTO",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AIMAR MIKELAJAUREGI IRIGOIEN",
+        "licencia": "28077",
+        "id": "28077"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ADRIAN VIDAL FERNANDEZ",
+        "licencia": "3243",
+        "id": "3243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BEÑAT GARCIA MELENDO",
+        "licencia": "28075",
+        "id": "28075"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BRAIS RODRIGUEZ SIXTO",
+        "licencia": "23571",
+        "id": "23571"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "IKER PLAZA AMUTXASTEGI",
+        "licencia": "32168",
+        "id": "32168"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUBEN GARCIA RODRIGUEZ",
+        "licencia": "8287",
+        "id": "8287"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,468 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2021-11-20",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+      "id": "14065",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMEN MARIA ALONSO SENDINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1332.0,
+        "id": "19272"
+      },
+      "B": {
+        "nombre": "DRANCA DORINA CODRUTA",
+        "licencia": "21070",
+        "ranking": 1739.0,
+        "id": "21070"
+      },
+      "C": {
+        "nombre": "MARIA BERZOSA CASAS",
+        "licencia": "20735",
+        "ranking": 1255.0,
+        "id": "20735"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2825.0,
+        "id": "31327"
+      },
+      "X": {
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "Z": {
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "ranking": 792.0,
+        "id": "7538"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "id": "19272"
+      },
+      {
+        "nombre": "DRANCA DORINA CODRUTA",
+        "licencia": "21070",
+        "id": "21070"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "id": "36830"
+      },
+      {
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "id": "31327"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1332.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2825.0,
+        "id": "31327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "DRANCA DORINA CODRUTA",
+        "licencia": "21070",
+        "ranking": 1739.0,
+        "id": "21070"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA BERZOSA CASAS",
+        "licencia": "20735",
+        "ranking": 1255.0,
+        "id": "20735"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "ranking": 792.0,
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ELVIRA FIONA RAD HIND",
+            "licencia": "19272",
+            "id": "19272"
+          },
+          {
+            "nombre": "DRANCA DORINA CODRUTA",
+            "licencia": "21070",
+            "id": "21070"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+            "licencia": "36830",
+            "id": "36830"
+          },
+          {
+            "nombre": "TATIANA GARNOVA",
+            "licencia": "31327",
+            "id": "31327"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1332.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NADEEN AHMED ALI EL-DAWLATLY",
+        "licencia": "36830",
+        "ranking": 2800.0,
+        "id": "36830"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA BERZOSA CASAS",
+        "licencia": "20735",
+        "ranking": 1255.0,
+        "id": "20735"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TATIANA GARNOVA",
+        "licencia": "31327",
+        "ranking": 2825.0,
+        "id": "31327"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "DRANCA DORINA CODRUTA",
+        "licencia": "21070",
+        "ranking": 1739.0,
+        "id": "21070"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "ranking": 792.0,
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

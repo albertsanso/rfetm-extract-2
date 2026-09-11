@@ -1,0 +1,292 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2023-10-14",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TECNIGEN LINARES",
+      "id": "1052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO JESUS RODRIGUEZ RUIZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598",
+        "ranking": 2204.0,
+        "id": "39598"
+      },
+      "X": {
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243",
+        "ranking": 1656.0,
+        "id": "39243"
+      },
+      "Z": {
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113",
+        "ranking": 2359.0,
+        "id": "17113"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CAYUELA BAREA, MERCEDES",
+        "licencia": "29134",
+        "ranking": 414.0,
+        "id": "29134"
+      },
+      "B": {
+        "nombre": "JI , EUNCHAE",
+        "licencia": "42141",
+        "ranking": 2700.0,
+        "id": "42141"
+      },
+      "C": {
+        "nombre": "ISTRATE , ROXANA ANA MARIA",
+        "licencia": "22026",
+        "ranking": 2663.0,
+        "id": "22026"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MENG , JIAQI",
+        "licencia": "39598",
+        "ranking": 2204.0,
+        "id": "39598"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CAYUELA BAREA, MERCEDES",
+        "licencia": "29134",
+        "ranking": 414.0,
+        "id": "29134"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243",
+        "ranking": 1656.0,
+        "id": "39243"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JI , EUNCHAE",
+        "licencia": "42141",
+        "ranking": 2700.0,
+        "id": "42141"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GALONJA ZOLOTIC, MARIJA",
+        "licencia": "17113",
+        "ranking": 2359.0,
+        "id": "17113"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ISTRATE , ROXANA ANA MARIA",
+        "licencia": "22026",
+        "ranking": 2663.0,
+        "id": "22026"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243",
+        "ranking": 1656.0,
+        "id": "39243"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CAYUELA BAREA, MERCEDES",
+        "licencia": "29134",
+        "ranking": 414.0,
+        "id": "29134"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

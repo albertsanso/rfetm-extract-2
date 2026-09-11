@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2019-10-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA PARQUE DE FRIGSA",
+    "ciudad": "Lugo (Lugo)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MILAGROSA",
+      "id": "20191283",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OROSO TM PELUQUERÍA TIJE",
+      "id": "16008",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MIGUEL LOPEZ RAIMONDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
+        "licencia": "7951",
+        "id": "7951"
+      },
+      "B": {
+        "nombre": "EUGENIO ALONSO SÁNCHEZ",
+        "licencia": "2447",
+        "id": "2447"
+      },
+      "C": {
+        "nombre": "IGNACIO ANDRÉS CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "X": {
+        "nombre": "CARLOS DELGADO TEJEDOR",
+        "licencia": "27960",
+        "id": "27960"
+      },
+      "Z": {
+        "nombre": "UXIO PAMPIN EIRAS",
+        "licencia": "18783",
+        "id": "18783"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
+        "licencia": "7951",
+        "id": "7951"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "EUGENIO ALONSO SÁNCHEZ",
+        "licencia": "2447",
+        "id": "2447"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS DELGADO TEJEDOR",
+        "licencia": "27960",
+        "id": "27960"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "IGNACIO ANDRÉS CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "UXIO PAMPIN EIRAS",
+        "licencia": "18783",
+        "id": "18783"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL ABELAIRAS LAVANDEIRA",
+        "licencia": "7951",
+        "id": "7951"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS DELGADO TEJEDOR",
+        "licencia": "27960",
+        "id": "27960"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "IGNACIO ANDRÉS CABEZAS GUERRERO",
+        "licencia": "21822",
+        "id": "21822"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTIN FERNANDEZ VILLAVERDE",
+        "licencia": "22036",
+        "id": "22036"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "EUGENIO ALONSO SÁNCHEZ",
+        "licencia": "2447",
+        "id": "2447"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "UXIO PAMPIN EIRAS",
+        "licencia": "18783",
+        "id": "18783"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MILAGROSA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

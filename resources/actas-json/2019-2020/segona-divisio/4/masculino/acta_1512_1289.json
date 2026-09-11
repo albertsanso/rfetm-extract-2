@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 4,
+  "fecha": "2019-10-20",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "INSTITUTO BENITO PEREZ ARMAS",
+    "ciudad": "Santa Cruz de Tenerife (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. TENIS DE MESA TEMEGUESTE",
+      "id": "1512",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "DEDALOS TM",
+      "id": "1289",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SAUL PEREZ VIERA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "X": {
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "Z": {
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DAVID DIAZ ALONSO",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "B": {
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "C": {
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID DIAZ ALONSO",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID DIAZ ALONSO",
+        "licencia": "10477",
+        "id": "10477"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BORJA DANIEL EXPOSITO NGUYEN",
+        "licencia": "10247",
+        "id": "10247"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SAMUEL ALCABES DÍAZ",
+        "licencia": "21098",
+        "id": "21098"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. TENIS DE MESA TEMEGUESTE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

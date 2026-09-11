@@ -1,0 +1,366 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 3,
+  "jornada": 20,
+  "fecha": "2025-04-06",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TERMOTUR CALELLA",
+      "id": "150",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA LA BISBAL",
+      "id": "14009",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MALLORQUÍ CAMPÀ, ADRIÁ",
+        "licencia": "16039",
+        "id": "16039"
+      },
+      "B": {
+        "nombre": "KUMAR , AMAN",
+        "licencia": "26076",
+        "id": "26076"
+      },
+      "C": {
+        "nombre": "MARTINEZ ALEJANDRES, ABEL",
+        "licencia": "9799",
+        "id": "9799"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BERNEDA GIBERT, ROBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "X": {
+        "nombre": "ARTACHO FONTANET, SERGI",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "Z": {
+        "nombre": "CLOTET CARRERAS, MARC",
+        "licencia": "2146",
+        "id": "2146"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MALLORQUÍ CAMPÀ, ADRIÁ",
+        "licencia": "16039",
+        "id": "16039"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BERNEDA GIBERT, ROBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "KUMAR , AMAN",
+        "licencia": "26076",
+        "id": "26076"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ARTACHO FONTANET, SERGI",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARTINEZ ALEJANDRES, ABEL",
+        "licencia": "9799",
+        "id": "9799"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CLOTET CARRERAS, MARC",
+        "licencia": "2146",
+        "id": "2146"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MALLORQUÍ CAMPÀ, ADRIÁ",
+        "licencia": "16039",
+        "id": "16039"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ARTACHO FONTANET, SERGI",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARTINEZ ALEJANDRES, ABEL",
+        "licencia": "9799",
+        "id": "9799"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BERNEDA GIBERT, ROBERT",
+        "licencia": "25058",
+        "id": "25058"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "KUMAR , AMAN",
+        "licencia": "26076",
+        "id": "26076"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CLOTET CARRERAS, MARC",
+        "licencia": "2146",
+        "id": "2146"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA LA BISBAL",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

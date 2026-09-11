@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2024-05-26",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "RÚA POMBAL, 0 A CABANA, 36630 CAMBADOS (PONTEVEDRA)",
+    "ciudad": "PABELLÓN DE DEPORTES O POMBAL"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CAMBADOS TENIS DE MESA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA SUF",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "B": {
+        "nombre": "NUÑEZ RODAL, JAVIER",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "C": {
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FRADERA TORRENTS, JORDI",
+        "licencia": "16298",
+        "id": "16298"
+      },
+      "X": {
+        "nombre": "PORTA LOPEZ, RAUL",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "Z": {
+        "nombre": "PRADOS LOPEZ, ANTONI",
+        "licencia": "3964",
+        "id": "3964"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      {
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "PORTA LOPEZ, RAUL",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      {
+        "nombre": "PRADOS LOPEZ, ANTONI",
+        "licencia": "3964",
+        "id": "3964"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FRADERA TORRENTS, JORDI",
+        "licencia": "16298",
+        "id": "16298"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "NUÑEZ RODAL, JAVIER",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PORTA LOPEZ, RAUL",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PRADOS LOPEZ, ANTONI",
+        "licencia": "3964",
+        "id": "3964"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411",
+        "id": "4411"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PORTA LOPEZ, RAUL",
+        "licencia": "3984",
+        "id": "3984"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FRADERA TORRENTS, JORDI",
+        "licencia": "16298",
+        "id": "16298"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "NUÑEZ RODAL, JAVIER",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PRADOS LOPEZ, ANTONI",
+        "licencia": "3964",
+        "id": "3964"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CASALDERREY DIAZ, DANIEL",
+            "licencia": "4411",
+            "id": "4411"
+          },
+          {
+            "nombre": "PADIN MONTANS, FERNANDO JOSÉ",
+            "licencia": "1038",
+            "id": "1038"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PORTA LOPEZ, RAUL",
+            "licencia": "3984",
+            "id": "3984"
+          },
+          {
+            "nombre": "PRADOS LOPEZ, ANTONI",
+            "licencia": "3964",
+            "id": "3964"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRE NATACIO MATARO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

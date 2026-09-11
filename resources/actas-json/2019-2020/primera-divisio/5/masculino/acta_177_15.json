@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 5,
+  "fecha": "2019-10-27",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "LOCAL CLUB TENIS MESA LINARES",
+    "ciudad": "Linares (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LINARED INFORMATICA LINARES",
+      "id": "177",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM VEGAS DEL GENIL",
+      "id": "15",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "X": {
+        "nombre": "GUILLERMO CUESTA FUENTES",
+        "licencia": "10861",
+        "id": "10861"
+      },
+      "Z": {
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      },
+      "B": {
+        "nombre": "RAUL FLORES MARTINEZ",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "C": {
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      {
+        "nombre": "GUILLERMO CUESTA FUENTES",
+        "licencia": "10861",
+        "id": "10861"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "RAUL FLORES MARTINEZ",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      {
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUILLERMO CUESTA FUENTES",
+        "licencia": "10861",
+        "id": "10861"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAUL FLORES MARTINEZ",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUILLERMO CUESTA FUENTES",
+        "licencia": "10861",
+        "id": "10861"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBERTO RODRÍGUEZ HENARES",
+        "licencia": "10787",
+        "id": "10787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESTEBAN CUESTA FUENTES",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE ROBLES MARTINEZ",
+        "licencia": "618",
+        "id": "618"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RAUL FLORES MARTINEZ",
+        "licencia": "20769",
+        "id": "20769"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ESTEBAN CUESTA FUENTES",
+            "licencia": "8661",
+            "id": "8661"
+          },
+          {
+            "nombre": "GUILLERMO CUESTA FUENTES",
+            "licencia": "10861",
+            "id": "10861"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RAUL FLORES MARTINEZ",
+            "licencia": "20769",
+            "id": "20769"
+          },
+          {
+            "nombre": "ALBERTO RODRÍGUEZ HENARES",
+            "licencia": "10787",
+            "id": "10787"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LINARED INFORMATICA LINARES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

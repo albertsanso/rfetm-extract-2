@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 4,
+  "jornada": 3,
+  "fecha": "2023-01-15",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "PABELLÓN CIUDAD DEPORTIVA",
+    "ciudad": "CAMINO CUADRA COLOMER S/N, 12004 Castellón de la Plana/Castelló de la Plana Castellón"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SSREYES-DOS DE MAYO",
+      "id": "14066",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FUENCARRAL - EL PARDO TM",
+      "id": "20222788",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARÍA BREVA MIGUEL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "X": {
+        "nombre": "PILAR GONZALEZ GOMEZ",
+        "licencia": "20135",
+        "id": "20135"
+      },
+      "Z": {
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PASTORA AURORA GONZALEZ SANCHEZ DE LA CUESTA",
+        "licencia": "38020",
+        "id": "38020"
+      },
+      "B": {
+        "nombre": "STEPHANIA HEREDIA GONZALEZ",
+        "licencia": "39358",
+        "id": "39358"
+      },
+      "C": {
+        "nombre": "ANNA BEATA JANAS",
+        "licencia": "33386",
+        "id": "33386"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      {
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "STEPHANIA HEREDIA GONZALEZ",
+        "licencia": "39358",
+        "id": "39358"
+      },
+      {
+        "nombre": "ANNA BEATA JANAS",
+        "licencia": "33386",
+        "id": "33386"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PASTORA AURORA GONZALEZ SANCHEZ DE LA CUESTA",
+        "licencia": "38020",
+        "id": "38020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PILAR GONZALEZ GOMEZ",
+        "licencia": "20135",
+        "id": "20135"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "STEPHANIA HEREDIA GONZALEZ",
+        "licencia": "39358",
+        "id": "39358"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANNA BEATA JANAS",
+        "licencia": "33386",
+        "id": "33386"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PILAR GONZALEZ GOMEZ",
+        "licencia": "20135",
+        "id": "20135"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PASTORA AURORA GONZALEZ SANCHEZ DE LA CUESTA",
+        "licencia": "38020",
+        "id": "38020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+        "licencia": "27641",
+        "id": "27641"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANNA BEATA JANAS",
+        "licencia": "33386",
+        "id": "33386"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AMANDA CHENOLL GONZALEZ",
+        "licencia": "20610",
+        "id": "20610"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "STEPHANIA HEREDIA GONZALEZ",
+        "licencia": "39358",
+        "id": "39358"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARIA ANUNCIACION DE LOS RIOS CARRIZO",
+            "licencia": "27641",
+            "id": "27641"
+          },
+          {
+            "nombre": "AMANDA CHENOLL GONZALEZ",
+            "licencia": "20610",
+            "id": "20610"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "STEPHANIA HEREDIA GONZALEZ",
+            "licencia": "39358",
+            "id": "39358"
+          },
+          {
+            "nombre": "ANNA BEATA JANAS",
+            "licencia": "33386",
+            "id": "33386"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FUENCARRAL - EL PARDO TM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

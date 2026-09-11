@@ -1,0 +1,388 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 6,
+  "jornada": 15,
+  "fecha": "2026-02-07",
+  "hora": "17:30",
+  "lugar": {
+    "ciudad": "Inca (Baleares (Illes))",
+    "recinto": "CEIP Ponent"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MARSENSES – INCA TTC",
+      "delegado": {
+        "nombre": "REYNES GRIMALT, ANTONI",
+        "licencia": "21167"
+      },
+      "entrenador": {
+        "nombre": "ARROM MERIDA, JOSE FELIX",
+        "licencia": "1595"
+      }
+    },
+    "visitante": {
+      "nombre": "HORTITEC ALZIRA TT",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: REYNES GRIMALT, ANTONI",
+        "licencia": "21167"
+      },
+      "entrenador": {
+        "nombre": "VALENCIA ALMEIDA, NATANAEL",
+        "licencia": "2162"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "BOTELLA BONILLA, SANDRA",
+      "licencia": "21209"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285"
+      },
+      "B": {
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853"
+      },
+      "C": {
+        "nombre": "RAMIS PALOU, ALEJANDRO",
+        "licencia": "4293"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "YANCOV PANCHUGOV, MINCHO",
+        "licencia": "29895"
+      },
+      "X": {
+        "nombre": "AGHAJANYAN , DANIEL",
+        "licencia": "34202"
+      },
+      "Z": {
+        "nombre": "VALENCIA ALMEIDA, NATANAEL",
+        "licencia": "2162"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANCOV PANCHUGOV, MINCHO",
+        "licencia": "29895"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGHAJANYAN , DANIEL",
+        "licencia": "34202"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RAMIS PALOU, ALEJANDRO",
+        "licencia": "4293"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VALENCIA ALMEIDA, NATANAEL",
+        "licencia": "2162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALCAÑIZ SALGADO, ALFONSO",
+        "licencia": "5285"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "AGHAJANYAN , DANIEL",
+        "licencia": "34202"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RAMIS PALOU, ALEJANDRO",
+        "licencia": "4293"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANCOV PANCHUGOV, MINCHO",
+        "licencia": "29895"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CASTILLO PALOMINO, ALVARO",
+        "licencia": "15853"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VALENCIA ALMEIDA, NATANAEL",
+        "licencia": "2162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MARSENSES – INCA TTC",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

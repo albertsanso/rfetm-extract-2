@@ -1,0 +1,480 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 21,
+  "fecha": "2024-04-27",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "Colegio Publico Gabriel Aresti",
+    "ciudad": "Bilbao (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO ARTXANDAKO MAHAI TENISA",
+      "id": "2017336",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "PORTUGALETE ANGULO DELIKATESSEN",
+      "id": "20191288",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JAVIER FELIPE CADIZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205",
+        "id": "1205"
+      },
+      "X": {
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032",
+        "id": "1032"
+      },
+      "Z": {
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583",
+        "id": "8583"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "B": {
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "C": {
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205",
+        "id": "1205"
+      },
+      {
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032",
+        "id": "1032"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      {
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205",
+        "id": "1205"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032",
+        "id": "1032"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583",
+        "id": "8583"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032",
+        "id": "1032"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+        "licencia": "18832",
+        "id": "18832"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205",
+        "id": "1205"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARRASCO HIDALGO, ALAIN",
+        "licencia": "22481",
+        "id": "22481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583",
+        "id": "8583"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PEREZ PASCUAL, IBAI",
+        "licencia": "29805",
+        "id": "29805"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALONSO LOPEZ, DAVID",
+            "licencia": "1205",
+            "id": "1205"
+          },
+          {
+            "nombre": "ADODO , MICHAEL",
+            "licencia": "1032",
+            "id": "1032"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AURREKOETXEA LEGARRETA, ANDER",
+            "licencia": "18832",
+            "id": "18832"
+          },
+          {
+            "nombre": "PEREZ PASCUAL, IBAI",
+            "licencia": "29805",
+            "id": "29805"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "PORTUGALETE ANGULO DELIKATESSEN",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

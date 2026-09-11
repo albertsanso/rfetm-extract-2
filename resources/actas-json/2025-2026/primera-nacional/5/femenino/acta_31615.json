@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": null,
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": null,
+  "hora": null,
+  "lugar": {
+    "ciudad": "SALA TENIS DE MESA FELIPE VI",
+    "recinto": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB REQUENA SPIN TENIS DE MESA",
+      "delegado": {
+        "nombre": "HALIC LUTEANU, BIANCA MIHAELA",
+        "licencia": "35992"
+      },
+      "entrenador": {
+        "nombre": "GARCIA SORIANO, MARIA PILAR",
+        "licencia": "7622"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LóPEZ LOPERA, PABLO",
+      "licencia": "45607"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MUñOZ DE RUS, LAURA",
+        "licencia": "46341"
+      },
+      "B": {
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "C": {
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CONTRERAS ORTIZ, VALERIA",
+        "licencia": "37985"
+      },
+      "X": {
+        "nombre": "BAUTISTA GARCIA, PAULA",
+        "licencia": "39825"
+      },
+      "Z": {
+        "nombre": "CARRASCO NAVARRO, RUTH",
+        "licencia": "41279"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      {
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "BAUTISTA GARCIA, PAULA",
+        "licencia": "39825"
+      },
+      {
+        "nombre": "CONTRERAS ORTIZ, VALERIA",
+        "licencia": "37985"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MUñOZ DE RUS, LAURA",
+        "licencia": "46341"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CONTRERAS ORTIZ, VALERIA",
+        "licencia": "37985"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BAUTISTA GARCIA, PAULA",
+        "licencia": "39825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARRASCO NAVARRO, RUTH",
+        "licencia": "41279"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MUñOZ DE RUS, LAURA",
+        "licencia": "46341"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BAUTISTA GARCIA, PAULA",
+        "licencia": "39825"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CONTRERAS ORTIZ, VALERIA",
+        "licencia": "37985"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CARRASCO NAVARRO, RUTH",
+        "licencia": "41279"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARO-ACCINO PEÑA, DIANA",
+            "licencia": "36691"
+          },
+          {
+            "nombre": "HIDALGO BAENA, AURORA",
+            "licencia": "36690"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BAUTISTA GARCIA, PAULA",
+            "licencia": "39825"
+          },
+          {
+            "nombre": "CONTRERAS ORTIZ, VALERIA",
+            "licencia": "37985"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB REQUENA SPIN TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

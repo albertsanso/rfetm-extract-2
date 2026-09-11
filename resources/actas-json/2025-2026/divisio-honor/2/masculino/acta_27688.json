@@ -1,0 +1,444 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 2,
+  "jornada": 18,
+  "fecha": "2026-04-12",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Sant Cugat del Vallès (Barcelona)",
+    "recinto": "PAVELLÓ MUNICIPAL NÚMERO 1 - RAMBLA DEL CELLER"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT",
+      "delegado": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "entrenador": {
+        "nombre": "VELAZQUEZ ANTON, JOSEP",
+        "licencia": "2032"
+      }
+    },
+    "visitante": {
+      "nombre": "FRANCISCO R. POMARES S.L. ELCHE",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "entrenador": {
+        "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+        "licencia": "3764"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARTIN CUCURELLA, AGUSTI",
+      "licencia": "1768"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GIBERT FÍGOLS, ROC",
+        "licencia": "33211"
+      },
+      "X": {
+        "nombre": "POMA , MARCO",
+        "licencia": "45672"
+      },
+      "Z": {
+        "nombre": "CALLEJÓN PIERA, CHRISTIAN",
+        "licencia": "37194"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "WIECEK , ADRIAN",
+        "licencia": "39572"
+      },
+      "B": {
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798"
+      },
+      "C": {
+        "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+        "licencia": "3764"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "POMA , MARCO",
+        "licencia": "45672"
+      },
+      {
+        "nombre": "CALLEJÓN PIERA, CHRISTIAN",
+        "licencia": "37194"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "WIECEK , ADRIAN",
+        "licencia": "39572"
+      },
+      {
+        "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+        "licencia": "3764"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIBERT FÍGOLS, ROC",
+        "licencia": "33211"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "WIECEK , ADRIAN",
+        "licencia": "39572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "POMA , MARCO",
+        "licencia": "45672"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALLEJÓN PIERA, CHRISTIAN",
+        "licencia": "37194"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+        "licencia": "3764"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "POMA , MARCO",
+        "licencia": "45672"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "WIECEK , ADRIAN",
+        "licencia": "39572"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GIBERT FÍGOLS, ROC",
+        "licencia": "33211"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+        "licencia": "3764"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CALLEJÓN PIERA, CHRISTIAN",
+        "licencia": "37194"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ SANCHEZ, JAVIER",
+        "licencia": "28798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "POMA , MARCO",
+            "licencia": "45672"
+          },
+          {
+            "nombre": "CALLEJÓN PIERA, CHRISTIAN",
+            "licencia": "37194"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "WIECEK , ADRIAN",
+            "licencia": "39572"
+          },
+          {
+            "nombre": "ABELLAN HEREDIA, JOSEP RAIMON",
+            "licencia": "3764"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FRANCISCO R. POMARES S.L. ELCHE",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

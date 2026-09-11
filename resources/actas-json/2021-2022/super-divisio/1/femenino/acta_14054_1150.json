@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2021-10-16",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "Reus (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COVICSA-CTT SANTA EULARIA",
+      "id": "1150",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM SANTIAGO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "ranking": 2916.0,
+        "id": "36084"
+      },
+      "X": {
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "ranking": 2776.0,
+        "id": "33705"
+      },
+      "Z": {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2720.0,
+        "id": "3006"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANA RIAZANOVA",
+        "licencia": "36095",
+        "ranking": 2664.0,
+        "id": "36095"
+      },
+      "B": {
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1284.0,
+        "id": "16527"
+      },
+      "C": {
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "ranking": 2264.0,
+        "id": "36563"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "id": "33705"
+      },
+      {
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "id": "36084"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANA RIAZANOVA",
+        "licencia": "36095",
+        "id": "36095"
+      },
+      {
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "id": "36563"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "ranking": 2916.0,
+        "id": "36084"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANA RIAZANOVA",
+        "licencia": "36095",
+        "ranking": 2664.0,
+        "id": "36095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "ranking": 2776.0,
+        "id": "33705"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NATALIA MIRAMONTES MORCILO",
+        "licencia": "16527",
+        "ranking": 1284.0,
+        "id": "16527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2720.0,
+        "id": "3006"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "ranking": 2264.0,
+        "id": "36563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANASTASIIA KOLISH",
+            "licencia": "33705",
+            "id": "33705"
+          },
+          {
+            "nombre": "JESSICA YAMADA",
+            "licencia": "36084",
+            "id": "36084"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANA RIAZANOVA",
+            "licencia": "36095",
+            "id": "36095"
+          },
+          {
+            "nombre": "MEN SHUOHAN",
+            "licencia": "36563",
+            "id": "36563"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ANASTASIIA KOLISH",
+        "licencia": "33705",
+        "ranking": 2776.0,
+        "id": "33705"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANA RIAZANOVA",
+        "licencia": "36095",
+        "ranking": 2664.0,
+        "id": "36095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JESSICA YAMADA",
+        "licencia": "36084",
+        "ranking": 2916.0,
+        "id": "36084"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MEN SHUOHAN",
+        "licencia": "36563",
+        "ranking": 2264.0,
+        "id": "36563"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "COVICSA-CTT SANTA EULARIA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

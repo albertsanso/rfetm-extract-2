@@ -1,0 +1,371 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 9,
+  "fecha": "2024-11-30",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEL MAR",
+      "id": "937",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "178",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "X": {
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "Z": {
+        "nombre": "DIZ CONDE, JAVIER",
+        "licencia": "17803",
+        "id": "17803"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "TOLEDO ARANEDA, MARCELO EDUARDO",
+        "licencia": "7935",
+        "id": "7935"
+      },
+      "B": {
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "C": {
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TOLEDO ARANEDA, MARCELO EDUARDO",
+        "licencia": "7935",
+        "id": "7935"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DIZ CONDE, JAVIER",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657",
+        "id": "16657"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TOLEDO ARANEDA, MARCELO EDUARDO",
+        "licencia": "7935",
+        "id": "7935"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LAWAL LAWAL, ABIODUN-GANIU",
+        "licencia": "24148",
+        "id": "24148"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DIZ CONDE, JAVIER",
+        "licencia": "17803",
+        "id": "17803"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEL MAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

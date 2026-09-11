@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2023-01-14",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "CARRETERA DE GURB, 1 (PLACA PARE MILLAN, S N) 8500 Vic Barcelona"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T",
+      "id": "20202054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA CASSA",
+      "id": "20222707",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLES GUAL ROVIRA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTINA GONZÁLEZ ASENSIO",
+        "licencia": "35697",
+        "id": "35697"
+      },
+      "X": {
+        "nombre": "LAURA TORRENTS MIARIONS",
+        "licencia": "35695",
+        "id": "35695"
+      },
+      "Z": {
+        "nombre": "MAIKA SAGRERA FORNELLS",
+        "licencia": "35696",
+        "id": "35696"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "B": {
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "C": {
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINA GONZÁLEZ ASENSIO",
+        "licencia": "35697",
+        "id": "35697"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAURA TORRENTS MIARIONS",
+        "licencia": "35695",
+        "id": "35695"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MAIKA SAGRERA FORNELLS",
+        "licencia": "35696",
+        "id": "35696"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LAURA TORRENTS MIARIONS",
+        "licencia": "35695",
+        "id": "35695"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MIREIA BADOSA REPISO",
+        "licencia": "4190",
+        "id": "4190"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTINA GONZÁLEZ ASENSIO",
+        "licencia": "35697",
+        "id": "35697"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANNA PUIGMOLE JIMENEZ",
+        "licencia": "25072",
+        "id": "25072"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MAIKA SAGRERA FORNELLS",
+        "licencia": "35696",
+        "id": "35696"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABRIL MASDEU MIR",
+        "licencia": "32102",
+        "id": "32102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS TAULA CASSA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

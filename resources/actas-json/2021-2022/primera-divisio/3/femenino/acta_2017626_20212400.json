@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2022-01-15",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL VICENTE LOPEZ",
+    "ciudad": "AVENIDA DE MAYORGA SN 24200-Valencia de Don Juan (León)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM AMADIS PAPELERIA",
+      "id": "2017626",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+      "id": "20212400",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "VIDAL GONZALEZ PONGA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "B": {
+        "nombre": "CRISTINA SANTIAGO SANCHEZ",
+        "licencia": "18700",
+        "id": "18700"
+      },
+      "C": {
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PALOMA ORTEGA VAZQUEZ",
+        "licencia": "30915",
+        "id": "30915"
+      },
+      "X": {
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "Z": {
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PALOMA ORTEGA VAZQUEZ",
+        "licencia": "30915",
+        "id": "30915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CRISTINA SANTIAGO SANCHEZ",
+        "licencia": "18700",
+        "id": "18700"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "NAYARA FERNANDEZ PEREZ",
+        "licencia": "22477",
+        "id": "22477"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ELOISA BARREDA SALAS",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PALOMA ORTEGA VAZQUEZ",
+        "licencia": "30915",
+        "id": "30915"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CRISTINA SANTIAGO SANCHEZ",
+        "licencia": "18700",
+        "id": "18700"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM AMADIS PAPELERIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 7,
+  "fecha": "2025-11-15",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Breña Baja (Santa Cruz de Tenerife)",
+    "recinto": "SOCIEDAD JUVENTUD ESPAÑOLA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "JUVENTUD TENIS DE MESA",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. TENIS DE MESA TEMEGUESTE",
+      "delegado": {
+        "nombre": "REYES MARRERO, JOSE CARLOS",
+        "licencia": "2225"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GARCIA PEREZ, IVAN",
+      "licencia": "4779"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849"
+      },
+      "X": {
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022"
+      },
+      "Z": {
+        "nombre": "DEMICHELIS , GIULIO",
+        "licencia": "16691"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GONZALEZ MARTIN, EDUARDO",
+        "licencia": "3437"
+      },
+      "B": {
+        "nombre": "GONZALEZ MARTIN, PABLO",
+        "licencia": "2534"
+      },
+      "C": {
+        "nombre": "MARTIN PULIDO, SAUL",
+        "licencia": "2068"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ MARTIN, EDUARDO",
+        "licencia": "3437"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALEZ MARTIN, PABLO",
+        "licencia": "2534"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DEMICHELIS , GIULIO",
+        "licencia": "16691"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN PULIDO, SAUL",
+        "licencia": "2068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BERMÚDEZ GONZÁLEZ, EDUARDO",
+        "licencia": "4022"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ MARTIN, EDUARDO",
+        "licencia": "3437"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTAÑO PESTANO, RICARDO",
+        "licencia": "849"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN PULIDO, SAUL",
+        "licencia": "2068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DEMICHELIS , GIULIO",
+        "licencia": "16691"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALEZ MARTIN, PABLO",
+        "licencia": "2534"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. TENIS DE MESA TEMEGUESTE",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

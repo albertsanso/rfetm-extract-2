@@ -1,0 +1,449 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 11,
+  "fecha": "2026-01-10",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Vilafranca del Penedès (Barcelona)",
+    "recinto": "MESTRE RECASENS"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS DE TAULA VILAFRANCA",
+      "delegado": {
+        "nombre": "ALCALA PEÑA, OLEGARIO BASILIO",
+        "licencia": "21491"
+      },
+      "entrenador": {
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      }
+    },
+    "visitante": {
+      "nombre": "CENTRE NATACIO MATARO",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: ALCALA PEÑA, OLEGARIO BASILIO",
+        "licencia": "21491"
+      },
+      "entrenador": {
+        "nombre": "KHASANOVA , FLORA",
+        "licencia": "1084"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO FERNANDEZ, GUILLEM",
+      "licencia": "1050"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      },
+      "X": {
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "Z": {
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NUÑEZ DE ARENAS RODRIGO, ROC",
+        "licencia": "33867"
+      },
+      "B": {
+        "nombre": "POUS CISNEROS, JACOB",
+        "licencia": "28046"
+      },
+      "C": {
+        "nombre": "PACAREU DE ARCAYNE, ALEIX",
+        "licencia": "28219"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      {
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "POUS CISNEROS, JACOB",
+        "licencia": "28046"
+      },
+      {
+        "nombre": "PACAREU DE ARCAYNE, ALEIX",
+        "licencia": "28219"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NUÑEZ DE ARENAS RODRIGO, ROC",
+        "licencia": "33867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "POUS CISNEROS, JACOB",
+        "licencia": "28046"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PACAREU DE ARCAYNE, ALEIX",
+        "licencia": "28219"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NUÑEZ DE ARENAS RODRIGO, ROC",
+        "licencia": "33867"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 17,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PACAREU DE ARCAYNE, ALEIX",
+        "licencia": "28219"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "POUS CISNEROS, JACOB",
+        "licencia": "28046"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BLANCO ALAVEDRA, ROGER",
+            "licencia": "9836"
+          },
+          {
+            "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+            "licencia": "17717"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "POUS CISNEROS, JACOB",
+            "licencia": "28046"
+          },
+          {
+            "nombre": "PACAREU DE ARCAYNE, ALEIX",
+            "licencia": "28219"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS DE TAULA VILAFRANCA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,432 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 3,
+  "jornada": 8,
+  "fecha": "2025-11-22",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Rivas-Vaciamadrid (Madrid)",
+    "recinto": "POLIDEPORTIVO PARQUE DEL SURESTE"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D.T.M. RIVAS",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RUIZ QUESADA, TOMAS",
+      "licencia": "870"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PAREDES MURILLO, NATHALY NOELIA",
+        "licencia": "40928"
+      },
+      "B": {
+        "nombre": "GARCIA GARCIA, LAURA",
+        "licencia": "21982"
+      },
+      "C": {
+        "nombre": "BARBA GARCIA, SOFIA",
+        "licencia": "4804"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243"
+      },
+      "X": {
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107"
+      },
+      "Z": {
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PAREDES MURILLO, NATHALY NOELIA",
+        "licencia": "40928"
+      },
+      {
+        "nombre": "BARBA GARCIA, SOFIA",
+        "licencia": "4804"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107"
+      },
+      {
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PAREDES MURILLO, NATHALY NOELIA",
+        "licencia": "40928"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GARCIA GARCIA, LAURA",
+        "licencia": "21982"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "BARBA GARCIA, SOFIA",
+        "licencia": "4804"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PAREDES MURILLO, NATHALY NOELIA",
+        "licencia": "40928"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LOPEZ CUENCA, LUCIA",
+        "licencia": "19107"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "BARBA GARCIA, SOFIA",
+        "licencia": "4804"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+        "licencia": "39243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GARCIA GARCIA, LAURA",
+        "licencia": "21982"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PAREDES MURILLO, NATHALY NOELIA",
+            "licencia": "40928"
+          },
+          {
+            "nombre": "BARBA GARCIA, SOFIA",
+            "licencia": "4804"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LOPEZ CUENCA, LUCIA",
+            "licencia": "19107"
+          },
+          {
+            "nombre": "SILVA SANTOS, PATRICIA ALEXANDRA",
+            "licencia": "39243"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D.T.M. RIVAS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,386 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 8,
+  "jornada": 20,
+  "fecha": "2026-04-25",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Madrid (Madrid)",
+    "recinto": "POLIDEPORTIVO ORCASUR"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MADRID C.T.M.",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE FUENLABRADA EL TRIGAL TM",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LEYVA GONZALEZ, DANIEL",
+      "licencia": "20027"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ESTEPA ROMERO, OSCAR",
+        "licencia": "5142"
+      },
+      "X": {
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "Z": {
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GROSU , ROBERT",
+        "licencia": "33681"
+      },
+      "B": {
+        "nombre": "CHEN JI, XIAO YI",
+        "licencia": "6724"
+      },
+      "C": {
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESTEPA ROMERO, OSCAR",
+        "licencia": "5142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GROSU , ROBERT",
+        "licencia": "33681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CHEN JI, XIAO YI",
+        "licencia": "6724"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALMENA NOHEDA, DIEGO",
+        "licencia": "27899"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GROSU , ROBERT",
+        "licencia": "33681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESTEPA ROMERO, OSCAR",
+        "licencia": "5142"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DEL POZO SANTACRUZ, DANIEL",
+        "licencia": "19162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAMIREZ RODRIGUEZ, CHRISTIAN",
+        "licencia": "15654"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CHEN JI, XIAO YI",
+        "licencia": "6724"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MADRID C.T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

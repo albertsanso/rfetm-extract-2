@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 11,
+  "fecha": "2024-01-13",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "C. N. Helios",
+    "ciudad": "Zaragoza (Zaragoza)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CENTRO NATACIÓN HELIOS",
+      "id": "178",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT TORTOSA",
+      "id": "48",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANDREEA MADALINA OMOCEA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "X": {
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "Z": {
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "B": {
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "C": {
+        "nombre": "CAMPOS MATA, SERGI",
+        "licencia": "25448",
+        "id": "25448"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CAMPOS MATA, SERGI",
+        "licencia": "25448",
+        "id": "25448"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PEREZ CARMONA, JORGE",
+        "licencia": "19170",
+        "id": "19170"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "QUEROL COLL, JAUME",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BORRA BADÍA, JORGE",
+        "licencia": "21261",
+        "id": "21261"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CAMPOS MATA, SERGI",
+        "licencia": "25448",
+        "id": "25448"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BEAMONTE BENEDICTO, ALFONSO",
+        "licencia": "1572",
+        "id": "1572"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SORNI ESCODA, TONI",
+        "licencia": "32115",
+        "id": "32115"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CENTRO NATACIÓN HELIOS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

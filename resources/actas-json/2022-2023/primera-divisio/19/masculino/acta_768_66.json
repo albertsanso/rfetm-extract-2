@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 19,
+  "fecha": "2023-04-01",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE DEPORTES. PAVELLON 1 (NUEVO LOCAL)",
+    "ciudad": "Olot (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T. OLOT - EIO",
+      "id": "768",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CHARLOTTE'S GRILL BADALONA",
+      "id": "66",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GLORIA FAIG VILA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JORDI DOT GARCIA",
+        "licencia": "2366",
+        "id": "2366"
+      },
+      "X": {
+        "nombre": "ARNAU ROCA SALA",
+        "licencia": "19550",
+        "id": "19550"
+      },
+      "Z": {
+        "nombre": "OSCAR GALLEGO LEAL",
+        "licencia": "1655",
+        "id": "1655"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "B": {
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "C": {
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI DOT GARCIA",
+        "licencia": "2366",
+        "id": "2366"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARNAU ROCA SALA",
+        "licencia": "19550",
+        "id": "19550"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR GALLEGO LEAL",
+        "licencia": "1655",
+        "id": "1655"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ARNAU ROCA SALA",
+        "licencia": "19550",
+        "id": "19550"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JORDI DOT GARCIA",
+        "licencia": "2366",
+        "id": "2366"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDREU ROCAMORA MARTORELL",
+        "licencia": "20274",
+        "id": "20274"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OSCAR GALLEGO LEAL",
+        "licencia": "1655",
+        "id": "1655"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID RUESCAS ACEDO",
+        "licencia": "29083",
+        "id": "29083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. OLOT - EIO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,365 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 2,
+  "jornada": 1,
+  "fecha": "2025-10-18",
+  "hora": "16:30",
+  "lugar": {
+    "ciudad": "SALA DE TENIS DE MESA DE BURGOS",
+    "recinto": "C/ LA BUREBA S/N NAVES RIO PICO nº 7 9007-BURGOS (BURGOS)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UBU RM TERAN BURGOS 2031",
+      "delegado": {
+        "nombre": "MARTINEZ MEDIAVILLA, RAUL",
+        "licencia": "2085"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GRUPO PRONET UTEBO TM",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: MARTINEZ MEDIAVILLA, RAUL",
+        "licencia": "2085"
+      },
+      "entrenador": {
+        "nombre": "MARTINEZ MORENO, DAVID",
+        "licencia": "23281"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PéREZ HERNáNDEZ, GABRIEL",
+      "licencia": "39813"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "X": {
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      },
+      "Z": {
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "TORRES CIVITANI, ELENA",
+        "licencia": "38791"
+      },
+      "B": {
+        "nombre": "ARANGAY AMIN, DIANA NOHA",
+        "licencia": "18037"
+      },
+      "C": {
+        "nombre": "MARTIN-ALBO ZAMORANO, IZARBE",
+        "licencia": "33536"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TORRES CIVITANI, ELENA",
+        "licencia": "38791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ARANGAY AMIN, DIANA NOHA",
+        "licencia": "18037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN-ALBO ZAMORANO, IZARBE",
+        "licencia": "33536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DONCEL CARBALLO, ALICIA",
+        "licencia": "40685"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TORRES CIVITANI, ELENA",
+        "licencia": "38791"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARCOS MATE, ELVIRA",
+        "licencia": "38299"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTIN-ALBO ZAMORANO, IZARBE",
+        "licencia": "33536"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ MARTINEZ, ELENA",
+        "licencia": "34306"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ALVAREZ ERREA, LíA",
+        "licencia": "39111"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UBU RM TERAN BURGOS 2031",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

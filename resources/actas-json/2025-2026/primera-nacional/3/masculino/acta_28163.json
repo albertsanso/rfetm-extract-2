@@ -1,0 +1,367 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2025-10-26",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Vilafranca del Penedès (Barcelona)",
+    "recinto": "MESTRE RECASENS"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS DE TAULA VILAFRANCA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      }
+    },
+    "visitante": {
+      "nombre": "VIAJES TANIT - PORTMANY",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO FERNANDEZ, GUILLEM",
+      "licencia": "1050"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      },
+      "X": {
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "Z": {
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      },
+      "B": {
+        "nombre": "MORENO SALA, ALEX",
+        "licencia": "25801"
+      },
+      "C": {
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MORENO SALA, ALEX",
+        "licencia": "25801"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "BLANCO ALAVEDRA, ROGER",
+        "licencia": "9836"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MENAL MONTUEGA, MANUEL",
+        "licencia": "15185"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RODRIGUEZ JORDAN, CARLOS",
+        "licencia": "25304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ SANCHEZ, BORIS",
+        "licencia": "17717"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MORENO SALA, ALEX",
+        "licencia": "25801"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VIAJES TANIT - PORTMANY",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

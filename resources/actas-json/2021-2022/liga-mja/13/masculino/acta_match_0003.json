@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2022-04-02",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE ROMARIGO",
+    "ciudad": "AVENIDA DE LUGO, 1ª TRAVESIA S/N 36940-Cangas(Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CINANIA TENIS DE MESA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAFETERÍA VILARIÑO - CAMBADOS TM",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO CASTRO MONTENEGRO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JAVIER NUÑEZ RODAL",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "X": {
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "Z": {
+        "nombre": "FRANCISCO BACELAR GONZALEZ",
+        "licencia": "6816",
+        "id": "6816"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "B": {
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "C": {
+        "nombre": "ENRIQUE BARREIRO MARTINEZ",
+        "licencia": "1990",
+        "id": "1990"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      {
+        "nombre": "JAVIER NUÑEZ RODAL",
+        "licencia": "6813",
+        "id": "6813"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ENRIQUE BARREIRO MARTINEZ",
+        "licencia": "1990",
+        "id": "1990"
+      },
+      {
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JAVIER NUÑEZ RODAL",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDO PADIN FERNANDEZ",
+        "licencia": "4460",
+        "id": "4460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCISCO BACELAR GONZALEZ",
+        "licencia": "6816",
+        "id": "6816"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE BARREIRO MARTINEZ",
+        "licencia": "1990",
+        "id": "1990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+        "licencia": "36100",
+        "id": "36100"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+        "licencia": "1038",
+        "id": "1038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JAVIER NUÑEZ RODAL",
+        "licencia": "6813",
+        "id": "6813"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ENRIQUE BARREIRO MARTINEZ",
+        "licencia": "1990",
+        "id": "1990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FRANCISCO BACELAR GONZALEZ",
+        "licencia": "6816",
+        "id": "6816"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BENITO IGLESIAS LEMA",
+        "licencia": "10816",
+        "id": "10816"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RUI MIGUEL FERREIRA DE LIMA",
+            "licencia": "36100",
+            "id": "36100"
+          },
+          {
+            "nombre": "JAVIER NUÑEZ RODAL",
+            "licencia": "6813",
+            "id": "6813"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ENRIQUE BARREIRO MARTINEZ",
+            "licencia": "1990",
+            "id": "1990"
+          },
+          {
+            "nombre": "FERNANDO JOSÉ PADIN MONTANS",
+            "licencia": "1038",
+            "id": "1038"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CAFETERÍA VILARIÑO - CAMBADOS TM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

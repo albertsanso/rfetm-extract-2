@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 6,
+  "fecha": "2019-11-09",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "CASA LA CULTURA",
+    "ciudad": "Fuencaliente de la Palma (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TENEGUIA",
+      "id": "20191584",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO YACAL",
+      "id": "1381",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LIAM RODRIGUEZ LOPEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "IVAN GARCIA PEREZ",
+        "licencia": "4779",
+        "id": "4779"
+      },
+      "X": {
+        "nombre": "CARLOS PADILLA CÁMARA",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "Z": {
+        "nombre": "WOLFGANG ZWIRCHMAIER",
+        "licencia": "22141",
+        "id": "22141"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "B": {
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "C": {
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IVAN GARCIA PEREZ",
+        "licencia": "4779",
+        "id": "4779"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS PADILLA CÁMARA",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "WOLFGANG ZWIRCHMAIER",
+        "licencia": "22141",
+        "id": "22141"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS PADILLA CÁMARA",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NATANAEL VALENCIA ALMEIDA",
+        "licencia": "2162",
+        "id": "2162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "IVAN GARCIA PEREZ",
+        "licencia": "4779",
+        "id": "4779"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAYCO MANUEL PEREZ MARTIN",
+        "licencia": "19919",
+        "id": "19919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "WOLFGANG ZWIRCHMAIER",
+        "licencia": "22141",
+        "id": "22141"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AKASH KAKNANI MELWANI",
+        "licencia": "19812",
+        "id": "19812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM TENEGUIA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

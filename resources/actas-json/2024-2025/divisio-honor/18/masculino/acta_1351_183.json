@@ -1,0 +1,447 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 18,
+  "fecha": "2025-03-22",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM HOTEL MARQUES DE SANTILLANA",
+      "id": "1351",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. TENIS DE MESA RIVAS",
+      "id": "183",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "X": {
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      "Z": {
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ERICSON , GUSTAF",
+        "licencia": "27397",
+        "id": "27397"
+      },
+      "B": {
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "C": {
+        "nombre": "DE LAURENTIS ZALDIVAR, GUILLERMO",
+        "licencia": "21973",
+        "id": "21973"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      {
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ERICSON , GUSTAF",
+        "licencia": "27397",
+        "id": "27397"
+      },
+      {
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ERICSON , GUSTAF",
+        "licencia": "27397",
+        "id": "27397"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DE LAURENTIS ZALDIVAR, GUILLERMO",
+        "licencia": "21973",
+        "id": "21973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VALLEJO DE LA FUENTE, EDER",
+        "licencia": "8686",
+        "id": "8686"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ERICSON , GUSTAF",
+        "licencia": "27397",
+        "id": "27397"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA RAMOS, MARCOS",
+        "licencia": "22475",
+        "id": "22475"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DE LAURENTIS ZALDIVAR, GUILLERMO",
+        "licencia": "21973",
+        "id": "21973"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PEREZ GARCIA, ANDRES",
+        "licencia": "3701",
+        "id": "3701"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+        "licencia": "3852",
+        "id": "3852"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VALLEJO DE LA FUENTE, EDER",
+            "licencia": "8686",
+            "id": "8686"
+          },
+          {
+            "nombre": "PEREZ GARCIA, ANDRES",
+            "licencia": "3701",
+            "id": "3701"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ERICSON , GUSTAF",
+            "licencia": "27397",
+            "id": "27397"
+          },
+          {
+            "nombre": "MARTINEZ BOTELLA, GUILLERMO",
+            "licencia": "3852",
+            "id": "3852"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM HOTEL MARQUES DE SANTILLANA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

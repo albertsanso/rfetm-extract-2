@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 19,
+  "jornada": 4,
+  "fecha": "2021-03-20",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "IES TORRETA ELDA (ENTRADA POR PUERTA DE ATRAS) CALLE POLIGONO ALMAFRA, 16",
+    "ciudad": "Elda (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA ALCOY",
+      "id": "2018816",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL BELTRA SEVILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "B": {
+        "nombre": "SERGIO SANCHEZ SANCHEZ",
+        "licencia": "15320",
+        "id": "15320"
+      },
+      "C": {
+        "nombre": "JUAN CARLOS MIRA PASTOR",
+        "licencia": "1353",
+        "id": "1353"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CRISTOBAL OLLER MOLINA",
+        "licencia": "21875",
+        "id": "21875"
+      },
+      "X": {
+        "nombre": "RAÚL SANJUAN IVORRA",
+        "licencia": "10598",
+        "id": "10598"
+      },
+      "Z": {
+        "nombre": "PABLO PRATS PASCUAL",
+        "licencia": "19495",
+        "id": "19495"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CRISTOBAL OLLER MOLINA",
+        "licencia": "21875",
+        "id": "21875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SERGIO SANCHEZ SANCHEZ",
+        "licencia": "15320",
+        "id": "15320"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAÚL SANJUAN IVORRA",
+        "licencia": "10598",
+        "id": "10598"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN CARLOS MIRA PASTOR",
+        "licencia": "1353",
+        "id": "1353"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLO PRATS PASCUAL",
+        "licencia": "19495",
+        "id": "19495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LEO PUERTA BOTELLA",
+        "licencia": "18342",
+        "id": "18342"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAÚL SANJUAN IVORRA",
+        "licencia": "10598",
+        "id": "10598"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN CARLOS MIRA PASTOR",
+        "licencia": "1353",
+        "id": "1353"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CRISTOBAL OLLER MOLINA",
+        "licencia": "21875",
+        "id": "21875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "HIGINIO GONZALEZ GARCIA",
+        "licencia": "5451",
+        "id": "5451"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLO PRATS PASCUAL",
+        "licencia": "19495",
+        "id": "19495"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA TORRETA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

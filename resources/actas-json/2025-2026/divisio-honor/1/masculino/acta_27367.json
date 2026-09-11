@@ -1,0 +1,448 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 1,
+  "jornada": 1,
+  "fecha": "2025-09-27",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Vilagarcía de Arousa (Pontevedra)",
+    "recinto": "GIMNASIO COLEGIO AREALONGA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VILAGARCÍA TENIS DE MESA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "CASTRO MONTENEGRO, ANTONIO",
+        "licencia": "995"
+      }
+    },
+    "visitante": {
+      "nombre": "CONCELLO DE CAMBADOS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: CASTRO MONTENEGRO, ANTONIO",
+        "licencia": "995"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEÑA LORENZO, EVA",
+      "licencia": "8670"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "X": {
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      "Z": {
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NIGERUK NIGERUK, SERGIY",
+        "licencia": "4037"
+      },
+      "B": {
+        "nombre": "OTERO RODRIGUEZ, SANTIAGO",
+        "licencia": "10331"
+      },
+      "C": {
+        "nombre": "ALBORNOZ PADILLA, MATIAS SEBASTIAN",
+        "licencia": "34947"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      {
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "OTERO RODRIGUEZ, SANTIAGO",
+        "licencia": "10331"
+      },
+      {
+        "nombre": "ALBORNOZ PADILLA, MATIAS SEBASTIAN",
+        "licencia": "34947"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NIGERUK NIGERUK, SERGIY",
+        "licencia": "4037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OTERO RODRIGUEZ, SANTIAGO",
+        "licencia": "10331"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBORNOZ PADILLA, MATIAS SEBASTIAN",
+        "licencia": "34947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NIGERUK NIGERUK, SERGIY",
+        "licencia": "4037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALBORNOZ PADILLA, MATIAS SEBASTIAN",
+        "licencia": "34947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CASTRO SALGADO, PEDRO",
+        "licencia": "16939"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OTERO RODRIGUEZ, SANTIAGO",
+        "licencia": "10331"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PADIN FERNANDEZ, FERNANDO",
+            "licencia": "4460"
+          },
+          {
+            "nombre": "CASTRO SALGADO, PABLO",
+            "licencia": "22955"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "OTERO RODRIGUEZ, SANTIAGO",
+            "licencia": "10331"
+          },
+          {
+            "nombre": "ALBORNOZ PADILLA, MATIAS SEBASTIAN",
+            "licencia": "34947"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VILAGARCÍA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

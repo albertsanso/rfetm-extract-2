@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 4,
+  "fecha": "2019-10-19",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA BADALONA",
+    "ciudad": "Badalona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TITUS BADALONA",
+      "id": "66",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS TAULA RIPOLLET",
+      "id": "48",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO VILLAHOZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "B": {
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "C": {
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ENRIC BARCELO MAS",
+        "licencia": "19263",
+        "id": "19263"
+      },
+      "X": {
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "Z": {
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ENRIC BARCELO MAS",
+        "licencia": "19263",
+        "id": "19263"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MANEL REDONDO GALLARDO",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ENRIC BARCELO MAS",
+        "licencia": "19263",
+        "id": "19263"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PAU NOLIS FAÑANAS",
+        "licencia": "2106",
+        "id": "2106"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TITUS BADALONA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

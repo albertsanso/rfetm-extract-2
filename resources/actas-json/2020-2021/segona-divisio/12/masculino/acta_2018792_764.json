@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 10,
+  "jornada": 12,
+  "fecha": "2021-05-01",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "MESTRE RECASENS CALLE JOSEP MESTRE RECASENS Nº 10",
+    "ciudad": "12 - Vilafranca del Penedès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SOCIEDAD CORAL RECREATIVA EL CIERVO",
+      "id": "2018792",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENNIS DE TAULA VILAFRANCA",
+      "id": "764",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "AGUSTI MASIP ESTRUCH",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
+      },
+      "B": {
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
+      },
+      "C": {
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROGER BLANCO ALAVEDRA",
+        "licencia": "9836",
+        "id": "9836"
+      },
+      "X": {
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "Z": {
+        "nombre": "ALBERT FARRES DE BUNES",
+        "licencia": "9102",
+        "id": "9102"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROGER BLANCO ALAVEDRA",
+        "licencia": "9836",
+        "id": "9836"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERT FARRES DE BUNES",
+        "licencia": "9102",
+        "id": "9102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN ANTONIO ORTEGA FERNANDEZ",
+        "licencia": "1063",
+        "id": "1063"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BORIS RODRIGUEZ SANCHEZ",
+        "licencia": "17717",
+        "id": "17717"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC CASTELLS MONTSERRAT",
+        "licencia": "358",
+        "id": "358"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROGER BLANCO ALAVEDRA",
+        "licencia": "9836",
+        "id": "9836"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JOSEP GUASCH BERENGUER",
+        "licencia": "21604",
+        "id": "21604"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERT FARRES DE BUNES",
+        "licencia": "9102",
+        "id": "9102"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS DE TAULA VILAFRANCA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

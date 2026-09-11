@@ -1,0 +1,432 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 12,
+  "jornada": 12,
+  "fecha": "2025-01-17",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. ACOROMA DE CANDELARIA",
+      "id": "10181",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA ACOROMA",
+      "id": "10440",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RODRÍGUEZ MACHÍN, GIOVANNI",
+        "licencia": "10638",
+        "id": "10638"
+      },
+      "X": {
+        "nombre": "FARIÑA RODRIGUEZ, DANIEL",
+        "licencia": "10468",
+        "id": "10468"
+      },
+      "Z": {
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALONSO REGALADO, ROMEN",
+        "licencia": "10251",
+        "id": "10251"
+      },
+      "B": {
+        "nombre": "FREGEL PADILLA, JOSE JOAQUIN",
+        "licencia": "420",
+        "id": "420"
+      },
+      "C": {
+        "nombre": "LAVERTY , PAUL JOHN",
+        "licencia": "44535",
+        "id": "44535"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "FARIÑA RODRIGUEZ, DANIEL",
+        "licencia": "10468",
+        "id": "10468"
+      },
+      {
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "FREGEL PADILLA, JOSE JOAQUIN",
+        "licencia": "420",
+        "id": "420"
+      },
+      {
+        "nombre": "ALONSO REGALADO, ROMEN",
+        "licencia": "10251",
+        "id": "10251"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRÍGUEZ MACHÍN, GIOVANNI",
+        "licencia": "10638",
+        "id": "10638"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALONSO REGALADO, ROMEN",
+        "licencia": "10251",
+        "id": "10251"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FARIÑA RODRIGUEZ, DANIEL",
+        "licencia": "10468",
+        "id": "10468"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FREGEL PADILLA, JOSE JOAQUIN",
+        "licencia": "420",
+        "id": "420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LAVERTY , PAUL JOHN",
+        "licencia": "44535",
+        "id": "44535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FARIÑA RODRIGUEZ, DANIEL",
+        "licencia": "10468",
+        "id": "10468"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALONSO REGALADO, ROMEN",
+        "licencia": "10251",
+        "id": "10251"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RODRÍGUEZ MACHÍN, GIOVANNI",
+        "licencia": "10638",
+        "id": "10638"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LAVERTY , PAUL JOHN",
+        "licencia": "44535",
+        "id": "44535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FREGEL PADILLA, JOSE JOAQUIN",
+        "licencia": "420",
+        "id": "420"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FARIÑA RODRIGUEZ, DANIEL",
+            "licencia": "10468",
+            "id": "10468"
+          },
+          {
+            "nombre": "RAMOS CHICO, JORGE",
+            "licencia": "17028",
+            "id": "17028"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FREGEL PADILLA, JOSE JOAQUIN",
+            "licencia": "420",
+            "id": "420"
+          },
+          {
+            "nombre": "ALONSO REGALADO, ROMEN",
+            "licencia": "10251",
+            "id": "10251"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. ACOROMA DE CANDELARIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

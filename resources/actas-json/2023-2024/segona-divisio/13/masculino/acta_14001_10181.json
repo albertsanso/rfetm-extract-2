@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 12,
+  "jornada": 13,
+  "fecha": "2024-01-28",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "LOCAL DE TENIS DE MESA AñAVINGO",
+    "ciudad": "Arafo (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TABOR AÑAVINGO",
+      "id": "14001",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. ACOROMA DE CANDELARIA",
+      "id": "10181",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIO PADILLA PEREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PADILLA CÁMARA, CARLOS",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "B": {
+        "nombre": "GONZALEZ GARCIA, ALEJANDRO",
+        "licencia": "23897",
+        "id": "23897"
+      },
+      "C": {
+        "nombre": "JEREZ DE LEÓN, NAUZET",
+        "licencia": "18694",
+        "id": "18694"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "X": {
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      },
+      "Z": {
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PADILLA CÁMARA, CARLOS",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GONZALEZ GARCIA, ALEJANDRO",
+        "licencia": "23897",
+        "id": "23897"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JEREZ DE LEÓN, NAUZET",
+        "licencia": "18694",
+        "id": "18694"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PADILLA CÁMARA, CARLOS",
+        "licencia": "10635",
+        "id": "10635"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RAMOS CHICO, JORGE",
+        "licencia": "17028",
+        "id": "17028"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JEREZ DE LEÓN, NAUZET",
+        "licencia": "18694",
+        "id": "18694"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FREGEL PADILLA, LUIS JORGE",
+        "licencia": "963",
+        "id": "963"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GONZALEZ GARCIA, ALEJANDRO",
+        "licencia": "23897",
+        "id": "23897"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "RUBIO GONZALEZ, JESUS",
+        "licencia": "15396",
+        "id": "15396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM TABOR AÑAVINGO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

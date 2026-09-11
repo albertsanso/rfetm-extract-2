@@ -1,0 +1,378 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 16,
+  "fecha": "2026-03-01",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Fuenlabrada (Madrid)",
+    "recinto": "POLIDEPORTIVO LA CUEVA (ANEXO)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUENLABRADA TEAM TM AMMERLÄNDER",
+      "delegado": {
+        "nombre": "CODóN DE CASTRO, NATALIA",
+        "licencia": "38567"
+      },
+      "entrenador": {
+        "nombre": "ROMAN BUITRAGO, JAVIER",
+        "licencia": "4207"
+      }
+    },
+    "visitante": {
+      "nombre": "CDE ALCORCÓN TM",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: CODóN DE CASTRO, NATALIA",
+        "licencia": "38567"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: ROMAN BUITRAGO, JAVIER",
+        "licencia": "4207"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RUIZ QUESADA, TOMAS",
+      "licencia": "870"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266"
+      },
+      "B": {
+        "nombre": "HIGUERA FOMBUENA, JORGE",
+        "licencia": "5776"
+      },
+      "C": {
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966"
+      },
+      "X": {
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177"
+      },
+      "Z": {
+        "nombre": "CANO LASALDE, RODRIGO",
+        "licencia": "7095"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "HIGUERA FOMBUENA, JORGE",
+        "licencia": "5776"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CANO LASALDE, RODRIGO",
+        "licencia": "7095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "URIBARRI CRIADO, JON",
+        "licencia": "1266"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FERNANDEZ CRUCETA, JORGE",
+        "licencia": "24177"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PIMENTEL SERRA, MARCOS",
+        "licencia": "19707"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ MORENO, CARLOS JAVIER",
+        "licencia": "1966"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "HIGUERA FOMBUENA, JORGE",
+        "licencia": "5776"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CANO LASALDE, RODRIGO",
+        "licencia": "7095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FUENLABRADA TEAM TM AMMERLÄNDER",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

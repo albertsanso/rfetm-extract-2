@@ -1,0 +1,316 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 0,
+  "jornada": 3,
+  "fecha": "2022-05-15",
+  "hora": "09:00",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIO (C/ MESTRA MARIA CODINA, 1)",
+    "ciudad": "LES BORGES (LLEIDA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT MOLLERUSSA PREFABRICATS PUJOL",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES FA SUF",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "X": {
+        "nombre": "YAMIL ASIER CASTELLANO DíAZ",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "Z": {
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IVAN FERNANDEZ MARTINEZ",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "B": {
+        "nombre": "ERIC CALDERO CERCOS",
+        "licencia": "9795",
+        "id": "9795"
+      },
+      "C": {
+        "nombre": "DYLAN CHAPERON",
+        "licencia": "38467",
+        "id": "38467"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IVAN FERNANDEZ MARTINEZ",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YAMIL ASIER CASTELLANO DíAZ",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ERIC CALDERO CERCOS",
+        "licencia": "9795",
+        "id": "9795"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIGUEL ANGEL CABEZAS FLORES",
+        "licencia": "28047",
+        "id": "28047"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DYLAN CHAPERON",
+        "licencia": "38467",
+        "id": "38467"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "YAMIL ASIER CASTELLANO DíAZ",
+        "licencia": "37124",
+        "id": "37124"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IVAN FERNANDEZ MARTINEZ",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DYLAN CHAPERON",
+        "licencia": "38467",
+        "id": "38467"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTT MOLLERUSSA PREFABRICATS PUJOL",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,366 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 3,
+  "jornada": 15,
+  "fecha": "2026-02-08",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Sant Jordi (Baleares (Illes))",
+    "recinto": "PABELLON DE CAN GUERXO"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VIAJES TANIT - PORTMANY",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. OLOT - EIO",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MORILLO PRATS, JAVIER",
+      "licencia": "1794"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RAMIREZ BERMUDEZ, JOSE",
+        "licencia": "2782"
+      },
+      "X": {
+        "nombre": "DIAZ TIRADO, ALEJANDRO",
+        "licencia": "22482"
+      },
+      "Z": {
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FLORES BARRANCO, VICTOR",
+        "licencia": "18930"
+      },
+      "B": {
+        "nombre": "ROCA SALA, ARNAU",
+        "licencia": "19550"
+      },
+      "C": {
+        "nombre": "DOT GARCIA, JORDI",
+        "licencia": "2366"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RAMIREZ BERMUDEZ, JOSE",
+        "licencia": "2782"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FLORES BARRANCO, VICTOR",
+        "licencia": "18930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ TIRADO, ALEJANDRO",
+        "licencia": "22482"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROCA SALA, ARNAU",
+        "licencia": "19550"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DOT GARCIA, JORDI",
+        "licencia": "2366"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ TIRADO, ALEJANDRO",
+        "licencia": "22482"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FLORES BARRANCO, VICTOR",
+        "licencia": "18930"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RAMIREZ BERMUDEZ, JOSE",
+        "licencia": "2782"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DOT GARCIA, JORDI",
+        "licencia": "2366"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GONZALEZ RIUS, PAU",
+        "licencia": "21059"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROCA SALA, ARNAU",
+        "licencia": "19550"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. OLOT - EIO",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

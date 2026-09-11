@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2024-02-03",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO VICENTE TRUEBA",
+    "ciudad": "Torrelavega (Cantabria)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM TORRELAVEGA HOTEL MARQUES.S",
+      "id": "581",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1308",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO DE LA RIVA DE LA RIVA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DOPICO MARTINEZ, ITZIAR",
+        "licencia": "19854",
+        "id": "19854"
+      },
+      "X": {
+        "nombre": "SANCHEZ SOUSA, LUCIA",
+        "licencia": "20890",
+        "id": "20890"
+      },
+      "Z": {
+        "nombre": "BARREDA SALAS, ELOISA",
+        "licencia": "32468",
+        "id": "32468"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "B": {
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "C": {
+        "nombre": "BERNARDEZ MACEIRA, NOA",
+        "licencia": "18409",
+        "id": "18409"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DOPICO MARTINEZ, ITZIAR",
+        "licencia": "19854",
+        "id": "19854"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ SOUSA, LUCIA",
+        "licencia": "20890",
+        "id": "20890"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARREDA SALAS, ELOISA",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BERNARDEZ MACEIRA, NOA",
+        "licencia": "18409",
+        "id": "18409"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANCHEZ SOUSA, LUCIA",
+        "licencia": "20890",
+        "id": "20890"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DOPICO MARTINEZ, ITZIAR",
+        "licencia": "19854",
+        "id": "19854"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BERNARDEZ MACEIRA, NOA",
+        "licencia": "18409",
+        "id": "18409"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARREDA SALAS, ELOISA",
+        "licencia": "32468",
+        "id": "32468"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM TORRELAVEGA HOTEL MARQUES.S",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

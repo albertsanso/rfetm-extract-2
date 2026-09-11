@@ -1,0 +1,367 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 17,
+  "fecha": "2026-03-21",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Barcelona (Barcelona)",
+    "recinto": "ESCOLA FREDERIC MISTRAL- SARRIÀ"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA BARCELONA",
+      "delegado": {
+        "nombre": "MUÑOZ LLURBA, JORDI",
+        "licencia": "25284"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB NATACIÓ SABADELL",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: MUÑOZ LLURBA, JORDI",
+        "licencia": "25284"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMONA RODRIGUEZ, MANUEL",
+      "licencia": "536"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PIERA PI, POL",
+        "licencia": "24306"
+      },
+      "B": {
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      },
+      "C": {
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SILVESTRE CASTILLO, ALEX",
+        "licencia": "39913"
+      },
+      "X": {
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292"
+      },
+      "Z": {
+        "nombre": "BOCANEGRA GALVAN, SERGI",
+        "licencia": "19000"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PIERA PI, POL",
+        "licencia": "24306"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SILVESTRE CASTILLO, ALEX",
+        "licencia": "39913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOCANEGRA GALVAN, SERGI",
+        "licencia": "19000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PIERA PI, POL",
+        "licencia": "24306"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SERRANO AMAYA, FRANCISCO",
+        "licencia": "29292"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUARDIOLA CASALS, FERRAN",
+        "licencia": "28139"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SILVESTRE CASTILLO, ALEX",
+        "licencia": "39913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GARNIER , JEREMY",
+        "licencia": "45809"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BOCANEGRA GALVAN, SERGI",
+        "licencia": "19000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (0-6)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 3,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

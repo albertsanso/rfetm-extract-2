@@ -1,0 +1,387 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 9,
+  "fecha": "2025-11-29",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Sant Joan Despí (Barcelona)",
+    "recinto": "GIMNASIO DEL COLEGIO ATENEU INSTRUCTIU (FRENTE AL CAMPO DE FUTBOL)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DESPÍ TT- ALUMINIOS ARAQUE",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      }
+    },
+    "visitante": {
+      "nombre": "LES BORGES GENERAL D'OLIS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CASADO PAGES, XAVIER",
+      "licencia": "5408"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU",
+        "licencia": "37193"
+      },
+      "B": {
+        "nombre": "TUDURI MORENTE, ANTONI",
+        "licencia": "19443"
+      },
+      "C": {
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      "X": {
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800"
+      },
+      "Z": {
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU",
+        "licencia": "37193"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "TUDURI MORENTE, ANTONI",
+        "licencia": "19443"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PRIETO CAMPDEPADROS, ARNAU",
+        "licencia": "37193"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JIMéNEZ BENíTEZ, JAIR",
+        "licencia": "39800"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FERREIRA GONZAGA, NUNO ALEXANDRE",
+        "licencia": "39126"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "TUDURI MORENTE, ANTONI",
+        "licencia": "19443"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TANG QIU, RUIXIANG",
+        "licencia": "25014"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LES BORGES GENERAL D'OLIS",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

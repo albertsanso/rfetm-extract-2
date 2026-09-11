@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 10,
+  "jornada": 2,
+  "fecha": "2019-10-05",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ANTONIO VEGA VEGUITA",
+    "ciudad": "Jerez de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB SHERRY TM",
+      "id": "2017366",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO HUETOR VEGA",
+      "id": "16101",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN MANUEL SAÑUDO JIMENEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALBERTO RAMIREZ DORANTES",
+        "licencia": "4840",
+        "id": "4840"
+      },
+      "X": {
+        "nombre": "MIGUEL ANGEL REY BARBA",
+        "licencia": "2345",
+        "id": "2345"
+      },
+      "Z": {
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MATTHIAS STAUDT",
+        "licencia": "18524",
+        "id": "18524"
+      },
+      "B": {
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      },
+      "C": {
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO RAMIREZ DORANTES",
+        "licencia": "4840",
+        "id": "4840"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MATTHIAS STAUDT",
+        "licencia": "18524",
+        "id": "18524"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL ANGEL REY BARBA",
+        "licencia": "2345",
+        "id": "2345"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MIGUEL ANGEL REY BARBA",
+        "licencia": "2345",
+        "id": "2345"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MATTHIAS STAUDT",
+        "licencia": "18524",
+        "id": "18524"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALBERTO RAMIREZ DORANTES",
+        "licencia": "4840",
+        "id": "4840"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PEDRO RIVERO ARIAS",
+        "licencia": "27551",
+        "id": "27551"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JOSE MANUEL MARTINEZ MUÑOZ",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JOSE ALFONSO BARRERA NAVARRO",
+        "licencia": "22062",
+        "id": "22062"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB SHERRY TM",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

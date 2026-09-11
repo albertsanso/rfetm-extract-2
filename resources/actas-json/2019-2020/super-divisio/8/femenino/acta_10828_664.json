@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 8,
+  "fecha": "2019-11-30",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO PARQUE DEL SURESTE",
+    "ciudad": "Rivas-Vaciamadrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D.T.M. RIVAS",
+      "id": "10828",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASSSA ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANA ORTEGA RAMIREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "B": {
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "ranking": 1777.0,
+        "id": "4804"
+      },
+      "C": {
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2200.0,
+        "id": "34083"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "X": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2512.0,
+        "id": "28792"
+      },
+      "Z": {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "id": "31698"
+      },
+      {
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "id": "34083"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "id": "34014"
+      },
+      {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "id": "28792"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SOFIA BARBA GARCIA",
+        "licencia": "4804",
+        "ranking": 1777.0,
+        "id": "4804"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2512.0,
+        "id": "28792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2200.0,
+        "id": "34083"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "EDEM OFFIONG",
+            "licencia": "31698",
+            "id": "31698"
+          },
+          {
+            "nombre": "MARGARITA FETIUKHINA",
+            "licencia": "34083",
+            "id": "34083"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "KIM VERMAAS",
+            "licencia": "34014",
+            "id": "34014"
+          },
+          {
+            "nombre": "MARIA PAULINA VEGA MAGAÑA",
+            "licencia": "28792",
+            "id": "28792"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EDEM OFFIONG",
+        "licencia": "31698",
+        "ranking": 2801.0,
+        "id": "31698"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2512.0,
+        "id": "28792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARGARITA FETIUKHINA",
+        "licencia": "34083",
+        "ranking": 2200.0,
+        "id": "34083"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D.T.M. RIVAS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

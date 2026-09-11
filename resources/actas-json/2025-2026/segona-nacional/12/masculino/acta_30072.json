@@ -1,0 +1,368 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 4,
+  "fecha": "2025-10-25",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Puerto del Rosario (Las Palmas)",
+    "recinto": "CENTRO POLIVALENTE DEL CHARCO"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDRC PEÑA DE LA AMISTAD",
+      "delegado": {
+        "nombre": "GONZALEZ GONZALEZ, IMOBACH",
+        "licencia": "1743"
+      },
+      "entrenador": {
+        "nombre": "PERAITA AGUILAR, LUIS ALFONSO",
+        "licencia": "1460"
+      }
+    },
+    "visitante": {
+      "nombre": "TEMESPIN LOS LLANOS DE ARIDANE",
+      "delegado": {
+        "nombre": "CRUZ GONZALEZ, ALEXIS",
+        "licencia": "2443"
+      },
+      "entrenador": {
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MAURER , IAN",
+      "licencia": "40720"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PERAITA AGUILAR, LUIS ALFONSO",
+        "licencia": "1460"
+      },
+      "X": {
+        "nombre": "GONZALEZ GONZALEZ, IMOBACH",
+        "licencia": "1743"
+      },
+      "Z": {
+        "nombre": "LEHMANN , FLORIAN",
+        "licencia": "35739"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GARRIDO MARTIN, ALBERTO",
+        "licencia": "18549"
+      },
+      "B": {
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055"
+      },
+      "C": {
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PERAITA AGUILAR, LUIS ALFONSO",
+        "licencia": "1460"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARRIDO MARTIN, ALBERTO",
+        "licencia": "18549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALEZ GONZALEZ, IMOBACH",
+        "licencia": "1743"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LEHMANN , FLORIAN",
+        "licencia": "35739"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GONZALEZ GONZALEZ, IMOBACH",
+        "licencia": "1743"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARRIDO MARTIN, ALBERTO",
+        "licencia": "18549"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PERAITA AGUILAR, LUIS ALFONSO",
+        "licencia": "1460"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARRIDO MARTIN, ANGEL",
+        "licencia": "2086"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LEHMANN , FLORIAN",
+        "licencia": "35739"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VERONA PEÑA, AYOZE",
+        "licencia": "2055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TEMESPIN LOS LLANOS DE ARIDANE",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

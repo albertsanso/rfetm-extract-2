@@ -1,0 +1,444 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 6,
+  "fecha": "2025-11-08",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Elche/Elx (Alicante)",
+    "recinto": "PABELLON POLIDEPORTIVO LA MARINA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "OPTICA LOOK Dama de Elche",
+      "delegado": {
+        "nombre": "LARA DIAZ, JUAN IGNACIO",
+        "licencia": "36181"
+      },
+      "entrenador": {
+        "nombre": "ABELLÁN MARTÍNEZ, JOSÉ RAMÓN",
+        "licencia": "18626"
+      }
+    },
+    "visitante": {
+      "nombre": "ALICANTE TM",
+      "delegado": {
+        "nombre": "MORENO MERÍN, RAÚL",
+        "licencia": "21104"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: ABELLÁN MARTÍNEZ, JOSÉ RAMÓN",
+        "licencia": "18626"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MEDINA ARABID, JESUS",
+      "licencia": "399"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TITOS MOYA, ROBERTO",
+        "licencia": "30084"
+      },
+      "B": {
+        "nombre": "MARKOV , ANDREI",
+        "licencia": "37048"
+      },
+      "C": {
+        "nombre": "MEROÑO SAURA, MANUEL",
+        "licencia": "22820"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      },
+      "X": {
+        "nombre": "MORENO MERÍN, RAÚL",
+        "licencia": "21104"
+      },
+      "Z": {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARKOV , ANDREI",
+        "licencia": "37048"
+      },
+      {
+        "nombre": "MEROÑO SAURA, MANUEL",
+        "licencia": "22820"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      {
+        "nombre": "MORENO MERÍN, RAÚL",
+        "licencia": "21104"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TITOS MOYA, ROBERTO",
+        "licencia": "30084"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARKOV , ANDREI",
+        "licencia": "37048"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORENO MERÍN, RAÚL",
+        "licencia": "21104"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MEROÑO SAURA, MANUEL",
+        "licencia": "22820"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TITOS MOYA, ROBERTO",
+        "licencia": "30084"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORENO MERÍN, RAÚL",
+        "licencia": "21104"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MEROÑO SAURA, MANUEL",
+        "licencia": "22820"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARKOV , ANDREI",
+        "licencia": "37048"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARKOV , ANDREI",
+            "licencia": "37048"
+          },
+          {
+            "nombre": "MEROÑO SAURA, MANUEL",
+            "licencia": "22820"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PUERTO LILLO, HECTOR",
+            "licencia": "19892"
+          },
+          {
+            "nombre": "MORENO MERÍN, RAÚL",
+            "licencia": "21104"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALICANTE TM",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

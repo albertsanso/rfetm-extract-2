@@ -1,0 +1,365 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2026-03-17",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Pontevedra (Pontevedra)",
+    "recinto": "PABELLON PRINCIPE FELIPE DE PONTEVEDRA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VISIT PONTEVEDRA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "ALVAREZ CAO, FERNANDO",
+        "licencia": "1725"
+      }
+    },
+    "visitante": {
+      "nombre": "ENOLI LES BORGES VALL",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PADIN OUBIÑA, RAMON",
+      "licencia": "452"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709"
+      },
+      "X": {
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833"
+      },
+      "Z": {
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329"
+      },
+      "B": {
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "C": {
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 23,
+          "visitante": 21
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VILCHEZ IGLESIAS, MIGUEL ANGEL",
+        "licencia": "4833"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARRERA RUIZ, FRANCESC",
+        "licencia": "24329"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DURAN GIRALT, MARC",
+        "licencia": "2856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COELHO DA SILVA , ANDRE FILIPE",
+        "licencia": "22020"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MASIP NAVARRO, JOAN",
+        "licencia": "9787"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ENOLI LES BORGES VALL",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

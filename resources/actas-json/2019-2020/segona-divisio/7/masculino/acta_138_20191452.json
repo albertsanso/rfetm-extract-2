@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 8,
+  "jornada": 7,
+  "fecha": "2019-11-16",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "IES TORRETA ELDA (ENTRADA POR PUERTA DE ATRAS)",
+    "ciudad": "Elda (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LA TORRETA TENIS DE MESA",
+      "id": "138",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IMATEC- ALSA CITY CARTAGENA",
+      "id": "20191452",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA JESUS ALVAREZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "B": {
+        "nombre": "SERGIO SANCHEZ SANCHEZ",
+        "licencia": "15320",
+        "id": "15320"
+      },
+      "C": {
+        "nombre": "HIGINIO GONZALEZ GARCIA",
+        "licencia": "5451",
+        "id": "5451"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GABRIEL SANCHEZ TERRONES",
+        "licencia": "21232",
+        "id": "21232"
+      },
+      "X": {
+        "nombre": "DIEGO FELIU MOREDA",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "Z": {
+        "nombre": "ISMAEL COSTA SEGURA",
+        "licencia": "28564",
+        "id": "28564"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GABRIEL SANCHEZ TERRONES",
+        "licencia": "21232",
+        "id": "21232"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SERGIO SANCHEZ SANCHEZ",
+        "licencia": "15320",
+        "id": "15320"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DIEGO FELIU MOREDA",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "HIGINIO GONZALEZ GARCIA",
+        "licencia": "5451",
+        "id": "5451"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ISMAEL COSTA SEGURA",
+        "licencia": "28564",
+        "id": "28564"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RUBEN RIZO VALERO",
+        "licencia": "22288",
+        "id": "22288"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "DIEGO FELIU MOREDA",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "HIGINIO GONZALEZ GARCIA",
+        "licencia": "5451",
+        "id": "5451"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GABRIEL SANCHEZ TERRONES",
+        "licencia": "21232",
+        "id": "21232"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SERGIO SANCHEZ SANCHEZ",
+        "licencia": "15320",
+        "id": "15320"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ISMAEL COSTA SEGURA",
+        "licencia": "28564",
+        "id": "28564"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LA TORRETA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

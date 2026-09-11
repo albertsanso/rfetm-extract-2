@@ -1,0 +1,313 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 13,
+  "fecha": "2023-02-04",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA SONIA ETXAZARRETA",
+    "ciudad": "Irun (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+      "id": "1297",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UE SANT CUGAT",
+      "id": "20191319",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MIGUEL ANGEL BAEZ ARRONDO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MADOKA EDAHIRO",
+        "licencia": "40969",
+        "ranking": 2000.0,
+        "id": "40969"
+      },
+      "B": {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      },
+      "C": {
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "LAIA MUNNE SANS",
+        "licencia": "27650",
+        "ranking": 700.0,
+        "id": "27650"
+      },
+      "X": {
+        "nombre": "MARIONA MUNNE SANS",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      },
+      "Z": {
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MADOKA EDAHIRO",
+        "licencia": "40969",
+        "id": "40969"
+      },
+      {
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "id": "19691"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "LAIA MUNNE SANS",
+        "licencia": "27650",
+        "id": "27650"
+      },
+      {
+        "nombre": "MARIONA MUNNE SANS",
+        "licencia": "27649",
+        "id": "27649"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MADOKA EDAHIRO",
+        "licencia": "40969",
+        "ranking": 2000.0,
+        "id": "40969"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "LAIA MUNNE SANS",
+        "licencia": "27650",
+        "ranking": 700.0,
+        "id": "27650"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANGELA RODRÍGUEZ GARCIA",
+        "licencia": "19691",
+        "ranking": 1778.0,
+        "id": "19691"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARIONA MUNNE SANS",
+        "licencia": "27649",
+        "ranking": 1657.0,
+        "id": "27649"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "IOANA TECLA GHEMES",
+        "licencia": "17118",
+        "ranking": 2394.0,
+        "id": "17118"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SARA BALLESTER LECINA",
+        "licencia": "16013",
+        "ranking": 1181.0,
+        "id": "16013"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MADOKA EDAHIRO",
+            "licencia": "40969",
+            "id": "40969"
+          },
+          {
+            "nombre": "ANGELA RODRÍGUEZ GARCIA",
+            "licencia": "19691",
+            "id": "19691"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LAIA MUNNE SANS",
+            "licencia": "27650",
+            "id": "27650"
+          },
+          {
+            "nombre": "MARIONA MUNNE SANS",
+            "licencia": "27649",
+            "id": "27649"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA T.M. CHEMA GEWO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 0
+    }
+  },
+  "acta_protestada": false
+}

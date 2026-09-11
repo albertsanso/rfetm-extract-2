@@ -1,0 +1,378 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 2,
+  "jornada": 12,
+  "fecha": "2026-01-17",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Vic (Barcelona)",
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "delegado": {
+        "nombre": "RODRÍGUEZ FEIXAS, JESÚS",
+        "licencia": "42056"
+      },
+      "entrenador": {
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194"
+      }
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: RODRÍGUEZ FEIXAS, JESÚS",
+        "licencia": "42056"
+      },
+      "entrenador": {
+        "nombre": "PEREZ VELASCO, RICARDO",
+        "licencia": "2291"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FAIG VILA, GLORIA",
+      "licencia": "1418"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678"
+      },
+      "Z": {
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ALBORNOZ PADILLA, FABIAN EDUARDO",
+        "licencia": "34944"
+      },
+      "B": {
+        "nombre": "LUÑO LAHOZ, ALBERTO",
+        "licencia": "3926"
+      },
+      "C": {
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBORNOZ PADILLA, FABIAN EDUARDO",
+        "licencia": "34944"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LUÑO LAHOZ, ALBERTO",
+        "licencia": "3926"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ALBORNOZ PADILLA, FABIAN EDUARDO",
+        "licencia": "34944"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DOS SANTOS PINHO, DIOGO JOSÉ",
+        "licencia": "33982"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO ORNA, ALVARO",
+        "licencia": "30540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LUÑO LAHOZ, ALBERTO",
+        "licencia": "3926"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

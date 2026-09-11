@@ -1,0 +1,375 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Segunda División Masculina",
+  "grupo": 11,
+  "jornada": 17,
+  "fecha": "2026-03-22",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Murcia (Murcia)",
+    "recinto": "SALA ESPECÍFICA TENIS DE MESA PABELLÓN PRÍNCIPE DE ASTURIAS"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MURCIA REVYSPORT",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "GARCES ABADIAS, BENJAMIN",
+        "licencia": "349"
+      }
+    },
+    "visitante": {
+      "nombre": "ASOCIACION DEPORTIVA ELIOCROCA LORCA TM",
+      "delegado": {
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: GARCES ABADIAS, BENJAMIN",
+        "licencia": "349"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RECIO CARIDE, PABLO",
+      "licencia": "1433"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CORO CACERES, MANUEL",
+        "licencia": "28202"
+      },
+      "X": {
+        "nombre": "SÁNCHEZ CASALES, JUAN ANTONIO",
+        "licencia": "41805"
+      },
+      "Z": {
+        "nombre": "CARREÑO RODRÍGUEZ, VICENTE",
+        "licencia": "37400"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343"
+      },
+      "B": {
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376"
+      },
+      "C": {
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CORO CACERES, MANUEL",
+        "licencia": "28202"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SÁNCHEZ CASALES, JUAN ANTONIO",
+        "licencia": "41805"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARREÑO RODRÍGUEZ, VICENTE",
+        "licencia": "37400"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SÁNCHEZ CASALES, JUAN ANTONIO",
+        "licencia": "41805"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CORO CACERES, MANUEL",
+        "licencia": "28202"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARREÑO RODRÍGUEZ, VICENTE",
+        "licencia": "37400"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASOCIACION DEPORTIVA ELIOCROCA LORCA TM",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 8,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

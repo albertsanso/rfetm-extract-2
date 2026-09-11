@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO MUNICIPAL SANTA ANA",
+    "ciudad": "Chiclana de la Frontera (Cádiz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM CHICLANA FUNDACION VIPREN",
+      "id": "557",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDDA HISPANIDAD",
+      "id": "20233495",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO LUPION GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "X": {
+        "nombre": "DIAZ CABALLERO, ISAAC",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "Z": {
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "B": {
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "C": {
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ CABALLERO, ISAAC",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ CABALLERO, ISAAC",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTIN GARCIA, JUAN ANTONIO",
+        "licencia": "4837",
+        "id": "4837"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NAVARRETE GUERRERO, JOSE LUIS",
+        "licencia": "485",
+        "id": "485"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM CHICLANA FUNDACION VIPREN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

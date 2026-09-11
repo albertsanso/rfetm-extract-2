@@ -1,0 +1,318 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 7,
+  "fecha": "2019-11-23",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO DE TECNIFICACION DE TENIS DE MESA",
+    "ciudad": "Priego de Córdoba (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HOTEL-MUSEO PATRIA CHICA PRIEGO TM",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO DE ASIS MONTES DEL CAÑO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 3116.0,
+        "id": "17113"
+      },
+      "B": {
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "ranking": 1657.0,
+        "id": "9165"
+      },
+      "C": {
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "ranking": 2688.0,
+        "id": "18620"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "KRISTINA KAZANTSEVA",
+        "licencia": "33706",
+        "ranking": 2850.0,
+        "id": "33706"
+      },
+      "X": {
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "ranking": 2095.0,
+        "id": "31925"
+      },
+      "Z": {
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "ranking": 1508.0,
+        "id": "11199"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "id": "17113"
+      },
+      {
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "id": "18620"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "KRISTINA KAZANTSEVA",
+        "licencia": "33706",
+        "id": "33706"
+      },
+      {
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "id": "31925"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 3116.0,
+        "id": "17113"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "KRISTINA KAZANTSEVA",
+        "licencia": "33706",
+        "ranking": 2850.0,
+        "id": "33706"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "ranking": 1657.0,
+        "id": "9165"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANETA OLENDZKA",
+        "licencia": "31925",
+        "ranking": 2095.0,
+        "id": "31925"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "ranking": 2688.0,
+        "id": "18620"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ANDREA PÉREZ RAMÍREZ",
+        "licencia": "11199",
+        "ranking": 1508.0,
+        "id": "11199"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARIJA GALONJA",
+            "licencia": "17113",
+            "id": "17113"
+          },
+          {
+            "nombre": "ZITA MELINDA CIURCUI",
+            "licencia": "18620",
+            "id": "18620"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "KRISTINA KAZANTSEVA",
+            "licencia": "33706",
+            "id": "33706"
+          },
+          {
+            "nombre": "ANETA OLENDZKA",
+            "licencia": "31925",
+            "id": "31925"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HOTEL-MUSEO PATRIA CHICA PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

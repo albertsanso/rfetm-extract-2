@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 14,
+  "jornada": 10,
+  "fecha": "2021-05-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON TENIS DE MESA VEGAS DEL GENIL CALLE LA ENCINA 21",
+    "ciudad": "Vegas del Genil (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM VEGAS DEL GENIL",
+      "id": "15",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TM ROQUETAS",
+      "id": "1532",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "EMILIO MANUEL GARCIA ARROYO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      },
+      "B": {
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "C": {
+        "nombre": "JOAQUIN RIVAS RUIZ",
+        "licencia": "20768",
+        "id": "20768"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JUAN FERNANDEZ MORENO",
+        "licencia": "5227",
+        "id": "5227"
+      },
+      "X": {
+        "nombre": "SALVADOR RECHE VAZQUEZ",
+        "licencia": "20061",
+        "id": "20061"
+      },
+      "Z": {
+        "nombre": "MARTIN RECHE VAZQUEZ",
+        "licencia": "21344",
+        "id": "21344"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN FERNANDEZ MORENO",
+        "licencia": "5227",
+        "id": "5227"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SALVADOR RECHE VAZQUEZ",
+        "licencia": "20061",
+        "id": "20061"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JOAQUIN RIVAS RUIZ",
+        "licencia": "20768",
+        "id": "20768"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN RECHE VAZQUEZ",
+        "licencia": "21344",
+        "id": "21344"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ADRIAN ANTEQUERA PALACIOS",
+        "licencia": "14895",
+        "id": "14895"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SALVADOR RECHE VAZQUEZ",
+        "licencia": "20061",
+        "id": "20061"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JOAQUIN RIVAS RUIZ",
+        "licencia": "20768",
+        "id": "20768"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN FERNANDEZ MORENO",
+        "licencia": "5227",
+        "id": "5227"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "HUGO URQUIZAR GUARDIA",
+        "licencia": "20748",
+        "id": "20748"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARTIN RECHE VAZQUEZ",
+        "licencia": "21344",
+        "id": "21344"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TM ROQUETAS",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

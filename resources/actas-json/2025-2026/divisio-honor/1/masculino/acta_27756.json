@@ -1,0 +1,380 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 1,
+  "jornada": 22,
+  "fecha": "2026-05-03",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Oroso (A Coruña)",
+    "recinto": "COMPLEJO DEPORTIVO JUANITO AMIGO SIGUEIRO (OROSO)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "OROSO TM PELUQUERíA TIJE",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "MALOV MALOV, VALERI",
+        "licencia": "1812"
+      }
+    },
+    "visitante": {
+      "nombre": "VILAGARCÍA TENIS DE MESA",
+      "delegado": {
+        "nombre": "CASTRO MONTENEGRO, ANTONIO",
+        "licencia": "995"
+      },
+      "entrenador": {
+        "nombre": "CASTRO MONTENEGRO, ANTONIO",
+        "licencia": "995"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "AMOR GOMEZ, JOSE LUIS",
+      "licencia": "1086"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MALOV CASTRO, ALEXANDER",
+        "licencia": "21826"
+      },
+      "X": {
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657"
+      },
+      "Z": {
+        "nombre": "OTALVARO GARCIA, ALEX FEDERICO",
+        "licencia": "34867"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411"
+      },
+      "B": {
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "C": {
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MALOV CASTRO, ALEXANDER",
+        "licencia": "21826"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OTALVARO GARCIA, ALEX FEDERICO",
+        "licencia": "34867"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VARELA SUAREZ, DIEGO",
+        "licencia": "16657"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CASALDERREY DIAZ, DANIEL",
+        "licencia": "4411"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MALOV CASTRO, ALEXANDER",
+        "licencia": "21826"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PADIN FERNANDEZ, FERNANDO",
+        "licencia": "4460"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "OTALVARO GARCIA, ALEX FEDERICO",
+        "licencia": "34867"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CASTRO SALGADO, PABLO",
+        "licencia": "22955"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "OROSO TM PELUQUERíA TIJE",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

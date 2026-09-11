@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 8,
+  "jornada": 8,
+  "fecha": "2021-04-10",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "LLUISOS DE GRACIA PLACA DEL NORD 7",
+    "ciudad": "10 - Barcelona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUBDELAOFICINA.COM CTT TORTOSA",
+      "id": "10771",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CPP IGUALADA",
+      "id": "2017342",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "XAVIER CASADEVALL CARRILERO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JUAN CARLOS MUÑOZ GONZALEZ",
+        "licencia": "25519",
+        "id": "25519"
+      },
+      "B": {
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "C": {
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "NESTOR TRONCOSO ACETE",
+        "licencia": "35990",
+        "id": "35990"
+      },
+      "X": {
+        "nombre": "CARLES CONTRERAS PORTA",
+        "licencia": "25392",
+        "id": "25392"
+      },
+      "Z": {
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS MUÑOZ GONZALEZ",
+        "licencia": "25519",
+        "id": "25519"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NESTOR TRONCOSO ACETE",
+        "licencia": "35990",
+        "id": "35990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLES CONTRERAS PORTA",
+        "licencia": "25392",
+        "id": "25392"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JUAN CARLOS MUÑOZ GONZALEZ",
+        "licencia": "25519",
+        "id": "25519"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLES CONTRERAS PORTA",
+        "licencia": "25392",
+        "id": "25392"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "NESTOR TRONCOSO ACETE",
+        "licencia": "35990",
+        "id": "35990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUBDELAOFICINA.COM CTT TORTOSA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRO DE ADULTOS",
+    "ciudad": "Lebrija (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GUADALSEM AMIGOS TM LEBRIJA",
+      "id": "20201675",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM TABOR AÑAVINGO",
+      "id": "74",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "VENANCIO ROMERO VIDAL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      },
+      "B": {
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      "C": {
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
+      },
+      "X": {
+        "nombre": "CARLOS ANDRES SANCHEZ ESPINOSA",
+        "licencia": "38501",
+        "id": "38501"
+      },
+      "Z": {
+        "nombre": "GUILLERMO SANCHEZ ZUÑIGA",
+        "licencia": "3834",
+        "id": "3834"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      },
+      {
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CARLOS ANDRES SANCHEZ ESPINOSA",
+        "licencia": "38501",
+        "id": "38501"
+      },
+      {
+        "nombre": "GUILLERMO SANCHEZ ZUÑIGA",
+        "licencia": "3834",
+        "id": "3834"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS ANDRES SANCHEZ ESPINOSA",
+        "licencia": "38501",
+        "id": "38501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLERMO SANCHEZ ZUÑIGA",
+        "licencia": "3834",
+        "id": "3834"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+        "licencia": "3019",
+        "id": "3019"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CARLOS ANDRES SANCHEZ ESPINOSA",
+        "licencia": "38501",
+        "id": "38501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GABRIEL CABEZAS JIMENEZ",
+        "licencia": "28198",
+        "id": "28198"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RUBEN HERNANDEZ MUÑIZ",
+        "licencia": "3047",
+        "id": "3047"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JORGE RAMOS RODRIGUEZ",
+        "licencia": "21965",
+        "id": "21965"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUILLERMO SANCHEZ ZUÑIGA",
+        "licencia": "3834",
+        "id": "3834"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ADOLFO ANTONIO TEJERO MARIN",
+            "licencia": "3019",
+            "id": "3019"
+          },
+          {
+            "nombre": "GABRIEL CABEZAS JIMENEZ",
+            "licencia": "28198",
+            "id": "28198"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARLOS ANDRES SANCHEZ ESPINOSA",
+            "licencia": "38501",
+            "id": "38501"
+          },
+          {
+            "nombre": "GUILLERMO SANCHEZ ZUÑIGA",
+            "licencia": "3834",
+            "id": "3834"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GUADALSEM AMIGOS TM LEBRIJA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

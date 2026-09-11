@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 5,
+  "fecha": "2023-10-29",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COMPLEJO DEPORTIVO DE LA CALZADA",
+    "ciudad": "Gijón (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CAFÉ QUIJANO GIJÓN TM",
+      "id": "2018797",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1284",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "MARIA LOZANO LOPEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FUERTES IGLESIAS, DAVID",
+        "licencia": "3072",
+        "id": "3072"
+      },
+      "B": {
+        "nombre": "TORREJON MENENDEZ, DAVID",
+        "licencia": "2073",
+        "id": "2073"
+      },
+      "C": {
+        "nombre": "GARCIA MENENDEZ, JONATHAN JOSE",
+        "licencia": "9367",
+        "id": "9367"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "id": "41527"
+      },
+      "X": {
+        "nombre": "SANTIAGO BARREIRO, CRISTOFER",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "Z": {
+        "nombre": "DIAZ GONZALEZ, BRAIS",
+        "licencia": "29828",
+        "id": "29828"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FUERTES IGLESIAS, DAVID",
+        "licencia": "3072",
+        "id": "3072"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "id": "41527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "TORREJON MENENDEZ, DAVID",
+        "licencia": "2073",
+        "id": "2073"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANTIAGO BARREIRO, CRISTOFER",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCIA MENENDEZ, JONATHAN JOSE",
+        "licencia": "9367",
+        "id": "9367"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ GONZALEZ, BRAIS",
+        "licencia": "29828",
+        "id": "29828"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FUERTES IGLESIAS, DAVID",
+        "licencia": "3072",
+        "id": "3072"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SANTIAGO BARREIRO, CRISTOFER",
+        "licencia": "5716",
+        "id": "5716"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCIA MENENDEZ, JONATHAN JOSE",
+        "licencia": "9367",
+        "id": "9367"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "id": "41527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "TORREJON MENENDEZ, DAVID",
+        "licencia": "2073",
+        "id": "2073"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DIAZ GONZALEZ, BRAIS",
+        "licencia": "29828",
+        "id": "29828"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CAFÉ QUIJANO GIJÓN TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

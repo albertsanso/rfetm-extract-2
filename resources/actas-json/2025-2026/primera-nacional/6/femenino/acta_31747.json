@@ -1,0 +1,368 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2025-11-16",
+  "hora": "12:30",
+  "lugar": {
+    "ciudad": "CEIP PIO XII",
+    "recinto": "C / DIEGO GóMEZ SALIDO S/N 11401-JEREZ DE LA FRONTERA (CÁDIZ)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. JEREZ",
+      "delegado": {
+        "nombre": "GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      },
+      "entrenador": {
+        "nombre": "GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      }
+    },
+    "visitante": {
+      "nombre": "A.D. TRES BALCONES B",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: GUERRERO PARRA, SEBASTIÁN",
+        "licencia": "16899"
+      },
+      "entrenador": {
+        "nombre": "LARGO ROMAN, ENRIQUE",
+        "licencia": "21109"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUPION GARCIA, ANTONIO",
+      "licencia": "19618"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GARCIA KHELIFI, SOFIA",
+        "licencia": "36671"
+      },
+      "X": {
+        "nombre": "GUAJARDO GARCIA, FERNANDA",
+        "licencia": "46920"
+      },
+      "Z": {
+        "nombre": "REYNALDO TOLEDO, CLAUDIA",
+        "licencia": "36669"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242"
+      },
+      "B": {
+        "nombre": "IGLESIAS ROMAN, BLANCA",
+        "licencia": "40654"
+      },
+      "C": {
+        "nombre": "NEVADO MARTÍN, JIMENA",
+        "licencia": "40645"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA KHELIFI, SOFIA",
+        "licencia": "36671"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUAJARDO GARCIA, FERNANDA",
+        "licencia": "46920"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IGLESIAS ROMAN, BLANCA",
+        "licencia": "40654"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REYNALDO TOLEDO, CLAUDIA",
+        "licencia": "36669"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NEVADO MARTÍN, JIMENA",
+        "licencia": "40645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GUAJARDO GARCIA, FERNANDA",
+        "licencia": "46920"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "IGLESIAS ROMAN, GABRIELA",
+        "licencia": "30242"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA KHELIFI, SOFIA",
+        "licencia": "36671"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NEVADO MARTÍN, JIMENA",
+        "licencia": "40645"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REYNALDO TOLEDO, CLAUDIA",
+        "licencia": "36669"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IGLESIAS ROMAN, BLANCA",
+        "licencia": "40654"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. JEREZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,435 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 4,
+  "fecha": "2023-02-11",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA ANTONIO MAZA",
+    "ciudad": "AVDA. DE GRANADA, S/N, ESQUINA CALLE PLAZA DE TOROS 23003 Jaén Jaén"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLAN TECH2 TM CARTAGENA",
+      "id": "20191626",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RESTAURANTE VENTUCCIO - CTM JAEN",
+      "id": "20222961",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO GARCIA MARTIN",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "X": {
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "Z": {
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "B": {
+        "nombre": "DULCE ABAD ORTEGA",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "C": {
+        "nombre": "PATRICIA AMARO ARANDA",
+        "licencia": "39812",
+        "id": "39812"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      {
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DULCE ABAD ORTEGA",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      {
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DULCE ABAD ORTEGA",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PATRICIA AMARO ARANDA",
+        "licencia": "39812",
+        "id": "39812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CLARA MONTALBAN TORRES",
+        "licencia": "3035",
+        "id": "3035"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ELISA FELIU MOREDA",
+        "licencia": "30174",
+        "id": "30174"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PATRICIA AMARO ARANDA",
+        "licencia": "39812",
+        "id": "39812"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+        "licencia": "6770",
+        "id": "6770"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DULCE ABAD ORTEGA",
+        "licencia": "5209",
+        "id": "5209"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ELISA FELIU MOREDA",
+            "licencia": "30174",
+            "id": "30174"
+          },
+          {
+            "nombre": "MARIA DEL PILAR HERRERA REQUENA",
+            "licencia": "6770",
+            "id": "6770"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DULCE ABAD ORTEGA",
+            "licencia": "5209",
+            "id": "5209"
+          },
+          {
+            "nombre": "MARINA LORENTE ESCOBAR",
+            "licencia": "15774",
+            "id": "15774"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RESTAURANTE VENTUCCIO - CTM JAEN",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

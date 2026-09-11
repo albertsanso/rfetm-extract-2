@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 7,
+  "fecha": "2019-11-16",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CEAR RIO ESGUEVA",
+    "ciudad": "Valladolid (Valladolid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VASA ARROYO-CDO",
+      "id": "50102",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ALUCHE T.M. - A",
+      "id": "10251",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JUAN CARLOS REDONDO GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "B": {
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "C": {
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PABLO LOZANO MARTINEZ",
+        "licencia": "5991",
+        "id": "5991"
+      },
+      "X": {
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "Z": {
+        "nombre": "ALBERTO GOMEZ RIVAS",
+        "licencia": "10168",
+        "id": "10168"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO LOZANO MARTINEZ",
+        "licencia": "5991",
+        "id": "5991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO GOMEZ RIVAS",
+        "licencia": "10168",
+        "id": "10168"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DANIEL GOMEZ SANDONIS",
+        "licencia": "10198",
+        "id": "10198"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MARCOS PIMENTEL SERRA",
+        "licencia": "19707",
+        "id": "19707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CRISTIAN BARBULESCU",
+        "licencia": "28770",
+        "id": "28770"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PABLO LOZANO MARTINEZ",
+        "licencia": "5991",
+        "id": "5991"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RAUL GOMEZ DEL OLMO",
+        "licencia": "18566",
+        "id": "18566"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO GOMEZ RIVAS",
+        "licencia": "10168",
+        "id": "10168"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VASA ARROYO-CDO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,370 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Masculina",
+  "grupo": 3,
+  "jornada": 15,
+  "fecha": "2026-02-08",
+  "hora": "12:00",
+  "lugar": {
+    "ciudad": "Sevilla (Sevilla)",
+    "recinto": "INSTALACIONES DEPORTIVAS DEL CIRCULO MERCANTIL"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA",
+      "delegado": {
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AYAMONTE SE MUEVE",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "entrenador": {
+        "nombre": "RUA CONCEPCION, JOSE LUIS",
+        "licencia": "5093"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ESPINO GOMEZ, RICARDO",
+      "licencia": "268"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "B": {
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      },
+      "C": {
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "TEJERO MARIN, ADOLFO",
+        "licencia": "31037"
+      },
+      "X": {
+        "nombre": "NURUDEEN ARISHEKOLA, HASSAN",
+        "licencia": "47026"
+      },
+      "Z": {
+        "nombre": "SANMARTIN GARCIA, MARCOS",
+        "licencia": "6162"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TEJERO MARIN, ADOLFO",
+        "licencia": "31037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NURUDEEN ARISHEKOLA, HASSAN",
+        "licencia": "47026"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANMARTIN GARCIA, MARCOS",
+        "licencia": "6162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "BORREGUERO RIVAS, ADRIAN",
+        "licencia": "24125"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "NURUDEEN ARISHEKOLA, HASSAN",
+        "licencia": "47026"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "TEJERO MARIN, ADOLFO",
+        "licencia": "31037"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SABUGAL MORGADO, NICOLAS",
+        "licencia": "26875"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SANMARTIN GARCIA, MARCOS",
+        "licencia": "6162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (2-4)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AYAMONTE SE MUEVE",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

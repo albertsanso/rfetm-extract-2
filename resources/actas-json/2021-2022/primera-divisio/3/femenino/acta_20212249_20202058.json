@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 4,
+  "jornada": 3,
+  "fecha": "2022-01-15",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "C.E.I.P. LEON FELIPE",
+    "ciudad": "AVENIDA DE CARLOS V, 28 28936-Móstoles (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA DEFENSE F LA PALMA",
+      "id": "20212249",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDE TM PROGRESO MOS",
+      "id": "20202058",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE PEDRO MARTIN HERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LARA ESCRIBANO GARCIA",
+        "licencia": "38561",
+        "id": "38561"
+      },
+      "X": {
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "Z": {
+        "nombre": "NURIA FERNANDEZ SANTOS",
+        "licencia": "29586",
+        "id": "29586"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "LARA MARIN LEAL",
+        "licencia": "27090",
+        "id": "27090"
+      },
+      "B": {
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "C": {
+        "nombre": "MYRIAM MARTíNEZ MONTALBáN",
+        "licencia": "36578",
+        "id": "36578"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LARA ESCRIBANO GARCIA",
+        "licencia": "38561",
+        "id": "38561"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LARA MARIN LEAL",
+        "licencia": "27090",
+        "id": "27090"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NURIA FERNANDEZ SANTOS",
+        "licencia": "29586",
+        "id": "29586"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MYRIAM MARTíNEZ MONTALBáN",
+        "licencia": "36578",
+        "id": "36578"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "AMALIA TRIANA SANCHEZ",
+        "licencia": "29258",
+        "id": "29258"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "LARA MARIN LEAL",
+        "licencia": "27090",
+        "id": "27090"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LARA ESCRIBANO GARCIA",
+        "licencia": "38561",
+        "id": "38561"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MYRIAM MARTíNEZ MONTALBáN",
+        "licencia": "36578",
+        "id": "36578"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "NURIA FERNANDEZ SANTOS",
+        "licencia": "29586",
+        "id": "29586"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOA PAYO ROJO",
+        "licencia": "28986",
+        "id": "28986"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDE TM PROGRESO MOS",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": "2023-11-18",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "INSTALACIONES DEPORTIVAS CIRCULO MERCANTIL INDUSTRIAL",
+    "ciudad": "AVDA. PRESIDENTE ADOLFO SUAREZ NO. 1 41011 SEVILLA SEVILLA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO MERCANTIL E INDUSTRIAL",
+      "id": "16202",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CIUDAD TENIS DE MESA TOMARES",
+      "id": "20233451",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GONZALEZ MUÑOZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DIAZ POPOVICS, SHEILA",
+        "licencia": "32571",
+        "id": "32571"
+      },
+      "X": {
+        "nombre": "MUÑOZ LOPEZ, PAULA",
+        "licencia": "34393",
+        "id": "34393"
+      },
+      "Z": {
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597",
+        "id": "36597"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "B": {
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "C": {
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DIAZ POPOVICS, SHEILA",
+        "licencia": "32571",
+        "id": "32571"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUÑOZ LOPEZ, PAULA",
+        "licencia": "34393",
+        "id": "34393"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597",
+        "id": "36597"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUÑOZ LOPEZ, PAULA",
+        "licencia": "34393",
+        "id": "34393"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JIMENEZ MORENO, AIDA",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DIAZ POPOVICS, SHEILA",
+        "licencia": "32571",
+        "id": "32571"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "XIE , RUITONG",
+        "licencia": "42320",
+        "id": "42320"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597",
+        "id": "36597"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SARRA LOPEZ, LíDIA",
+        "licencia": "41990",
+        "id": "41990"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO MERCANTIL E INDUSTRIAL",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

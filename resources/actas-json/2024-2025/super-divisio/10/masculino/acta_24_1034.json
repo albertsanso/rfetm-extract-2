@@ -1,0 +1,329 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 10,
+  "fecha": "2024-12-19",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CAJASUR PRIEGO TM",
+      "id": "24",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1034",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ROBLES MARTINEZ, ALVARO",
+        "licencia": "3713",
+        "ranking": 2754.1,
+        "id": "3713"
+      },
+      "X": {
+        "nombre": "SODERLUND , HAMPUS KE HANNES",
+        "licencia": "22235",
+        "ranking": 2607.2,
+        "id": "22235"
+      },
+      "Z": {
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054",
+        "ranking": 2375.7,
+        "id": "2054"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "B": {
+        "nombre": "GALVANO , NICOLAS DANIEL",
+        "licencia": "22257",
+        "ranking": 2171.0,
+        "id": "22257"
+      },
+      "C": {
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "ranking": 2052.2,
+        "id": "41527"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBLES MARTINEZ, ALVARO",
+        "licencia": "3713",
+        "ranking": 2754.1,
+        "id": "3713"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SODERLUND , HAMPUS KE HANNES",
+        "licencia": "22235",
+        "ranking": 2607.2,
+        "id": "22235"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GALVANO , NICOLAS DANIEL",
+        "licencia": "22257",
+        "ranking": 2171.0,
+        "id": "22257"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054",
+        "ranking": 2375.7,
+        "id": "2054"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "ranking": 2052.2,
+        "id": "41527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SODERLUND , HAMPUS KE HANNES",
+        "licencia": "22235",
+        "ranking": 2607.2,
+        "id": "22235"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BENTANCOR FERNANDEZ, MARTIN SEBASTIAN",
+        "licencia": "32709",
+        "ranking": 2303.8,
+        "id": "32709"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ROBLES MARTINEZ, ALVARO",
+        "licencia": "3713",
+        "ranking": 2754.1,
+        "id": "3713"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALTO SARMIENTO, LUCIANO",
+        "licencia": "41527",
+        "ranking": 2052.2,
+        "id": "41527"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

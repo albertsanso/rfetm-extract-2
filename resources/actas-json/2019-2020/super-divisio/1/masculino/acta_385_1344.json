@@ -1,0 +1,392 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2019-09-28",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "Burgos (Burgos)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - TPF",
+      "id": "385",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HISPALIS T.M",
+      "id": "1344",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO SAIZ GÜEMES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "B": {
+        "nombre": "CARLOS CABALLERO CUELLAR",
+        "licencia": "6788",
+        "ranking": 2505.0,
+        "id": "6788"
+      },
+      "C": {
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 2151.0,
+        "id": "3775"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANDREI BAIBULDIN",
+        "licencia": "34124",
+        "ranking": 3000.0,
+        "id": "34124"
+      },
+      "X": {
+        "nombre": "FRANCISCO MIGUEL RUIZ RODRIGUEZ",
+        "licencia": "10160",
+        "ranking": 1839.0,
+        "id": "10160"
+      },
+      "Z": {
+        "nombre": "GUSTAVO ALEJANDRO GOMEZ HERNANDEZ",
+        "licencia": "18737",
+        "ranking": 2816.0,
+        "id": "18737"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDREI BAIBULDIN",
+        "licencia": "34124",
+        "ranking": 3000.0,
+        "id": "34124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS CABALLERO CUELLAR",
+        "licencia": "6788",
+        "ranking": 2505.0,
+        "id": "6788"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FRANCISCO MIGUEL RUIZ RODRIGUEZ",
+        "licencia": "10160",
+        "ranking": 1839.0,
+        "id": "10160"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 2151.0,
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUSTAVO ALEJANDRO GOMEZ HERNANDEZ",
+        "licencia": "18737",
+        "ranking": 2816.0,
+        "id": "18737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALEXANDRU CRISTIAN CAZACU",
+        "licencia": "29645",
+        "ranking": 3068.0,
+        "id": "29645"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "FRANCISCO MIGUEL RUIZ RODRIGUEZ",
+        "licencia": "10160",
+        "ranking": 1839.0,
+        "id": "10160"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JORGE AUSIN BRIONGOS",
+        "licencia": "3775",
+        "ranking": 2151.0,
+        "id": "3775"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDREI BAIBULDIN",
+        "licencia": "34124",
+        "ranking": 3000.0,
+        "id": "34124"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS CABALLERO CUELLAR",
+        "licencia": "6788",
+        "ranking": 2505.0,
+        "id": "6788"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUSTAVO ALEJANDRO GOMEZ HERNANDEZ",
+        "licencia": "18737",
+        "ranking": 2816.0,
+        "id": "18737"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - TPF",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

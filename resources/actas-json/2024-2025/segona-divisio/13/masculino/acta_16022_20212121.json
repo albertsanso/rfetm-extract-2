@@ -1,0 +1,376 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 11,
+  "jornada": 13,
+  "fecha": "2025-02-02",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FRAMUSA TOTANA",
+      "id": "16022",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS MESA ELDA",
+      "id": "20212121",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TEJEDOR REVERTE, CESAR",
+        "licencia": "30596",
+        "id": "30596"
+      },
+      "B": {
+        "nombre": "ROS SANDOVAL, ANDRES DAVID",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "C": {
+        "nombre": "CARREÑO GARCÍA, VICENTE",
+        "licencia": "11086",
+        "id": "11086"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      },
+      "X": {
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "Z": {
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TEJEDOR REVERTE, CESAR",
+        "licencia": "30596",
+        "id": "30596"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ROS SANDOVAL, ANDRES DAVID",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARREÑO GARCÍA, VICENTE",
+        "licencia": "11086",
+        "id": "11086"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TEJEDOR REVERTE, CESAR",
+        "licencia": "30596",
+        "id": "30596"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GIL SANSANO, JUAN",
+        "licencia": "30501",
+        "id": "30501"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARREÑO GARCÍA, VICENTE",
+        "licencia": "11086",
+        "id": "11086"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DELTELL GARCIA, PABLO",
+        "licencia": "34068",
+        "id": "34068"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ROS SANDOVAL, ANDRES DAVID",
+        "licencia": "19540",
+        "id": "19540"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "TORRES RAMIREZ, MARIO",
+        "licencia": "14813",
+        "id": "14813"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FRAMUSA TOTANA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

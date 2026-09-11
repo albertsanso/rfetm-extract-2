@@ -1,0 +1,463 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 8,
+  "fecha": "2022-12-03",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN PARAÍSO INTERIOR",
+      "id": "14052",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MO ZHANG",
+        "licencia": "39632",
+        "ranking": 3056.0,
+        "id": "39632"
+      },
+      "B": {
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      },
+      "C": {
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "YANIRA SÁNCHEZ ALBA",
+        "licencia": "21176",
+        "ranking": 1551.0,
+        "id": "21176"
+      },
+      "X": {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2180.0,
+        "id": "33821"
+      },
+      "Z": {
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2519.0,
+        "id": "6401"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MO ZHANG",
+        "licencia": "39632",
+        "id": "39632"
+      },
+      {
+        "nombre": "IRINA ERMAKOVA",
+        "licencia": "29869",
+        "id": "29869"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "id": "33821"
+      },
+      {
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "id": "6401"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MO ZHANG",
+        "licencia": "39632",
+        "ranking": 3056.0,
+        "id": "39632"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANIRA SÁNCHEZ ALBA",
+        "licencia": "21176",
+        "ranking": 1551.0,
+        "id": "21176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2180.0,
+        "id": "33821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2519.0,
+        "id": "6401"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MO ZHANG",
+            "licencia": "39632",
+            "id": "39632"
+          },
+          {
+            "nombre": "IRINA ERMAKOVA",
+            "licencia": "29869",
+            "id": "29869"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "TIJANA JOKIC",
+            "licencia": "33821",
+            "id": "33821"
+          },
+          {
+            "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+            "licencia": "6401",
+            "id": "6401"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MO ZHANG",
+        "licencia": "39632",
+        "ranking": 3056.0,
+        "id": "39632"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "TIJANA JOKIC",
+        "licencia": "33821",
+        "ranking": 2180.0,
+        "id": "33821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SIMAY KULAKÇEKEN",
+        "licencia": "39630",
+        "ranking": 2500.0,
+        "id": "39630"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YANIRA SÁNCHEZ ALBA",
+        "licencia": "21176",
+        "ranking": 1551.0,
+        "id": "21176"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PAULA BUENO BUENO",
+        "licencia": "3909",
+        "ranking": 1476.0,
+        "id": "3909"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NATALYA PROSVIRNINA PROSVIRNINA",
+        "licencia": "6401",
+        "ranking": 2519.0,
+        "id": "6401"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN PARAÍSO INTERIOR",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

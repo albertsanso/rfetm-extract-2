@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 14,
+  "fecha": "2024-02-03",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "GIMNASIO INSTITUTO OLIVAR GRAN",
+    "ciudad": "Figueres (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+      "id": "1016",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT MOLLERUSSA PREFABRICATS PUJOL",
+      "id": "845",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID COLINAS CASTELLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "X": {
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "Z": {
+        "nombre": "MARTINEZ CAMACHO, ANDRES",
+        "licencia": "4834",
+        "id": "4834"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FERNANDEZ MARTINEZ, CRISTIAN",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "B": {
+        "nombre": "FERNANDEZ MARTINEZ, IVAN",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "C": {
+        "nombre": "MIRO G. GALCERAN, MARC",
+        "licencia": "16375",
+        "id": "16375"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ MARTINEZ, CRISTIAN",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ MARTINEZ, IVAN",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ CAMACHO, ANDRES",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIRO G. GALCERAN, MARC",
+        "licencia": "16375",
+        "id": "16375"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "GRAU HARO, SERGI",
+        "licencia": "16367",
+        "id": "16367"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FERNANDEZ MARTINEZ, CRISTIAN",
+        "licencia": "31380",
+        "id": "31380"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "REDONDO GALLARDO, MANEL",
+        "licencia": "17702",
+        "id": "17702"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MIRO G. GALCERAN, MARC",
+        "licencia": "16375",
+        "id": "16375"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARTINEZ CAMACHO, ANDRES",
+        "licencia": "4834",
+        "id": "4834"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FERNANDEZ MARTINEZ, IVAN",
+        "licencia": "16364",
+        "id": "16364"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA TRAMUNTANA FIGUERES",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

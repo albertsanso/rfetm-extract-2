@@ -1,0 +1,453 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 3,
+  "jornada": 1,
+  "fecha": "2025-10-19",
+  "hora": "12:30",
+  "lugar": {
+    "ciudad": "LOCAL CTT ELS AMICS TERRASSA",
+    "recinto": "CTRA. MATADEPERA, 323 8225-TERRASSA (BARCELONA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FALCONS SABADELL - SMATSA AGORA GRUP",
+      "delegado": {
+        "nombre": "SEÑOR CASAMITJANA, EDUARD",
+        "licencia": "31653"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "delegado": {
+        "nombre": "CARRASCO GALLEGO, DANIEL",
+        "licencia": "21630"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERREIRO LOPEZ, ELOY JOSE",
+      "licencia": "1436"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360"
+      },
+      "B": {
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720"
+      },
+      "C": {
+        "nombre": "LLOVET ORTEGA, AGNèS",
+        "licencia": "37196"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PAGÈS MARIN, ANNA",
+        "licencia": "33065"
+      },
+      "X": {
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322"
+      },
+      "Z": {
+        "nombre": "BARRAU ESTEVEZ, ANNA",
+        "licencia": "29385"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360"
+      },
+      {
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "PAGÈS MARIN, ANNA",
+        "licencia": "33065"
+      },
+      {
+        "nombre": "GARCIA DE SORIA MIRAPEIX, MAR",
+        "licencia": "27323"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAGÈS MARIN, ANNA",
+        "licencia": "33065"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 17
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "LLOVET ORTEGA, AGNèS",
+        "licencia": "37196"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARRAU ESTEVEZ, ANNA",
+        "licencia": "29385"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CASANOVAS ORIOL, AINA",
+        "licencia": "32360"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIGUELES GARCIA, MARIA",
+        "licencia": "27322"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "LLOVET ORTEGA, AGNèS",
+        "licencia": "37196"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PAGÈS MARIN, ANNA",
+        "licencia": "33065"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+        "licencia": "39720"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARRAU ESTEVEZ, ANNA",
+        "licencia": "29385"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CASANOVAS ORIOL, AINA",
+            "licencia": "32360"
+          },
+          {
+            "nombre": "CAPARRÓS SÁNCHEZ, AINOA",
+            "licencia": "39720"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PAGÈS MARIN, ANNA",
+            "licencia": "33065"
+          },
+          {
+            "nombre": "GARCIA DE SORIA MIRAPEIX, MAR",
+            "licencia": "27323"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FALCONS SABADELL - SMATSA AGORA GRUP",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

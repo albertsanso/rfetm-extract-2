@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2021-03-06",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "NAVE CEPISA CAMINO FORESTAL S/N",
+    "ciudad": "Zubia (La) (Granada)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PATIO ANDALUZ LA ZUBIA",
+      "id": "20181052",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
+      "id": "16207",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FRANCISCO ALONSO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JULIA MARTIN LINARES",
+        "licencia": "21949",
+        "id": "21949"
+      },
+      "B": {
+        "nombre": "MARIA GARCIA FERNANDEZ",
+        "licencia": "27862",
+        "id": "27862"
+      },
+      "C": {
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "X": {
+        "nombre": "CLAUDIA STEFANIA CARAGEA",
+        "licencia": "35301",
+        "id": "35301"
+      },
+      "Z": {
+        "nombre": "MERCEDES RUBIÑO MOTA",
+        "licencia": "20689",
+        "id": "20689"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JULIA MARTIN LINARES",
+        "licencia": "21949",
+        "id": "21949"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA GARCIA FERNANDEZ",
+        "licencia": "27862",
+        "id": "27862"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CLAUDIA STEFANIA CARAGEA",
+        "licencia": "35301",
+        "id": "35301"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MERCEDES RUBIÑO MOTA",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JULIA MARTIN LINARES",
+        "licencia": "21949",
+        "id": "21949"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CLAUDIA STEFANIA CARAGEA",
+        "licencia": "35301",
+        "id": "35301"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARINA LORENTE ESCOBAR",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA GARCIA FERNANDEZ",
+        "licencia": "27862",
+        "id": "27862"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALEJANDRA ALEJO ARMIJO",
+        "licencia": "20600",
+        "id": "20600"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN AUTÉNTICA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 6,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

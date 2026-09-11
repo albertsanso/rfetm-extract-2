@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 6,
+  "jornada": 4,
+  "fecha": "2022-10-30",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLóN MUNICIPAL DE DEPORTES",
+    "ciudad": "Bisbal d'Empordà (La) (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENNIS TAULA LA BISBAL",
+      "id": "14009",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T. ATENEU 1882",
+      "id": "151",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SALVADOR SIMON COLL",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SERGI ARTACHO FONTANET",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "B": {
+        "nombre": "JONATHAN DIAZ SANTALLA",
+        "licencia": "7415",
+        "id": "7415"
+      },
+      "C": {
+        "nombre": "FRANCESC FONTANET PEREZ",
+        "licencia": "2245",
+        "id": "2245"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "X": {
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      },
+      "Z": {
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SERGI ARTACHO FONTANET",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JONATHAN DIAZ SANTALLA",
+        "licencia": "7415",
+        "id": "7415"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC FONTANET PEREZ",
+        "licencia": "2245",
+        "id": "2245"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SERGI ARTACHO FONTANET",
+        "licencia": "8913",
+        "id": "8913"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JUAN DIAZ CARRILLO",
+        "licencia": "9353",
+        "id": "9353"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FRANCESC FONTANET PEREZ",
+        "licencia": "2245",
+        "id": "2245"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "FRANCISCO FERNANDEZ QUESADA",
+        "licencia": "1809",
+        "id": "1809"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JONATHAN DIAZ SANTALLA",
+        "licencia": "7415",
+        "id": "7415"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DAVID VIÑALS SERRANO",
+        "licencia": "31655",
+        "id": "31655"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENNIS TAULA LA BISBAL",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

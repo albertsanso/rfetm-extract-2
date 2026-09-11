@@ -1,0 +1,377 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 12,
+  "fecha": "2026-01-17",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "León (León)",
+    "recinto": "CHEF"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "delegado": {
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "UBU TPF BURGOS 2031",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GONZALEZ PONGA, VIDAL",
+      "licencia": "23200"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299"
+      },
+      "B": {
+        "nombre": "RIVERA HERNANDEZ, DENNIS",
+        "licencia": "14737"
+      },
+      "C": {
+        "nombre": "ALONSO CORONADO, ISIDRO",
+        "licencia": "34303"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALEZ ORTEGA, PABLO",
+        "licencia": "42193"
+      },
+      "X": {
+        "nombre": "MANTILLA BRICEÑO, ANDRES LEONARDO",
+        "licencia": "47304"
+      },
+      "Z": {
+        "nombre": "CHAVARRI GONZALEZ, OSCAR",
+        "licencia": "34278"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ ORTEGA, PABLO",
+        "licencia": "42193"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RIVERA HERNANDEZ, DENNIS",
+        "licencia": "14737"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANTILLA BRICEÑO, ANDRES LEONARDO",
+        "licencia": "47304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO CORONADO, ISIDRO",
+        "licencia": "34303"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CHAVARRI GONZALEZ, OSCAR",
+        "licencia": "34278"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MAGALLANES PEREZ, MARTIN",
+        "licencia": "32299"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MANTILLA BRICEÑO, ANDRES LEONARDO",
+        "licencia": "47304"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALONSO CORONADO, ISIDRO",
+        "licencia": "34303"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ ORTEGA, PABLO",
+        "licencia": "42193"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RIVERA HERNANDEZ, DENNIS",
+        "licencia": "14737"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CHAVARRI GONZALEZ, OSCAR",
+        "licencia": "34278"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

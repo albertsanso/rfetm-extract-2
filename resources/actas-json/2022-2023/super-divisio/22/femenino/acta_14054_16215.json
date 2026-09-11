@@ -1,0 +1,478 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 0,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA GANXETS DE REUS",
+    "ciudad": "Reus (Tarragona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "16215",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ENRIC CASADO PAGES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "B": {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2663.0,
+        "id": "3006"
+      },
+      "C": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "ranking": 1927.0,
+        "id": "18659"
+      },
+      "X": {
+        "nombre": "ANA RITA BARREIRA FINS",
+        "licencia": "39151",
+        "ranking": 2000.0,
+        "id": "39151"
+      },
+      "Z": {
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1911.0,
+        "id": "15670"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "id": "3006"
+      },
+      {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "id": "28792"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANA RITA BARREIRA FINS",
+        "licencia": "39151",
+        "id": "39151"
+      },
+      {
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "id": "18659"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "ranking": 1927.0,
+        "id": "18659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2663.0,
+        "id": "3006"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANA RITA BARREIRA FINS",
+        "licencia": "39151",
+        "ranking": 2000.0,
+        "id": "39151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1911.0,
+        "id": "15670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SARA RAMIREZ BERMUDEZ",
+            "licencia": "3006",
+            "id": "3006"
+          },
+          {
+            "nombre": "MARIA PAULINA VEGA MAGAÑA",
+            "licencia": "28792",
+            "id": "28792"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANA RITA BARREIRA FINS",
+            "licencia": "39151",
+            "id": "39151"
+          },
+          {
+            "nombre": "EUGENIA SASTRE PEREZ",
+            "licencia": "18659",
+            "id": "18659"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ELVIRA FIONA RAD HIND",
+        "licencia": "19272",
+        "ranking": 1981.0,
+        "id": "19272"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANA RITA BARREIRA FINS",
+        "licencia": "39151",
+        "ranking": 2000.0,
+        "id": "39151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2548.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "EUGENIA SASTRE PEREZ",
+        "licencia": "18659",
+        "ranking": 1927.0,
+        "id": "18659"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SARA RAMIREZ BERMUDEZ",
+        "licencia": "3006",
+        "ranking": 2663.0,
+        "id": "3006"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "AINHOA CRISTOBAL HUERTAS",
+        "licencia": "15670",
+        "ranking": 1911.0,
+        "id": "15670"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS MIRÓ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

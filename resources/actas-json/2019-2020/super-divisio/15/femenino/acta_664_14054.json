@@ -1,0 +1,378 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 15,
+  "fecha": "2020-02-29",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ASSSA ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "REUS GANXETS MIRÓ",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2628.0,
+        "id": "28792"
+      },
+      "B": {
+        "nombre": "MONICA HORTAL FORONDA",
+        "licencia": "7624",
+        "ranking": 800.0,
+        "id": "7624"
+      },
+      "C": {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1900.0,
+        "id": "10564"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "OLGA BLIZNET",
+        "licencia": "35007",
+        "ranking": 2200.0,
+        "id": "35007"
+      },
+      "X": {
+        "nombre": "YUE ZUO",
+        "licencia": "34868",
+        "ranking": 2500.0,
+        "id": "34868"
+      },
+      "Z": {
+        "nombre": "SVETLANA SKOBKINA SKOBKINA",
+        "licencia": "26120",
+        "ranking": 1038.0,
+        "id": "26120"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "id": "28792"
+      },
+      {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "id": "10564"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "YUE ZUO",
+        "licencia": "34868",
+        "id": "34868"
+      },
+      {
+        "nombre": "OLGA BLIZNET",
+        "licencia": "35007",
+        "id": "35007"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2628.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "OLGA BLIZNET",
+        "licencia": "35007",
+        "ranking": 2200.0,
+        "id": "35007"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MONICA HORTAL FORONDA",
+        "licencia": "7624",
+        "ranking": 800.0,
+        "id": "7624"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YUE ZUO",
+        "licencia": "34868",
+        "ranking": 2500.0,
+        "id": "34868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1900.0,
+        "id": "10564"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SVETLANA SKOBKINA SKOBKINA",
+        "licencia": "26120",
+        "ranking": 1038.0,
+        "id": "26120"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARIA PAULINA VEGA MAGAÑA",
+            "licencia": "28792",
+            "id": "28792"
+          },
+          {
+            "nombre": "MARINA ÑIGUEZ GARCIA",
+            "licencia": "10564",
+            "id": "10564"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "YUE ZUO",
+            "licencia": "34868",
+            "id": "34868"
+          },
+          {
+            "nombre": "OLGA BLIZNET",
+            "licencia": "35007",
+            "id": "35007"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARIA PAULINA VEGA MAGAÑA",
+        "licencia": "28792",
+        "ranking": 2628.0,
+        "id": "28792"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "YUE ZUO",
+        "licencia": "34868",
+        "ranking": 2500.0,
+        "id": "34868"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REUS GANXETS MIRÓ",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 7,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

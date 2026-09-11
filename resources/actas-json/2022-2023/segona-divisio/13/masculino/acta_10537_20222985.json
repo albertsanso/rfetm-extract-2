@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2023-02-04",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON COLEGIO AREALONGA",
+    "ciudad": "Vilagarcía de Arousa (Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VILAGARCIA TENIS DE MESA",
+      "id": "10537",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB DEL MAR DE SAN AMARO",
+      "id": "20222985",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALBERTO RIAL GONDAR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PABLO CASTRO SALGADO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "B": {
+        "nombre": "ANDRES CASTRO OREIRO",
+        "licencia": "27993",
+        "id": "27993"
+      },
+      "C": {
+        "nombre": "NAZARII SOLODKYI",
+        "licencia": "38976",
+        "id": "38976"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "X": {
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "Z": {
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO CASTRO SALGADO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDRES CASTRO OREIRO",
+        "licencia": "27993",
+        "id": "27993"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NAZARII SOLODKYI",
+        "licencia": "38976",
+        "id": "38976"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PABLO CASTRO SALGADO",
+        "licencia": "22955",
+        "id": "22955"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LEI CHEN",
+        "licencia": "31471",
+        "id": "31471"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NAZARII SOLODKYI",
+        "licencia": "38976",
+        "id": "38976"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SERGIO PEREZ FANDIÑO",
+        "licencia": "16636",
+        "id": "16636"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDRES CASTRO OREIRO",
+        "licencia": "27993",
+        "id": "27993"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALBERTO SEOANE ALCARAZ",
+        "licencia": "5689",
+        "id": "5689"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VILAGARCIA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

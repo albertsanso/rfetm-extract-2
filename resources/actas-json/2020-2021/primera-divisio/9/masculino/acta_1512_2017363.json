@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 2,
+  "jornada": 9,
+  "fecha": "2021-04-10",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO IES PUNTALARGA",
+    "ciudad": "RAMBLA DE LOS MENCEYES, 27 - Candelaria (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. TENIS DE MESA TEMEGUESTE",
+      "id": "1512",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D. HIDRA LOS REALEJOS",
+      "id": "2017363",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIO PADILLA PEREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "X": {
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      },
+      "Z": {
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "B": {
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "C": {
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOSE DAVID GONZALEZ MARRERO",
+        "licencia": "1834",
+        "id": "1834"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ELBERTH PARRA PEREZ",
+        "licencia": "22763",
+        "id": "22763"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EDUARDO GONZALEZ MARTIN",
+        "licencia": "3437",
+        "id": "3437"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RUBEN DELGADO HERRERA",
+        "licencia": "6443",
+        "id": "6443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CRISTIAN ALONSO MARRERO",
+        "licencia": "10634",
+        "id": "10634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": null,
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 2,
+  "jornada": 4,
+  "fecha": "2024-10-19",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENNIS TAULA CASSÀ",
+      "id": "41",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "id": "1272",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "B": {
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "C": {
+        "nombre": "ZIMARIN , ARTEM",
+        "licencia": "29868",
+        "id": "29868"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALEZ CANO, DANIEL",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "X": {
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212",
+        "id": "33212"
+      },
+      "Z": {
+        "nombre": "MADICO MARTI, GERARD",
+        "licencia": "25305",
+        "id": "25305"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CANO, DANIEL",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212",
+        "id": "33212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ZIMARIN , ARTEM",
+        "licencia": "29868",
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MADICO MARTI, GERARD",
+        "licencia": "25305",
+        "id": "25305"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212",
+        "id": "33212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ZIMARIN , ARTEM",
+        "licencia": "29868",
+        "id": "29868"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CANO, DANIEL",
+        "licencia": "25785",
+        "id": "25785"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MADICO MARTI, GERARD",
+        "licencia": "25305",
+        "id": "25305"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS TAULA CASSÀ",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 3,
+  "jornada": 7,
+  "fecha": "2025-11-16",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Linares (Jaén)",
+    "recinto": "SALA DE TENIS FELIPE VI"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "VR ARENA LINARES",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MURPROTEC - ALCOBENDAS TM",
+      "delegado": {
+        "nombre": "MARCOS METAIS, BRUNO",
+        "licencia": "36212"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TORRES ALCALA, MANUEL",
+      "licencia": "14582"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347"
+      },
+      "X": {
+        "nombre": "TSAI , YOU-JEN",
+        "licencia": "47116"
+      },
+      "Z": {
+        "nombre": "PAJARES MUÑOZ, MARTA",
+        "licencia": "4927"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CIUREZ CAZACU, MICAELA",
+        "licencia": "5139"
+      },
+      "B": {
+        "nombre": "TORIO SAN JOSE, PATRICIA",
+        "licencia": "26515"
+      },
+      "C": {
+        "nombre": "MARCOS BEJAR, CHLOE",
+        "licencia": "33492"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CIUREZ CAZACU, MICAELA",
+        "licencia": "5139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TSAI , YOU-JEN",
+        "licencia": "47116"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TORIO SAN JOSE, PATRICIA",
+        "licencia": "26515"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAJARES MUÑOZ, MARTA",
+        "licencia": "4927"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCOS BEJAR, CHLOE",
+        "licencia": "33492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "TSAI , YOU-JEN",
+        "licencia": "47116"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CIUREZ CAZACU, MICAELA",
+        "licencia": "5139"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SUAREZ LOPEZ, SARA",
+        "licencia": "29347"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARCOS BEJAR, CHLOE",
+        "licencia": "33492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAJARES MUÑOZ, MARTA",
+        "licencia": "4927"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "TORIO SAN JOSE, PATRICIA",
+        "licencia": "26515"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VR ARENA LINARES",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

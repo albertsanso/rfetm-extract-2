@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 9,
+  "jornada": 10,
+  "fecha": "2023-01-15",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO LA RAMBLA",
+    "ciudad": "Coslada (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M. COSLADA",
+      "id": "54",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "NAVALCAN TENIS DE MESA",
+      "id": "20222572",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "HUGO HERRERO CERCADILLO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "B": {
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "C": {
+        "nombre": "ANGEL DIAZ ROLDAN",
+        "licencia": "709",
+        "id": "709"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "DIEGO DIAZ DAPICA",
+        "licencia": "18740",
+        "id": "18740"
+      },
+      "X": {
+        "nombre": "ALEJANDRO COGOLLO MUÑOZ",
+        "licencia": "29687",
+        "id": "29687"
+      },
+      "Z": {
+        "nombre": "FABIAN MUÑOZ GONZALEZ",
+        "licencia": "10404",
+        "id": "10404"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DIEGO DIAZ DAPICA",
+        "licencia": "18740",
+        "id": "18740"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO COGOLLO MUÑOZ",
+        "licencia": "29687",
+        "id": "29687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANGEL DIAZ ROLDAN",
+        "licencia": "709",
+        "id": "709"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FABIAN MUÑOZ GONZALEZ",
+        "licencia": "10404",
+        "id": "10404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ANGEL OLTRA ALONSO",
+        "licencia": "18486",
+        "id": "18486"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALEJANDRO COGOLLO MUÑOZ",
+        "licencia": "29687",
+        "id": "29687"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANGEL DIAZ ROLDAN",
+        "licencia": "709",
+        "id": "709"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "DIEGO DIAZ DAPICA",
+        "licencia": "18740",
+        "id": "18740"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALFREDO QUIJADA REVILLA",
+        "licencia": "3574",
+        "id": "3574"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FABIAN MUÑOZ GONZALEZ",
+        "licencia": "10404",
+        "id": "10404"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M. COSLADA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 1
+    }
+  },
+  "acta_protestada": false
+}

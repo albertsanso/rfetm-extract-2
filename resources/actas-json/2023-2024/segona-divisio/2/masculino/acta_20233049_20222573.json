@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 9,
+  "jornada": 2,
+  "fecha": "2023-10-07",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA ALMENDRALEJO",
+      "id": "20233049",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "T.M. FUENTE DEL MAESTRE VITALFIT",
+      "id": "20222573",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "BLAS NUÑEZ GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "X": {
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "Z": {
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VIÑUELA PARRA, DARIO",
+        "licencia": "31853",
+        "id": "31853"
+      },
+      "B": {
+        "nombre": "LOPEZ SAYAGO, FRANCISCO JAVIER",
+        "licencia": "7324",
+        "id": "7324"
+      },
+      "C": {
+        "nombre": "MORAN MARIN, JUAN FRANCISCO",
+        "licencia": "6740",
+        "id": "6740"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIÑUELA PARRA, DARIO",
+        "licencia": "31853",
+        "id": "31853"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LOPEZ SAYAGO, FRANCISCO JAVIER",
+        "licencia": "7324",
+        "id": "7324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MORAN MARIN, JUAN FRANCISCO",
+        "licencia": "6740",
+        "id": "6740"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VIÑUELA PARRA, DARIO",
+        "licencia": "31853",
+        "id": "31853"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MORAN MARIN, JUAN FRANCISCO",
+        "licencia": "6740",
+        "id": "6740"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ VENEGAS, JESUS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LOPEZ SAYAGO, FRANCISCO JAVIER",
+        "licencia": "7324",
+        "id": "7324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

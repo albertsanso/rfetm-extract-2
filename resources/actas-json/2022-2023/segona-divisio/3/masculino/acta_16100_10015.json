@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2022-10-23",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO DE BERA BERA",
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": "16100",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.D FORTUNA K.E - SUPER AMARA",
+      "id": "10015",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANE RIBERA ANTON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "AITOR MICHELENA VICENTE",
+        "licencia": "2628",
+        "id": "2628"
+      },
+      "B": {
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "C": {
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "IÑIGO ARROZPIDE NEGREDO",
+        "licencia": "21734",
+        "id": "21734"
+      },
+      "X": {
+        "nombre": "JON MENDIZABAL",
+        "licencia": "37569",
+        "id": "37569"
+      },
+      "Z": {
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      {
+        "nombre": "AITOR MICHELENA VICENTE",
+        "licencia": "2628",
+        "id": "2628"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      {
+        "nombre": "IÑIGO ARROZPIDE NEGREDO",
+        "licencia": "21734",
+        "id": "21734"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "AITOR MICHELENA VICENTE",
+        "licencia": "2628",
+        "id": "2628"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IÑIGO ARROZPIDE NEGREDO",
+        "licencia": "21734",
+        "id": "21734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JON MENDIZABAL",
+        "licencia": "37569",
+        "id": "37569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "AITOR MICHELENA VICENTE",
+        "licencia": "2628",
+        "id": "2628"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JON MENDIZABAL",
+        "licencia": "37569",
+        "id": "37569"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CHRISTIAN MARIA ZULAICA LAROCHETTE",
+        "licencia": "37518",
+        "id": "37518"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "IÑIGO ARROZPIDE NEGREDO",
+        "licencia": "21734",
+        "id": "21734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ARITZ POMPOSO MATEO",
+        "licencia": "20211",
+        "id": "20211"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "AIMAR INSAUSTI ECHALUCE",
+            "licencia": "21747",
+            "id": "21747"
+          },
+          {
+            "nombre": "AITOR MICHELENA VICENTE",
+            "licencia": "2628",
+            "id": "2628"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ARITZ POMPOSO MATEO",
+            "licencia": "20211",
+            "id": "20211"
+          },
+          {
+            "nombre": "IÑIGO ARROZPIDE NEGREDO",
+            "licencia": "21734",
+            "id": "21734"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D FORTUNA K.E - SUPER AMARA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

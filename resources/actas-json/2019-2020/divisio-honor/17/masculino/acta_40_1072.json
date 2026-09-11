@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "División De Honor Masculina",
+  "grupo": 2,
+  "jornada": 17,
+  "fecha": "2020-02-29",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COLEGIO PUBLICO CRISTOBAL DE GAMON",
+    "ciudad": "Errenteria (Guipúzcoa)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MARPEX BERAUN ERRENTERIA T.M.",
+      "id": "40",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SOSMATIC BADALONA",
+      "id": "1072",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "PABLO VICENTE VICENTE",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "B": {
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "C": {
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "X": {
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "Z": {
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAIME VIDAL GARCIA",
+        "licencia": "3600",
+        "id": "3600"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PAU LLORET RIGAT",
+        "licencia": "16795",
+        "id": "16795"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JUAN OLAZABAL MONTERO",
+        "licencia": "21756",
+        "id": "21756"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTI PELACHS MONELL",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ADRIAN PRESTO PALACIO",
+        "licencia": "18857",
+        "id": "18857"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARC CLOTET CARRERAS",
+        "licencia": "2146",
+        "id": "2146"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SOSMATIC BADALONA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

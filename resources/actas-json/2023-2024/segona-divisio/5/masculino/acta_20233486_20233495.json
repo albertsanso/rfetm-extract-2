@@ -1,0 +1,384 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 5,
+  "fecha": "2023-10-29",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON DEPORTIVO LA RAMBLA",
+    "ciudad": "Rambla (La) (Córdoba)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "NATURAL SYSTEMS TM",
+      "id": "20233486",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CDDA HISPANIDAD",
+      "id": "20233495",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JESUS GARCIA SERRANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      },
+      "B": {
+        "nombre": "ALCAIDE PORTERO, FRANCISCO SOLANO",
+        "licencia": "22077",
+        "id": "22077"
+      },
+      "C": {
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "X": {
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "Z": {
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALCAIDE PORTERO, FRANCISCO SOLANO",
+        "licencia": "22077",
+        "id": "22077"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ALCAIDE PRIEGO, MANUEL",
+        "licencia": "7876",
+        "id": "7876"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PEREZ MARTINEZ, JUAN",
+        "licencia": "8558",
+        "id": "8558"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALCAIDE PORTERO, FRANCISCO SOLANO",
+        "licencia": "22077",
+        "id": "22077"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "NATURAL SYSTEMS TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

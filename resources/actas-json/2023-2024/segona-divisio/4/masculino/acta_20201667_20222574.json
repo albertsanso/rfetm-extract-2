@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 9,
+  "jornada": 4,
+  "fecha": "2023-10-21",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "Local multiusos del Ayuntamiento",
+    "ciudad": "Torreorgaz (Cáceres)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ASOCIACION DEPORTIVA LOS TRES BALCONES",
+      "id": "20201667",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM RODEO PETROGOLD DE CÁCERES",
+      "id": "20222574",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SARA PALACIOS RUIZ DE EGUINO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "B": {
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      },
+      "C": {
+        "nombre": "NEVADO VIOQUE, ADAN",
+        "licencia": "33966",
+        "id": "33966"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VELASQUEZ ACEVEDO, JERÓNIMO",
+        "licencia": "41754",
+        "id": "41754"
+      },
+      "X": {
+        "nombre": "MORA BARROSO, SAMUEL",
+        "licencia": "38042",
+        "id": "38042"
+      },
+      "Z": {
+        "nombre": "ROMERO GALAN, ROBERTO",
+        "licencia": "8216",
+        "id": "8216"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VELASQUEZ ACEVEDO, JERÓNIMO",
+        "licencia": "41754",
+        "id": "41754"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORA BARROSO, SAMUEL",
+        "licencia": "38042",
+        "id": "38042"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "NEVADO VIOQUE, ADAN",
+        "licencia": "33966",
+        "id": "33966"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ROMERO GALAN, ROBERTO",
+        "licencia": "8216",
+        "id": "8216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MORA BARROSO, SAMUEL",
+        "licencia": "38042",
+        "id": "38042"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "NEVADO VIOQUE, ADAN",
+        "licencia": "33966",
+        "id": "33966"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VELASQUEZ ACEVEDO, JERÓNIMO",
+        "licencia": "41754",
+        "id": "41754"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ROMERO GALAN, ROBERTO",
+        "licencia": "8216",
+        "id": "8216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM RODEO PETROGOLD DE CÁCERES",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

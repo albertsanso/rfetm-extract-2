@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 10,
+  "jornada": 8,
+  "fecha": "2021-04-10",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "CLUB TENNIS TAULA L´HOSPITALET APRESTADORA, 25",
+    "ciudad": "LOCAL 9-10 - Hospitalet de Llobregat (L') (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "WBTRAVEL CTT RIPOLLET",
+      "id": "48",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "U.E. SANT CUGAT",
+      "id": "719",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID SANTOS CUENCA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "X": {
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "Z": {
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "B": {
+        "nombre": "NOEL-RENE ADINA DOMINGO",
+        "licencia": "4166",
+        "id": "4166"
+      },
+      "C": {
+        "nombre": "GABRIEL OLIVERAS AGUADE",
+        "licencia": "25891",
+        "id": "25891"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOEL-RENE ADINA DOMINGO",
+        "licencia": "4166",
+        "id": "4166"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GABRIEL OLIVERAS AGUADE",
+        "licencia": "25891",
+        "id": "25891"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "IZANI MORA LEMUS",
+        "licencia": "25762",
+        "id": "25762"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 4,
+          "local": 16,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTI BERENGUER MIMO",
+        "licencia": "10302",
+        "id": "10302"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GABRIEL OLIVERAS AGUADE",
+        "licencia": "25891",
+        "id": "25891"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 17,
+          "visitante": 19
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PAU BARCELO MAS",
+        "licencia": "19035",
+        "id": "19035"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOEL-RENE ADINA DOMINGO",
+        "licencia": "4166",
+        "id": "4166"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "WBTRAVEL CTT RIPOLLET",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,443 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 14,
+  "fecha": "2026-01-31",
+  "hora": "18:00",
+  "lugar": {
+    "ciudad": "Zaragoza (Zaragoza)",
+    "recinto": "I.E.S. AVEMPACE"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "PUBLIMAX C.D. SANTIAGO T.M.",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "ARAGON PEREZ, JOSE LUIS",
+        "licencia": "780"
+      }
+    },
+    "visitante": {
+      "nombre": "TITUS BADALONA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: ARAGON PEREZ, JOSE LUIS",
+        "licencia": "780"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "MAZA GRACIA, JAVIER",
+      "licencia": "919"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "LOPEZ AJENJO, CRISTIAN",
+        "licencia": "8334"
+      },
+      "X": {
+        "nombre": "MAICAS ANDRES, RAUL",
+        "licencia": "9654"
+      },
+      "Z": {
+        "nombre": "VILLARROYA GONZALEZ, HECTOR",
+        "licencia": "9653"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VOLODIN , VIACHESLAV",
+        "licencia": "39396"
+      },
+      "B": {
+        "nombre": "RUESCAS ACEDO, DAVID",
+        "licencia": "29083"
+      },
+      "C": {
+        "nombre": "SERRA BOIX, MARC",
+        "licencia": "3191"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MAICAS ANDRES, RAUL",
+        "licencia": "9654"
+      },
+      {
+        "nombre": "VILLARROYA GONZALEZ, HECTOR",
+        "licencia": "9653"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "VOLODIN , VIACHESLAV",
+        "licencia": "39396"
+      },
+      {
+        "nombre": "SERRA BOIX, MARC",
+        "licencia": "3191"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LOPEZ AJENJO, CRISTIAN",
+        "licencia": "8334"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VOLODIN , VIACHESLAV",
+        "licencia": "39396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAICAS ANDRES, RAUL",
+        "licencia": "9654"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUESCAS ACEDO, DAVID",
+        "licencia": "29083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VILLARROYA GONZALEZ, HECTOR",
+        "licencia": "9653"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRA BOIX, MARC",
+        "licencia": "3191"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAICAS ANDRES, RAUL",
+        "licencia": "9654"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VOLODIN , VIACHESLAV",
+        "licencia": "39396"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "LOPEZ AJENJO, CRISTIAN",
+        "licencia": "8334"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SERRA BOIX, MARC",
+        "licencia": "3191"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VILLARROYA GONZALEZ, HECTOR",
+        "licencia": "9653"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RUESCAS ACEDO, DAVID",
+        "licencia": "29083"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MAICAS ANDRES, RAUL",
+            "licencia": "9654"
+          },
+          {
+            "nombre": "VILLARROYA GONZALEZ, HECTOR",
+            "licencia": "9653"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VOLODIN , VIACHESLAV",
+            "licencia": "39396"
+          },
+          {
+            "nombre": "SERRA BOIX, MARC",
+            "licencia": "3191"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "PUBLIMAX C.D. SANTIAGO T.M.",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

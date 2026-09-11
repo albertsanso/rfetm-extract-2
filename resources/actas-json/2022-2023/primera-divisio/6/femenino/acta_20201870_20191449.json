@@ -1,0 +1,349 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 6,
+  "fecha": "2023-04-29",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "C.E.I.P. JESÚS VARELA",
+    "ciudad": "AVENIDA DE PORTUGAL, 12 28921 Alcorcón Madrid"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D. TRES BALCONES",
+      "id": "20201870",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "id": "20191449",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "HUGO HERRERO CERCADILLO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GABRIELA IGLESIAS ROMAN",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "X": {
+        "nombre": "NURIA LARGO ROMAN",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "Z": {
+        "nombre": "LETICIA ROMAN ROSA",
+        "licencia": "33929",
+        "id": "33929"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "B": {
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "C": {
+        "nombre": "CRISTINA ANTUNEZ PORRINO",
+        "licencia": "27707",
+        "id": "27707"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GABRIELA IGLESIAS ROMAN",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "NURIA LARGO ROMAN",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LETICIA ROMAN ROSA",
+        "licencia": "33929",
+        "id": "33929"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CRISTINA ANTUNEZ PORRINO",
+        "licencia": "27707",
+        "id": "27707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "NURIA LARGO ROMAN",
+        "licencia": "21178",
+        "id": "21178"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PAULA GONZALEZ CARRASCO",
+        "licencia": "8859",
+        "id": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GABRIELA IGLESIAS ROMAN",
+        "licencia": "30242",
+        "id": "30242"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CRISTINA ANTUNEZ PORRINO",
+        "licencia": "27707",
+        "id": "27707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CANDELA GALLEGO NEVADO",
+        "licencia": "30248",
+        "id": "30248"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SILVIA GONZALEZ CARRASCO",
+        "licencia": "27711",
+        "id": "27711"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D. TRES BALCONES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

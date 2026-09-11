@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 4,
+  "jornada": 8,
+  "fecha": "2021-04-10",
+  "hora": "15:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO PEDRO LLERA LOSADA AV. ARGENTINA, S/N,",
+    "ciudad": "Luarca (Asturias)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MANUFACTURAS DEPORTIVAS",
+      "id": "2018819",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AVILES T.M.",
+      "id": "927",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PEDRO RODRIGUEZ GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "X": {
+        "nombre": "DANIEL PALAZUELOS SAN FERMÍN",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "Z": {
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "B": {
+        "nombre": "JULIO RODILLA HERNANDEZ",
+        "licencia": "20821",
+        "id": "20821"
+      },
+      "C": {
+        "nombre": "CARLOS MONFORTE RADILLO",
+        "licencia": "610",
+        "id": "610"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL PALAZUELOS SAN FERMÍN",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIO RODILLA HERNANDEZ",
+        "licencia": "20821",
+        "id": "20821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLOS MONFORTE RADILLO",
+        "licencia": "610",
+        "id": "610"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DANIEL PALAZUELOS SAN FERMÍN",
+        "licencia": "19047",
+        "id": "19047"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FELIX GONZALEZ GONZALEZ",
+        "licencia": "1200",
+        "id": "1200"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ADRIÁN PAÑEDA DÍAZ",
+        "licencia": "26284",
+        "id": "26284"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLOS MONFORTE RADILLO",
+        "licencia": "610",
+        "id": "610"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER RECIO BARZANA",
+        "licencia": "9894",
+        "id": "9894"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIO RODILLA HERNANDEZ",
+        "licencia": "20821",
+        "id": "20821"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MANUFACTURAS DEPORTIVAS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

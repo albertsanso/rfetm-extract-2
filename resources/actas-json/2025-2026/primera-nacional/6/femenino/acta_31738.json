@@ -1,0 +1,428 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 2,
+  "fecha": "2025-11-15",
+  "hora": "19:00",
+  "lugar": {
+    "ciudad": "CEIP PIO XII",
+    "recinto": "C / DIEGO GóMEZ SALIDO S/N 11401-JEREZ DE LA FRONTERA (CÁDIZ)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUNDACIÓN SANDO NOVACARTAMA TM",
+      "delegado": {
+        "nombre": "VEGA CAÑETE, EVA",
+        "licencia": "20757"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "A.D. TRES BALCONES",
+      "delegado": {
+        "nombre": "ROMAN PAVON, RUFINA",
+        "licencia": "27203"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUPION GARCIA, ANTONIO",
+      "licencia": "19618"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718"
+      },
+      "B": {
+        "nombre": "LÁZARO FERNÁNDEZ, LUCÍA",
+        "licencia": "39612"
+      },
+      "C": {
+        "nombre": "DIAZ MORA, DANIELA",
+        "licencia": "45767"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207"
+      },
+      "X": {
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178"
+      },
+      "Z": {
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718"
+      },
+      {
+        "nombre": "LÁZARO FERNÁNDEZ, LUCÍA",
+        "licencia": "39612"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178"
+      },
+      {
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LÁZARO FERNÁNDEZ, LUCÍA",
+        "licencia": "39612"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DIAZ MORA, DANIELA",
+        "licencia": "45767"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GÓMEZ LAMPRE, CARMEN",
+        "licencia": "36718"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LARGO ROMAN, NURIA",
+        "licencia": "21178"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DIAZ MORA, DANIELA",
+        "licencia": "45767"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ROMAN QUINTANILLA, SONIA",
+        "licencia": "27207"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LÁZARO FERNÁNDEZ, LUCÍA",
+        "licencia": "39612"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PABLOS ROMAN, VERONICA",
+        "licencia": "7538"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GÓMEZ LAMPRE, CARMEN",
+            "licencia": "36718"
+          },
+          {
+            "nombre": "LÁZARO FERNÁNDEZ, LUCÍA",
+            "licencia": "39612"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LARGO ROMAN, NURIA",
+            "licencia": "21178"
+          },
+          {
+            "nombre": "PABLOS ROMAN, VERONICA",
+            "licencia": "7538"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FUNDACIÓN SANDO NOVACARTAMA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

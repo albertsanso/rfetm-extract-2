@@ -1,0 +1,328 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 2,
+  "fecha": "2025-10-24",
+  "hora": "18:00",
+  "lugar": {
+    "ciudad": "Priego de Córdoba (Córdoba)",
+    "recinto": "CIUDAD DEPORTIVA \"CARLOS MACHADO\""
+  },
+  "equipos": {
+    "local": {
+      "nombre": "REAL CLUB CAJASUR PRIEGO TM",
+      "delegado": {
+        "nombre": "MACHADO SOBRADOS, JESUS MARIA",
+        "licencia": "1336"
+      },
+      "entrenador": {
+        "nombre": "CALVO RUESCAS, LUIS",
+        "licencia": "371"
+      }
+    },
+    "visitante": {
+      "nombre": "ALICANTE TM",
+      "delegado": {
+        "nombre": "LLOBREGAT OÑATE, GUILLERMO",
+        "licencia": "9270"
+      },
+      "entrenador": {
+        "nombre": "LLOBREGAT OÑATE, GUILLERMO",
+        "licencia": "9270"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RODRIGUEZ RUIZ, ANTONIO JESUS",
+      "licencia": "1394"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SALIFOU , ABDEL-KADER",
+        "licencia": "46836"
+      },
+      "X": {
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121"
+      },
+      "Z": {
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "NISHIHARA , SHOMA",
+        "licencia": "44379"
+      },
+      "B": {
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376"
+      },
+      "C": {
+        "nombre": "LILLO BORDAJANDI, ALBERTO",
+        "licencia": "17948"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SALIFOU , ABDEL-KADER",
+        "licencia": "46836"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NISHIHARA , SHOMA",
+        "licencia": "44379"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LILLO BORDAJANDI, DIEGO",
+        "licencia": "18376"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MACHADO SOBRADOS, CARLOS DAVID",
+        "licencia": "2054"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "LILLO BORDAJANDI, ALBERTO",
+        "licencia": "17948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERREIRA DE CARVALHO, DIOGO MIGUEL",
+        "licencia": "17121"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "NISHIHARA , SHOMA",
+        "licencia": "44379"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-0)"
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": null
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": null
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-0)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "REAL CLUB CAJASUR PRIEGO TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

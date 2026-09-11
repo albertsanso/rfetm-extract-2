@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 9,
+  "jornada": 4,
+  "fecha": "2021-03-20",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "NAVE CARRER DE VELLUTERS NUM. 19",
+    "ciudad": "Palma de Mallorca (Baleares (Illes))"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB PALMA TENNIS TAULA",
+      "id": "16051",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "id": "10457",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "BERNARDO ROSELLO BALLESTER",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JAUME OLIVER GONZALEZ",
+        "licencia": "9517",
+        "id": "9517"
+      },
+      "B": {
+        "nombre": "JUAN GARCÍA SALAMANCA",
+        "licencia": "21164",
+        "id": "21164"
+      },
+      "C": {
+        "nombre": "ALVARO CASTILLO PALOMINO",
+        "licencia": "15853",
+        "id": "15853"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JAUME PAÑELLA FULLANA",
+        "licencia": "16492",
+        "id": "16492"
+      },
+      "X": {
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "Z": {
+        "nombre": "MARC ALEJANDRE MORILLA",
+        "licencia": "21913",
+        "id": "21913"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JAUME OLIVER GONZALEZ",
+        "licencia": "9517",
+        "id": "9517"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JAUME PAÑELLA FULLANA",
+        "licencia": "16492",
+        "id": "16492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN GARCÍA SALAMANCA",
+        "licencia": "21164",
+        "id": "21164"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO CASTILLO PALOMINO",
+        "licencia": "15853",
+        "id": "15853"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARC ALEJANDRE MORILLA",
+        "licencia": "21913",
+        "id": "21913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JAUME OLIVER GONZALEZ",
+        "licencia": "9517",
+        "id": "9517"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ALBERT JOSEP GOMEZ FRONTERA",
+        "licencia": "20606",
+        "id": "20606"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ALVARO CASTILLO PALOMINO",
+        "licencia": "15853",
+        "id": "15853"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JAUME PAÑELLA FULLANA",
+        "licencia": "16492",
+        "id": "16492"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN GARCÍA SALAMANCA",
+        "licencia": "21164",
+        "id": "21164"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARC ALEJANDRE MORILLA",
+        "licencia": "21913",
+        "id": "21913"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SON CLADERA TTC",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

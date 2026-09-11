@@ -1,0 +1,381 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Segunda División Masculina",
+  "grupo": 5,
+  "jornada": 15,
+  "fecha": "2026-02-07",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Sant Joan Despí (Barcelona)",
+    "recinto": "GIMNASIO DEL COLEGIO ATENEU INSTRUCTIU (FRENTE AL CAMPO DE FUTBOL)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DESPÍ TT- ALUMINIOS ARAQUE",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RUESCAS ACEDO, DAVID",
+      "licencia": "29083"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ESCOBAR FERNANDEZ, DAVID",
+        "licencia": "32238"
+      },
+      "X": {
+        "nombre": "DIAZ CARRILLO, JUAN",
+        "licencia": "9353"
+      },
+      "Z": {
+        "nombre": "SAIZ HERNANDEZ, DAVID",
+        "licencia": "1107"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "B": {
+        "nombre": "RIERA MUNIESA, JOAN",
+        "licencia": "980"
+      },
+      "C": {
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESCOBAR FERNANDEZ, DAVID",
+        "licencia": "32238"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ CARRILLO, JUAN",
+        "licencia": "9353"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RIERA MUNIESA, JOAN",
+        "licencia": "980"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SAIZ HERNANDEZ, DAVID",
+        "licencia": "1107"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIAZ CARRILLO, JUAN",
+        "licencia": "9353"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARRIDO ALSINA, MARTI",
+        "licencia": "27431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ESCOBAR FERNANDEZ, DAVID",
+        "licencia": "32238"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GIMENO FONT, BIEL",
+        "licencia": "23509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SAIZ HERNANDEZ, DAVID",
+        "licencia": "1107"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "RIERA MUNIESA, JOAN",
+        "licencia": "980"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DESPÍ TT- ALUMINIOS ARAQUE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

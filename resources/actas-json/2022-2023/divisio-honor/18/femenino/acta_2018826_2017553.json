@@ -1,0 +1,389 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 3,
+  "jornada": 18,
+  "fecha": "2023-03-12",
+  "hora": "11:30",
+  "lugar": {
+    "recinto": "GIMNASO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA TM CEIP TERESA BERGANZA",
+      "id": "2018826",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.M. JEREZ",
+      "id": "2017553",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "SANTIAGO HERRERO GÓMEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "X": {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "id": "10564"
+      },
+      "Z": {
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "id": "8643"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MERCEDES FERNANDEZ GAINZA",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "B": {
+        "nombre": "ABRIL GONZÁLEZ SÁNCHEZ",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "C": {
+        "nombre": "TATIANA MIKHAILOVA",
+        "licencia": "40882",
+        "id": "40882"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MERCEDES FERNANDEZ GAINZA",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "id": "10564"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABRIL GONZÁLEZ SÁNCHEZ",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MIREIA CIFUENTES FERNANDEZ",
+        "licencia": "8643",
+        "id": "8643"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TATIANA MIKHAILOVA",
+        "licencia": "40882",
+        "id": "40882"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "id": "10564"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MERCEDES FERNANDEZ GAINZA",
+        "licencia": "19151",
+        "id": "19151"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FANG NING CHEN CHEN",
+        "licencia": "4855",
+        "id": "4855"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "TATIANA MIKHAILOVA",
+        "licencia": "40882",
+        "id": "40882"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SARA SUAREZ LOPEZ",
+        "licencia": "29347",
+        "id": "29347"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ABRIL GONZÁLEZ SÁNCHEZ",
+        "licencia": "18133",
+        "id": "18133"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA TM CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

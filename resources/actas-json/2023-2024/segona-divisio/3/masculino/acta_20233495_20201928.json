@@ -1,0 +1,485 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 10,
+  "jornada": 3,
+  "fecha": "2023-10-14",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "CENTRO SOCIAL DE LA HISPANIDAD",
+    "ciudad": "Huelva (Huelva)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CDDA HISPANIDAD",
+      "id": "20233495",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "id": "20201928",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MIGUEL HERNANDEZ MORENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "X": {
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "Z": {
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "B": {
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "C": {
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      {
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      {
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FERNANDEZ PEREZ, DANIEL",
+        "licencia": "9919",
+        "id": "9919"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792",
+        "id": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "VAZQUEZ VELASCO, MANUEL",
+        "licencia": "10162",
+        "id": "10162"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GALAN SANCHEZ, JAVIER",
+        "licencia": "32540",
+        "id": "32540"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RUIZ VIDES, JAVIER",
+        "licencia": "21806",
+        "id": "21806"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTINEZ MUÑOZ, JOSE MANUEL",
+        "licencia": "1178",
+        "id": "1178"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VAZQUEZ VELASCO, MANUEL",
+            "licencia": "10162",
+            "id": "10162"
+          },
+          {
+            "nombre": "RUIZ VIDES, JAVIER",
+            "licencia": "21806",
+            "id": "21806"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARO RAMIREZ, JOSE MANUEL",
+            "licencia": "8792",
+            "id": "8792"
+          },
+          {
+            "nombre": "GALAN SANCHEZ, JAVIER",
+            "licencia": "32540",
+            "id": "32540"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CDDA HISPANIDAD",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

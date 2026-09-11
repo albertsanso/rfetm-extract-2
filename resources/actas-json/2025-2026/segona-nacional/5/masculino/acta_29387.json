@@ -1,0 +1,438 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 5,
+  "jornada": 10,
+  "fecha": "2025-12-14",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Barcelona (Barcelona)",
+    "recinto": "LLUÏSOS D'HORTA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LLUISOS D'HORTA TT",
+      "delegado": {
+        "nombre": "SOLE AMELL, XAVIER",
+        "licencia": "25128"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "C.T.T SALLENT.RESET",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: SOLE AMELL, XAVIER",
+        "licencia": "25128"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARMONA RODRIGUEZ, MANUEL",
+      "licencia": "536"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MARTINEZ DE MORENTIN ALVAREZ, SERGI",
+        "licencia": "25758"
+      },
+      "B": {
+        "nombre": "PEREZ ISCLA, XAVIER",
+        "licencia": "27414"
+      },
+      "C": {
+        "nombre": "GOMEZ ACIN, LLUIS",
+        "licencia": "39625"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARTINEZ ALCON, RICARD",
+        "licencia": "3481"
+      },
+      "X": {
+        "nombre": "SALA GARCIA, RAMON",
+        "licencia": "1614"
+      },
+      "Z": {
+        "nombre": "SIBILA BUITRAGO, JOEL",
+        "licencia": "31920"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PEREZ ISCLA, XAVIER",
+        "licencia": "27414"
+      },
+      {
+        "nombre": "GOMEZ ACIN, LLUIS",
+        "licencia": "39625"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "SALA GARCIA, RAMON",
+        "licencia": "1614"
+      },
+      {
+        "nombre": "MARTINEZ ALCON, RICARD",
+        "licencia": "3481"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ DE MORENTIN ALVAREZ, SERGI",
+        "licencia": "25758"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTINEZ ALCON, RICARD",
+        "licencia": "3481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PEREZ ISCLA, XAVIER",
+        "licencia": "27414"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SALA GARCIA, RAMON",
+        "licencia": "1614"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GOMEZ ACIN, LLUIS",
+        "licencia": "39625"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIBILA BUITRAGO, JOEL",
+        "licencia": "31920"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MARTINEZ DE MORENTIN ALVAREZ, SERGI",
+        "licencia": "25758"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SALA GARCIA, RAMON",
+        "licencia": "1614"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GOMEZ ACIN, LLUIS",
+        "licencia": "39625"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARTINEZ ALCON, RICARD",
+        "licencia": "3481"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PEREZ ISCLA, XAVIER",
+        "licencia": "27414"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIBILA BUITRAGO, JOEL",
+        "licencia": "31920"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PEREZ ISCLA, XAVIER",
+            "licencia": "27414"
+          },
+          {
+            "nombre": "GOMEZ ACIN, LLUIS",
+            "licencia": "39625"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SALA GARCIA, RAMON",
+            "licencia": "1614"
+          },
+          {
+            "nombre": "MARTINEZ ALCON, RICARD",
+            "licencia": "3481"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T SALLENT.RESET",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

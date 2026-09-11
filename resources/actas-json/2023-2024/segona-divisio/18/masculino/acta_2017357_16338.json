@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 18,
+  "fecha": "2024-03-16",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON ESPERANZA LAG",
+    "ciudad": "Elche/Elx (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ILICITANO",
+      "id": "2017357",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "FRAMUSA TOTANA TM",
+      "id": "16338",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "HERUAN JOSE ESCALONA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "B": {
+        "nombre": "GALLEGO GARCIA, JOSE ANTONIO",
+        "licencia": "5060",
+        "id": "5060"
+      },
+      "C": {
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      },
+      "X": {
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "Z": {
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "GALLEGO GARCIA, JOSE ANTONIO",
+        "licencia": "5060",
+        "id": "5060"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TEJUELO GARCIA, JOSE ANTONIO",
+        "licencia": "943",
+        "id": "943"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MENDEZ GARCIA, DOMINGO",
+        "licencia": "17430",
+        "id": "17430"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "IBAÑEZ CARRILLO, FRANCISCO JOSE",
+        "licencia": "1521",
+        "id": "1521"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MENDEZ GARRE, DOMINGO",
+        "licencia": "5454",
+        "id": "5454"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "GALLEGO GARCIA, JOSE ANTONIO",
+        "licencia": "5060",
+        "id": "5060"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MENDEZ GARCIA, SANTIAGO",
+        "licencia": "17431",
+        "id": "17431"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM ILICITANO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

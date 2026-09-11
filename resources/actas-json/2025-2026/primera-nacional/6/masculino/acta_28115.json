@@ -1,0 +1,387 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Masculina",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2025-10-18",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Murcia (Murcia)",
+    "recinto": "SALA ESPECÍFICA TENIS DE MESA PABELLÓN PRÍNCIPE DE ASTURIAS"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM MURCIA REVYSPORT",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "REVERTE VIDAL, JOSE LUIS",
+        "licencia": "20433"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA MAZDA JEREZ",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: REVERTE VIDAL, JOSE LUIS",
+        "licencia": "20433"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GOMEZ-VAZQUEZ ALVAREZ, IRENE",
+      "licencia": "21094"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986"
+      },
+      "X": {
+        "nombre": "RAMIREZ ANDRADES, MANUEL",
+        "licencia": "3125"
+      },
+      "Z": {
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792"
+      },
+      "B": {
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147"
+      },
+      "C": {
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAMIREZ ANDRADES, MANUEL",
+        "licencia": "3125"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "RAMIREZ ANDRADES, MANUEL",
+        "licencia": "3125"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARO RAMIREZ, JOSE MANUEL",
+        "licencia": "8792"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALARCÓN GUERRERO, ENRIQUE",
+        "licencia": "19986"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MURIEL BLANCO, DAVID CRISTIAN",
+        "licencia": "2875"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DELGADO HERNÁNDEZ, CRISTIAN DANIEL",
+        "licencia": "39541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "VIGO ALVAREZ, PABLO",
+        "licencia": "19147"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM MURCIA REVYSPORT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

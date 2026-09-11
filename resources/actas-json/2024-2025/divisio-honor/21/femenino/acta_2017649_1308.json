@@ -1,0 +1,351 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 1,
+  "jornada": 21,
+  "fecha": "2025-04-27",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CORVERASTUR TM",
+      "id": "2017649",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": "1308",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "X": {
+        "nombre": "LOZANO LOPEZ, MARIA",
+        "licencia": "31566",
+        "id": "31566"
+      },
+      "Z": {
+        "nombre": "SANCHEZ POSADA ORIHUELA, CLARA",
+        "licencia": "23464",
+        "id": "23464"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "B": {
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "C": {
+        "nombre": "ALVAREZ LOPEZ, ALBA",
+        "licencia": "27263",
+        "id": "27263"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOZANO LOPEZ, MARIA",
+        "licencia": "31566",
+        "id": "31566"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ POSADA ORIHUELA, CLARA",
+        "licencia": "23464",
+        "id": "23464"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVAREZ LOPEZ, ALBA",
+        "licencia": "27263",
+        "id": "27263"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOZANO LOPEZ, MARIA",
+        "licencia": "31566",
+        "id": "31566"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA TRELLES, MARIÑA",
+        "licencia": "19656",
+        "id": "19656"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PASTRANA GARCIA, ANGELA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ALVAREZ LOPEZ, ALBA",
+        "licencia": "27263",
+        "id": "27263"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SANCHEZ POSADA ORIHUELA, CLARA",
+        "licencia": "23464",
+        "id": "23464"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PRADO COEJO, ALBA",
+        "licencia": "35410",
+        "id": "35410"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 6
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "VISIT PONTEVEDRA",
+    "marcador_partidos": {
+      "local": 0,
+      "visitante": 6
+    },
+    "marcador_juegos": {
+      "local": 2,
+      "visitante": 18
+    }
+  },
+  "acta_protestada": false
+}

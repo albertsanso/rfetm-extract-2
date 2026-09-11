@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 9,
+  "fecha": "2022-12-17",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "EXTREMADURA TM ALMENDRALEJO",
+      "id": "14",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MADRID C.T.M.",
+      "id": "20201664",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "BLAS NUÑEZ GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "X": {
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "Z": {
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SAUL HERNAN GONZALEZ DE LENA",
+        "licencia": "27934",
+        "id": "27934"
+      },
+      "B": {
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
+      },
+      "C": {
+        "nombre": "DIEGO ALMENA NOHEDA",
+        "licencia": "27899",
+        "id": "27899"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAUL HERNAN GONZALEZ DE LENA",
+        "licencia": "27934",
+        "id": "27934"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEGO ALMENA NOHEDA",
+        "licencia": "27899",
+        "id": "27899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JUAN BAUTISTA PEREZ GONZALEZ",
+        "licencia": "1170",
+        "id": "1170"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAUL HERNAN GONZALEZ DE LENA",
+        "licencia": "27934",
+        "id": "27934"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JESUS SANCHEZ VENEGAS",
+        "licencia": "6763",
+        "id": "6763"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DIEGO ALMENA NOHEDA",
+        "licencia": "27899",
+        "id": "27899"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GONZALO ZABALLOS GALAN",
+        "licencia": "23391",
+        "id": "23391"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "EXTREMADURA TM ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

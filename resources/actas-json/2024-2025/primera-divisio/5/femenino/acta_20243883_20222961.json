@@ -1,0 +1,467 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2025-03-23",
+  "hora": "12:30",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TARTESSOS VAUS",
+      "id": "20243883",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RESTAURANTE VENTUCCIO - CTM JAEN",
+      "id": "20222961",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "B": {
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "C": {
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "X": {
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "Z": {
+        "nombre": "HERRERíAS MUñOZ, IRENE",
+        "licencia": "36171",
+        "id": "36171"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      {
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      {
+        "nombre": "HERRERíAS MUñOZ, IRENE",
+        "licencia": "36171",
+        "id": "36171"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HERRERíAS MUñOZ, IRENE",
+        "licencia": "36171",
+        "id": "36171"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "LORENTE ESCOBAR, MARINA",
+        "licencia": "15774",
+        "id": "15774"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GUERRERO GARCIA, ADRIANA",
+        "licencia": "37759",
+        "id": "37759"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "HERRERíAS MUñOZ, IRENE",
+        "licencia": "36171",
+        "id": "36171"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "FLOR GALLEGO, ROSALIA",
+            "licencia": "17902",
+            "id": "17902"
+          },
+          {
+            "nombre": "CARMONA ARANA, NEREA",
+            "licencia": "30256",
+            "id": "30256"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LORENTE ESCOBAR, MARINA",
+            "licencia": "15774",
+            "id": "15774"
+          },
+          {
+            "nombre": "HERRERíAS MUñOZ, IRENE",
+            "licencia": "36171",
+            "id": "36171"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RESTAURANTE VENTUCCIO - CTM JAEN",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

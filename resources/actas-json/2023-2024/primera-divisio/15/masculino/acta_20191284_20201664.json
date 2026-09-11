@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 5,
+  "jornada": 15,
+  "fecha": "2024-02-11",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "GIMNASIO CEIP TERESA BERGANZA",
+    "ciudad": "Boadilla del Monte (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA T.M. CEIP TERESA BERGANZA",
+      "id": "20191284",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "MADRID C.T.M.",
+      "id": "20201664",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "TOMAS RUIZ QUESADA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      "X": {
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "Z": {
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822",
+        "id": "22822"
+      },
+      "B": {
+        "nombre": "OVIEDO ESCOBAR, AYRTON ANDRE",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "C": {
+        "nombre": "SOSA SOSA, PABLO",
+        "licencia": "10469",
+        "id": "10469"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822",
+        "id": "22822"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OVIEDO ESCOBAR, AYRTON ANDRE",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SOSA SOSA, PABLO",
+        "licencia": "10469",
+        "id": "10469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ZABALLOS GALAN, MIGUEL",
+        "licencia": "23393",
+        "id": "23393"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PLA DORADO, YANKO",
+        "licencia": "22822",
+        "id": "22822"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MURIEL URIBE, JULIAN DAVID",
+        "licencia": "33728",
+        "id": "33728"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SOSA SOSA, PABLO",
+        "licencia": "10469",
+        "id": "10469"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SUAREZ LOPEZ, ALBERTO",
+        "licencia": "28085",
+        "id": "28085"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "OVIEDO ESCOBAR, AYRTON ANDRE",
+        "licencia": "34218",
+        "id": "34218"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "BOADILLA T.M. CEIP TERESA BERGANZA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

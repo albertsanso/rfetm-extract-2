@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 8,
+  "jornada": 12,
+  "fecha": "2020-01-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "I.E.S PEDRO IBARRA",
+    "ciudad": "Elche/Elx (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DAMA DE ELCHE OPTICA LOOK",
+      "id": "2017338",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLETICO SAN JAVIER DE TENIS DE MESA",
+      "id": "2018808",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAFAEL BELTRA SEVILLA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "BOGDAN DANIEL OLIVOS AYALA",
+        "licencia": "31916",
+        "id": "31916"
+      },
+      "X": {
+        "nombre": "ENRIQUE CUENCA RAMIREZ",
+        "licencia": "29852",
+        "id": "29852"
+      },
+      "Z": {
+        "nombre": "VICTOR MANUEL GAMBOA MIRALLES",
+        "licencia": "19615",
+        "id": "19615"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "FRANCISCO JAVIER VILLAESCUSA PEREZ",
+        "licencia": "9244",
+        "id": "9244"
+      },
+      "B": {
+        "nombre": "ANTONIO MARIN AVILES",
+        "licencia": "11116",
+        "id": "11116"
+      },
+      "C": {
+        "nombre": "ANTONIO VILLAESCUSA ZAPATA",
+        "licencia": "9243",
+        "id": "9243"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BOGDAN DANIEL OLIVOS AYALA",
+        "licencia": "31916",
+        "id": "31916"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JAVIER VILLAESCUSA PEREZ",
+        "licencia": "9244",
+        "id": "9244"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE CUENCA RAMIREZ",
+        "licencia": "29852",
+        "id": "29852"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO MARIN AVILES",
+        "licencia": "11116",
+        "id": "11116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VICTOR MANUEL GAMBOA MIRALLES",
+        "licencia": "19615",
+        "id": "19615"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO VILLAESCUSA ZAPATA",
+        "licencia": "9243",
+        "id": "9243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIQUE CUENCA RAMIREZ",
+        "licencia": "29852",
+        "id": "29852"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "FRANCISCO JAVIER VILLAESCUSA PEREZ",
+        "licencia": "9244",
+        "id": "9244"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "BOGDAN DANIEL OLIVOS AYALA",
+        "licencia": "31916",
+        "id": "31916"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTONIO VILLAESCUSA ZAPATA",
+        "licencia": "9243",
+        "id": "9243"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "VICTOR MANUEL GAMBOA MIRALLES",
+        "licencia": "19615",
+        "id": "19615"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ANTONIO MARIN AVILES",
+        "licencia": "11116",
+        "id": "11116"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "DAMA DE ELCHE OPTICA LOOK",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,344 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 4,
+  "fecha": "2023-02-11",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "NAVE INDUSTRIAL",
+    "ciudad": "POLÍGONO PARQUE HUELVA EMPRESARIAL 21007 Huelva Huelva"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA TECNIK '87",
+      "id": "20222865",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ESCUELA TIERRA DE BARROS TM",
+      "id": "20191419",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALFONSO PEREZ CARDENAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "AIDA JIMENEZ MORENO",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "X": {
+        "nombre": "JOANNA ZILOTIN JORDANOVA",
+        "licencia": "34113",
+        "id": "34113"
+      },
+      "Z": {
+        "nombre": "AINURA ISMAILOVA ISMAILOVA",
+        "licencia": "28098",
+        "id": "28098"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      },
+      "B": {
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      },
+      "C": {
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AIDA JIMENEZ MORENO",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOANNA ZILOTIN JORDANOVA",
+        "licencia": "34113",
+        "id": "34113"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AINURA ISMAILOVA ISMAILOVA",
+        "licencia": "28098",
+        "id": "28098"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "JOANNA ZILOTIN JORDANOVA",
+        "licencia": "34113",
+        "id": "34113"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CRISTINA LANCHARRO DELGADO",
+        "licencia": "20977",
+        "id": "20977"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "AIDA JIMENEZ MORENO",
+        "licencia": "21142",
+        "id": "21142"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "NURIA PRECIADO GOMEZ",
+        "licencia": "36835",
+        "id": "36835"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "AINURA ISMAILOVA ISMAILOVA",
+        "licencia": "28098",
+        "id": "28098"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "NOELIA PRADO BRAVO",
+        "licencia": "37004",
+        "id": "37004"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA TECNIK '87",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,431 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 5,
+  "jornada": 5,
+  "fecha": "2025-11-01",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Alicante/Alacant (Alicante)",
+    "recinto": "SALA TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALICANTE TM",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "VALERO TUINENBURG, DANIEL",
+        "licencia": "2113"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+      "delegado": {
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      },
+      "entrenador": {
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RIZO VALERO, RUBEN",
+      "licencia": "22288"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638"
+      },
+      "X": {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "Z": {
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      },
+      "B": {
+        "nombre": "BOTELLO ENCINAS, ALVARO",
+        "licencia": "31161"
+      },
+      "C": {
+        "nombre": "ROMERO BARRIGA, EMILIANO",
+        "licencia": "43981"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      {
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      },
+      {
+        "nombre": "ROMERO BARRIGA, EMILIANO",
+        "licencia": "43981"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BOTELLO ENCINAS, ALVARO",
+        "licencia": "31161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROMERO BARRIGA, EMILIANO",
+        "licencia": "43981"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PUERTO LILLO, HECTOR",
+        "licencia": "19892"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BLANCO GONZALEZ, CARLOS",
+        "licencia": "4210"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARTÍNEZ ESCAJA, FERNANDO",
+        "licencia": "39638"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ROMERO BARRIGA, EMILIANO",
+        "licencia": "43981"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "REUS AMAT, RAFAEL",
+        "licencia": "29173"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "BOTELLO ENCINAS, ALVARO",
+        "licencia": "31161"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "PUERTO LILLO, HECTOR",
+            "licencia": "19892"
+          },
+          {
+            "nombre": "REUS AMAT, RAFAEL",
+            "licencia": "29173"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "BLANCO GONZALEZ, CARLOS",
+            "licencia": "4210"
+          },
+          {
+            "nombre": "ROMERO BARRIGA, EMILIANO",
+            "licencia": "43981"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

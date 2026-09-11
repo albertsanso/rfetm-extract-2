@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": null,
+  "grupo": 5,
+  "jornada": 2,
+  "fecha": null,
+  "hora": null,
+  "lugar": {
+    "ciudad": "SALA TENIS DE MESA FELIPE VI",
+    "recinto": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TECNIGEN LINARES",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "ROLDAN PEREZ, ALMUDENA",
+        "licencia": "2512"
+      }
+    },
+    "visitante": {
+      "nombre": "CARTAGENA FÉMINAS",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "CONESA QUINTO, ANTONIO",
+        "licencia": "876"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "BAENA REDONDO, FRANCISCO",
+      "licencia": "6787"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      "X": {
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "Z": {
+        "nombre": "CARO-ACCINO PEÑA, MENCIA",
+        "licencia": "40617"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644"
+      },
+      "B": {
+        "nombre": "SANCHEZ MOLES, JULIA",
+        "licencia": "38975"
+      },
+      "C": {
+        "nombre": "GARCIA ESTEVEZ, ALICIA",
+        "licencia": "47522"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      {
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644"
+      },
+      {
+        "nombre": "SANCHEZ MOLES, JULIA",
+        "licencia": "38975"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ MOLES, JULIA",
+        "licencia": "38975"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARO-ACCINO PEÑA, MENCIA",
+        "licencia": "40617"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA ESTEVEZ, ALICIA",
+        "licencia": "47522"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARO-ACCINO PEÑA, DIANA",
+        "licencia": "36691"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "VALPUESTA RUIZ, CELIA",
+        "licencia": "36644"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HIDALGO BAENA, AURORA",
+        "licencia": "36690"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GARCIA ESTEVEZ, ALICIA",
+        "licencia": "47522"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARO-ACCINO PEÑA, MENCIA",
+        "licencia": "40617"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SANCHEZ MOLES, JULIA",
+        "licencia": "38975"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "HIDALGO BAENA, AURORA",
+            "licencia": "36690"
+          },
+          {
+            "nombre": "CARO-ACCINO PEÑA, DIANA",
+            "licencia": "36691"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VALPUESTA RUIZ, CELIA",
+            "licencia": "36644"
+          },
+          {
+            "nombre": "SANCHEZ MOLES, JULIA",
+            "licencia": "38975"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CARTAGENA FÉMINAS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,379 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2022-12-04",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "CENTRO CIVICO RIO VENA",
+    "ciudad": "C/JUAN DE PADILLA S/N 9006 Burgos Burgos"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+      "id": "20212400",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CORVERASTUR TM",
+      "id": "20212293",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "NOELIA NUÑEZ TAPIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "X": {
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "Z": {
+        "nombre": "ELENA MARTINEZ MARTINEZ",
+        "licencia": "34306",
+        "id": "34306"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARIA LOZANO LOPEZ",
+        "licencia": "3789",
+        "id": "3789"
+      },
+      "B": {
+        "nombre": "JULIA VAN DOMSELAAR",
+        "licencia": "38466",
+        "id": "38466"
+      },
+      "C": {
+        "nombre": "ANGELA PASTRANA GARCIA",
+        "licencia": "23717",
+        "id": "23717"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA LOZANO LOPEZ",
+        "licencia": "3789",
+        "id": "3789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA VAN DOMSELAAR",
+        "licencia": "38466",
+        "id": "38466"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELENA MARTINEZ MARTINEZ",
+        "licencia": "34306",
+        "id": "34306"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGELA PASTRANA GARCIA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ESTHER HASEK MENDEZ",
+        "licencia": "33469",
+        "id": "33469"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARIA LOZANO LOPEZ",
+        "licencia": "3789",
+        "id": "3789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MARIA MENDEZ ALONSO",
+        "licencia": "30900",
+        "id": "30900"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANGELA PASTRANA GARCIA",
+        "licencia": "23717",
+        "id": "23717"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ELENA MARTINEZ MARTINEZ",
+        "licencia": "34306",
+        "id": "34306"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JULIA VAN DOMSELAAR",
+        "licencia": "38466",
+        "id": "38466"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 16
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIVERSIDAD DE BURGOS - RM TERÁN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

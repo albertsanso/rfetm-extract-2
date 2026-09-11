@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 7,
+  "jornada": 10,
+  "fecha": "2023-12-16",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "IES Gabriel Ciscar",
+    "ciudad": "Oliva (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "COLLA ESPORTIVA CORRIOL OLIVA",
+      "id": "20233476",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS DE TAULA BURJASSOT VALENCIA",
+      "id": "531",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE VICENTE SORIANO ESTORS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "B": {
+        "nombre": "ZHANG , ZHIHAO",
+        "licencia": "37247",
+        "id": "37247"
+      },
+      "C": {
+        "nombre": "GUITART TUR, PEDRO",
+        "licencia": "21904",
+        "id": "21904"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "X": {
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "Z": {
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ZHANG , ZHIHAO",
+        "licencia": "37247",
+        "id": "37247"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GUITART TUR, PEDRO",
+        "licencia": "21904",
+        "id": "21904"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MALONDA CLIMENT, ENRIC",
+        "licencia": "37254",
+        "id": "37254"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "PENADES VIALLET, PHILIPPE",
+        "licencia": "1406",
+        "id": "1406"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GUITART TUR, PEDRO",
+        "licencia": "21904",
+        "id": "21904"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "VEGA GRAS, IVAN",
+        "licencia": "18429",
+        "id": "18429"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ZHANG , ZHIHAO",
+        "licencia": "37247",
+        "id": "37247"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "CACIOPPO DE PAZ, SAMUEL VICENTE",
+        "licencia": "41000",
+        "id": "41000"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENNIS DE TAULA BURJASSOT VALENCIA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 10,
+      "visitante": 14
+    }
+  },
+  "acta_protestada": false
+}

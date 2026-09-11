@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 6,
+  "jornada": 10,
+  "fecha": "2021-04-24",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO ZUBI ALDE C\\ MARTIN FERNANDEZ VILLARAN, Nº 2",
+    "ciudad": "Portugalete (Vizcaya)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "FUENCAMPO - GASTEIZ",
+      "id": "859",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CAFÉS LA BRASILEÑA-GAILAK",
+      "id": "2017751",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "FERNANDO OTEO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LUCAS TOJAL SIERRA",
+        "licencia": "3245",
+        "id": "3245"
+      },
+      "B": {
+        "nombre": "JUAN LUIS FERNANDEZ GARRIDO",
+        "licencia": "1959",
+        "id": "1959"
+      },
+      "C": {
+        "nombre": "UNAI CASAS VILLAN",
+        "licencia": "27573",
+        "id": "27573"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MIKEL GARCIA PIEDROLA",
+        "licencia": "18844",
+        "id": "18844"
+      },
+      "X": {
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "Z": {
+        "nombre": "JOSE AUGUSTO ENA MARTINEZ",
+        "licencia": "10268",
+        "id": "10268"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LUCAS TOJAL SIERRA",
+        "licencia": "3245",
+        "id": "3245"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL GARCIA PIEDROLA",
+        "licencia": "18844",
+        "id": "18844"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN LUIS FERNANDEZ GARRIDO",
+        "licencia": "1959",
+        "id": "1959"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "UNAI CASAS VILLAN",
+        "licencia": "27573",
+        "id": "27573"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE AUGUSTO ENA MARTINEZ",
+        "licencia": "10268",
+        "id": "10268"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LUCAS TOJAL SIERRA",
+        "licencia": "3245",
+        "id": "3245"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ERLANTZ FONSECA MARCOS",
+        "licencia": "22441",
+        "id": "22441"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "UNAI CASAS VILLAN",
+        "licencia": "27573",
+        "id": "27573"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MIKEL GARCIA PIEDROLA",
+        "licencia": "18844",
+        "id": "18844"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "JUAN LUIS FERNANDEZ GARRIDO",
+        "licencia": "1959",
+        "id": "1959"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JOSE AUGUSTO ENA MARTINEZ",
+        "licencia": "10268",
+        "id": "10268"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "FUENCAMPO - GASTEIZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

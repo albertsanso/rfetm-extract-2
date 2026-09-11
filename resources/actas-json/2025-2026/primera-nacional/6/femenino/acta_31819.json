@@ -1,0 +1,357 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2026-03-07",
+  "hora": "12:30",
+  "lugar": {
+    "ciudad": "PALACIO DEL VINO Y LA ACEITUNA",
+    "recinto": "CALLE JUAN CAMPOMANES PUERTO, S/N 6200-ALMENDRALEJO (BADAJOZ)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+      "delegado": {
+        "nombre": "DIEZ SANTIAGO, JUAN CARLOS",
+        "licencia": "20685"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ESCUELA TIERRA DE BARROS TM",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: DIEZ SANTIAGO, JUAN CARLOS",
+        "licencia": "20685"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "NUÑEZ GONZALEZ, BLAS",
+      "licencia": "513"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "DIEZ APOLO, BEATRIZ",
+        "licencia": "14795"
+      },
+      "B": {
+        "nombre": "PLAZA SÁNCHEZ, ELENA",
+        "licencia": "10629"
+      },
+      "C": {
+        "nombre": "APOLO BRAJONES, MARIA JOSE",
+        "licencia": "45109"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "SANCHEZ SANCHEZ, ANA",
+        "licencia": "39922"
+      },
+      "X": {
+        "nombre": "GONZALEZ GORDILLO, IRENE",
+        "licencia": "46900"
+      },
+      "Z": {
+        "nombre": "PRADO BRAVO, NOELIA",
+        "licencia": "37004"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "DIEZ APOLO, BEATRIZ",
+        "licencia": "14795"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SANCHEZ SANCHEZ, ANA",
+        "licencia": "39922"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "PLAZA SÁNCHEZ, ELENA",
+        "licencia": "10629"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GONZALEZ GORDILLO, IRENE",
+        "licencia": "46900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "APOLO BRAJONES, MARIA JOSE",
+        "licencia": "45109"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PRADO BRAVO, NOELIA",
+        "licencia": "37004"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "DIEZ APOLO, BEATRIZ",
+        "licencia": "14795"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "GONZALEZ GORDILLO, IRENE",
+        "licencia": "46900"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "APOLO BRAJONES, MARIA JOSE",
+        "licencia": "45109"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "SANCHEZ SANCHEZ, ANA",
+        "licencia": "39922"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "PLAZA SÁNCHEZ, ELENA",
+        "licencia": "10629"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PRADO BRAVO, NOELIA",
+        "licencia": "37004"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (4-2)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "T.M. VILLAFRANCA-CATERING LA GRANFAMILIA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

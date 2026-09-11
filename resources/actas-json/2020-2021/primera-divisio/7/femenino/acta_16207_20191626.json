@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 6,
+  "jornada": 7,
+  "fecha": "2021-03-21",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "POLIGONO DE MANISES C/ SIERPES 20",
+    "ciudad": "Manises (Valencia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "HUJASE JAÉN AUTÉNTICA",
+      "id": "16207",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLAN TECH2 TM CARTAGENA",
+      "id": "20191626",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RAQUEL MATEU PASTOR",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MERCEDES RUBIÑO MOTA",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "X": {
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "Z": {
+        "nombre": "CLAUDIA STEFANIA CARAGEA",
+        "licencia": "35301",
+        "id": "35301"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CANDELA ALARCON GARCIA",
+        "licencia": "29164",
+        "id": "29164"
+      },
+      "B": {
+        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21095",
+        "id": "21095"
+      },
+      "C": {
+        "nombre": "IRENE GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21094",
+        "id": "21094"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MERCEDES RUBIÑO MOTA",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CANDELA ALARCON GARCIA",
+        "licencia": "29164",
+        "id": "29164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21095",
+        "id": "21095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CLAUDIA STEFANIA CARAGEA",
+        "licencia": "35301",
+        "id": "35301"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IRENE GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21094",
+        "id": "21094"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VERONICA PABLOS ROMAN",
+        "licencia": "7538",
+        "id": "7538"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CANDELA ALARCON GARCIA",
+        "licencia": "29164",
+        "id": "29164"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MERCEDES RUBIÑO MOTA",
+        "licencia": "20689",
+        "id": "20689"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "IRENE GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21094",
+        "id": "21094"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LORENA GONZALEZ MURO",
+        "licencia": "3373",
+        "id": "3373"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
+        "licencia": "21095",
+        "id": "21095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "HUJASE JAÉN AUTÉNTICA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

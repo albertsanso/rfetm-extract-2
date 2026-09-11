@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 11,
+  "jornada": 19,
+  "fecha": "2024-04-06",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "SALA TENIS DE MESA ANEXA PABELLON CUATRO SANTOS",
+    "ciudad": "Cartagena (Murcia)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALSA CARTAGENA TM",
+      "id": "977",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASOCIACION DEPORTIVA ELIOCROCA LORCA TM",
+      "id": "20191287",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LORENA GOMEZ-VAZQUEZ ALVAREZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "X": {
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "Z": {
+        "nombre": "GARCIA TOMAS, MARIO",
+        "licencia": "33512",
+        "id": "33512"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789",
+        "id": "23789"
+      },
+      "B": {
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376",
+        "id": "7376"
+      },
+      "C": {
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343",
+        "id": "1343"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789",
+        "id": "23789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376",
+        "id": "7376"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GARCIA TOMAS, MARIO",
+        "licencia": "33512",
+        "id": "33512"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343",
+        "id": "1343"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "FELIU MOREDA, DIEGO",
+        "licencia": "27083",
+        "id": "27083"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MANZANARES GOMEZ, JUAN FRANCISCO",
+        "licencia": "23789",
+        "id": "23789"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "HEREDIA MANTIS, PABLO",
+        "licencia": "4849",
+        "id": "4849"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MARTINEZ GARCIA, MATEO",
+        "licencia": "1343",
+        "id": "1343"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GARCIA TOMAS, MARIO",
+        "licencia": "33512",
+        "id": "33512"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MONTES ROSA, PEDRO ANTONIO",
+        "licencia": "7376",
+        "id": "7376"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALSA CARTAGENA TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

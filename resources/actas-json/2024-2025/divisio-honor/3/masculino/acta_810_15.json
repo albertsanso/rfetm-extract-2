@@ -1,0 +1,457 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2024-10-12",
+  "hora": "12:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM ALCALA IMPORALIA",
+      "id": "810",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM VEGAS DEL GENIL",
+      "id": "15",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CUESTA FUENTES, ESTEBAN",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "B": {
+        "nombre": "ALVAREZ GARCIA, MOISES",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "C": {
+        "nombre": "CASARES CASTELLANO, RAFAEL",
+        "licencia": "9582",
+        "id": "9582"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125",
+        "id": "34125"
+      },
+      "X": {
+        "nombre": "RUIZ REYES, JOSE MANUEL",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "Z": {
+        "nombre": "PUERTAS MARTINEZ, IVAN",
+        "licencia": "23400",
+        "id": "23400"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "ALVAREZ GARCIA, MOISES",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      {
+        "nombre": "CASARES CASTELLANO, RAFAEL",
+        "licencia": "9582",
+        "id": "9582"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "RUIZ REYES, JOSE MANUEL",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      {
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125",
+        "id": "34125"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CUESTA FUENTES, ESTEBAN",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125",
+        "id": "34125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALVAREZ GARCIA, MOISES",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ REYES, JOSE MANUEL",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CASARES CASTELLANO, RAFAEL",
+        "licencia": "9582",
+        "id": "9582"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PUERTAS MARTINEZ, IVAN",
+        "licencia": "23400",
+        "id": "23400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CUESTA FUENTES, ESTEBAN",
+        "licencia": "8661",
+        "id": "8661"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RUIZ REYES, JOSE MANUEL",
+        "licencia": "1856",
+        "id": "1856"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 0,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CASARES CASTELLANO, RAFAEL",
+        "licencia": "9582",
+        "id": "9582"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+        "licencia": "34125",
+        "id": "34125"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALVAREZ GARCIA, MOISES",
+        "licencia": "3954",
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "PUERTAS MARTINEZ, IVAN",
+        "licencia": "23400",
+        "id": "23400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALVAREZ GARCIA, MOISES",
+            "licencia": "3954",
+            "id": "3954"
+          },
+          {
+            "nombre": "CASARES CASTELLANO, RAFAEL",
+            "licencia": "9582",
+            "id": "9582"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RUIZ REYES, JOSE MANUEL",
+            "licencia": "1856",
+            "id": "1856"
+          },
+          {
+            "nombre": "RIOFRIO AGUIRRE, EMILIANO BARUCH",
+            "licencia": "34125",
+            "id": "34125"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM VEGAS DEL GENIL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

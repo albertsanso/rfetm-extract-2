@@ -1,0 +1,357 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 2,
+  "jornada": 18,
+  "fecha": "2026-04-12",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Sant Cugat del Vallès (Barcelona)",
+    "recinto": "pavelló municipal número 1 - Rambla del Celler"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UNIÓ ESPORTIVA SANT CUGAT",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "VELAZQUEZ ANTON, JOSEP",
+        "licencia": "2032"
+      }
+    },
+    "visitante": {
+      "nombre": "SON CLADERA TTC",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: VELAZQUEZ ANTON, JOSEP",
+        "licencia": "2032"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GARCIA MOMBLONA, RICHARD",
+      "licencia": "1908"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      },
+      "X": {
+        "nombre": "MUNNE SANS, LAIA",
+        "licencia": "27650"
+      },
+      "Z": {
+        "nombre": "COLANTONI , CHIARA",
+        "licencia": "39560"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "BIRO , GABRIELLA",
+        "licencia": "47008"
+      },
+      "B": {
+        "nombre": "FELIPE LOPEZ, ANNE",
+        "licencia": "27685"
+      },
+      "C": {
+        "nombre": "GOMEZ-VAZQUEZ ALVAREZ, LORENA",
+        "licencia": "21095"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BIRO , GABRIELLA",
+        "licencia": "47008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUNNE SANS, LAIA",
+        "licencia": "27650"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FELIPE LOPEZ, ANNE",
+        "licencia": "27685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COLANTONI , CHIARA",
+        "licencia": "39560"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GOMEZ-VAZQUEZ ALVAREZ, LORENA",
+        "licencia": "21095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MUNNE SANS, LAIA",
+        "licencia": "27650"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "BIRO , GABRIELLA",
+        "licencia": "47008"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SÁNCHEZ ALBA, YANIRA",
+        "licencia": "21176"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "GOMEZ-VAZQUEZ ALVAREZ, LORENA",
+        "licencia": "21095"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "COLANTONI , CHIARA",
+        "licencia": "39560"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "FELIPE LOPEZ, ANNE",
+        "licencia": "27685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UNIÓ ESPORTIVA SANT CUGAT",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

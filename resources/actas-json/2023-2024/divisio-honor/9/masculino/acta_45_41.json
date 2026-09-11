@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 9,
+  "fecha": "2023-12-02",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PAVELLO MUNICIPAL D ESPORTS CASTELL D EN PLANES",
+    "ciudad": "Vic (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "45",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA CASSÁ",
+      "id": "41",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "NIL ARAGALL CHECA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "X": {
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "Z": {
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678",
+        "id": "31678"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "B": {
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "C": {
+        "nombre": "PUIGMOLE JIMENEZ, ANDREU",
+        "licencia": "20398",
+        "id": "20398"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678",
+        "id": "31678"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PUIGMOLE JIMENEZ, ANDREU",
+        "licencia": "20398",
+        "id": "20398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 15
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MOLIST PALOMERA, SERGI",
+        "licencia": "15194",
+        "id": "15194"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PELACHS MONELL, MARTI",
+        "licencia": "16381",
+        "id": "16381"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SHAFREH , EHSAN",
+        "licencia": "39549",
+        "id": "39549"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PUIGMOLE JIMENEZ, ANDREU",
+        "licencia": "20398",
+        "id": "20398"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "RODRIGUEZ LOPEZ, BIEL",
+        "licencia": "31678",
+        "id": "31678"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MAYOROV BAKHTIN, LADIMIR",
+        "licencia": "36173",
+        "id": "36173"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "GIRBAU VIC T.T.",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

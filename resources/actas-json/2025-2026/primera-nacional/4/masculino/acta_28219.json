@@ -1,0 +1,388 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Masculina",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2025-11-08",
+  "hora": "17:00",
+  "lugar": {
+    "ciudad": "Castellón de la Plana/Castelló de la Plana (Castellón)",
+    "recinto": "PABELLON CIUDAD DEPORTIVA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CASTELLÓ APE CERÁMICA",
+      "delegado": {
+        "nombre": "IRANZO REIG, JUAN IGNACIO",
+        "licencia": "21039"
+      },
+      "entrenador": {
+        "nombre": "IRANZO REIG, JUAN IGNACIO",
+        "licencia": "21039"
+      }
+    },
+    "visitante": {
+      "nombre": "SCHOOL ZARAGOZA",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: IRANZO REIG, JUAN IGNACIO",
+        "licencia": "21039"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: IRANZO REIG, JUAN IGNACIO",
+        "licencia": "21039"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANDRÉS MARCO, INÉS",
+      "licencia": "36285"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CABALLERO TORRES, IVAN",
+        "licencia": "21237"
+      },
+      "B": {
+        "nombre": "SANCHEZ ALVARO, MARC",
+        "licencia": "34413"
+      },
+      "C": {
+        "nombre": "GARCIA FELIPE, PABLO",
+        "licencia": "28113"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "X": {
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      },
+      "Z": {
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CABALLERO TORRES, IVAN",
+        "licencia": "21237"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SANCHEZ ALVARO, MARC",
+        "licencia": "34413"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCIA FELIPE, PABLO",
+        "licencia": "28113"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 18,
+          "visitante": 20
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CABALLERO TORRES, IVAN",
+        "licencia": "21237"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "VIVO SANCHEZ, ALEJANDRO",
+        "licencia": "23487"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GARCIA FELIPE, PABLO",
+        "licencia": "28113"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ABAD PEREZ, FRANCISCO",
+        "licencia": "7382"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SANCHEZ ALVARO, MARC",
+        "licencia": "34413"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DELGADO PLOU, JORGE",
+        "licencia": "9069"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (5-1)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CASTELLÓ APE CERÁMICA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

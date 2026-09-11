@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 7,
+  "fecha": "2022-11-26",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA ANTONIO MAZA",
+    "ciudad": "Jaén (Jaén)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA JAEN",
+      "id": "2018804",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "RC LABRADORES",
+      "id": "87",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MARIA ALVAREZ MARTOS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "RESTITUTO PEREZ GARCIA",
+        "licencia": "4830",
+        "id": "4830"
+      },
+      "X": {
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "Z": {
+        "nombre": "ANTONIO CURIEL SANZ",
+        "licencia": "30532",
+        "id": "30532"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "B": {
+        "nombre": "DAVID DURAN MINGUET",
+        "licencia": "30677",
+        "id": "30677"
+      },
+      "C": {
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RESTITUTO PEREZ GARCIA",
+        "licencia": "4830",
+        "id": "4830"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID DURAN MINGUET",
+        "licencia": "30677",
+        "id": "30677"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANTONIO CURIEL SANZ",
+        "licencia": "30532",
+        "id": "30532"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ALBERTO GARCIA AGUILAR",
+        "licencia": "3445",
+        "id": "3445"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JULIO COVEÑAS PEREZ",
+        "licencia": "19216",
+        "id": "19216"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "RESTITUTO PEREZ GARCIA",
+        "licencia": "4830",
+        "id": "4830"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ANTONIO CURIEL SANZ",
+        "licencia": "30532",
+        "id": "30532"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "DAVID DURAN MINGUET",
+        "licencia": "30677",
+        "id": "30677"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA JAEN",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 11,
+  "jornada": 22,
+  "fecha": "2023-04-29",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "REAL CÍRCULO DE LABRADORES",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "RC LABRADORES",
+      "id": "87",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB CORIA T.M.",
+      "id": "20202098",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "RICARDO ESPINO GOMEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ALVARO GIL TIRADO",
+        "licencia": "20039",
+        "id": "20039"
+      },
+      "X": {
+        "nombre": "CAYETANO RODRIGUEZ DEL CASTILLO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "Z": {
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DAVID SOSA LEON",
+        "licencia": "4828",
+        "id": "4828"
+      },
+      "B": {
+        "nombre": "JESUS REYES CARMONA",
+        "licencia": "10498",
+        "id": "10498"
+      },
+      "C": {
+        "nombre": "MANUEL LUQUE LARA",
+        "licencia": "1172",
+        "id": "1172"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALVARO GIL TIRADO",
+        "licencia": "20039",
+        "id": "20039"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID SOSA LEON",
+        "licencia": "4828",
+        "id": "4828"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CAYETANO RODRIGUEZ DEL CASTILLO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JESUS REYES CARMONA",
+        "licencia": "10498",
+        "id": "10498"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL LUQUE LARA",
+        "licencia": "1172",
+        "id": "1172"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CAYETANO RODRIGUEZ DEL CASTILLO",
+        "licencia": "36262",
+        "id": "36262"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DAVID SOSA LEON",
+        "licencia": "4828",
+        "id": "4828"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ALVARO GIL TIRADO",
+        "licencia": "20039",
+        "id": "20039"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MANUEL LUQUE LARA",
+        "licencia": "1172",
+        "id": "1172"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MANUEL DIAZ MARQUEZ",
+        "licencia": "31006",
+        "id": "31006"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JESUS REYES CARMONA",
+        "licencia": "10498",
+        "id": "10498"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "RC LABRADORES",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 1,
+  "jornada": 13,
+  "fecha": "2022-04-02",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "GIMNASIO IES TERRA DE TURONIO (JUNTO PAB. MUNICIPAL)",
+    "ciudad": "AVENIDA CAMPO DE LA FERIA, S/N 36380-Gondomar(Pontevedra)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "A.D.VINCIOS / ROSQUILLAS CRISTALEIRO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ATLETICO SAN SEBASTIAN",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "NATALIA FERNANDEZ LORENZO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "X": {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      "Z": {
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "B": {
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "C": {
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      {
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      {
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MARTIN PINTOS BARREIRO",
+        "licencia": "9975",
+        "id": "9975"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "XABIER IGLESIAS BUCETA",
+        "licencia": "22685",
+        "id": "22685"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ANDRES TORRES VIDAL",
+        "licencia": "16078",
+        "id": "16078"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANDER CEPAS ZAPICO",
+        "licencia": "22596",
+        "id": "22596"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+        "licencia": "10001",
+        "id": "10001"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AIMAR INSAUSTI ECHALUCE",
+        "licencia": "21747",
+        "id": "21747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MARTIN PINTOS BARREIRO",
+            "licencia": "9975",
+            "id": "9975"
+          },
+          {
+            "nombre": "PABLO UXIO REGUEIRO NUÑEZ",
+            "licencia": "10001",
+            "id": "10001"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANDER CEPAS ZAPICO",
+            "licencia": "22596",
+            "id": "22596"
+          },
+          {
+            "nombre": "XABIER IGLESIAS BUCETA",
+            "licencia": "22685",
+            "id": "22685"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "A.D.VINCIOS / ROSQUILLAS CRISTALEIRO",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

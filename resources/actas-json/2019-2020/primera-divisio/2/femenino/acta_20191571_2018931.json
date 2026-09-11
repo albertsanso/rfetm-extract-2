@@ -1,0 +1,450 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Femenina",
+  "grupo": 2,
+  "jornada": 2,
+  "fecha": "2019-11-23",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIDEPORTIVO HUERTA DEL REY",
+    "ciudad": "Valladolid (Valladolid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB DEPORTIVO COYANZA",
+      "id": "20191571",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CENTRO NATACION HELIOS \"B\"",
+      "id": "2018931",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE MANUEL CUADRADO MIELGO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CECILIA MARTINEZ BENAVIDES",
+        "licencia": "23615",
+        "id": "23615"
+      },
+      "X": {
+        "nombre": "LUCIA GONZALEZ RODRIGUEZ",
+        "licencia": "24211",
+        "id": "24211"
+      },
+      "Z": {
+        "nombre": "ISABEL BERNARDO FUENTES",
+        "licencia": "31696",
+        "id": "31696"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ESTELA VALER SANZ",
+        "licencia": "5044",
+        "id": "5044"
+      },
+      "B": {
+        "nombre": "AINHOA ANTUNEZ HERRERO",
+        "licencia": "5045",
+        "id": "5045"
+      },
+      "C": {
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "LUCIA GONZALEZ RODRIGUEZ",
+        "licencia": "24211",
+        "id": "24211"
+      },
+      {
+        "nombre": "CECILIA MARTINEZ BENAVIDES",
+        "licencia": "23615",
+        "id": "23615"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ESTELA VALER SANZ",
+        "licencia": "5044",
+        "id": "5044"
+      },
+      {
+        "nombre": "AINHOA ANTUNEZ HERRERO",
+        "licencia": "5045",
+        "id": "5045"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CECILIA MARTINEZ BENAVIDES",
+        "licencia": "23615",
+        "id": "23615"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESTELA VALER SANZ",
+        "licencia": "5044",
+        "id": "5044"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA GONZALEZ RODRIGUEZ",
+        "licencia": "24211",
+        "id": "24211"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AINHOA ANTUNEZ HERRERO",
+        "licencia": "5045",
+        "id": "5045"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ISABEL BERNARDO FUENTES",
+        "licencia": "31696",
+        "id": "31696"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LUCIA GONZALEZ RODRIGUEZ",
+        "licencia": "24211",
+        "id": "24211"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ESTELA VALER SANZ",
+        "licencia": "5044",
+        "id": "5044"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CECILIA MARTINEZ BENAVIDES",
+        "licencia": "23615",
+        "id": "23615"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "SILVIA PARIS DOMINGUEZ",
+        "licencia": "30140",
+        "id": "30140"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "ISABEL BERNARDO FUENTES",
+        "licencia": "31696",
+        "id": "31696"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "AINHOA ANTUNEZ HERRERO",
+        "licencia": "5045",
+        "id": "5045"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LUCIA GONZALEZ RODRIGUEZ",
+            "licencia": "24211",
+            "id": "24211"
+          },
+          {
+            "nombre": "CECILIA MARTINEZ BENAVIDES",
+            "licencia": "23615",
+            "id": "23615"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ESTELA VALER SANZ",
+            "licencia": "5044",
+            "id": "5044"
+          },
+          {
+            "nombre": "AINHOA ANTUNEZ HERRERO",
+            "licencia": "5045",
+            "id": "5045"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO COYANZA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

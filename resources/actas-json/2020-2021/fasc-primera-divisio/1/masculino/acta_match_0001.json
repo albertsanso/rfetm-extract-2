@@ -1,0 +1,321 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2021-06-12",
+  "hora": "09:00",
+  "lugar": {
+    "recinto": "Centro de Atletismo 6º Centenario",
+    "ciudad": "Antequera (Málaga)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.M BAHÍA DE CÁDIZ",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA TOLEDO",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RFETM ARBITRAJES SD",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "B": {
+        "nombre": "ISAAC DIAZ CABALLERO",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "C": {
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "BRAULIO GAYOSO GARCIA",
+        "licencia": "1077",
+        "id": "1077"
+      },
+      "X": {
+        "nombre": "JOSE ALBERTO RESUELA AREVALO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "Z": {
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BRAULIO GAYOSO GARCIA",
+        "licencia": "1077",
+        "id": "1077"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ISAAC DIAZ CABALLERO",
+        "licencia": "16664",
+        "id": "16664"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE ALBERTO RESUELA AREVALO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIO GUERRERO SANCHEZ",
+        "licencia": "19718",
+        "id": "19718"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GUILLERMO PACHECO CORTES",
+        "licencia": "19212",
+        "id": "19212"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE ALBERTO RESUELA AREVALO",
+        "licencia": "1708",
+        "id": "1708"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "CARLOS GARRIDO GOMEZ",
+        "licencia": "16571",
+        "id": "16571"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "BRAULIO GAYOSO GARCIA",
+        "licencia": "1077",
+        "id": "1077"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.M BAHÍA DE CÁDIZ",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 7
+    }
+  },
+  "acta_protestada": false
+}

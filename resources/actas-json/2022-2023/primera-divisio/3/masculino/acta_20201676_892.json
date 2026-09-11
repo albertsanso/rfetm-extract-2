@@ -1,0 +1,445 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 3,
+  "fecha": "2022-10-23",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "CTM COSLADA",
+    "ciudad": "Coslada (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA COSLADA",
+      "id": "20201676",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "LEZAMA DEMOLICIONES TEMESA C.REAL",
+      "id": "892",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "BENITO PARAMO MATEO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      "B": {
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "C": {
+        "nombre": "MARCOS ANDRES LOPEZ FRANCO",
+        "licencia": "36158",
+        "id": "36158"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANTONIO FERNANDEZ CORRAL",
+        "licencia": "8962",
+        "id": "8962"
+      },
+      "X": {
+        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
+        "licencia": "34947",
+        "id": "34947"
+      },
+      "Z": {
+        "nombre": "ALEJANDRO LOPEZ MERLO-CORDOBA",
+        "licencia": "27387",
+        "id": "27387"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      {
+        "nombre": "MARCOS ANDRES LOPEZ FRANCO",
+        "licencia": "36158",
+        "id": "36158"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ALEJANDRO LOPEZ MERLO-CORDOBA",
+        "licencia": "27387",
+        "id": "27387"
+      },
+      {
+        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
+        "licencia": "34947",
+        "id": "34947"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANTONIO FERNANDEZ CORRAL",
+        "licencia": "8962",
+        "id": "8962"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
+        "licencia": "34947",
+        "id": "34947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MARCOS ANDRES LOPEZ FRANCO",
+        "licencia": "36158",
+        "id": "36158"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALEJANDRO LOPEZ MERLO-CORDOBA",
+        "licencia": "27387",
+        "id": "27387"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "HECTOR GRANDA PEREZ",
+        "licencia": "22922",
+        "id": "22922"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
+        "licencia": "34947",
+        "id": "34947"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MARCOS ANDRES LOPEZ FRANCO",
+        "licencia": "36158",
+        "id": "36158"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANTONIO FERNANDEZ CORRAL",
+        "licencia": "8962",
+        "id": "8962"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+        "licencia": "1966",
+        "id": "1966"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALEJANDRO LOPEZ MERLO-CORDOBA",
+        "licencia": "27387",
+        "id": "27387"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CARLOS JAVIER GONZALEZ MORENO",
+            "licencia": "1966",
+            "id": "1966"
+          },
+          {
+            "nombre": "MARCOS ANDRES LOPEZ FRANCO",
+            "licencia": "36158",
+            "id": "36158"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ALEJANDRO LOPEZ MERLO-CORDOBA",
+            "licencia": "27387",
+            "id": "27387"
+          },
+          {
+            "nombre": "MATIAS SEBASTIAN ALBORNOZ PADILLA",
+            "licencia": "34947",
+            "id": "34947"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LEZAMA DEMOLICIONES TEMESA C.REAL",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

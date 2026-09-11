@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Masculina",
+  "grupo": 6,
+  "jornada": 10,
+  "fecha": "2019-12-14",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "POLIGONO NAVISA",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM SEVILLA",
+      "id": "14009",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CONSERVAS LOLA",
+      "id": "1218",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GRIMARET URBANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "JOSE MANUEL GOMEZ FERNANDEZ",
+        "licencia": "3475",
+        "id": "3475"
+      },
+      "B": {
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
+      },
+      "C": {
+        "nombre": "JAVIER JABDIEL TORRES RIVERA",
+        "licencia": "34145",
+        "id": "34145"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
+        "licencia": "10808",
+        "id": "10808"
+      },
+      "X": {
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "Z": {
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL GOMEZ FERNANDEZ",
+        "licencia": "3475",
+        "id": "3475"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
+        "licencia": "10808",
+        "id": "10808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 5,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JAVIER JABDIEL TORRES RIVERA",
+        "licencia": "34145",
+        "id": "34145"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "JOSE MANUEL GOMEZ FERNANDEZ",
+        "licencia": "3475",
+        "id": "3475"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL CABALLERO DIEZ",
+        "licencia": "7055",
+        "id": "7055"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "JAVIER JABDIEL TORRES RIVERA",
+        "licencia": "34145",
+        "id": "34145"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JOSE MANUEL MARTIN GONZALEZ",
+        "licencia": "10808",
+        "id": "10808"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 0
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "RENAN DA SILVA GAMA",
+        "licencia": "29888",
+        "id": "29888"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "JESUS GOMEZ PEREZ",
+        "licencia": "18367",
+        "id": "18367"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM SEVILLA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

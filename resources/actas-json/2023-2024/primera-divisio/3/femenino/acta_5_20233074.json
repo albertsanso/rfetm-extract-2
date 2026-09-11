@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 3,
+  "jornada": 3,
+  "fecha": "2023-12-17",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "FABRICA LLOBET",
+    "ciudad": "C/ SANT JAUME Nº 321, PRIMER PISO DE CALELLA (N-II) 8370 CALELLA BARCELONA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "SURIS CALELLA",
+      "id": "5",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "COVICSA SANTA EULARIA",
+      "id": "20233074",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONI FIGUERAS TRICAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ARCOS SANMARTIN, LOLA",
+        "licencia": "33488",
+        "id": "33488"
+      },
+      "B": {
+        "nombre": "COLOMINAS VILLARET, IVET",
+        "licencia": "35282",
+        "id": "35282"
+      },
+      "C": {
+        "nombre": "ARCOS SANMARTIN, CANDELA",
+        "licencia": "33489",
+        "id": "33489"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747",
+        "id": "38747"
+      },
+      "X": {
+        "nombre": "CORDERO MUÑOZ, IARA SOLANGE",
+        "licencia": "38745",
+        "id": "38745"
+      },
+      "Z": {
+        "nombre": "GUERRERO MARTINEZ, PAULA MARIA",
+        "licencia": "33818",
+        "id": "33818"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ARCOS SANMARTIN, LOLA",
+        "licencia": "33488",
+        "id": "33488"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747",
+        "id": "38747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "COLOMINAS VILLARET, IVET",
+        "licencia": "35282",
+        "id": "35282"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CORDERO MUÑOZ, IARA SOLANGE",
+        "licencia": "38745",
+        "id": "38745"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ARCOS SANMARTIN, CANDELA",
+        "licencia": "33489",
+        "id": "33489"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUERRERO MARTINEZ, PAULA MARIA",
+        "licencia": "33818",
+        "id": "33818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ARCOS SANMARTIN, LOLA",
+        "licencia": "33488",
+        "id": "33488"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CORDERO MUÑOZ, IARA SOLANGE",
+        "licencia": "38745",
+        "id": "38745"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ARCOS SANMARTIN, CANDELA",
+        "licencia": "33489",
+        "id": "33489"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "PARAU MARTI, MIREIA",
+        "licencia": "38747",
+        "id": "38747"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "COLOMINAS VILLARET, IVET",
+        "licencia": "35282",
+        "id": "35282"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GUERRERO MARTINEZ, PAULA MARIA",
+        "licencia": "33818",
+        "id": "33818"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SURIS CALELLA",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

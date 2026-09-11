@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 2,
+  "jornada": 3,
+  "fecha": "2023-01-14",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "FRONTóN MUNICIPAL DE MATIENA",
+    "ciudad": "SOLAGUREN S/N 48220 Abadiño Vizcaya"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "20212511",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM ABADIÑO-EKIN",
+      "id": "20222684",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CLAUDIO IZQUIERDO GONZALEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "B": {
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "C": {
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANDREA CHAVES CASUSO",
+        "licencia": "21876",
+        "id": "21876"
+      },
+      "X": {
+        "nombre": "ASENAT OJEDA MORILLO",
+        "licencia": "34240",
+        "id": "34240"
+      },
+      "Z": {
+        "nombre": "ESTIBALIZ GONZALEZ DE ECHAVARRI ALVAREZ",
+        "licencia": "22443",
+        "id": "22443"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      {
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ANDREA CHAVES CASUSO",
+        "licencia": "21876",
+        "id": "21876"
+      },
+      {
+        "nombre": "ESTIBALIZ GONZALEZ DE ECHAVARRI ALVAREZ",
+        "licencia": "22443",
+        "id": "22443"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDREA CHAVES CASUSO",
+        "licencia": "21876",
+        "id": "21876"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ASENAT OJEDA MORILLO",
+        "licencia": "34240",
+        "id": "34240"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ESTIBALIZ GONZALEZ DE ECHAVARRI ALVAREZ",
+        "licencia": "22443",
+        "id": "22443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+        "licencia": "30165",
+        "id": "30165"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ASENAT OJEDA MORILLO",
+        "licencia": "34240",
+        "id": "34240"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "IRATI YARZABAL PAREDES",
+        "licencia": "34168",
+        "id": "34168"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANDREA CHAVES CASUSO",
+        "licencia": "21876",
+        "id": "21876"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IRATI OTAMENDI MAIZ",
+        "licencia": "30029",
+        "id": "30029"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ESTIBALIZ GONZALEZ DE ECHAVARRI ALVAREZ",
+        "licencia": "22443",
+        "id": "22443"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "IRATI YARZABAL PAREDES",
+            "licencia": "34168",
+            "id": "34168"
+          },
+          {
+            "nombre": "MAITANE ZUAZUA ARISTIZABAL",
+            "licencia": "30165",
+            "id": "30165"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ANDREA CHAVES CASUSO",
+            "licencia": "21876",
+            "id": "21876"
+          },
+          {
+            "nombre": "ESTIBALIZ GONZALEZ DE ECHAVARRI ALVAREZ",
+            "licencia": "22443",
+            "id": "22443"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

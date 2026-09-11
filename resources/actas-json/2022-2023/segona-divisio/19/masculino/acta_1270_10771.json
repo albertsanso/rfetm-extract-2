@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 19,
+  "fecha": "2023-04-01",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE LA RAMBLA DEL CELLER",
+    "ciudad": "Sant Cugat del Vallès (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "UE SANT CUGAT",
+      "id": "1270",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT TORTOSA",
+      "id": "10771",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALBERT ARCOS ASENCIO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
+      },
+      "X": {
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "Z": {
+        "nombre": "TIANQI ZOU",
+        "licencia": "33548",
+        "id": "33548"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "JUAN MARTINEZ FONTANE",
+        "licencia": "21671",
+        "id": "21671"
+      },
+      "B": {
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      },
+      "C": {
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN MARTINEZ FONTANE",
+        "licencia": "21671",
+        "id": "21671"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TIANQI ZOU",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "ENRIC BOSCH PASTOR",
+        "licencia": "2024",
+        "id": "2024"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "JUAN MARTINEZ FONTANE",
+        "licencia": "21671",
+        "id": "21671"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FRANCESC CASTILLO HEREDIA",
+        "licencia": "2143",
+        "id": "2143"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "JAUME QUEROL COLL",
+        "licencia": "21480",
+        "id": "21480"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "TIANQI ZOU",
+        "licencia": "33548",
+        "id": "33548"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MIGUEL AYORA TORRES",
+        "licencia": "25552",
+        "id": "25552"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "UE SANT CUGAT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 10
+    }
+  },
+  "acta_protestada": false
+}

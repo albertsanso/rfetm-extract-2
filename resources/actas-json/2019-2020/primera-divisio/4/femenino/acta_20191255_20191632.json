@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 4,
+  "fecha": "2019-12-14",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "NAVE TENIS DE MESA HUERCAL DE ALMERIA",
+    "ciudad": "Huércal De Almería (Almería)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+      "id": "20191255",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM SEVILLA",
+      "id": "20191632",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ALFONSO JAVIER PLAZA HEREDIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "PILAR FRIAS MOSTAZO",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "B": {
+        "nombre": "MARIA DESIRE PEREZ JIMENEZ",
+        "licencia": "7455",
+        "id": "7455"
+      },
+      "C": {
+        "nombre": "ANA CRISTINA PEREZ GARCIA",
+        "licencia": "6328",
+        "id": "6328"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MARIA DEL CARMEN ANICETO MEGIAS",
+        "licencia": "2560",
+        "id": "2560"
+      },
+      "X": {
+        "nombre": "ANA GAONA LARREA",
+        "licencia": "20756",
+        "id": "20756"
+      },
+      "Z": {
+        "nombre": "ADRIANA RUIZ ROMERO",
+        "licencia": "32541",
+        "id": "32541"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "PILAR FRIAS MOSTAZO",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARIA DEL CARMEN ANICETO MEGIAS",
+        "licencia": "2560",
+        "id": "2560"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA DESIRE PEREZ JIMENEZ",
+        "licencia": "7455",
+        "id": "7455"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANA GAONA LARREA",
+        "licencia": "20756",
+        "id": "20756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANA CRISTINA PEREZ GARCIA",
+        "licencia": "6328",
+        "id": "6328"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ADRIANA RUIZ ROMERO",
+        "licencia": "32541",
+        "id": "32541"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "PILAR FRIAS MOSTAZO",
+        "licencia": "2308",
+        "id": "2308"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANA GAONA LARREA",
+        "licencia": "20756",
+        "id": "20756"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANA CRISTINA PEREZ GARCIA",
+        "licencia": "6328",
+        "id": "6328"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MARIA DEL CARMEN ANICETO MEGIAS",
+        "licencia": "2560",
+        "id": "2560"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "MARIA DESIRE PEREZ JIMENEZ",
+        "licencia": "7455",
+        "id": "7455"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ADRIANA RUIZ ROMERO",
+        "licencia": "32541",
+        "id": "32541"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA VEGAS DEL GENIL",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 2
+    }
+  },
+  "acta_protestada": false
+}

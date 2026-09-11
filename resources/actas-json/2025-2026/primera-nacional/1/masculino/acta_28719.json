@@ -1,0 +1,368 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": null,
+  "competicion": "Primera División Masculina",
+  "grupo": 1,
+  "jornada": 19,
+  "fecha": null,
+  "hora": null,
+  "lugar": {
+    "ciudad": "33700 Luarca, Asturias",
+    "recinto": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "BOADILLA TENIS MESA TERESA BERGANZA",
+      "delegado": {
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      },
+      "entrenador": {
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      }
+    },
+    "visitante": {
+      "nombre": "LUARCA TENIS DE MESA",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "RIESGO RODRIGUEZ, VERONICA",
+      "licencia": "20770"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057"
+      },
+      "B": {
+        "nombre": "BARRIOS ALVAREZ, RAUL",
+        "licencia": "39437"
+      },
+      "C": {
+        "nombre": "APARISI PRADO, RAIAN",
+        "licencia": "27820"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GARCIA NIETO, ENRIQUE",
+        "licencia": "27699"
+      },
+      "X": {
+        "nombre": "MIRA ALVAREZ, YAGO",
+        "licencia": "38196"
+      },
+      "Z": {
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA NIETO, ENRIQUE",
+        "licencia": "27699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 0,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRIOS ALVAREZ, RAUL",
+        "licencia": "39437"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIRA ALVAREZ, YAGO",
+        "licencia": "38196"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "APARISI PRADO, RAIAN",
+        "licencia": "27820"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CAMARA VALLEJO, ALBERTO",
+        "licencia": "23057"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MIRA ALVAREZ, YAGO",
+        "licencia": "38196"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "APARISI PRADO, RAIAN",
+        "licencia": "27820"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GARCIA NIETO, ENRIQUE",
+        "licencia": "27699"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 4
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRIOS ALVAREZ, RAUL",
+        "licencia": "39437"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "ALFONSO RODRIGUEZ, SALVADOR",
+        "licencia": "1558"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": []
+      },
+      "sets": [],
+      "resultado_juegos": null,
+      "ganador": null,
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 5
+      },
+      "no_disputado": true,
+      "motivo": "Victoria decidida (1-5)"
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LUARCA TENIS DE MESA",
+    "marcador_partidos": {
+      "local": 1,
+      "visitante": 5
+    },
+    "marcador_juegos": {
+      "local": 4,
+      "visitante": 16
+    }
+  },
+  "acta_protestada": false
+}

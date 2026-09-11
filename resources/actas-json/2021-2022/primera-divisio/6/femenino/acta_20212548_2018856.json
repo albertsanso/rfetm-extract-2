@@ -1,0 +1,460 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2021/2022",
+  "competicion": "Temporada 2021-2022",
+  "grupo": 3,
+  "jornada": 6,
+  "fecha": "2022-04-23",
+  "hora": "16:30",
+  "lugar": {
+    "recinto": "CENTRE DE TECNIFICACIÓ",
+    "ciudad": "C/ MESTRA MARIA CODINA, 1 25400-Borges Blanques (Les) (Lleida)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ICELAND TT ELS 8 LA GARRIGA",
+      "id": "20212548",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "id": "2018856",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLEM SANTIAGO FERNANDEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RAQUEL LARRUBIA NABAU",
+        "licencia": "25617",
+        "id": "25617"
+      },
+      "B": {
+        "nombre": "IRIS CASTELLS KOZHUKLOVA",
+        "licencia": "30189",
+        "id": "30189"
+      },
+      "C": {
+        "nombre": "ANNA BLANCAFORT ASTURIANO",
+        "licencia": "28825",
+        "id": "28825"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ANNA PAGÈS MARIN",
+        "licencia": "33065",
+        "id": "33065"
+      },
+      "X": {
+        "nombre": "MAR GARCIA DE SORIA MIRAPEIX",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "Z": {
+        "nombre": "MARIA MIGUELES GARCIA",
+        "licencia": "27322",
+        "id": "27322"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "RAQUEL LARRUBIA NABAU",
+        "licencia": "25617",
+        "id": "25617"
+      },
+      {
+        "nombre": "ANNA BLANCAFORT ASTURIANO",
+        "licencia": "28825",
+        "id": "28825"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MAR GARCIA DE SORIA MIRAPEIX",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      {
+        "nombre": "MARIA MIGUELES GARCIA",
+        "licencia": "27322",
+        "id": "27322"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RAQUEL LARRUBIA NABAU",
+        "licencia": "25617",
+        "id": "25617"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANNA PAGÈS MARIN",
+        "licencia": "33065",
+        "id": "33065"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "IRIS CASTELLS KOZHUKLOVA",
+        "licencia": "30189",
+        "id": "30189"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAR GARCIA DE SORIA MIRAPEIX",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "ANNA BLANCAFORT ASTURIANO",
+        "licencia": "28825",
+        "id": "28825"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIA MIGUELES GARCIA",
+        "licencia": "27322",
+        "id": "27322"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 13,
+          "visitante": 15
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RAQUEL LARRUBIA NABAU",
+        "licencia": "25617",
+        "id": "25617"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "MAR GARCIA DE SORIA MIRAPEIX",
+        "licencia": "27323",
+        "id": "27323"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "ANNA BLANCAFORT ASTURIANO",
+        "licencia": "28825",
+        "id": "28825"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ANNA PAGÈS MARIN",
+        "licencia": "33065",
+        "id": "33065"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "IRIS CASTELLS KOZHUKLOVA",
+        "licencia": "30189",
+        "id": "30189"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIA MIGUELES GARCIA",
+        "licencia": "27322",
+        "id": "27322"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "RAQUEL LARRUBIA NABAU",
+            "licencia": "25617",
+            "id": "25617"
+          },
+          {
+            "nombre": "ANNA BLANCAFORT ASTURIANO",
+            "licencia": "28825",
+            "id": "28825"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MAR GARCIA DE SORIA MIRAPEIX",
+            "licencia": "27323",
+            "id": "27323"
+          },
+          {
+            "nombre": "MARIA MIGUELES GARCIA",
+            "licencia": "27322",
+            "id": "27322"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ICELAND TT ELS 8 LA GARRIGA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 11
+    }
+  },
+  "acta_protestada": false
+}

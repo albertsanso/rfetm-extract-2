@@ -1,0 +1,354 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 8,
+  "jornada": 18,
+  "fecha": "2023-03-12",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON MARTIN DONES",
+    "ciudad": "Rozas de Madrid (Las) (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "NOROESTE - LAS ROZAS",
+      "id": "10288",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB TENIS DE MESA VILLA DE VALDEMORO",
+      "id": "1139",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "FEDERICO PIERO DRAGO MILANTI",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "EDGAR ALEXIS MEJÍA LUDEÑA",
+        "licencia": "40858",
+        "id": "40858"
+      },
+      "X": {
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "Z": {
+        "nombre": "JAVIER SANCHEZ DELGADO",
+        "licencia": "2541",
+        "id": "2541"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "ANGEL ALCALDE NIETO",
+        "licencia": "22994",
+        "id": "22994"
+      },
+      "B": {
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "C": {
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EDGAR ALEXIS MEJÍA LUDEÑA",
+        "licencia": "40858",
+        "id": "40858"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL ALCALDE NIETO",
+        "licencia": "22994",
+        "id": "22994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER SANCHEZ DELGADO",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DIEGO PRADO MARTÍN",
+        "licencia": "17339",
+        "id": "17339"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "ANGEL ALCALDE NIETO",
+        "licencia": "22994",
+        "id": "22994"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "EDGAR ALEXIS MEJÍA LUDEÑA",
+        "licencia": "40858",
+        "id": "40858"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "CARLOS BLANCO GONZALEZ",
+        "licencia": "4210",
+        "id": "4210"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "JAVIER SANCHEZ DELGADO",
+        "licencia": "2541",
+        "id": "2541"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ROBERT GROSU",
+        "licencia": "33681",
+        "id": "33681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "NOROESTE - LAS ROZAS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

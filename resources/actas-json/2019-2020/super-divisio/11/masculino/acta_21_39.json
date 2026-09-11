@@ -1,0 +1,407 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Superdivisión Masculina",
+  "grupo": 0,
+  "jornada": 11,
+  "fecha": "2020-01-11",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "PABELLON MULTIUSOS FONTES DO SAR",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL TM",
+      "id": "21",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "EVA MARIA MOLINA CHAVEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "X": {
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "Z": {
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "ranking": 2628.0,
+        "id": "3954"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "TARAS MERZLIKIN",
+        "licencia": "33968",
+        "ranking": 3200.0,
+        "id": "33968"
+      },
+      "B": {
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2605.0,
+        "id": "3509"
+      },
+      "C": {
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 1880.0,
+        "id": "7535"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TARAS MERZLIKIN",
+        "licencia": "33968",
+        "ranking": 3200.0,
+        "id": "33968"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2605.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "ranking": 2628.0,
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 1880.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "HUMBERTO MANHANI JUNIOR",
+        "licencia": "31328",
+        "ranking": 2884.0,
+        "id": "31328"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "TARAS MERZLIKIN",
+        "licencia": "33968",
+        "ranking": 3200.0,
+        "id": "33968"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "JOSÉ ÉNIO MENDES DA ENCARNÇAO",
+        "licencia": "18618",
+        "ranking": 2966.0,
+        "id": "18618"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "DANIEL PALACIOS RUIZ DE EGINO",
+        "licencia": "7535",
+        "ranking": 1880.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MOISES ALVAREZ GARCIA",
+        "licencia": "3954",
+        "ranking": 2628.0,
+        "id": "3954"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ENDIKA DIEZ ALADRO",
+        "licencia": "3509",
+        "ranking": 2605.0,
+        "id": "3509"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "IRUN LEKA ENEA",
+    "marcador_partidos": {
+      "local": 2,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

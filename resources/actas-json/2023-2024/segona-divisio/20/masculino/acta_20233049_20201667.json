@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 9,
+  "jornada": 20,
+  "fecha": "2024-04-20",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "PALACIO DEL VINO Y LA ACEITUNA",
+    "ciudad": "Almendralejo (Badajoz)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA ALMENDRALEJO",
+      "id": "20233049",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "ASOCIACION DEPORTIVA LOS TRES BALCONES",
+      "id": "20201667",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "LUIS CARLOS DA SILVA TONON",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "X": {
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "Z": {
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "PEREZ NEVADO, VICTOR",
+        "licencia": "30241",
+        "id": "30241"
+      },
+      "B": {
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "C": {
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREZ NEVADO, VICTOR",
+        "licencia": "30241",
+        "id": "30241"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 4,
+          "local": 17,
+          "visitante": 19
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MENAYO CUELLAR, PABLO",
+        "licencia": "22255",
+        "id": "22255"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "PEREZ NEVADO, VICTOR",
+        "licencia": "30241",
+        "id": "30241"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CUEVAS ESPINO, CONSTANTINO",
+        "licencia": "31638",
+        "id": "31638"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "FERNANDEZ JIMENEZ, ADRIAN",
+        "licencia": "29519",
+        "id": "29519"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "LANCHARRO DELGADO, MIGUEL",
+        "licencia": "20976",
+        "id": "20976"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "EXPOSITO MORENO, HECTOR",
+        "licencia": "31646",
+        "id": "31646"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB TENIS DE MESA ALMENDRALEJO",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 16,
+      "visitante": 8
+    }
+  },
+  "acta_protestada": false
+}

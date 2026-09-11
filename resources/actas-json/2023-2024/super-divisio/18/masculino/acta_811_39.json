@@ -1,0 +1,387 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 0,
+  "jornada": 18,
+  "fecha": "2024-03-15",
+  "hora": "19:00",
+  "lugar": {
+    "recinto": "PABELLON MUNICIPAL DE DEPORTES. PAVELLON 1 (NUEVO LOCAL)",
+    "ciudad": "Olot (Girona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.T.T. OLOT - GABINET PERMAR",
+      "id": "811",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "IRUN LEKA ENEA",
+      "id": "39",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GLORIA FAIG VILA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "X": {
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "Z": {
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MARTINEZ CATALAN, IKER",
+        "licencia": "20734",
+        "ranking": 1491.0,
+        "id": "20734"
+      },
+      "B": {
+        "nombre": "PALACIOS RUIZ DE EGINO, DANIEL",
+        "licencia": "7535",
+        "ranking": 2279.0,
+        "id": "7535"
+      },
+      "C": {
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2512.0,
+        "id": "34126"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTINEZ CATALAN, IKER",
+        "licencia": "20734",
+        "ranking": 1491.0,
+        "id": "20734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PALACIOS RUIZ DE EGINO, DANIEL",
+        "licencia": "7535",
+        "ranking": 2279.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2512.0,
+        "id": "34126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PONS SANUY, ARNAU",
+        "licencia": "17694",
+        "ranking": 1722.0,
+        "id": "17694"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MARTINEZ CATALAN, IKER",
+        "licencia": "20734",
+        "ranking": 1491.0,
+        "id": "20734"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "ZHMUDENKO , YAROSLAV",
+        "licencia": "27181",
+        "ranking": 3076.0,
+        "id": "27181"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ELSAYED ELBEIALY, MOHAMED AHMED",
+        "licencia": "34126",
+        "ranking": 2512.0,
+        "id": "34126"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PINHO , DIOGO DOS SANTOS",
+        "licencia": "33982",
+        "ranking": 2115.0,
+        "id": "33982"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "PALACIOS RUIZ DE EGINO, DANIEL",
+        "licencia": "7535",
+        "ranking": 2279.0,
+        "id": "7535"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.T.T. OLOT - GABINET PERMAR",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

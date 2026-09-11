@@ -1,0 +1,369 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2022/2023",
+  "competicion": "Temporada 2022-2023",
+  "grupo": 5,
+  "jornada": 8,
+  "fecha": "2022-12-04",
+  "hora": "10:30",
+  "lugar": {
+    "recinto": "CN SABADELL (CENTRE DE CAN LLONG)",
+    "ciudad": "Sabadell (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB NATACIÓ SABADELL \"A\"",
+      "id": "10818",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENNIS TAULA PARETS",
+      "id": "60",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "PAU BARCELO MAS",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "X": {
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "Z": {
+        "nombre": "MARIUS MENENDEZ VILLANUEVA",
+        "licencia": "16029",
+        "id": "16029"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CARLOS GARCIA MOMBLONA",
+        "licencia": "3993",
+        "id": "3993"
+      },
+      "B": {
+        "nombre": "MARC MARIN CASAS",
+        "licencia": "22224",
+        "id": "22224"
+      },
+      "C": {
+        "nombre": "HECTOR MONTAÑANA CALVILLO",
+        "licencia": "1369",
+        "id": "1369"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS GARCIA MOMBLONA",
+        "licencia": "3993",
+        "id": "3993"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARC MARIN CASAS",
+        "licencia": "22224",
+        "id": "22224"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIUS MENENDEZ VILLANUEVA",
+        "licencia": "16029",
+        "id": "16029"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HECTOR MONTAÑANA CALVILLO",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SERGI BOCANEGRA GALVAN",
+        "licencia": "19000",
+        "id": "19000"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CARLOS GARCIA MOMBLONA",
+        "licencia": "3993",
+        "id": "3993"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "PERE WEISZ ROMERO",
+        "licencia": "1011",
+        "id": "1011"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "HECTOR MONTAÑANA CALVILLO",
+        "licencia": "1369",
+        "id": "1369"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "MARIUS MENENDEZ VILLANUEVA",
+        "licencia": "16029",
+        "id": "16029"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARC MARIN CASAS",
+        "licencia": "22224",
+        "id": "22224"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB NATACIÓ SABADELL \"A\"",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,427 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 4,
+  "jornada": 6,
+  "fecha": "2025-11-08",
+  "hora": "16:00",
+  "lugar": {
+    "ciudad": "Borges Blanques (Les) (Lleida)",
+    "recinto": "CENTRE DE TECNIFICACIÓ ENRIC VALL"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "LES BORGES TT MUSEUM",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTT ELS AMICS TERRASSA",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "SKOBKINA , ALONA",
+      "licencia": "41297"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "LOPEZ DALMAU, CLAUDI",
+        "licencia": "27625"
+      },
+      "B": {
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995"
+      },
+      "C": {
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "CATALAN FERNANDEZ, ORIOL",
+        "licencia": "18939"
+      },
+      "X": {
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212"
+      },
+      "Z": {
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      {
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289"
+      },
+      {
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "LOPEZ DALMAU, CLAUDI",
+        "licencia": "27625"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CATALAN FERNANDEZ, ORIOL",
+        "licencia": "18939"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 1,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "LOPEZ DALMAU, CLAUDI",
+        "licencia": "27625"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+        "licencia": "33212"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MORENO SAUMELL, MARCAL",
+        "licencia": "31383"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "CATALAN FERNANDEZ, ORIOL",
+        "licencia": "18939"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+        "licencia": "1995"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "DINARES LLADO, JORDI",
+        "licencia": "31289"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MORENO SAUMELL, MARCAL",
+            "licencia": "31383"
+          },
+          {
+            "nombre": "ANDRADE PAGEO, JOSEP LLUIS",
+            "licencia": "1995"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DINARES LLADO, JORDI",
+            "licencia": "31289"
+          },
+          {
+            "nombre": "CATALÁN FERNÁNDEZ, ROGER",
+            "licencia": "33212"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "LES BORGES TT MUSEUM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 17,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

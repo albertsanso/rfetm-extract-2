@@ -1,0 +1,364 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 1,
+  "jornada": 10,
+  "fecha": "2023-12-15",
+  "hora": "17:30",
+  "lugar": {
+    "recinto": "CAMPO DE FUTBOL DE SAN LAZARO",
+    "ciudad": "Santiago de Compostela (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ARTEAL",
+      "id": "1274",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "AD ZAS PONCIANO NIETO",
+      "id": "960",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ANTONIO VIZOSO TOURIÑO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "B": {
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "C": {
+        "nombre": "MANEIRO CURRÁS, GUILLERMO",
+        "licencia": "10016",
+        "id": "10016"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "REY AMARELLE, MIGUEL ANGEL",
+        "licencia": "7798",
+        "id": "7798"
+      },
+      "X": {
+        "nombre": "BLANCO IGLESIAS, ALEJANDRO",
+        "licencia": "22400",
+        "id": "22400"
+      },
+      "Z": {
+        "nombre": "SIXTO SANJOSÉ, ROI",
+        "licencia": "16749",
+        "id": "16749"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "REY AMARELLE, MIGUEL ANGEL",
+        "licencia": "7798",
+        "id": "7798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 14
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BLANCO IGLESIAS, ALEJANDRO",
+        "licencia": "22400",
+        "id": "22400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "MANEIRO CURRÁS, GUILLERMO",
+        "licencia": "10016",
+        "id": "10016"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIXTO SANJOSÉ, ROI",
+        "licencia": "16749",
+        "id": "16749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "RODRIGUEZ SANCHEZ, XURXO",
+        "licencia": "6479",
+        "id": "6479"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "BLANCO IGLESIAS, ALEJANDRO",
+        "licencia": "22400",
+        "id": "22400"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "MANEIRO CURRÁS, GUILLERMO",
+        "licencia": "10016",
+        "id": "10016"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "REY AMARELLE, MIGUEL ANGEL",
+        "licencia": "7798",
+        "id": "7798"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "LOIS RODRIGUEZ, MATEO",
+        "licencia": "32773",
+        "id": "32773"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "SIXTO SANJOSÉ, ROI",
+        "licencia": "16749",
+        "id": "16749"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ARTEAL",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 4
+    }
+  },
+  "acta_protestada": false
+}

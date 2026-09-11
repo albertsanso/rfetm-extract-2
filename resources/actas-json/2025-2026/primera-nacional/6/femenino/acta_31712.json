@@ -1,0 +1,419 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 1,
+  "fecha": "2025-10-19",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "IES CARMEN LAFFON",
+    "recinto": "C/ ALCALDE PEPE IGLESIAS S/N 41300-RINCONADA (LA) (SEVILLA)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM SAN JOSE",
+      "delegado": {
+        "nombre": "MARTINEZ RUIZ, LUIS",
+        "licencia": "15839"
+      },
+      "entrenador": {
+        "nombre": "RAMOS GIL, JOSE MANUEL",
+        "licencia": "1713"
+      }
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: MARTINEZ RUIZ, LUIS",
+        "licencia": "15839"
+      },
+      "entrenador": {
+        "nombre": "RODRIGUEZ BARROSO, JESUS MANUEL",
+        "licencia": "8851"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "CHAVES BENJUMEA, ANGELA",
+      "licencia": "16075"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "TEODORO MORALES, LUCíA",
+        "licencia": "40555"
+      },
+      "B": {
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597"
+      },
+      "C": {
+        "nombre": "GALLEGO GONZÁLEZ, MACARENA",
+        "licencia": "47226"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "X": {
+        "nombre": "ANTUNEZ PORRINO, CRISTINA",
+        "licencia": "27707"
+      },
+      "Z": {
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "TEODORO MORALES, LUCíA",
+        "licencia": "40555"
+      },
+      {
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      {
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "TEODORO MORALES, LUCíA",
+        "licencia": "40555"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANTUNEZ PORRINO, CRISTINA",
+        "licencia": "27707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "GALLEGO GONZÁLEZ, MACARENA",
+        "licencia": "47226"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 2,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "TEODORO MORALES, LUCíA",
+        "licencia": "40555"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ANTUNEZ PORRINO, CRISTINA",
+        "licencia": "27707"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "GALLEGO GONZÁLEZ, MACARENA",
+        "licencia": "47226"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "BARRAGAN AGUILAR, JUDITH",
+        "licencia": "36597"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+        "licencia": "27705"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "TEODORO MORALES, LUCíA",
+            "licencia": "40555"
+          },
+          {
+            "nombre": "BARRAGAN AGUILAR, JUDITH",
+            "licencia": "36597"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GONZALEZ CARRASCO, PAULA",
+            "licencia": "8859"
+          },
+          {
+            "nombre": "BARRIENTOS BERNALDEZ, ANDREA",
+            "licencia": "27705"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA FUENTE DE CANTOS",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 9,
+      "visitante": 13
+    }
+  },
+  "acta_protestada": false
+}

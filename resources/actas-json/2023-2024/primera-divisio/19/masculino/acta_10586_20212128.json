@@ -1,0 +1,465 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 19,
+  "fecha": "2024-04-07",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "LLUISOS DE GRACIA",
+    "ciudad": "Barcelona (Barcelona)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "DARUMA LLUïSOS DE GRACIA",
+      "id": "10586",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "SCDR ANAITASUNA",
+      "id": "20212128",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "CARLOS ZAPATA PAEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FOLCH PAMIES, MARTI",
+        "licencia": "17587",
+        "id": "17587"
+      },
+      "X": {
+        "nombre": "LOZANO MARTIN, MANEL",
+        "licencia": "32175",
+        "id": "32175"
+      },
+      "Z": {
+        "nombre": "FOLCH PAMIES, BERNAT",
+        "licencia": "21512",
+        "id": "21512"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "B": {
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "C": {
+        "nombre": "MILLERA CHARRO, MATÍAS",
+        "licencia": "15746",
+        "id": "15746"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "LOZANO MARTIN, MANEL",
+        "licencia": "32175",
+        "id": "32175"
+      },
+      {
+        "nombre": "FOLCH PAMIES, BERNAT",
+        "licencia": "21512",
+        "id": "21512"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      {
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FOLCH PAMIES, MARTI",
+        "licencia": "17587",
+        "id": "17587"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 5,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOZANO MARTIN, MANEL",
+        "licencia": "32175",
+        "id": "32175"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FOLCH PAMIES, BERNAT",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MILLERA CHARRO, MATÍAS",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "LOZANO MARTIN, MANEL",
+        "licencia": "32175",
+        "id": "32175"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SAN MARTÍN SOLANO, ANDER",
+        "licencia": "16186",
+        "id": "16186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FOLCH PAMIES, MARTI",
+        "licencia": "17587",
+        "id": "17587"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MILLERA CHARRO, MATÍAS",
+        "licencia": "15746",
+        "id": "15746"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "FOLCH PAMIES, BERNAT",
+        "licencia": "21512",
+        "id": "21512"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "ZUGASTI GOÑI, XABIER",
+        "licencia": "11135",
+        "id": "11135"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "LOZANO MARTIN, MANEL",
+            "licencia": "32175",
+            "id": "32175"
+          },
+          {
+            "nombre": "FOLCH PAMIES, BERNAT",
+            "licencia": "21512",
+            "id": "21512"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SAN MARTÍN SOLANO, ANDER",
+            "licencia": "16186",
+            "id": "16186"
+          },
+          {
+            "nombre": "ZUGASTI GOÑI, XABIER",
+            "licencia": "11135",
+            "id": "11135"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "SCDR ANAITASUNA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

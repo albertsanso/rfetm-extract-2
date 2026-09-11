@@ -1,0 +1,455 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 7,
+  "fecha": "2023-11-18",
+  "hora": "16:00",
+  "lugar": {
+    "recinto": "GIMNASIO C.R.A. LA FLECHA",
+    "ciudad": "Cabrerizos (Salamanca)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CLUB TENIS DE MESA CABRERIZOS",
+      "id": "14021",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GUILLERMO MORETA MAGDALENO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "X": {
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "Z": {
+        "nombre": "GARCIA GONZALEZ, DANIEL",
+        "licencia": "20962",
+        "id": "20962"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "B": {
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "C": {
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      {
+        "nombre": "GARCIA GONZALEZ, DANIEL",
+        "licencia": "20962",
+        "id": "20962"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      {
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GARCIA GONZALEZ, DANIEL",
+        "licencia": "20962",
+        "id": "20962"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "VICENTE CARRICAJO, JORGE",
+        "licencia": "23225",
+        "id": "23225"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 16,
+          "visitante": 14
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 5,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+        "licencia": "4065",
+        "id": "4065"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "GARCIA GONZALEZ, DANIEL",
+        "licencia": "20962",
+        "id": "20962"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SERONERO SANCHEZ, ARMANDO MANUEL",
+            "licencia": "4065",
+            "id": "4065"
+          },
+          {
+            "nombre": "GARCIA GONZALEZ, DANIEL",
+            "licencia": "20962",
+            "id": "20962"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "MAGALLANES PEREZ, RODRIGO",
+            "licencia": "30070",
+            "id": "30070"
+          },
+          {
+            "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+            "licencia": "21152",
+            "id": "21152"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 12,
+          "visitante": 14
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 12
+    }
+  },
+  "acta_protestada": false
+}

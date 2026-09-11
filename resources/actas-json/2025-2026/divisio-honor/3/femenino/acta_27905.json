@@ -1,0 +1,459 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "División de Honor Femenina",
+  "grupo": 3,
+  "jornada": 12,
+  "fecha": "2026-01-18",
+  "hora": "11:00",
+  "lugar": {
+    "ciudad": "Collado Mediano (Madrid)",
+    "recinto": "POLIDEPORTIVO EDUARDO GUILLEN"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AD COLLADO MEDIANO",
+      "delegado": {
+        "nombre": "DE LA MATA HERREROS, JORGE",
+        "licencia": "16630"
+      },
+      "entrenador": {
+        "nombre": "BAILON CERRADILLO, DANIEL",
+        "licencia": "18487"
+      }
+    },
+    "visitante": {
+      "nombre": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: DE LA MATA HERREROS, JORGE",
+        "licencia": "16630"
+      },
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: BAILON CERRADILLO, DANIEL",
+        "licencia": "18487"
+      }
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "AVILA MELINS, JOSE MANUEL",
+      "licencia": "10693"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "GARCIA DIAZ, ESTRELLA",
+        "licencia": "35396"
+      },
+      "X": {
+        "nombre": "MAYORAL LOZOYA, NATALIA",
+        "licencia": "1767"
+      },
+      "Z": {
+        "nombre": "DE LA MATA HERREROS, ANA",
+        "licencia": "20091"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020"
+      },
+      "B": {
+        "nombre": "MARTIN LINARES, JULIA",
+        "licencia": "21949"
+      },
+      "C": {
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "GARCIA DIAZ, ESTRELLA",
+        "licencia": "35396"
+      },
+      {
+        "nombre": "DE LA MATA HERREROS, ANA",
+        "licencia": "20091"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020"
+      },
+      {
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA DIAZ, ESTRELLA",
+        "licencia": "35396"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAYORAL LOZOYA, NATALIA",
+        "licencia": "1767"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN LINARES, JULIA",
+        "licencia": "21949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 12
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DE LA MATA HERREROS, ANA",
+        "licencia": "20091"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "MAYORAL LOZOYA, NATALIA",
+        "licencia": "1767"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "CONCHILLO MARTINEZ, ISABEL",
+        "licencia": "27020"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "GARCIA DIAZ, ESTRELLA",
+        "licencia": "35396"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+        "licencia": "26324"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "DE LA MATA HERREROS, ANA",
+        "licencia": "20091"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "MARTIN LINARES, JULIA",
+        "licencia": "21949"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GARCIA DIAZ, ESTRELLA",
+            "licencia": "35396"
+          },
+          {
+            "nombre": "DE LA MATA HERREROS, ANA",
+            "licencia": "20091"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "CONCHILLO MARTINEZ, ISABEL",
+            "licencia": "27020"
+          },
+          {
+            "nombre": "BENITEZ DE LA FUENTE, ANDREA",
+            "licencia": "26324"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MUSEO DE LA ALMENDRA FRANCISCO MORALES",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 17
+    }
+  },
+  "acta_protestada": false
+}

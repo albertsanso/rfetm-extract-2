@@ -1,0 +1,373 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Liga Iberdrola Superdivisión Femenina",
+  "grupo": 0,
+  "jornada": 1,
+  "fecha": "2019-09-28",
+  "hora": "17:00",
+  "lugar": {
+    "recinto": "SALA DE TENIS DE MESA JOSE JAIME MURCIA (CIUDAD DEPORTIVA)",
+    "ciudad": "Alicante/Alacant (Alicante)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ASSSA ALICANTE TM",
+      "id": "664",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "HOTEL-MUSEO PATRIA CHICA PRIEGO TM",
+      "id": "1221",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID REDONDO GARCIA",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "B": {
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      },
+      "C": {
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "ranking": 3440.0,
+        "id": "31926"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "ranking": 1657.0,
+        "id": "9165"
+      },
+      "X": {
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "ranking": 2688.0,
+        "id": "18620"
+      },
+      "Z": {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 3116.0,
+        "id": "17113"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "id": "34014"
+      },
+      {
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "id": "31926"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "id": "18620"
+      },
+      {
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "id": "17113"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "YOLANDA ENRIQUEZ RIVERA",
+        "licencia": "9165",
+        "ranking": 1657.0,
+        "id": "9165"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "MARINA ÑIGUEZ GARCIA",
+        "licencia": "10564",
+        "ranking": 1756.0,
+        "id": "10564"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "ranking": 2688.0,
+        "id": "18620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 2,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "JIAO LI",
+        "licencia": "31926",
+        "ranking": 3440.0,
+        "id": "31926"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "MARIJA GALONJA",
+        "licencia": "17113",
+        "ranking": 3116.0,
+        "id": "17113"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "KIM VERMAAS",
+            "licencia": "34014",
+            "id": "34014"
+          },
+          {
+            "nombre": "JIAO LI",
+            "licencia": "31926",
+            "id": "31926"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ZITA MELINDA CIURCUI",
+            "licencia": "18620",
+            "id": "18620"
+          },
+          {
+            "nombre": "MARIJA GALONJA",
+            "licencia": "17113",
+            "id": "17113"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "KIM VERMAAS",
+        "licencia": "34014",
+        "ranking": 2000.0,
+        "id": "34014"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ZITA MELINDA CIURCUI",
+        "licencia": "18620",
+        "ranking": 2688.0,
+        "id": "18620"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 13,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ASSSA ALICANTE TM",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 13,
+      "visitante": 5
+    }
+  },
+  "acta_protestada": false
+}

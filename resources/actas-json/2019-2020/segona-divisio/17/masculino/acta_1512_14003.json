@@ -1,0 +1,470 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2019/2020",
+  "competicion": "Segunda División Masculina",
+  "grupo": 12,
+  "jornada": 17,
+  "fecha": "2020-03-08",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "INSTITUTO BENITO PEREZ ARMAS",
+    "ciudad": "Santa Cruz de Tenerife (Santa Cruz de Tenerife)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "C.D. TENIS DE MESA TEMEGUESTE",
+      "id": "1512",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CIRCULO DE AMISTAD-TENERIFE",
+      "id": "14003",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "JOSE ANTONIO HERNANDEZ MORALES",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "B": {
+        "nombre": "EDUARDO YERAY HERNANDEZ DIAZ",
+        "licencia": "3166",
+        "id": "3166"
+      },
+      "C": {
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "JUAN CARLOS AMAYA GARCIA",
+        "licencia": "1009",
+        "id": "1009"
+      },
+      "X": {
+        "nombre": "JOSE MANUEL SERRANO DIAZ",
+        "licencia": "6435",
+        "id": "6435"
+      },
+      "Z": {
+        "nombre": "VICENTE ANASTASIO PEREZ DE CASTRO",
+        "licencia": "753",
+        "id": "753"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      {
+        "nombre": "EDUARDO YERAY HERNANDEZ DIAZ",
+        "licencia": "3166",
+        "id": "3166"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "VICENTE ANASTASIO PEREZ DE CASTRO",
+        "licencia": "753",
+        "id": "753"
+      },
+      {
+        "nombre": "ASHOK TIKAMDAS CHOOLANI WADHWANI",
+        "licencia": "419",
+        "id": "419"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN CARLOS AMAYA GARCIA",
+        "licencia": "1009",
+        "id": "1009"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "EDUARDO YERAY HERNANDEZ DIAZ",
+        "licencia": "3166",
+        "id": "3166"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL SERRANO DIAZ",
+        "licencia": "6435",
+        "id": "6435"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VICENTE ANASTASIO PEREZ DE CASTRO",
+        "licencia": "753",
+        "id": "753"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 14,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "SAUL MARTIN PULIDO",
+        "licencia": "2068",
+        "id": "2068"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JOSE MANUEL SERRANO DIAZ",
+        "licencia": "6435",
+        "id": "6435"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "PABLO GONZALEZ MARTIN",
+        "licencia": "2534",
+        "id": "2534"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "JUAN CARLOS AMAYA GARCIA",
+        "licencia": "1009",
+        "id": "1009"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "EDUARDO YERAY HERNANDEZ DIAZ",
+        "licencia": "3166",
+        "id": "3166"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "VICENTE ANASTASIO PEREZ DE CASTRO",
+        "licencia": "753",
+        "id": "753"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "D vs D",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SAUL MARTIN PULIDO",
+            "licencia": "2068",
+            "id": "2068"
+          },
+          {
+            "nombre": "EDUARDO YERAY HERNANDEZ DIAZ",
+            "licencia": "3166",
+            "id": "3166"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "VICENTE ANASTASIO PEREZ DE CASTRO",
+            "licencia": "753",
+            "id": "753"
+          },
+          {
+            "nombre": "ASHOK TIKAMDAS CHOOLANI WADHWANI",
+            "licencia": "419",
+            "id": "419"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "C.D. TENIS DE MESA TEMEGUESTE",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 1,
+  "jornada": 14,
+  "fecha": "2021-05-22",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "LOCAL SOCIAL A SOLAINA RUA MERCEDES FREIRE LAGO Nº4 BAIXO",
+    "ciudad": "Narón (A Coruña)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "TENIS DE MESA PARLA - DRAGO TT",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "VISIT PONTEVEDRA",
+      "id": null,
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "IVAN SERVIA COLLADO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "ANA MARIA VERTIZ PEREZ",
+        "licencia": "23323",
+        "id": "23323"
+      },
+      "B": {
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "C": {
+        "nombre": "DANIELA YOLITA ORTEGA GOMEZ",
+        "licencia": "22652",
+        "id": "22652"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MURIEL LUCIA RAJMIL",
+        "licencia": "36591",
+        "id": "36591"
+      },
+      "X": {
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
+      },
+      "Z": {
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "ANA MARIA VERTIZ PEREZ",
+        "licencia": "23323",
+        "id": "23323"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MURIEL LUCIA RAJMIL",
+        "licencia": "36591",
+        "id": "36591"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 5,
+          "local": 10,
+          "visitante": 12
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "DANIELA YOLITA ORTEGA GOMEZ",
+        "licencia": "22652",
+        "id": "22652"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "ANA MARIA VERTIZ PEREZ",
+        "licencia": "23323",
+        "id": "23323"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "JUDITH COBAS PENA",
+        "licencia": "9186",
+        "id": "9186"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "DANIELA YOLITA ORTEGA GOMEZ",
+        "licencia": "22652",
+        "id": "22652"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MURIEL LUCIA RAJMIL",
+        "licencia": "36591",
+        "id": "36591"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "AITANA MATELLANES GARCÍA",
+        "licencia": "14617",
+        "id": "14617"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "NOELIA SANTIAGO BARREIRO",
+        "licencia": "10552",
+        "id": "10552"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 2
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "TENIS DE MESA PARLA - DRAGO TT",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 2
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

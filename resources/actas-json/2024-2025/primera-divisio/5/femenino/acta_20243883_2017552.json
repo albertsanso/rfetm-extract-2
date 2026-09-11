@@ -1,0 +1,356 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 6,
+  "jornada": 5,
+  "fecha": "2025-03-23",
+  "hora": "10:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CTM TARTESSOS VAUS",
+      "id": "20243883",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CTM HUERCAL DE ALMERIA",
+      "id": "2017552",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "B": {
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "C": {
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "X": {
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "Z": {
+        "nombre": "BARNES MARTINEZ, LUCIA",
+        "licencia": "44038",
+        "id": "44038"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARNES MARTINEZ, LUCIA",
+        "licencia": "44038",
+        "id": "44038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "CARMONA ARANA, NEREA",
+        "licencia": "30256",
+        "id": "30256"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "RODRIGUEZ AMAT, BELEN",
+        "licencia": "36682",
+        "id": "36682"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "FLOR GALLEGO, ROSALIA",
+        "licencia": "17902",
+        "id": "17902"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "RODRIGUEZ AMAT, MARIA",
+        "licencia": "36681",
+        "id": "36681"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "SáNCHEZ PéREZ, ROCíO",
+        "licencia": "43901",
+        "id": "43901"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "BARNES MARTINEZ, LUCIA",
+        "licencia": "44038",
+        "id": "44038"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CTM TARTESSOS VAUS",
+    "marcador_partidos": {
+      "local": 5,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 15,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

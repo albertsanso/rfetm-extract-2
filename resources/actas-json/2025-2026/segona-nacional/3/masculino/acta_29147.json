@@ -1,0 +1,433 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 3,
+  "jornada": 14,
+  "fecha": "2026-02-01",
+  "hora": "10:00",
+  "lugar": {
+    "ciudad": "Donostia-San Sebastián (Guipúzcoa)",
+    "recinto": "Polideportivo Brea bera"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ATLETICO SAN SEBASTIAN 'A'",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      }
+    },
+    "visitante": {
+      "nombre": "CLUB DEPORTIVO ARTXANDAKO MAHAI TENISA",
+      "delegado": null,
+      "entrenador": {
+        "nombre": "Lic: Entrenador Local: MENDIRICHAGA SAN SEBASTIAN, SANTIAGO",
+        "licencia": "895"
+      }
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "ZABALETA SARDON, MARIA ARANZAZU",
+      "licencia": "39469"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "GOYA YURREBASO, UNAX",
+        "licencia": "39756"
+      },
+      "B": {
+        "nombre": "ALDAY FERNANDEZ, JON",
+        "licencia": "35445"
+      },
+      "C": {
+        "nombre": "SAGARDIA RODRIGUEZ, UNAX",
+        "licencia": "32169"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205"
+      },
+      "X": {
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032"
+      },
+      "Z": {
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "GOYA YURREBASO, UNAX",
+        "licencia": "39756"
+      },
+      {
+        "nombre": "ALDAY FERNANDEZ, JON",
+        "licencia": "35445"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032"
+      },
+      {
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "GOYA YURREBASO, UNAX",
+        "licencia": "39756"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "ALDAY FERNANDEZ, JON",
+        "licencia": "35445"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "SAGARDIA RODRIGUEZ, UNAX",
+        "licencia": "32169"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 15,
+          "visitante": 17
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 5
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "GOYA YURREBASO, UNAX",
+        "licencia": "39756"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "ADODO , MICHAEL",
+        "licencia": "1032"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "SAGARDIA RODRIGUEZ, UNAX",
+        "licencia": "32169"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "ALONSO LOPEZ, DAVID",
+        "licencia": "1205"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 6,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "ALDAY FERNANDEZ, JON",
+        "licencia": "35445"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "OTEO FERNANDEZ, IÑAKI",
+        "licencia": "8583"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GOYA YURREBASO, UNAX",
+            "licencia": "39756"
+          },
+          {
+            "nombre": "ALDAY FERNANDEZ, JON",
+            "licencia": "35445"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "ADODO , MICHAEL",
+            "licencia": "1032"
+          },
+          {
+            "nombre": "ALONSO LOPEZ, DAVID",
+            "licencia": "1205"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 3,
+          "local": 3,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 4
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CLUB DEPORTIVO ARTXANDAKO MAHAI TENISA",
+    "marcador_partidos": {
+      "local": 3,
+      "visitante": 4
+    },
+    "marcador_juegos": {
+      "local": 11,
+      "visitante": 15
+    }
+  },
+  "acta_protestada": false
+}

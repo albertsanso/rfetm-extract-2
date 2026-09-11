@@ -1,0 +1,359 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2023/2024",
+  "competicion": "Temporada 2023-2024",
+  "grupo": 2,
+  "jornada": 5,
+  "fecha": "2023-10-29",
+  "hora": "11:00",
+  "lugar": {
+    "recinto": "COLEGIO VEDRUNA",
+    "ciudad": "Madrid (Madrid)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ALUCHE TM B",
+      "id": "10531",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "CLUB ATLÉTICO LEÓN - VIRGEN DEL CAMINO",
+      "id": "2017359",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": true,
+  "arbitros": {
+    "principal": {
+      "nombre": "DANILO JAVIER LATOUCHE MARTINEZ",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "A": {
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "B": {
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "C": {
+        "nombre": "RAMIREZ GIL, DANIEL",
+        "licencia": "27913",
+        "id": "27913"
+      }
+    },
+    "visitante": {
+      "Y": {
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "X": {
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "Z": {
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "A",
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "C",
+        "nombre": "RAMIREZ GIL, DANIEL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "A",
+        "nombre": "MENDEZ GARCIA, JULIAN",
+        "licencia": "14768",
+        "id": "14768"
+      },
+      "visitante": {
+        "letra": "X",
+        "nombre": "SÁNCHEZ LÓPEZ, MIGUEL",
+        "licencia": "21152",
+        "id": "21152"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "C",
+        "nombre": "RAMIREZ GIL, DANIEL",
+        "licencia": "27913",
+        "id": "27913"
+      },
+      "visitante": {
+        "letra": "Y",
+        "nombre": "MAGALLANES PEREZ, RODRIGO",
+        "licencia": "30070",
+        "id": "30070"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "B",
+        "nombre": "FERNANDEZ APARICIO, LEOPOLDO",
+        "licencia": "1420",
+        "id": "1420"
+      },
+      "visitante": {
+        "letra": "Z",
+        "nombre": "GARCIA GARCIA, IKER",
+        "licencia": "27948",
+        "id": "27948"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ALUCHE TM B",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

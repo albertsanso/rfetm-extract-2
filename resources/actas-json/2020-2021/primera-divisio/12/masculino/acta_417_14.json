@@ -1,0 +1,374 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2020/2021",
+  "competicion": "Temporada 2020-2021",
+  "grupo": 15,
+  "jornada": 12,
+  "fecha": "2021-05-01",
+  "hora": "18:30",
+  "lugar": {
+    "recinto": "POLIGONO NAVISA QUEJIO 35",
+    "ciudad": "Sevilla (Sevilla)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA",
+      "id": "417",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "EXTREMADURA TM ALMENDRALEJO",
+      "id": "14",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DAVID GRIMARET URBANO",
+      "licencia": null
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "X": {
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "Z": {
+        "nombre": "CARLOS MANUEL GARCIA ABAD",
+        "licencia": "10064",
+        "id": "10064"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "B": {
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "C": {
+        "nombre": "RAUL REYES CASTAÑON",
+        "licencia": "22204",
+        "id": "22204"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 5,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 8
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 1
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS MANUEL GARCIA ABAD",
+        "licencia": "10064",
+        "id": "10064"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAUL REYES CASTAÑON",
+        "licencia": "22204",
+        "id": "22204"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "CARLOS ROMAN POZO",
+        "licencia": "17934",
+        "id": "17934"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "SERGIO PEREZ PEREZ",
+        "licencia": "21120",
+        "id": "21120"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 14,
+          "visitante": 16
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 4,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 5,
+          "local": 15,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "DANIEL FELIU TALEGÓN",
+        "licencia": "7862",
+        "id": "7862"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "RAUL REYES CASTAÑON",
+        "licencia": "22204",
+        "id": "22204"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 9,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 15,
+          "visitante": 13
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 10,
+          "visitante": 12
+        },
+        {
+          "set": 5,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 2
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 5,
+        "visitante": 0
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "CARLOS MANUEL GARCIA ABAD",
+        "licencia": "10064",
+        "id": "10064"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "JUAN LUIS GERVAS DIAZ",
+        "licencia": "18562",
+        "id": "18562"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 6,
+        "visitante": 0
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "CIRCULO MERCANTIL INDUSTRIAL DE SEVILLA",
+    "marcador_partidos": {
+      "local": 6,
+      "visitante": 0
+    },
+    "marcador_juegos": {
+      "local": 18,
+      "visitante": 6
+    }
+  },
+  "acta_protestada": false
+}

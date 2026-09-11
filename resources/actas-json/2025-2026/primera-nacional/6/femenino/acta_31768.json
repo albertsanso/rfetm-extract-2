@@ -1,0 +1,418 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Primera División Femenina",
+  "grupo": 6,
+  "jornada": 3,
+  "fecha": "2025-12-14",
+  "hora": "12:30",
+  "lugar": {
+    "ciudad": "LOCAL MULTIUSOS MUNICIPAL",
+    "recinto": "CRTA DEL PANTANO S/N 10182-TORREORGAZ (CÁCERES)"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "AMIGOS DELTM LEBRIJA",
+      "delegado": {
+        "nombre": "CABILLAS MARTINEZ, GUSTAVO",
+        "licencia": "188"
+      },
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "TENIS DE MESA FUENTE DE CANTOS",
+      "delegado": {
+        "nombre": "Lic: Delegado Local: CABILLAS MARTINEZ, GUSTAVO",
+        "licencia": "188"
+      },
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "GARCIA PENATO, JUAN MANUEL",
+      "licencia": "8866"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "CABILLAS GALÁN, ELENA",
+        "licencia": "47765"
+      },
+      "X": {
+        "nombre": "DÍAZ CHAMIZO, EIRE",
+        "licencia": "47252"
+      },
+      "Z": {
+        "nombre": "SÁNCHEZ CABILLAS, TERESA",
+        "licencia": "42567"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "B": {
+        "nombre": "CABEZON CARRASCO, ISABEL",
+        "licencia": "41665"
+      },
+      "C": {
+        "nombre": "ANTUNEZ PORRINO, LUCIA",
+        "licencia": "27703"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "DÍAZ CHAMIZO, EIRE",
+        "licencia": "47252"
+      },
+      {
+        "nombre": "CABILLAS GALÁN, ELENA",
+        "licencia": "47765"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      {
+        "nombre": "ANTUNEZ PORRINO, LUCIA",
+        "licencia": "27703"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CABILLAS GALÁN, ELENA",
+        "licencia": "47765"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 1,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DÍAZ CHAMIZO, EIRE",
+        "licencia": "47252"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CABEZON CARRASCO, ISABEL",
+        "licencia": "41665"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 0
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ CABILLAS, TERESA",
+        "licencia": "42567"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTUNEZ PORRINO, LUCIA",
+        "licencia": "27703"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 5,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 2,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "DÍAZ CHAMIZO, EIRE",
+        "licencia": "47252"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "GONZALEZ CARRASCO, PAULA",
+        "licencia": "8859"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 4,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "CABILLAS GALÁN, ELENA",
+        "licencia": "47765"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "ANTUNEZ PORRINO, LUCIA",
+        "licencia": "27703"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 3
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "SÁNCHEZ CABILLAS, TERESA",
+        "licencia": "42567"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "CABEZON CARRASCO, ISABEL",
+        "licencia": "41665"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 4
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 1
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DÍAZ CHAMIZO, EIRE",
+            "licencia": "47252"
+          },
+          {
+            "nombre": "CABILLAS GALÁN, ELENA",
+            "licencia": "47765"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "GONZALEZ CARRASCO, PAULA",
+            "licencia": "8859"
+          },
+          {
+            "nombre": "ANTUNEZ PORRINO, LUCIA",
+            "licencia": "27703"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 9
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "AMIGOS DELTM LEBRIJA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}

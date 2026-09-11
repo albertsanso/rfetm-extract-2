@@ -1,0 +1,314 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2024/2025",
+  "competicion": "Temporada 2024-2025",
+  "grupo": 0,
+  "jornada": 10,
+  "fecha": "2024-12-18",
+  "hora": "18:00",
+  "lugar": {
+    "recinto": "Lugar:",
+    "ciudad": null
+  },
+  "equipos": {
+    "local": {
+      "nombre": "MIRÓ GANXETS COSTA DAURADA",
+      "id": "14054",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "GIRBAU VIC T.T.",
+      "id": "3",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": null,
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "MURAKAMI , TAKARA",
+        "licencia": "43915",
+        "ranking": 2355.7,
+        "id": "43915"
+      },
+      "X": {
+        "nombre": "PESOTSKA , MARGARYTA",
+        "licencia": "43917",
+        "ranking": 2759.7,
+        "id": "43917"
+      },
+      "Z": {
+        "nombre": "PROSVIRNINA PROSVIRNINA, NATALYA",
+        "licencia": "6401",
+        "ranking": 2315.9,
+        "id": "6401"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "MOSCOSO RAYA, CAMILA RENATA",
+        "licencia": "27607",
+        "ranking": 2052.9,
+        "id": "27607"
+      },
+      "B": {
+        "nombre": "GIMENO FONT, IRINA",
+        "licencia": "24301",
+        "ranking": 1983.5,
+        "id": "24301"
+      },
+      "C": {
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      }
+    }
+  },
+  "dobles": null,
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MURAKAMI , TAKARA",
+        "licencia": "43915",
+        "ranking": 2355.7,
+        "id": "43915"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MOSCOSO RAYA, CAMILA RENATA",
+        "licencia": "27607",
+        "ranking": 2052.9,
+        "id": "27607"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 13
+        },
+        {
+          "set": 2,
+          "local": 8,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 13
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PESOTSKA , MARGARYTA",
+        "licencia": "43917",
+        "ranking": 2759.7,
+        "id": "43917"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "GIMENO FONT, IRINA",
+        "licencia": "24301",
+        "ranking": 1983.5,
+        "id": "24301"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 7
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "PROSVIRNINA PROSVIRNINA, NATALYA",
+        "licencia": "6401",
+        "ranking": 2315.9,
+        "id": "6401"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 9
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "PESOTSKA , MARGARYTA",
+        "licencia": "43917",
+        "ranking": 2759.7,
+        "id": "43917"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "MOSCOSO RAYA, CAMILA RENATA",
+        "licencia": "27607",
+        "ranking": 2052.9,
+        "id": "27607"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 5
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 2
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "MURAKAMI , TAKARA",
+        "licencia": "43915",
+        "ranking": 2355.7,
+        "id": "43915"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "COLL SOLA, SILVIA",
+        "licencia": "21634",
+        "ranking": 2212.9,
+        "id": "21634"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 2
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 1
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "MIRÓ GANXETS COSTA DAURADA",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 1
+    },
+    "marcador_juegos": {
+      "local": 12,
+      "visitante": 3
+    }
+  },
+  "acta_protestada": false
+}

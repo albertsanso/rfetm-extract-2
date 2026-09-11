@@ -1,0 +1,412 @@
+{
+  "federacion": "Real Federación Española de Tenis de Mesa",
+  "temporada": "2025/2026",
+  "competicion": "Segunda División Masculina",
+  "grupo": 2,
+  "jornada": 20,
+  "fecha": "2026-04-26",
+  "hora": "10:30",
+  "lugar": {
+    "ciudad": "Torrelavega (Cantabria)",
+    "recinto": "PABELLON VICENTE TRUEBA"
+  },
+  "equipos": {
+    "local": {
+      "nombre": "ETM AMADIS",
+      "delegado": null,
+      "entrenador": null
+    },
+    "visitante": {
+      "nombre": "OVIEDO-MADRID TENIS DE MESA",
+      "delegado": null,
+      "entrenador": null
+    }
+  },
+  "abc_es_local": false,
+  "arbitros": {
+    "principal": {
+      "nombre": "DE LA RIVA DE LA RIVA, FERNANDO",
+      "licencia": "22371"
+    },
+    "asistente": null
+  },
+  "alineaciones": {
+    "local": {
+      "Y": {
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336"
+      },
+      "X": {
+        "nombre": "SANZ REY, ARITZ",
+        "licencia": "29279"
+      },
+      "Z": {
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469"
+      }
+    },
+    "visitante": {
+      "A": {
+        "nombre": "DURAN BALENTZIA, IXAK",
+        "licencia": "3982"
+      },
+      "B": {
+        "nombre": "IBELLI IBELLI, LEONARDO ARIEL",
+        "licencia": "45387"
+      },
+      "C": {
+        "nombre": "PIÑERO DE PAZ, IVAN",
+        "licencia": "2677"
+      }
+    }
+  },
+  "dobles": {
+    "local": [
+      {
+        "nombre": "SANZ REY, ARITZ",
+        "licencia": "29279"
+      },
+      {
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469"
+      }
+    ],
+    "visitante": [
+      {
+        "nombre": "DURAN BALENTZIA, IXAK",
+        "licencia": "3982"
+      },
+      {
+        "nombre": "IBELLI IBELLI, LEONARDO ARIEL",
+        "licencia": "45387"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "numero": 1,
+      "tipo": "individual",
+      "cruce": "A vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN BALENTZIA, IXAK",
+        "licencia": "3982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 7,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 0,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 0,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 2,
+      "tipo": "individual",
+      "cruce": "B vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANZ REY, ARITZ",
+        "licencia": "29279"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IBELLI IBELLI, LEONARDO ARIEL",
+        "licencia": "45387"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 3
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 1,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 3,
+      "tipo": "individual",
+      "cruce": "C vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIÑERO DE PAZ, IVAN",
+        "licencia": "2677"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 1
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 6
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 1
+      }
+    },
+    {
+      "numero": 4,
+      "tipo": "individual",
+      "cruce": "A vs X",
+      "local": {
+        "letra": "X",
+        "nombre": "SANZ REY, ARITZ",
+        "licencia": "29279"
+      },
+      "visitante": {
+        "letra": "A",
+        "nombre": "DURAN BALENTZIA, IXAK",
+        "licencia": "3982"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 7,
+          "visitante": 11
+        },
+        {
+          "set": 2,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 9,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 2
+      }
+    },
+    {
+      "numero": 5,
+      "tipo": "individual",
+      "cruce": "C vs Y",
+      "local": {
+        "letra": "Y",
+        "nombre": "FERNáNDEZ FRANCO, NICOLAS",
+        "licencia": "38336"
+      },
+      "visitante": {
+        "letra": "C",
+        "nombre": "PIÑERO DE PAZ, IVAN",
+        "licencia": "2677"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 4,
+          "visitante": 11
+        },
+        {
+          "set": 3,
+          "local": 6,
+          "visitante": 11
+        },
+        {
+          "set": 4,
+          "local": 8,
+          "visitante": 11
+        }
+      ],
+      "resultado_juegos": {
+        "local": 1,
+        "visitante": 3
+      },
+      "ganador": "visitante",
+      "marcador_acumulado": {
+        "local": 2,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 6,
+      "tipo": "individual",
+      "cruce": "B vs Z",
+      "local": {
+        "letra": "Z",
+        "nombre": "BARREDA SALAS, SANTIAGO",
+        "licencia": "32469"
+      },
+      "visitante": {
+        "letra": "B",
+        "nombre": "IBELLI IBELLI, LEONARDO ARIEL",
+        "licencia": "45387"
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 7
+        },
+        {
+          "set": 3,
+          "local": 12,
+          "visitante": 10
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 3,
+        "visitante": 3
+      }
+    },
+    {
+      "numero": 7,
+      "tipo": "dobles",
+      "cruce": "Db vs Db",
+      "local": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "SANZ REY, ARITZ",
+            "licencia": "29279"
+          },
+          {
+            "nombre": "BARREDA SALAS, SANTIAGO",
+            "licencia": "32469"
+          }
+        ]
+      },
+      "visitante": {
+        "letra": "Db",
+        "jugadores": [
+          {
+            "nombre": "DURAN BALENTZIA, IXAK",
+            "licencia": "3982"
+          },
+          {
+            "nombre": "IBELLI IBELLI, LEONARDO ARIEL",
+            "licencia": "45387"
+          }
+        ]
+      },
+      "sets": [
+        {
+          "set": 1,
+          "local": 12,
+          "visitante": 10
+        },
+        {
+          "set": 2,
+          "local": 11,
+          "visitante": 6
+        },
+        {
+          "set": 3,
+          "local": 11,
+          "visitante": 4
+        }
+      ],
+      "resultado_juegos": {
+        "local": 3,
+        "visitante": 0
+      },
+      "ganador": "local",
+      "marcador_acumulado": {
+        "local": 4,
+        "visitante": 3
+      }
+    }
+  ],
+  "resultado_final": {
+    "ganador": "ETM AMADIS",
+    "marcador_partidos": {
+      "local": 4,
+      "visitante": 3
+    },
+    "marcador_juegos": {
+      "local": 14,
+      "visitante": 9
+    }
+  },
+  "acta_protestada": false
+}
